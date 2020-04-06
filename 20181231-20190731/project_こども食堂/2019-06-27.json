@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "e003c259-4246-4f5f-ac35-b8185164b55e",
+        "type": "message",
+        "text": "<@UHFLB6JPR> \nFaavo竹中さん、連絡つかなくなってました:sweat:\n電話も使ってない番号になっており、メールも3日返信ないです…\n\n一応FAAVOのHPから新規プロジェクトを始めたいという内容で問い合わせを別途送りました。",
+        "user": "UGQV9DXRC",
+        "ts": "1561703950.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "34f826ae-f1de-4c08-ab7f-4bcd4d9a166a",
+        "type": "message",
+        "text": "保険の鳴海さんには連絡済み\n　内容が変わらないようであれば、申し込みは人数確定して9月入ってからでよいそうです。",
+        "user": "UGQV9DXRC",
+        "ts": "1561703993.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

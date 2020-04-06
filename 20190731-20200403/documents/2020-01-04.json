@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "e4767eee-9d76-4291-b83c-8169cc4a7249",
+        "type": "message",
+        "text": "リマインド\n来週火曜日までに卒論の「手法」の項目を書いて提出\n提出先：\n<https:\/\/drive.google.com\/open?id=1R-RKk7cX2hs7VWGiUlLNdae4XdMBRjFr>",
+        "user": "UGQV9DXRC",
+        "ts": "1578208819.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1578208900.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4pFS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインド\n来週火曜日までに卒論の「手法」の項目を書いて提出\n提出先：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1R-RKk7cX2hs7VWGiUlLNdae4XdMBRjFr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "a76cd01e-20e1-4ed9-848d-6e5eda47ad2c",
+        "type": "message",
+        "text": "データセットの組み方の参考に\n\n<https:\/\/pythondatascience.plavox.info\/scikit-learn\/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A8%E3%83%86%E3%82%B9%E3%83%88%E3%83%87%E3%83%BC%E3%82%BF>",
+        "user": "UGPH97FDW",
+        "ts": "1554893789.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "583a5574-f93c-4413-81bb-693f2dc7279c",
+        "type": "message",
+        "text": "scikit learnのフローチャート\n\n<https:\/\/scikit-learn.org\/stable\/tutorial\/machine_learning_map\/index.html>",
+        "user": "UGPH97FDW",
+        "ts": "1554896740.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

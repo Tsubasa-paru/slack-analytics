@@ -1,0 +1,108 @@
+[
+    {
+        "client_msg_id": "bf2b0ef0-96a9-4eeb-894d-f489a58a21fd",
+        "type": "message",
+        "text": "python決定木パラメータ\n<https:\/\/scikit-learn.org\/stable\/modules\/generated\/sklearn.tree.DecisionTreeClassifier.html>",
+        "user": "UGQV9DXRC",
+        "ts": "1555405919.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "590e0ab6-e29a-4ca8-b182-411602890b3a",
+        "type": "message",
+        "text": "ROC曲線\n<http:\/\/ynomura.dip.jp\/archives\/2017\/04\/roc.html>\nROC curvesの閾値について視覚的な理解ができるサイト\n<http:\/\/www.navan.name\/roc\/>",
+        "user": "UGQV9DXRC",
+        "ts": "1555406963.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1555408133.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Weblog on mebius.tokaichiba.jp",
+                "title": "ROC曲線を理解する",
+                "title_link": "http:\/\/ynomura.dip.jp\/archives\/2017\/04\/roc.html",
+                "text": "2値の予測（判別、識別、...）に用いる特徴量の良し悪しを評価する1つの方法として、ROC曲線というものがある。 実際は正で予測も正であるデータの数をTP(True Positive)、 実際は負で予測も負であるデータの数をTN(True Negative)、 実際は負で予測は正であるデータの数をFP(False Positive)、 実際は正で予測は負であるデータの数をFN(False Negative)、 と呼ぶ時、 TPR(True Positive Ratio)=TP\/(TP+FN)を縦軸、 FPR(False Positive Ratio)=FP\/(FP+TN)を横軸、 としたグラフである。 ROC曲線の例 ROC曲線は、必ず(0,0)から始まって(1,1)で終わる。 特徴量が全く予測の役に立たない、ランダムな値であれば、TPR=FPRの線になる。 ROC曲線より下の面積、AUR(Area Under ROC curve)（または単にAUC(Area Under the Curve)）が大きいほど、特徴量の値の全域に渡って良い特徴量だとされる。 理想的な特徴量だと、ROC曲線はFPR=0とTPR=1の線になる。 ROC曲線は機械学習で識別器の評価によく用いられるらしいので、とりあえず覚えておこうと思ったのだが、筆者はこれの理解にえらく苦労したので、調べたことや考えたことをメモする。 統計学の検定と同様、こういう確率と論理を組み合わせたものは、人によって向き不向きがあるのだと思いたい。 TP,TN,FP,FNの関係を再度整理すると、次のようになる。 予測 ＋− 実際＋TPFN (Type II error) −FP (Type I...",
+                "fallback": "Weblog on mebius.tokaichiba.jp: ROC曲線を理解する",
+                "image_url": "http:\/\/ynomura.dip.jp\/mt-static\/support\/theme_static\/rainier\/img\/siteicon-sample.png",
+                "from_url": "http:\/\/ynomura.dip.jp\/archives\/2017\/04\/roc.html",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 1608,
+                "service_icon": "http:\/\/ynomura.dip.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/ynomura.dip.jp\/archives\/2017\/04\/roc.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2472fbab-99ac-40f4-8e4a-ac33c9b3d1be",
+        "type": "message",
+        "text": "pythonの分析結果評価\n<https:\/\/blog.amedama.jp\/entry\/2017\/12\/18\/005311>\n<https:\/\/aizine.ai\/roccurve-auc0311\/#toc4>",
+        "user": "UGQV9DXRC",
+        "ts": "1555407460.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1555408003.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "CUBE SUGAR CONTAINER",
+                "title": "Python: 機械学習で分類問題のモデルを評価する指標について - CUBE SUGAR CONTAINER",
+                "title_link": "https:\/\/blog.amedama.jp\/entry\/2017\/12\/18\/005311",
+                "text": "今回は、機械学習において分類問題のモデルを評価するときに使われる色々な指標について扱う。 一般的な評価指標としては正確度 (Accuracy) が使われることが多いけど、これには問題も多い。 また、それぞれの指標は特徴が異なることから、対象とする問題ごとに重視するものを使い分ける必要がある。 今回扱う代表的な評価指標は次の通り。 正確度 (正解率、Accuracy) 適合率 (精度、陽性反応的中度、Precision) 再現率 (感度、真陽性率、Recall) F-値 (F-score, F-measure) AUC (Area Under the Curve) 上記それぞれの指標について、特…",
+                "fallback": "CUBE SUGAR CONTAINER: Python: 機械学習で分類問題のモデルを評価する指標について - CUBE SUGAR CONTAINER",
+                "image_url": "http:\/\/chart.apis.google.com\/chart?cht=tx&chl=%20Accuracy%20%3D%20%5Cfrac%7BTP%20%2B%20TN%7D%7BTP%20%2B%20FP%20%2B%20FN%20%2B%20TN%7D",
+                "ts": 1513525991,
+                "from_url": "https:\/\/blog.amedama.jp\/entry\/2017\/12\/18\/005311",
+                "image_width": 251,
+                "image_height": 36,
+                "image_bytes": 4099,
+                "service_icon": "https:\/\/cdn.blog.st-hatena.com\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/blog.amedama.jp\/entry\/2017\/12\/18\/005311"
+            }
+        ]
+    }
+]

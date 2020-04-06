@@ -1,0 +1,45 @@
+[
+    {
+        "client_msg_id": "b7880d35-13a6-4f87-a486-0f222520aebd",
+        "type": "message",
+        "text": "明日のセンサにかんするMTG\n<https:\/\/ohkawaralab.slack.com\/archives\/CGT0P68RL\/p1557207745005700>\n\n持ち物\nアクチグラフ、カメハチ、ヒートフラックスのセンサ、オムロン\nアクチライフ入りのPC\n\n学生は9時半にラボ目指す～",
+        "user": "UGQV9DXRC",
+        "ts": "1557823273.002100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGT0P68RL\/p1557207745005700",
+                "fallback": "[May 6th, 2019 10:42 PM] ohkawara_kazunori: 鈴木さんと根本へ\n5\/15（水）10：00から東7号館の1階ミーティングルームで企業と打ち合わせをします。\nセンサーに関するものです。\n参加してください。\n他の人も興味があれば参加していいので、連絡ください。",
+                "ts": "1557207745.005700",
+                "author_id": "UHFLB6JPR",
+                "author_subname": "大河原一憲",
+                "channel_id": "CGT0P68RL",
+                "channel_name": "announcements",
+                "is_msg_unfurl": true,
+                "text": "鈴木さんと根本へ\n5\/15（水）10：00から東7号館の1階ミーティングルームで企業と打ち合わせをします。\nセンサーに関するものです。\n参加してください。\n他の人も興味があれば参加していいので、連絡ください。",
+                "author_name": "大河原一憲",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UHFLB6JPR",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0003-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGT0P68RL\/p1557207745005700",
+                "footer": "#announcements に投稿"
+            }
+        ]
+    }
+]

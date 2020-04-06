@@ -1,0 +1,689 @@
+[
+    {
+        "client_msg_id": "F3F1DE8F-E25B-4628-B0BF-1FCF280BA9E6",
+        "type": "message",
+        "text": "<@UHFLB6JPR> \n先程被験者の方から身体活動量計のクリップが割れてしまったとのお電話があったのですが、新しいクリップを持っていった方がよろしいでしょうか？\n一応こちらから折り返しお電話させて頂くとお伝えしたのですが…",
+        "user": "UHEH8KZ7W",
+        "ts": "1578792974.023900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NQ5Ql",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n先程被験者の方から身体活動量計のクリップが割れてしまったとのお電話があったのですが、新しいクリップを持っていった方がよろしいでしょうか？\n一応こちらから折り返しお電話させて頂くとお伝えしたのですが…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FBC57BED-71B3-4F24-B0D9-658A5E109B87",
+        "type": "message",
+        "text": "クリップはどのことを指してる？",
+        "user": "UHFLB6JPR",
+        "ts": "1578793031.024700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "017DD37B-2FB2-4E33-87D9-B096C32D66EA",
+        "type": "message",
+        "text": "装着は同じようにできる？",
+        "user": "UHFLB6JPR",
+        "ts": "1578793106.027400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "98CB260A-A342-4C1A-8C16-B5B1EDB5E631",
+        "type": "message",
+        "text": "自分は腰につけるための部分だと思っていました。落下防止のためのクリップでしたらそのまま継続して使って頂いてよろしいでしょうか？",
+        "user": "UHEH8KZ7W",
+        "ts": "1578793132.027900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BreX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分は腰につけるための部分だと思っていました。落下防止のためのクリップでしたらそのまま継続して使って頂いてよろしいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4FCD93A9-A82A-47DB-B828-5656C76308E4",
+        "type": "message",
+        "text": "いいよ",
+        "user": "UHFLB6JPR",
+        "ts": "1578793221.029100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F91DA86A-C7CE-4E66-89DA-07208B604168",
+        "type": "message",
+        "text": "腰につけるためのクリップでしたらどのような対応をしたらよろしいでしょうか？",
+        "user": "UHEH8KZ7W",
+        "ts": "1578793224.029200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xai",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "腰につけるためのクリップでしたらどのような対応をしたらよろしいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98FE5D00-FC89-4155-85E6-02B651A2A4E3",
+        "type": "message",
+        "text": "どうしたらいい？",
+        "user": "UHFLB6JPR",
+        "ts": "1578793278.030200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4C1D201B-1A7A-4DFD-889A-72A82C8203CA",
+        "type": "message",
+        "text": "新しいクリップを持っていくべきだと思います。ただしクリップの数がギリギリでもしかしたら足りないかもしれないです。\n今研究室にいないので、すぐに確認はできないのですが。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578793373.032500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mw9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "新しいクリップを持っていくべきだと思います。ただしクリップの数がギリギリでもしかしたら足りないかもしれないです。\n今研究室にいないので、すぐに確認はできないのですが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "348DE26D-623F-4AC2-8407-38AFD7780DD7",
+        "type": "message",
+        "text": "クリップは大河原が持ってるから足りるよ",
+        "user": "UHFLB6JPR",
+        "ts": "1578793537.033200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5D724372-7142-46FA-A0B7-028A49D1F846",
+        "type": "message",
+        "text": "いつ連絡して、交換するならする？",
+        "user": "UHFLB6JPR",
+        "ts": "1578793569.034200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "CC3D66E6-F287-408F-BBB8-569635D4C16C",
+        "type": "message",
+        "text": "ありがとうございます。\nこの後電話で連絡しまして、なるべく早くに交換するべきだと思うのでこの後のご予定を聞きまして家にいらっしゃる時間に伺わせていただこうと思っています。\n\nもし研究室にクリップの数が足りていれば今日中にでも伺います。\nもしクリップの数が足りなかった場合は大河原先生が大学にいらっしゃる時間にクリップを頂き、そのあと被験者の方が家にいらっしゃる時間に家に伺わせていただこうと思っています。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578793820.039900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gx\/f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。\nこの後電話で連絡しまして、なるべく早くに交換するべきだと思うのでこの後のご予定を聞きまして家にいらっしゃる時間に伺わせていただこうと思っています。\n\nもし研究室にクリップの数が足りていれば今日中にでも伺います。\nもしクリップの数が足りなかった場合は大河原先生が大学にいらっしゃる時間にクリップを頂き、そのあと被験者の方が家にいらっしゃる時間に家に伺わせていただこうと思っています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C4B350F7-2087-49E4-BB52-04E4083B5FA5",
+        "type": "message",
+        "text": "それか被験者の方は女性なので1人のデータをなしにしても9名分のデータが取れる(もし全員の方は郵送してくださればですが)のでそのままにして頂くという手もあると思ったのですが…",
+        "user": "UHEH8KZ7W",
+        "ts": "1578794324.043100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6x51",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それか被験者の方は女性なので1人のデータをなしにしても9名分のデータが取れる(もし全員の方は郵送してくださればですが)のでそのままにして頂くという手もあると思ったのですが…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "487A74F2-052F-4614-83F3-92F2C2625E18",
+        "type": "message",
+        "text": "今日大学行って学生部屋に置いておきます",
+        "user": "UHFLB6JPR",
+        "ts": "1578794489.044300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4D6E9881-000F-446F-872B-BEF65E22973E",
+        "type": "message",
+        "text": "承知しました。今から電話してどのクリップか確認します。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578794542.045900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2nwg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。今から電話してどのクリップか確認します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1293E7EE-05F7-434C-AF02-C3D85ADF17C7",
+        "type": "message",
+        "text": "データは簡単に捨てるべきじゃないです",
+        "user": "UHFLB6JPR",
+        "ts": "1578794546.046000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3AA43385-6DDD-495D-8448-E8E84CBFC901",
+        "type": "message",
+        "text": "承知しました。一応策として考えられると思い、軽率な発言をしました。申し訳ございません。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578794599.048600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmqF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。一応策として考えられると思い、軽率な発言をしました。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7CB7D4E6-FE5A-4856-91CC-22AA1016B0BF",
+        "type": "message",
+        "text": "協力してくれてる方にも失礼でしょ\n使えないデータをとってもらってることになるんだから",
+        "user": "UHFLB6JPR",
+        "ts": "1578794624.049500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E06C973C-9282-4C4F-A988-D40F5A8D8F91",
+        "type": "message",
+        "text": "失礼しました。申し訳ございません。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578794667.050100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wIY=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "失礼しました。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FFF72F67-9916-4A80-A65F-FB1B0AA95AB0",
+        "type": "message",
+        "text": "ただ今電話で確認したところ、腰につけるクリップが壊れてしまっているとのことでしたので、今から家に伺わせて頂くことにしました。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578795054.051900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wWFk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ただ今電話で確認したところ、腰につけるクリップが壊れてしまっているとのことでしたので、今から家に伺わせて頂くことにしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43284546-2ffc-49a4-a08b-decbe96ef806",
+        "type": "message",
+        "text": "今ラボにいるので何か出来ることがあれば言ってくださいな",
+        "user": "UGQV9DXRC",
+        "ts": "1578798061.052500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aOIa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今ラボにいるので何か出来ることがあれば言ってくださいな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5CACEA21-1D01-4053-A0A4-D3F5CB4E05DD",
+        "type": "message",
+        "text": "既に向かっているので大丈夫です。ありがとうございます。自分の実験なので自分で極力対処していきたいと思っています。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578798149.054300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wrh\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "既に向かっているので大丈夫です。ありがとうございます。自分の実験なので自分で極力対処していきたいと思っています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa2867ba-fddd-4493-ab40-0b0e648a1bb7",
+        "type": "message",
+        "text": "はーい",
+        "user": "UGQV9DXRC",
+        "ts": "1578798280.054500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k2p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はーい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

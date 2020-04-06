@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "EA3A93A5-299D-46C0-8F29-954F77FD0821",
+        "type": "message",
+        "text": "F値の意味を確認してください\nFはF検定のときによく使うけど\nこの場合のF値は正答率だよね",
+        "user": "UHFLB6JPR",
+        "ts": "1558392478.002500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f656566d-6f1e-45f3-876d-1b25461d8f6e",
+        "type": "message",
+        "text": "<@UHFLB6JPR> \n説明不足で申し訳ありません。\nf検定とは異なる機械学習の評価指標のひとつで、正答率より複雑に計算して学習器の精度を評価するものです。\n\n計算としては適合率(正と予測した内、実際に正だったものの割合)と再現率(実際に正だったものうち、正と予測した割合)の調和平均をとった値になります。",
+        "user": "UGQV9DXRC",
+        "ts": "1558394219.008600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1558394234.000000"
+        }
+    }
+]

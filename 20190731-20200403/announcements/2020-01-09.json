@@ -1,0 +1,486 @@
+[
+    {
+        "client_msg_id": "3e5422db-3c8c-497b-90db-e7aaaf1af6fc",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n先程、上主様に電話したところ、来週火曜日10時に大学に来てくださり実験に参加してくださるそうです。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578564857.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oAh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n先程、上主様に電話したところ、来週火曜日10時に大学に来てくださり実験に参加してくださるそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0160E34F-5178-40E5-8580-89F194C0A984",
+        "type": "message",
+        "text": "良かったね",
+        "user": "UHFLB6JPR",
+        "ts": "1578564904.002500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8d50bde9-b574-47ac-b734-9d0055eb179d",
+        "type": "message",
+        "text": "はい。ありがとうございます。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578564940.002800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S+rv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい。ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3F8335F3-8339-4C78-9B7F-F312A40B34DC",
+        "type": "message",
+        "text": "<@UHG1M1NQ6> <@UHC5VBV5E> <@UGQV9DXRC> <@UHFLC6N4X> <@UHEH8KZ7W> \n専門科目必修　前後期　1単位ずつ\n学部輪講A \n<http:\/\/kyoumu.office.uec.ac.jp\/syllabus\/2019\/31\/31_21124125.html>\n\n学部輪講B\n<http:\/\/kyoumu.office.uec.ac.jp\/syllabus\/2019\/31\/31_21124236.html>\n\n\n",
+        "user": "UHFLB6JPR",
+        "ts": "1578615371.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FSJDYKAG7",
+                "created": 1578615381,
+                "timestamp": 1578615381,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 122033,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FSJDYKAG7\/ios__________.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FSJDYKAG7\/download\/ios__________.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJDYKAG7-82009e8281\/ios___________64.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJDYKAG7-82009e8281\/ios___________80.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJDYKAG7-82009e8281\/ios___________360.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 232,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJDYKAG7-82009e8281\/ios___________480.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 309,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJDYKAG7-82009e8281\/ios___________160.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJDYKAG7-82009e8281\/ios___________720.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 463,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJDYKAG7-82009e8281\/ios___________800.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 515,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJDYKAG7-82009e8281\/ios___________960.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 617,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJDYKAG7-82009e8281\/ios___________1024.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 659,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1166,
+                "thumb_tiny": "AwAwAB5\/2STHReP9r\/61IbOQ9No\/4FV7kt1XH05pQDn5tv4Cq5mKxUS2nWNlDAf3cGpBDLxlscc4Pf8AGrPFGakY3gEnA\/KlyfSkIye1AXHegBC3pTgc0gXvnmlHHegBhwD0P50q4GcZ\/E0uAScg0u1aAE3D0pQQaNopQAOlAH\/\/2Q==",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FSJDYKAG7\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FSJDYKAG7-c322689e2b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1578615386.000400",
+        "client_msg_id": "1D3A6448-C8E2-4034-815D-85DE89B54938"
+    },
+    {
+        "client_msg_id": "120eb1ed-1e67-4020-9128-ecee65b052b9",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n大河原先生、郵送してもらう封筒に関してなのですが、今改めて郵便局のＨＰを確認したところ、50ｇ以内が94円でした。封筒の重さが4つの書類と身体活動量計を合わせて６３ｇだったので、切手の値段を間違えてしまいました。\n来週の運動教室で不足分の切手を購入、配布したいのですが、よろしいでしょうか？\n郵便局ＵＲＬ：<https:\/\/www.post.japanpost.jp\/send\/fee\/kokunai\/one_two.html>\n(柚本さんのアンケート込みでの封筒の重さは今から確認してまいります)",
+        "user": "UHEH8KZ7W",
+        "ts": "1578627205.004400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tzu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n大河原先生、郵送してもらう封筒に関してなのですが、今改めて郵便局のＨＰを確認したところ、50ｇ以内が94円でした。封筒の重さが4つの書類と身体活動量計を合わせて６３ｇだったので、切手の値段を間違えてしまいました。\n来週の運動教室で不足分の切手を購入、配布したいのですが、よろしいでしょうか？\n郵便局ＵＲＬ："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.post.japanpost.jp\/send\/fee\/kokunai\/one_two.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(柚本さんのアンケート込みでの封筒の重さは今から確認してまいります)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "075F7028-96BD-472D-AF16-09CBE291007D",
+        "type": "message",
+        "text": "今測ってきたのですが、柚本さんの封筒の重さは110gでした。ただし、幸福度アンケート分封筒の厚みが増しており、厚さが3cm以上ありそうなので規格外郵便物となり300円かかります。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578628012.008300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DiZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今測ってきたのですが、柚本さんの封筒の重さは110gでした。ただし、幸福度アンケート分封筒の厚みが増しており、厚さが3cm以上ありそうなので規格外郵便物となり300円かかります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70F08DFC-3CE5-47FC-9871-A05A8047BEE3",
+        "type": "message",
+        "text": "切手は買ってもいいよ\nどうやって渡すのかが難しそうだなと",
+        "user": "UHFLB6JPR",
+        "ts": "1578628155.009400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5AC88076-5E7F-4697-A7E1-59C3C79AC392",
+        "type": "message",
+        "text": "とりあえず、来週の木曜日の運動教室に来てくださった被験者に関しましては運動教室内で渡そうと考えています。\n白幡さんも木曜日の午後の運動教室に来られると仰っていたと思うので(この後電話で確認します)その時に渡そうと思っております。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578628312.012600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hgKe+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "とりあえず、来週の木曜日の運動教室に来てくださった被験者に関しましては運動教室内で渡そうと考えています。\n白幡さんも木曜日の午後の運動教室に来られると仰っていたと思うので(この後電話で確認します)その時に渡そうと思っております。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0106723f-73f9-446f-ac96-9d2e704c7549",
+        "type": "message",
+        "text": "ポストに投函してくれたらこちらがわに料金不足で届きそうですけど、郵便局で出されるときは足りないかもしれないですね、、",
+        "user": "UGQV9DXRC",
+        "ts": "1578628420.013800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a355S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ポストに投函してくれたらこちらがわに料金不足で届きそうですけど、郵便局で出されるときは足りないかもしれないですね、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7737b516-8623-42fb-a094-698e82489969",
+        "type": "message",
+        "text": "切手を追加で渡すと混乱を招きそうですし、そのまま出してもらったらいいのではと思ったんですが、差し戻しになったらそれはそれで困りますよね",
+        "user": "UGQV9DXRC",
+        "ts": "1578628669.016600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L7a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "切手を追加で渡すと混乱を招きそうですし、そのまま出してもらったらいいのではと思ったんですが、差し戻しになったらそれはそれで困りますよね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D88E15F4-4A69-4E44-A123-1309A025CBE3",
+        "type": "message",
+        "text": "差し戻しになる条件を知りたいです",
+        "user": "UHFLB6JPR",
+        "ts": "1578632215.017600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9d826e42-6179-419f-af8b-5f01fc0b1f0f",
+        "type": "message",
+        "text": "差し戻しになる条件は「封筒に差出人(被験者)の住所と名前が書かれている、且つ、ポストと差出人の集配エリアが同じ場合」です。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578633413.019400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sobP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "差し戻しになる条件は「封筒に差出人(被験者)の住所と名前が書かれている、且つ、ポストと差出人の集配エリアが同じ場合」です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

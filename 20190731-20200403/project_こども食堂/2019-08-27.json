@@ -1,0 +1,130 @@
+[
+    {
+        "client_msg_id": "14b54477-ba18-4f51-a396-81b2a3c8863d",
+        "type": "message",
+        "text": "<@UHEH8KZ7W>\nこども食堂の申し込みが数件き始めてるので、明日確認完了のメールを一緒に送ろう。\nこれから先は、福田君に申込の確認と確認完了メールの送付の係を任せたいので！",
+        "user": "UGQV9DXRC",
+        "ts": "1566893334.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "12E763F9-8905-4E06-AC28-FEC2636AB61F",
+        "type": "message",
+        "text": "畏まりました",
+        "user": "UHEH8KZ7W",
+        "ts": "1566897251.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6efc1aa8-d0f5-49be-8426-67b6acf3ccbf",
+        "type": "message",
+        "text": "たすかる～:bow::sparkles:",
+        "user": "UGQV9DXRC",
+        "ts": "1566899487.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "出先なので、14時には返送します　↠送付済8\/28\/14:37",
+        "files": [
+            {
+                "id": "FML4VKFND",
+                "created": 1566964804,
+                "timestamp": 1566964789,
+                "name": "Fwd: こども食堂チラシデータ",
+                "title": "Fwd: こども食堂チラシデータ",
+                "mimetype": "text\/html",
+                "filetype": "email",
+                "pretty_type": "Email",
+                "user": "UGQV9DXRC",
+                "editable": true,
+                "size": 52638,
+                "mode": "email",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FML4VKFND\/fwd___________________________________?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FML4VKFND\/download\/fwd___________________________________?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FML4VKFND\/fwd___________________________________",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FML4VKFND-7f369cf001",
+                "subject": "Fwd: こども食堂チラシデータ",
+                "to": [
+                    {
+                        "address": "kmt.sd.ma@gmail.com",
+                        "name": "鈴木美穂",
+                        "original": "鈴木美穂  <kmt.sd.ma@gmail.com>"
+                    }
+                ],
+                "from": [
+                    {
+                        "address": "mimiho.bell@gmail.com",
+                        "name": "鈴木美穂",
+                        "original": "鈴木美穂 <mimiho.bell@gmail.com>"
+                    }
+                ],
+                "cc": [],
+                "attachments": [],
+                "plain_text": "---------- Forwarded message ---------\r\nFrom: 覚證寺 細川真彦 <hosokawa@kakushoji.or.jp>\r\nDate: 2019年8月28日(水) 午後0:28\r\nSubject: こども食堂チラシデータ\r\nTo: 鈴木美穂 <mimiho.bell@gmail.com>\r\nCc: 大河原 一憲 <ohkawara_kazunori@e-one.uec.ac.jp>\r\n\r\n\r\n鈴木さん\r\nCc:大河原先生\r\n\r\nこんにちは。\r\n\r\nチラシ決定稿のデータを送っていただきたいです。\r\nPDFとJPGがあると嬉しいです。\r\n\r\n布田小PTA会長と話しをした感触からも、\r\n布田小地区で募集をするのはちょっとややこしそうでした。\r\n\r\nいま富士見台小で配ってもらうように依頼中です。\r\nPTA会長は乗り気なのでたぶんOKだと思います。\r\nひとまずデータを転送して副校長に確認を取ります。\r\n\r\n配付許可が出ましたら、\r\n石原小と同じように富士見台小に配付作業に行きましょう。\r\n週明けになりますね。\r\n\r\n枚数は400枚程度です。\r\n\r\nよろしくお願いします。\r\n\r\n細川真彦\r\n090-1432-7678\r\nhosokawa@kakushoji.or.jp\r\n\r\n\r\n\r\n\r\n----- Original Message -----\r\n>From: 鈴木美穂 <mimiho.bell@gmail.com>\r\n>To: 覚證寺 細川真彦 <hosokawa@kakushoji.or.jp>\r\n>Date: 2019\/8\/9, Fri 12:26\r\n>Subject: Re: 【確認お願い致します】電気通信大学こども食堂2019CFについて\r\n>\r\n>\r\n>ご確認いただきありがとうございます！\r\n>早速訂正させていただきました。\r\n>\r\n>\r\n>鈴木\r\n>\r\n>\r\n>2019年8月9日(金) 12:22 覚證寺 細川真彦 <hosokawa@kakushoji.or.jp>:\r\n>\r\n>鈴木さん\r\n>>\r\n>>\r\n>>もう１ヵ所見つけました！\r\n>>\r\n>>\r\n>>誤 8\/14 → 正 9\/14\r\n>>\r\n>>\r\n>>スクショを添付しました。\r\n>>\r\n>>\r\n>>よろしくお願いします。\r\n>>\r\n>>\r\n>>細川真彦\r\n>>090-1432-7678\r\n>>hosokawa@kakushoji.or.jp\r\n>>\r\n>>\r\n>>\r\n>>\r\n>>\r\n>>\r\n>>----- Original Message -----\r\n>>>From: 鈴木美穂 <mimiho.bell@gmail.com>\r\n>>>To: 覚證寺 細川真彦 <hosokawa@kakushoji.or.jp>\r\n>>>Date: 2019\/8\/8, Thu 16:44\r\n>>>Subject: Re: 【確認お願い致します】電気通信大学こども食堂2019CFについて\r\n>>>\r\n>>>細川様\r\n>>>\r\n>>>ありがとうございます。\r\n>>>よろしくお願いいたします！\r\n>>>\r\n>>>募集のチラシ、申込用紙は来週のこども食堂でお渡しできればと考えております。\r\n>>>合わせてよろしくお願いいたします。\r\n>>>\r\n>>>電気通信大学大河原研究室 修士2年\r\n>>>鈴木美穂\r\n>>>電話：090-7281-6191\r\n>>>メール：mimiho.bell@gmail.com\r\n>>>\r\n>>>2019年8月8日(木) 12:22 覚證寺 細川真彦 <hosokawa@kakushoji.or.jp>:\r\n>>>>\r\n>>>> 鈴木さん\r\n>>>>\r\n>>>> OKです。\r\n>>>> 昨年同様、14:30集合でお願いします。\r\n>>>>\r\n>>>> 細川真彦\r\n>>>> 090-1432-7678\r\n>>>> hosokawa@kakushoji.or.jp\r\n>>>>\r\n>>>>\r\n>>>> ----- Original Message -----\r\n>>>> From: 鈴木美穂 <mimiho.bell@gmail.com>\r\n>>>> To: 覚證寺 細川真彦 <hosokawa@kakushoji.or.jp>\r\n>>>> Date: 2019\/8\/8, Thu 11:09\r\n>>>> Subject: Re: 【確認お願い致します】電気通信大学こども食堂2019CFについて\r\n>>>>\r\n>>>> 細川様\r\n>>>>\r\n>>>> お世話になっております。\r\n>>>> ご確認いただきありがとうございました。\r\n>>>>\r\n>>>> こちらからもこども食堂について1点確認させていただきたいです。\r\n>>>> 昨年は一部のこどもたちの送迎を14時45分かくしょうじ発でお願いしていましたが、今年も同様に募集をかけてよろしいでしょうか？\r\n>>>>\r\n>>>> お忙しいところ恐縮ですがご検討宜しくお願い致します。\r\n>>>>\r\n>>>> 電気通信大学大河原研究室 修士2年\r\n>>>> 鈴木美穂\r\n>>>> 電話：090-7281-6191\r\n>>>> メール：mimiho.bell@gmail.com\r\n>>>>\r\n>>>> 2019年8月7日(水) 22:58 覚證寺 細川真彦 <hosokawa@kakushoji.or.jp>:\r\n>>>> >\r\n>>>> > 鈴木さん\r\n>>>> >\r\n>>>> > 今年もお世話になります。\r\n>>>> > CFのウェブサイト確認しました。\r\n>>>> > 一点だけ。\r\n>>>> >\r\n>>>> > 冒頭の「集まっている金額」のところに表示される\r\n>>>> > 「目標」が、１５,０００円になっています。\r\n>>>> > ０が一つ足りませんね。\r\n>>>> >\r\n>>>> > ご確認願います。\r\n>>>> >\r\n>>>> > 細川真彦\r\n>>>> > 090-1432-7678\r\n>>>> > hosokawa@kakushoji.or.jp\r\n>>>> >\r\n>>>> >\r\n>>>> > ----- Original Message -----\r\n>>>> > From: 鈴木美穂 <mimiho.bell@gmail.com>\r\n>>>> > To: 覚證寺 細川真彦 <hosokawa@kakushoji.or.jp>; chofu-co@ccsw.or.jp;\r\nchofu@kodomo-net.or.jp; Akashi Satoh <akashi.satoh@uec.ac.jp>; makita.牧田英顕\r\n電通大専務 <makita.hd@fc.univcoop.or.jp>; 電通大 西田 <nishida@sangaku.uec.ac.jp>;\r\n竹中裕晃 <takenaka@skyscale.co.jp>; 加藤尚文 <kato-33@spollup.jp>; 大島由佳 <\r\noshima-21@spollup.jp>; 江戸香織 <edo-346@spollup.jp>; 小田 いづみ <\r\nlasithi-123@hotmail.co.jp>; フードバンク <info@foodbank-chofu.org>;\r\nkunihiko_yanaka <yanaka@campuscreate.com>; 大河原 一憲 <\r\nohkawara_kazunori@e-one.uec.ac.jp>\r\n>>>> > Cc: sousuke k <sousuke.soccer@gmail.com>; 広瀬はるか <hmh531xp@gmail.com>;\r\n中原有麻 <yuppy938@gmail.com>; 漆畑輝 <kogepanakira@gmail.com>; Slack へ送信する <\r\ni0l6p5v5r0v0t8l2@ohkawaralab.slack.com>; yuji.f_1996@ezweb.ne.jp\r\n>>>> > Date: 2019\/8\/6, Tue 11:24\r\n>>>> > Subject: 【確認お願い致します】電気通信大学こども食堂2019CFについて\r\n>>>> >\r\n>>>> > 関係者の皆様\r\n>>>> >\r\n>>>> > 大変お世話になっております。\r\n>>>> > 電気通信大学大河原研究室修士２年の鈴木と申します。\r\n>>>> > 本日は、今年9月に開催される電気通信大学こども食堂2019に関する確認事項の為にご連絡させていただきました。\r\n>>>> >\r\n>>>> >\r\n昨年開催されました電気通信大学こども食堂2018は、皆様のご協力によりイベント当日、資金集めのクラウドファンディング共に大成功をおさめました。\r\n>>>> > 参加者の皆様、関係者の皆様から暖かいお声を頂き、今年も引き続き開催したいと考えております。\r\n>>>> >\r\n>>>> > つきましては、昨年同様に資金集めの為のクラウドファンディングを実施いたします。\r\n>>>> > お手数ですが、添付URLよりクラウドファンディングのトップページをご覧いただき、修正などのご意見を頂きたく存じます。\r\n>>>> >\r\n>>>> > ・クラウドファンディングプレビュー(添付URL)\r\n>>>> >\r\nhttps:\/\/faavo.jp\/preview\/projectview?preview_key=9b8066399c8b47ad7043552bae54e1e341794033cfed972698114e0ab5ca0ca0\r\n>>>> >\r\n>>>> > ご指摘などございましたら、8月9日(金)8時までにお返事頂けますと幸いです。\r\n>>>> >\r\n>>>> > お忙しい所恐れ入りますが、よろしくお願いいたします。\r\n>>>> >\r\n>>>> > 電気通信大学大河原研究室 修士2年\r\n>>>> > 鈴木美穂\r\n>>>> > 電話：090-7281-6191\r\n>>>> > メール：mimiho.bell@gmail.com\r\n>>>> >\r\n>>>> >\r\n>>>>\r\n>>>>\r\n>>>\r\n>>>\r\n>>>--\r\n>\r\n>\r\n>電気通信大学大河原研究室 修士2年\r\n>鈴木美穂\r\n>電話：090-7281-6191\r\n>メール：mimiho.bell@gmail.com\r\n>\r\n>",
+                "preview": "<div><\/div><br><div><div>---------- Forwarded message ---------<br>From: &#35226;&#35657;&#23546;&#12288;&#32048;&#24029;&#30495;&#24422; <span>&lt;<a href=\"mailto:hosokawa@kakushoji.or.jp\">hosokawa@kakushoji.or.jp<\/a>&gt;<\/span><br>Date: 2019&#24180;8&#26376;28&#26085;(&#27700;) &#21320;&#24460;0:28<br>Subject: &#12371;&#12393;&#12418;&#39135;&#22530;&#12481;&#12521;&#12471;&#12487;&#12540;&#12479;<br>To: &#37428;&#26408;&#32654;&#31298; &lt;<a href=\"mailto:mimiho.bell@gmail.com\">mimiho.bell@gmail.com<\/a>&gt;<br>Cc: &#22823;&#27827;&#21407; &#19968;&#25010; &lt;<a href=\"mailto:ohkawara_kazunori@e-one.uec.ac.jp\">ohkawara_kazunori@e-one.uec.ac.jp<\/a>&gt;<br><\/div><br><br>&#37428;&#26408;&#12373;&#12435;<br>  Cc:&#22823;&#27827;&#21407;&#20808;&#29983;<br><br>  &#12371;&#12435;&#12395;&#12385;&#12399;&#12290;<br><br>  &#12481;&#12521;&#12471;&#27770;&#23450;&#31295;&#12398;&#12487;&#12540;&#12479;&#12434;&#36865;&#12387;&#12390;&#12356;&#12383;&#12384;&#12365;&#12383;&#12356;&#12391;&#12377;&#12290;<br>  PDF&#12392;JPG&#12364;&#12354;&#12427;&#12392;&#23305;&#12375;&#12356;&#12391;&#12377;&#12290;<br><br>  &#24067;&#30000;&#23567;PTA&#20250;&#38263;&#12392;&#35441;&#12375;&#12434;&#12375;&#12383;&#24863;&#35302;&#12363;&#12425;&#12418;<\/div>",
+                "preview_plain_text": "---------- Forwarded message ---------\r\nFrom: 覚證寺 細川真彦 <hosokawa@kakushoji.or.jp>\r\nDate: 2019年8月28日(水) 午後0:28\r\nSubject: こども食堂チラシデータ\r\nTo: 鈴木美穂 <mimiho.bell@gmail.com>\r\nCc: 大河原 一憲 <ohkawara_kazunori@e-one.uec.ac.jp>\r\n\r\n\r\n鈴木さん\r\nCc:大河原先生\r\n\r\nこんにちは。\r\n\r\nチラシ決定稿のデータを送っていただきたいです。\r\nPDFとJPGがあると嬉しいです。\r\n\r\n布田小PTA会長と話しをした感触からも、\r\n布田小地区で募集をするのはちょっとややこしそうでした。\r\n\r\nいま富士見台小で配ってもらうように依頼中です。\r\nPTA会長は乗り気なのでたぶんOKだと思います。\r\nひとまずデータを転送して副校長に確認を取ります。\r\n\r\n配付許可が出ましたら、\r\n石原小と同じように富士見台小に配付作業に行きましょう。\r\n週明けになりますね。\r\n\r\n枚数は400枚程度です。\r\n\r\nよろし",
+                "headers": {
+                    "date": "Wed, 28 Aug 2019 12:59:49 +0900"
+                },
+                "has_more": true,
+                "sent_to_self": false,
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1566964835.000100",
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1566970770.000000"
+        }
+    }
+]

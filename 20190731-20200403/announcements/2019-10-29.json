@@ -1,0 +1,33 @@
+[
+    {
+        "client_msg_id": "985da84a-58e9-4a17-96a5-6bf92a1ce98b",
+        "type": "message",
+        "text": "明日、明後日は比較的時間が取れるので、遠慮なく話をしに来てください。",
+        "user": "UHFLB6JPR",
+        "ts": "1572332866.011100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_ok",
+                "users": [
+                    "UHC5VBV5E",
+                    "UHEH8KZ7W"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

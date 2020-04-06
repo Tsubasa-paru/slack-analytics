@@ -1,0 +1,190 @@
+[
+    {
+        "client_msg_id": "CBE680F4-225C-48A5-9B9E-075EFDA81F37",
+        "type": "message",
+        "text": "去年と一緒",
+        "user": "UHFLB6JPR",
+        "ts": "1556113683.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556086162.003800",
+        "parent_user_id": "UGPH97FDW"
+    },
+    {
+        "client_msg_id": "a5676e16-2be1-49b3-a136-93436754b248",
+        "type": "message",
+        "text": "わかりました。伊藤さんのパソコンを探します。",
+        "user": "UGPH97FDW",
+        "ts": "1556115565.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556086162.003800",
+        "parent_user_id": "UGPH97FDW"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJ7N19ZGX",
+                "created": 1556156995,
+                "timestamp": 1556156995,
+                "name": "UEC駅伝第４回申込_大河原研究室.xlsx",
+                "title": "UEC駅伝第４回申込_大河原研究室.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 5174655,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJ7N19ZGX\/uec________________________________________.xlsx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJ7N19ZGX\/download\/uec________________________________________.xlsx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ7N19ZGX-6f11281a1e\/uec_________________________________________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ7N19ZGX-6f11281a1e\/uec_________________________________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FJ7N19ZGX\/uec________________________________________.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJ7N19ZGX-01786d344e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1556156999.000100",
+        "client_msg_id": "e1356eaf-d53d-498f-a89b-5e7df934fe9e"
+    },
+    {
+        "client_msg_id": "57C73CA9-46D1-4678-8FFC-D03CED7DB957",
+        "type": "message",
+        "text": "5階の部屋、まだもう少し綺麗にできるよ\nGW明けにカーペット張り替えができそうです\n明日、もう一度綺麗にしてください\n掃除機は体育事務室から借りてください",
+        "user": "UHFLB6JPR",
+        "ts": "1556157734.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UGQV9DXRC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "722440EF-3BD1-4068-B33C-89D735DB1912",
+        "type": "message",
+        "text": "カーペットは緑にしました",
+        "user": "UHFLB6JPR",
+        "ts": "1556157751.003300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJ7QRH1BR",
+                "created": 1556170724,
+                "timestamp": 1556170724,
+                "name": "534.full.pdf",
+                "title": "534.full.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 244655,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJ7QRH1BR\/534.full.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJ7QRH1BR\/download\/534.full.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ7QRH1BR-c949c52c99\/534.full_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 908,
+                "thumb_pdf_h": 1159,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FJ7QRH1BR\/534.full.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJ7QRH1BR-8496371b61",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1556170724.003400",
+        "client_msg_id": "afc06b9d-6b60-4635-a5ce-ca3130c7088c",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

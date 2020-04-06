@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "7b1e3f23-cabf-4e14-b58e-34e9e24a5668",
+        "type": "message",
+        "text": "HP公開しました\n<http:\/\/www.sport.edu.uec.ac.jp\/shokudo2019\/>",
+        "user": "UGQV9DXRC",
+        "ts": "1565849138.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "電気通信大学 健康・スポーツ科学部会",
+                "title": "電気通信大学こども食堂2019",
+                "title_link": "http:\/\/www.sport.edu.uec.ac.jp\/shokudo2019\/",
+                "text": "申込はこちらから！ 申込はこちらから！",
+                "fallback": "電気通信大学 健康・スポーツ科学部会: 電気通信大学こども食堂2019",
+                "from_url": "http:\/\/www.sport.edu.uec.ac.jp\/shokudo2019\/",
+                "id": 1,
+                "original_url": "http:\/\/www.sport.edu.uec.ac.jp\/shokudo2019\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "type": "message",
+        "text": "スターウォーズ 歌舞伎の抽選当たりました！",
+        "files": [
+            {
+                "id": "FQHSKM1S7",
+                "created": 1574422005,
+                "timestamp": 1574422005,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 967557,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQHSKM1S7\/image_from_ios.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQHSKM1S7\/download\/image_from_ios.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQHSKM1S7-ce818c7dda\/image_from_ios_64.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQHSKM1S7-ce818c7dda\/image_from_ios_80.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQHSKM1S7-ce818c7dda\/image_from_ios_360.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQHSKM1S7-ce818c7dda\/image_from_ios_480.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQHSKM1S7-ce818c7dda\/image_from_ios_160.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQHSKM1S7-ce818c7dda\/image_from_ios_720.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQHSKM1S7-ce818c7dda\/image_from_ios_800.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQHSKM1S7-ce818c7dda\/image_from_ios_960.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQHSKM1S7-ce818c7dda\/image_from_ios_1024.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 6,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAwACSMHNS25\/eH6VVBqxAfn\/CoNCcn5qO9NByTinUyRaOKTNGaBmcDU1sf3mPaoKltv9aPpSAsg\/MacDUa9TTqYh2c0UgpaBmeKltv9aPoahFTWxxKPoaQEw+8TThQFOaUCmIM0ZpcUYoGf\/\/Z",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FQHSKM1S7\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FQHSKM1S7-0e8151926a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1574422005.000500",
+        "client_msg_id": "5D4B1126-6B64-4D6C-BF5B-408A448FBEFE",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d73afde-33dc-4d87-8aa0-0b3bfd3f0726",
+        "type": "message",
+        "text": "おめでとう～！！！",
+        "user": "UGQV9DXRC",
+        "ts": "1574422054.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "D2CC963B-FB9F-4B3D-91E6-47B3ECA30B46",
+        "type": "message",
+        "text": "ありがとうございます！\n応募理由しっかり書いといて良かったです！",
+        "user": "UHEH8KZ7W",
+        "ts": "1574422101.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

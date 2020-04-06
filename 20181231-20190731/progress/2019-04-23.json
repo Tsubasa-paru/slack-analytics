@@ -1,0 +1,125 @@
+[
+    {
+        "type": "message",
+        "text": "今日は\n&gt;加速度データを必要な分だけ抽出できた(一人分…)\n&gt;添付したのはz軸\n今後\n&gt;以下ができればとりあえず生値でも機械学習にかけられる\n&gt;```・フィルタリング\n・水平方向のデータ統合、垂直方向のデータセット作成\n・セグメント分け```\n&gt;この先は\n&gt;```・活動のラベル付け\n・ランダムフォレストにかける```",
+        "files": [
+            {
+                "id": "FHXCZT4M7",
+                "created": 1556009875,
+                "timestamp": 1556009875,
+                "name": "image.png",
+                "title": "画像がペーストされた日時: 2019-04-23, 5:48 午後",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 129773,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHXCZT4M7\/image.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHXCZT4M7\/download\/image.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHXCZT4M7-330ec45586\/image_64.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHXCZT4M7-330ec45586\/image_80.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHXCZT4M7-330ec45586\/image_360.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 360,
+                "thumb_360_h": 144,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHXCZT4M7-330ec45586\/image_480.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_480_w": 480,
+                "thumb_480_h": 192,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHXCZT4M7-330ec45586\/image_160.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHXCZT4M7-330ec45586\/image_720.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720_w": 720,
+                "thumb_720_h": 288,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHXCZT4M7-330ec45586\/image_800.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_800_w": 800,
+                "thumb_800_h": 320,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHXCZT4M7-330ec45586\/image_960.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_960_w": 960,
+                "thumb_960_h": 384,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHXCZT4M7-330ec45586\/image_1024.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 409,
+                "image_exif_rotation": 1,
+                "original_w": 1221,
+                "original_h": 488,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FHXCZT4M7\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHXCZT4M7-66441b638f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1556009877.000300",
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1556010176.000000"
+        },
+        "client_msg_id": "875ccbe9-f2c0-4402-892c-a7c25ee5ac16"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1556018653.003400",
+        "thread_ts": "1556018653.003400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1556020075.003900",
+        "reply_users": [
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1556020075.003900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "dancer",
+                "users": [
+                    "UGQV9DXRC",
+                    "UGQ2ENZD0",
+                    "UGPH97FDW",
+                    "UHC5VBV5E",
+                    "UHEH8KZ7W"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9A4DFA67-06F9-4087-9E80-009F955CDCEE",
+        "type": "message",
+        "text": "おめでとう！",
+        "user": "UHFLB6JPR",
+        "ts": "1556020075.003900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556018653.003400",
+        "parent_user_id": "UHFLC6N4X"
+    }
+]

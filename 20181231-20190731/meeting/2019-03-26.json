@@ -1,0 +1,282 @@
+[
+    {
+        "client_msg_id": "3e739de5-3362-44a5-b8ab-d8eb28eb6802",
+        "type": "message",
+        "text": "今週のゼミでやることあったら紐づけて",
+        "user": "UGQV9DXRC",
+        "ts": "1553591680.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1553591680.001500",
+        "reply_count": 7,
+        "reply_users_count": 1,
+        "latest_reply": "1553836438.001600",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1553591796.002000"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1553591815.002200"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1553591844.002400"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1553591858.002600"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1553591889.002800"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1553592098.003000"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1553836438.001600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "custom_ok",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UGPH97FDW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1acf4d4-fa57-4cd7-9f6d-99fd37eb4dbd",
+        "type": "message",
+        "text": "ちなみに去年の最初のゼミは\n<https:\/\/www.evernote.com\/shard\/s223\/sh\/80827931-3a36-4b34-8f65-0089faa0fc06\/11e49c767b866d8f96a855eb3d5f37fb>",
+        "user": "UGQV9DXRC",
+        "ts": "1553591730.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ca361cd3-bf42-4cca-80b4-08c8429caf31",
+        "type": "message",
+        "text": "slack導入",
+        "user": "UGQV9DXRC",
+        "ts": "1553591796.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1553591680.001500",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c5a99a38-aded-471b-bfb7-8590345e1e9a",
+        "type": "message",
+        "text": "授業管理用のスプレッドシート",
+        "user": "UGQV9DXRC",
+        "ts": "1553591815.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1553591680.001500",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8986d45e-0ca6-4990-89ca-07583931f2a2",
+        "type": "message",
+        "text": "鍵管理",
+        "user": "UGQV9DXRC",
+        "ts": "1553591844.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1553591680.001500",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4283b1b8-8c5e-4bd1-a837-1901826ddedf",
+        "type": "message",
+        "text": "座席（他研究室に確認）",
+        "user": "UGQV9DXRC",
+        "ts": "1553591858.002600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1553591680.001500",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34fd348c-c882-4bfa-9390-aff1132e84ed",
+        "type": "message",
+        "text": "年間計画（去年はやったけど今年？）",
+        "user": "UGQV9DXRC",
+        "ts": "1553591889.002800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1553591680.001500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "7a8123bc-63c4-480c-a363-96d4d779d5e5",
+        "type": "message",
+        "text": "進捗報告",
+        "user": "UGQV9DXRC",
+        "ts": "1553592098.003000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1553591680.001500",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

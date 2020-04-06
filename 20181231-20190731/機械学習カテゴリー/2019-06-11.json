@@ -1,0 +1,238 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1560244849.000200",
+        "user": "UHC5VBV5E",
+        "text": "<@UHC5VBV5E>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1560244850.000300",
+        "user": "UHC5VBV5E",
+        "text": "<@UHC5VBV5E>さんがチャンネルの目的を設定しました : 「機械学習図鑑」と「機械学習と深層学習」をまとめ機械学習の分類を行っていく。",
+        "purpose": "「機械学習図鑑」と「機械学習と深層学習」をまとめ機械学習の分類を行っていく。"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1560244850.000500",
+        "user": "UHG1M1NQ6",
+        "text": "<@UHG1M1NQ6>さんがチャンネルに参加しました",
+        "inviter": "UHC5VBV5E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1560244855.000700",
+        "user": "UHFLB6JPR",
+        "text": "<@UHFLB6JPR>さんがチャンネルに参加しました",
+        "inviter": "UHC5VBV5E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1560244855.000900",
+        "user": "UGQ2ENZD0",
+        "text": "<@UGQ2ENZD0>さんがチャンネルに参加しました",
+        "inviter": "UHC5VBV5E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1560244855.001100",
+        "user": "UHEH8KZ7W",
+        "text": "<@UHEH8KZ7W>さんがチャンネルに参加しました",
+        "inviter": "UHC5VBV5E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1560244856.001300",
+        "user": "UGPH97FDW",
+        "text": "<@UGPH97FDW>さんがチャンネルに参加しました",
+        "inviter": "UHC5VBV5E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1560244856.001500",
+        "user": "UHFLC6N4X",
+        "text": "<@UHFLC6N4X>さんがチャンネルに参加しました",
+        "inviter": "UHC5VBV5E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1560244856.001700",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルに参加しました",
+        "inviter": "UHC5VBV5E"
+    },
+    {
+        "client_msg_id": "e05b23b2-be51-475f-9ff6-62d58045a3e9",
+        "type": "message",
+        "text": "「機械学習図鑑」の第1章をまとめています。\n機械学習、教師あり学習の概要をまとめました。細かいアルゴリズムに関しては順にまとめて行きます。\n先に知りたいことなどあれば言ってください。先に取り掛かります。",
+        "user": "UHC5VBV5E",
+        "ts": "1560245074.002600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHC5VBV5E",
+            "ts": "1560245337.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FK3TBGF6W",
+                "created": 1560245083,
+                "timestamp": 1560245083,
+                "name": "機械学習図鑑_第1章.pptx",
+                "title": "機械学習図鑑_第1章.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 104672,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK3TBGF6W\/______________________1___.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK3TBGF6W\/download\/______________________1___.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FK3TBGF6W-bce8608424\/______________________1____converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FK3TBGF6W-bce8608424\/______________________1____thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FK3TBGF6W\/______________________1___.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FK3TBGF6W-45eb06245a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1560245085.002700",
+        "client_msg_id": "b24a105c-6b9a-414f-8e4d-64ec02464c2a"
+    },
+    {
+        "client_msg_id": "84d121cb-f7c0-45b1-b1e6-a77ed282460b",
+        "type": "message",
+        "text": "本のまとめなので研究室内のみの利用でお願いします。\n必要ならファイルに鍵をかけます。",
+        "user": "UHC5VBV5E",
+        "ts": "1560245191.004300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHC5VBV5E",
+            "ts": "1560245220.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1560245373.004600",
+        "user": "UHC5VBV5E",
+        "text": "<@UHC5VBV5E>さんがチャンネルの目的を設定しました : 「機械学習図鑑」と「機械学習と深層学習」をまとめ、機械学習の分類を行っていく。",
+        "purpose": "「機械学習図鑑」と「機械学習と深層学習」をまとめ、機械学習の分類を行っていく。"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1560245391.004700",
+        "user": "UHC5VBV5E",
+        "text": "<@UHC5VBV5E>さんがチャンネルの目的を設定しました : 「機械学習図鑑」と「機械学習と深層学習」の２冊をまとめ、機械学習の分類を行っていく。",
+        "purpose": "「機械学習図鑑」と「機械学習と深層学習」の２冊をまとめ、機械学習の分類を行っていく。"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FKFJ5SZCY",
+                "created": 1560261186,
+                "timestamp": 1560261186,
+                "name": "機械学習図鑑_第1章_2.pdf",
+                "title": "機械学習図鑑_第1章_2.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 297243,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKFJ5SZCY\/______________________1____2.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKFJ5SZCY\/download\/______________________1____2.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKFJ5SZCY-4316766b9d\/______________________1____2_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FKFJ5SZCY\/______________________1____2.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FKFJ5SZCY-09e50551eb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1560261188.004800",
+        "client_msg_id": "cb04e51c-641d-4f86-9ba7-f10cf0dcb75b",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

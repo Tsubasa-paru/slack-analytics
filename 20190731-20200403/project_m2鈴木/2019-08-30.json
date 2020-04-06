@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "aee47c1d-547a-4cc0-ad97-0d798b1d3be3",
+        "type": "message",
+        "text": "8\/30まで\n・nanの修正はできた(ds6だけチャリが入ってるから)\n・次のエラー：Unknown label type: 'continuous'\n　<https:\/\/teratail.com\/questions\/108034>\n　ラベルは整数である必要がある為、分類できないことがわかった\n　↠ラベルは整数にする or ClassifierではなくRegressorにする\nRegressor <https:\/\/www.sejuku.net\/blog\/64374>",
+        "user": "UGQV9DXRC",
+        "ts": "1567155506.002700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1567155725.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "teratail[テラテイル]",
+                "title": "python DecisionTreeClassifierでデータを比較できません。 エラー：Unknown label type: 'continuous'｜teratail",
+                "title_link": "https:\/\/teratail.com\/questions\/108034",
+                "text": "前提・実現したいことプログラミング初心者です。最終的にはランダムフォレストという手法を用いて分析してみたいと考えています。そこで、\"合計\"というデータと他の４つのデータを比較しようとしたところ、以下のようなエラーがでました。yのデータが１行だからでしょうか。どのように直したらデー",
+                "fallback": "teratail[テラテイル]: python DecisionTreeClassifierでデータを比較できません。 エラー：Unknown label type: 'continuous'｜teratail",
+                "thumb_url": "https:\/\/teratail.com\/img\/imgFacebookShare.png",
+                "from_url": "https:\/\/teratail.com\/questions\/108034",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/teratail.com\/img\/ios\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/teratail.com\/questions\/108034"
+            },
+            {
+                "service_name": "侍エンジニア塾ブログ（Samurai Blog） – プログラミング入門者向けサイト",
+                "title": "機械学習手法「ランダムフォレスト」で回帰分析にチャレンジ",
+                "title_link": "https:\/\/www.sejuku.net\/blog\/64374",
+                "text": "こんにちはフクロウです。Pythonのインストラクターをやっています。 ランダムフォレストについて、以前別の記事で使い方の基本を紹介しました。 今回はその続きで、ランダムフォレストを使って回帰分析を行",
+                "fallback": "侍エンジニア塾ブログ（Samurai Blog） – プログラミング入門者向けサイト: 機械学習手法「ランダムフォレスト」で回帰分析にチャレンジ",
+                "image_url": "https:\/\/s3-ap-northeast-1.amazonaws.com\/samurai-blog-media\/blog\/wp-content\/uploads\/2018\/07\/2341f8b79598affd59cecd3f7d354659.jpeg",
+                "ts": 1531869442,
+                "from_url": "https:\/\/www.sejuku.net\/blog\/64374",
+                "image_width": 440,
+                "image_height": 250,
+                "image_bytes": 77782,
+                "service_icon": "https:\/\/s3-ap-northeast-1.amazonaws.com\/samurai-blog-media\/blog\/wp-content\/uploads\/2018\/07\/cropped-cropped-sunrise_long-180x180.png",
+                "id": 2,
+                "original_url": "https:\/\/www.sejuku.net\/blog\/64374"
+            }
+        ],
+        "thread_ts": "1567155506.002700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1567345025.001700",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567345025.001700"
+            }
+        ],
+        "subscribed": false
+    }
+]

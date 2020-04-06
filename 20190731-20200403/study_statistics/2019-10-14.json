@@ -1,0 +1,437 @@
+[
+    {
+        "client_msg_id": "25053793-ddd8-4aee-b391-7594786c06a4",
+        "type": "message",
+        "text": "今日中にここまでキャッチアップして提出にしよう\n<https:\/\/ohkawaralab.slack.com\/archives\/CKWT4TANP\/p1564976973000900>",
+        "user": "UGQV9DXRC",
+        "ts": "1571117434.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CKWT4TANP\/p1564976973000900",
+                "fallback": "[August 4th, 2019 8:49 PM] koki.azqb11: <http:\/\/kogolab.chillout.jp\/elearn\/hamburger\/chap5\/sec0.html>\n\nのっけ忘れてましたがここにお願いします",
+                "ts": "1564976973.000900",
+                "author_id": "UGPH97FDW",
+                "author_subname": "岡田幸樹",
+                "channel_id": "CKWT4TANP",
+                "channel_name": "study_statistics",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "<http:\/\/kogolab.chillout.jp\/elearn\/hamburger\/chap5\/sec0.html>\n\nのっけ忘れてましたがここにお願いします",
+                "author_name": "岡田幸樹",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGPH97FDW",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CKWT4TANP\/p1564976973000900",
+                "footer": "#study_statistics のスレッド"
+            }
+        ],
+        "thread_ts": "1571117434.002000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1571119957.003300",
+        "reply_users": [
+            "UHG1M1NQ6"
+        ],
+        "replies": [
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1571119957.003300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1571119957.003300"
+    },
+    {
+        "client_msg_id": "c8456a76-3c91-4e2a-a274-31ab570846e0",
+        "type": "message",
+        "text": "根本くんと野澤くんは今回分は提出できてるので大丈夫かな",
+        "user": "UGQV9DXRC",
+        "ts": "1571117480.002700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1E84009F-B40E-4D3F-832C-5EFD7824E4FC",
+        "type": "message",
+        "text": "おや",
+        "user": "UHC5VBV5E",
+        "ts": "1571117552.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "5章",
+        "files": [
+            {
+                "id": "FPFJN2JUW",
+                "created": 1571119903,
+                "timestamp": 1571119903,
+                "name": "ハンバーガー統計.xlsx",
+                "title": "ハンバーガー統計.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 38469,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPFJN2JUW\/________________________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPFJN2JUW\/download\/________________________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPFJN2JUW-3f606c3c85\/_________________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPFJN2JUW-3f606c3c85\/_________________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FPFJN2JUW\/________________________.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FPFJN2JUW-4c58f50178",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1571119905.003000",
+        "client_msg_id": "1ab9f820-f271-4e11-be35-71393fbad5fc"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FPDCP6J05",
+                "created": 1571119956,
+                "timestamp": 1571119956,
+                "name": "S5-4.xlsx",
+                "title": "S5-4.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 12915,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPDCP6J05\/s5-4.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPDCP6J05\/download\/s5-4.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPDCP6J05-4714dc9c49\/s5-4_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPDCP6J05-4714dc9c49\/s5-4_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FPDCP6J05\/s5-4.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FPDCP6J05-89c95430c0",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHG1M1NQ6",
+        "display_as_bot": false,
+        "ts": "1571119957.003300",
+        "client_msg_id": "bb15bff3-a14b-4e6b-aca1-27464d68291a",
+        "thread_ts": "1571117434.002000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FPFJS71CN",
+                "created": 1571120289,
+                "timestamp": 1571120289,
+                "name": "ハンバーガー統計　提出用.xlsx",
+                "title": "ハンバーガー統計　提出用.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 10809,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPFJS71CN\/____________________________________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPFJS71CN\/download\/____________________________________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPFJS71CN-a16c08548f\/_____________________________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPFJS71CN-a16c08548f\/_____________________________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FPFJS71CN\/____________________________________.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FPFJS71CN-75aa209c19",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1571120290.003700",
+        "client_msg_id": "c91ab401-e5ff-46d0-b0fd-2c403a992be1"
+    },
+    {
+        "client_msg_id": "1ebb7314-e1e2-4b01-8d17-d74592faff4d",
+        "type": "message",
+        "text": "<https:\/\/ohkawaralab.slack.com\/archives\/CKWT4TANP\/p1571119957003300?thread_ts=1571117434.002000&amp;cid=CKWT4TANP>",
+        "user": "UGQV9DXRC",
+        "ts": "1571120885.004000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CKWT4TANP\/p1571119957003300?thread_ts=1571117434.002000&amp;cid=CKWT4TANP",
+                "fallback": "[October 14th, 2019 11:12 PM] nsxfc3s:  S5-4.xlsx",
+                "ts": "1571119957.003300",
+                "author_id": "UHG1M1NQ6",
+                "author_subname": "Ryo Tsutake",
+                "channel_id": "CKWT4TANP",
+                "channel_name": "study_statistics",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "author_name": "Ryo Tsutake",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UHG1M1NQ6",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "FPDCP6J05",
+                        "created": 1571119956,
+                        "timestamp": 1571119956,
+                        "name": "S5-4.xlsx",
+                        "title": "S5-4.xlsx",
+                        "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        "filetype": "xlsx",
+                        "pretty_type": "Excel Spreadsheet",
+                        "user": "UHG1M1NQ6",
+                        "editable": false,
+                        "size": 12915,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPDCP6J05\/s5-4.xlsx",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPDCP6J05\/download\/s5-4.xlsx",
+                        "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPDCP6J05-4714dc9c49\/s5-4_converted.pdf",
+                        "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPDCP6J05-4714dc9c49\/s5-4_thumb_pdf.png",
+                        "thumb_pdf_w": 909,
+                        "thumb_pdf_h": 1286,
+                        "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FPDCP6J05\/s5-4.xlsx",
+                        "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FPDCP6J05-89c95430c0",
+                        "has_rich_preview": false
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CKWT4TANP\/p1571119957003300?thread_ts=1571117434.002000&amp;cid=CKWT4TANP",
+                "footer": "#study_statistics のスレッドから"
+            }
+        ],
+        "thread_ts": "1564976973.000900",
+        "parent_user_id": "UGPH97FDW"
+    },
+    {
+        "client_msg_id": "6a6a2c60-642a-44d6-b3c9-2f55c4a01e04",
+        "type": "message",
+        "text": "<https:\/\/ohkawaralab.slack.com\/archives\/CKWT4TANP\/p1571120290003700>",
+        "user": "UGQV9DXRC",
+        "ts": "1571120893.004400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CKWT4TANP\/p1571120290003700",
+                "fallback": "[October 14th, 2019 11:18 PM] hera-syndulla:  ハンバーガー統計　提出用.xlsx",
+                "ts": "1571120290.003700",
+                "author_id": "UHEH8KZ7W",
+                "author_subname": "Yuji Fukuda",
+                "channel_id": "CKWT4TANP",
+                "channel_name": "study_statistics",
+                "is_msg_unfurl": true,
+                "author_name": "Yuji Fukuda",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UHEH8KZ7W",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-30\/591546607600_66927b94566cb7ee48d1_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "FPFJS71CN",
+                        "created": 1571120289,
+                        "timestamp": 1571120289,
+                        "name": "ハンバーガー統計　提出用.xlsx",
+                        "title": "ハンバーガー統計　提出用.xlsx",
+                        "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        "filetype": "xlsx",
+                        "pretty_type": "Excel Spreadsheet",
+                        "user": "UHEH8KZ7W",
+                        "editable": false,
+                        "size": 10809,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPFJS71CN\/____________________________________.xlsx",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPFJS71CN\/download\/____________________________________.xlsx",
+                        "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPFJS71CN-a16c08548f\/_____________________________________converted.pdf",
+                        "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPFJS71CN-a16c08548f\/_____________________________________thumb_pdf.png",
+                        "thumb_pdf_w": 909,
+                        "thumb_pdf_h": 1286,
+                        "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FPFJS71CN\/____________________________________.xlsx",
+                        "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FPFJS71CN-75aa209c19",
+                        "has_rich_preview": false
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CKWT4TANP\/p1571120290003700",
+                "footer": "#study_statistics に投稿"
+            }
+        ],
+        "thread_ts": "1564976973.000900",
+        "parent_user_id": "UGPH97FDW"
+    },
+    {
+        "client_msg_id": "6bf8cc84-0c8b-4736-9ead-e34375526a0c",
+        "type": "message",
+        "text": "久しぶりで結構細かい所とんでたわ\nヨビノリはわかりやすいのでさくっと復習するのにおすすめだよ\n<https:\/\/youtu.be\/Bj8fkq533Dc>",
+        "user": "UGQV9DXRC",
+        "ts": "1571121937.005600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "【大学数学】推定・検定入門①(母集団と標本)【確率統計】",
+                "title_link": "https:\/\/youtu.be\/Bj8fkq533Dc",
+                "author_name": "予備校のノリで学ぶ「大学の数学・物理」",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCqmWJJolqAgjIdLqK3zD1QQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Bj8fkq533Dc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 【大学数学】推定・検定入門①(母集団と標本)【確率統計】",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Bj8fkq533Dc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/Bj8fkq533Dc",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/Bj8fkq533Dc"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

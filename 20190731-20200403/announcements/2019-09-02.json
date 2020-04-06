@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "882C3D7D-A7DF-48BA-94B9-08D9B1EE4B7F",
+        "type": "message",
+        "text": "つたけは大河原にアポイントとってください",
+        "user": "UHFLB6JPR",
+        "ts": "1567413166.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cdac5ffe-7d2d-41dc-b80e-ca745d248ca7",
+        "type": "message",
+        "text": "了解しました。",
+        "user": "UHG1M1NQ6",
+        "ts": "1567431996.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

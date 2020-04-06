@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "a5270ff9-26f3-4e7c-8178-7456e3f5b376",
+        "type": "message",
+        "text": "自分のデータをpythonにかける時の手順書\n<https:\/\/www.evernote.com\/l\/AN96i2QqpYdIWpPfW2puqB-X4dUTirWrbKs\/>",
+        "user": "UGQV9DXRC",
+        "ts": "1555924700.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Evernote",
+                "title": "自分のデータで機械学習できるか問題",
+                "title_link": "https:\/\/www.evernote.com\/l\/AN96i2QqpYdIWpPfW2puqB-X4dUTirWrbKs\/",
+                "text": "手順 ①データインポート ②いらないデータをカット コード ①データインポート import pandas raw1 = pandas.read_csv('\/Users\/ohkawara\/desktop\/actigraph\/raw\/h_1018_1RAW.csv', header=10) コメント) ・ParserError: Error tokenizing data. C error: Exp...",
+                "fallback": "Evernote: 自分のデータで機械学習できるか問題",
+                "thumb_url": "https:\/\/cdn1.evernote.com\/evernote.com\/img\/social-meta\/shared-note-thumbnail.png",
+                "from_url": "https:\/\/www.evernote.com\/l\/AN96i2QqpYdIWpPfW2puqB-X4dUTirWrbKs\/",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/dashboard.svc.www.evernote.com\/app\/nv\/icons-1ec2b385e995168bc5bb4934b116d4a6\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.evernote.com\/l\/AN96i2QqpYdIWpPfW2puqB-X4dUTirWrbKs\/"
+            }
+        ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "d480d5d1-0bba-422f-a84a-e868b9510fc8",
+        "type": "message",
+        "text": "<@UGQV9DXRC> 8月の運動教室は長期休み開始後もやる感じでしょうか？",
+        "user": "UHFLC6N4X",
+        "ts": "1558446810.008100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558413364.007300",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "274a52b6-ac5e-47f4-82db-8899cf3824cc",
+        "type": "message",
+        "text": "その予定です\n夏休みや後期はそれぞれの予定が変わると思うのでまた調整するつもり",
+        "user": "UGQV9DXRC",
+        "ts": "1558492585.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558413364.007300",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "76e27e5e-e582-40a9-ae9c-92148894ec30",
+        "type": "message",
+        "text": "金曜クラスは松崎さんの代理で白幡さんに電話済み。次回伺った時に改めて松崎さんにもお話する。",
+        "user": "UGPH97FDW",
+        "ts": "1558503789.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

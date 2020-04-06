@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "text": "測定時間を記入して、削るべきところの数を返すシート\n<https:\/\/drive.google.com\/open?id=16uFRZv1itcap04aCj48lFzbLQy1hbean>",
+        "files": [
+            {
+                "id": "FJ35BHRPE",
+                "created": 1556008960,
+                "timestamp": 1556008960,
+                "name": "測定時間変換.xlsx",
+                "title": "測定時間変換.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 20237,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=16uFRZv1itcap04aCj48lFzbLQy1hbean",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ35BHRPE-b72ad4affd\/___________________64.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ35BHRPE-b72ad4affd\/___________________80.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ35BHRPE-b72ad4affd\/___________________360.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 360,
+                "thumb_360_h": 255,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ35BHRPE-b72ad4affd\/___________________480.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_480_w": 480,
+                "thumb_480_h": 339,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ35BHRPE-b72ad4affd\/___________________160.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ35BHRPE-b72ad4affd\/___________________720.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720_w": 720,
+                "thumb_720_h": 509,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ35BHRPE-b72ad4affd\/___________________800.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_800_w": 800,
+                "thumb_800_h": 566,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ35BHRPE-b72ad4affd\/___________________960.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_960_w": 960,
+                "thumb_960_h": 679,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 724,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FJ35BHRPE\/__________________.xlsx",
+                "is_starred": false,
+                "external_id": "16uFRZv1itcap04aCj48lFzbLQy1hbean",
+                "external_url": "https:\/\/drive.google.com\/open?id=16uFRZv1itcap04aCj48lFzbLQy1hbean",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FJ35BHRPE"
+        ],
+        "ts": "1556008959.000500",
+        "client_msg_id": "d5198eae-3484-48a3-a6ee-b42c362bfb72"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FNHK56PFS",
+                "created": 1568876112,
+                "timestamp": 1568876112,
+                "name": "卒論中間発表_抄録_最終更新都竹KO.docx",
+                "title": "卒論中間発表_抄録_最終更新都竹KO.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 75150,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNHK56PFS\/____________________________________________ko.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNHK56PFS\/download\/____________________________________________ko.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNHK56PFS-6c133ab32e\/____________________________________________ko_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNHK56PFS-6c133ab32e\/____________________________________________ko_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FNHK56PFS\/____________________________________________ko.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FNHK56PFS-f89ca90291",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UHG1M1NQ6",
+        "display_as_bot": false,
+        "ts": "1575957140.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FR8LJ0U8Z",
+                "created": 1575957164,
+                "timestamp": 1575957164,
+                "name": "AB_P_P_清水俊平_電気通信大学_修正版.docx",
+                "title": "AB_P_P_清水俊平_電気通信大学_修正版.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 114703,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR8LJ0U8Z\/ab_p_p__________________________________________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR8LJ0U8Z\/download\/ab_p_p__________________________________________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR8LJ0U8Z-9ae312372d\/ab_p_p___________________________________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR8LJ0U8Z-9ae312372d\/ab_p_p___________________________________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FR8LJ0U8Z\/ab_p_p__________________________________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FR8LJ0U8Z-19d267a0e1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHG1M1NQ6",
+        "display_as_bot": false,
+        "ts": "1575957168.000300",
+        "client_msg_id": "3efd79f3-73c3-4e3a-9fb9-32ac113e2e65"
+    }
+]

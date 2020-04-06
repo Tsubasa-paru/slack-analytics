@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "f11969d2-980d-4fa3-807f-c7c914cb0b8a",
+        "type": "message",
+        "text": "ボランティア部とのMTG(2019\/06\/14)\n・ボランティア部からは10人くらい来れる予定（あくまで予測）\n・プログラミングを教えるよりもまず、科学に興味を持ってもらうようにしたほうがいいのでは？\n→科学の方が食育とコラボさせやすく、科学に興味を持ってもらえる確率が高い、電通大さが出るのでは？\n・120分以上伸ばすことが出来ないのか？",
+        "user": "UHEH8KZ7W",
+        "ts": "1560483017.004200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

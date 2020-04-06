@@ -1,0 +1,176 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1558677967.000200",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1558677968.000400",
+        "user": "UHFLB6JPR",
+        "text": "<@UHFLB6JPR>さんがチャンネルに参加しました",
+        "inviter": "UGQV9DXRC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1558677968.000600",
+        "user": "UHEH8KZ7W",
+        "text": "<@UHEH8KZ7W>さんがチャンネルに参加しました",
+        "inviter": "UGQV9DXRC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1558677968.000800",
+        "user": "UHC5VBV5E",
+        "text": "<@UHC5VBV5E>さんがチャンネルに参加しました",
+        "inviter": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "8292cf17-c86f-47c5-96f5-69f5ba2761b1",
+        "type": "message",
+        "text": "こども食堂CF\n<https:\/\/faavo.jp\/tokyochofufuchu\/project\/2934>",
+        "user": "UGQV9DXRC",
+        "ts": "1558678066.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "地域 × クラウドファンディング FAAVO",
+                "title": "食・運動からこども達に笑顔を！「電気通信大学 こども食堂」を開催したい！ | FAAVO東京調布・府中",
+                "title_link": "https:\/\/faavo.jp\/tokyochofufuchu\/project\/2934",
+                "text": "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;「電気通信大学 こども食堂」はこどもたちと大学生を結ぶイベントです。できるだけ多くのこどもたちが参加できるように無料のイベントにしたいのですが、食事の提供やこどもたちのイベント保険の費用すべて",
+                "fallback": "地域 × クラウドファンディング FAAVO: 食・運動からこども達に笑顔を！「電気通信大学 こども食堂」を開催したい！ | FAAVO東京調布・府中",
+                "image_url": "https:\/\/faavo-images.s3-ap-northeast-1.amazonaws.com\/project\/2934.png?_=1551132246",
+                "from_url": "https:\/\/faavo.jp\/tokyochofufuchu\/project\/2934",
+                "image_width": 374,
+                "image_height": 250,
+                "image_bytes": 408901,
+                "service_icon": "https:\/\/faavo.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/faavo.jp\/tokyochofufuchu\/project\/2934"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e30fd3bd-7816-4f25-b9d6-3a538b961108",
+        "type": "message",
+        "text": "昨年資料まとめ\n<https:\/\/drive.google.com\/open?id=12xuGRoS_XYO5Xvl8wqsvYxu27wDrIRro>",
+        "user": "UGQV9DXRC",
+        "ts": "1558678100.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fdaa34b2-e917-4296-a7d0-684ee10c6c00",
+        "type": "message",
+        "text": "*0525MTG*\n\n根本・福田は昨年CFのページを見る\n&gt;昨年は鈴木+アメフト部合同\n&gt;今年はボランティア部も合同で主体は大河原研+アメフト部\n&gt;アメフト部は当日の運営、大河原研は事前のCFや参加者の管理などを担当\n&gt;上記リンクのCFページのレポートってところを見ると、時系列でどんなことをしてたか何となく把握できるかな？\n\n福田は以下の情報をまとめてライングループのノートに投稿\n&gt;福田は前回のこども食堂に関する話し合い(ノートに投稿)\n&gt;これから何をやっていかなきゃいけないか時系列で\nこれを投稿出来たらアメフト部の担当者とMTG始める\n\nCFのページは6月末に申請できるように\nこれに合わせてやること、関連のことで承認をとったりしなきゃいけない\n&gt;フードドライブに貰いに行く(大河原)\n&gt;かくしょうじこども食堂にボランティアで参加(全体)\n&gt;チラシ、ハガキを作成(大河原)\n&gt;当日の企画やスケジュールを考える(アメフト)",
+        "user": "UGQV9DXRC",
+        "ts": "1558678549.009800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "66a6f961-6f9d-41b6-b5bb-5ee0b68364c3",
+        "type": "message",
+        "text": "こども食堂\n&gt;2019\/09\/14（土）に子供食堂を開催\n&gt;募集人数150人（子供：50、親：50、学生：50）\n&gt;8月中にポスターを配れるようにしたい\n&gt;→小学校は始業式の段階で9月に配る\n&gt;クラウドファンディングはする\n&gt;主催者側は「ふれあい」をキーポイントにしている\n&gt;今年は身体を動かさない人でも楽しめる何かを欲しい\n&gt;→今までは身体を動かすものが多かった\n&gt;タテ（大学生とこどもの関係)だけでなくヨコ(こども同士の関係)を強化できたらいい\n&gt;アンケートを導入するかも(?)\n&gt;去年はビンゴでやったが、改善点もある",
+        "user": "UHEH8KZ7W",
+        "ts": "1558678683.012000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHEH8KZ7W",
+            "ts": "1558679626.000000"
+        }
+    },
+    {
+        "client_msg_id": "2920a912-2af7-41e1-8109-5313cac6a6c6",
+        "type": "message",
+        "text": "参考までに\n<https:\/\/readyfor.jp\/projects\/troiiis2017>",
+        "user": "UHEH8KZ7W",
+        "ts": "1558678927.013300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "月1食分を子ども達に。「こども食堂」500円サポーター募集！ - クラウドファンディング Readyfor (レディーフォー)",
+                "title_link": "https:\/\/readyfor.jp\/projects\/troiiis2017",
+                "text": "豊かな食事が取りづらい子ども達と一緒に食卓を囲む目的を主に、笑顔と安心を生み出すボランティア活動継続の為、ワンコインサポーターを募集します。 - クラウドファンディング Readyfor",
+                "fallback": "月1食分を子ども達に。「こども食堂」500円サポーター募集！ - クラウドファンディング Readyfor (レディーフォー)",
+                "image_url": "https:\/\/readyfor.jp\/s3\/readyfor-img\/project_photos\/13410\/medium\/a17c9aaa61e80a1bf71d0d850af4e5baa9800bbd.?1500022838",
+                "from_url": "https:\/\/readyfor.jp\/projects\/troiiis2017",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 328898,
+                "service_icon": "https:\/\/readyfor.jp\/assets\/favicon\/apple-touch-icon-57x57-75378c3ff2efc3e4d81e8f36f88eada7dc6b7691c045ec7343aa41ee73030d18.png",
+                "service_name": "readyfor.jp",
+                "id": 1,
+                "original_url": "https:\/\/readyfor.jp\/projects\/troiiis2017"
+            }
+        ]
+    }
+]

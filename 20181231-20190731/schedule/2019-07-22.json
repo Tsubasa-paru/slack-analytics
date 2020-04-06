@@ -1,0 +1,118 @@
+[
+    {
+        "client_msg_id": "ca421e03-1f9e-4703-a20f-5bf7232c0eb0",
+        "type": "message",
+        "text": "体調不良のため今日のゼミ行けません。先週に引き続き申し訳ございません。統計学習と進捗のファイルはアップロード済みなのでご確認ください。よろしくお願いします。",
+        "user": "UHG1M1NQ6",
+        "ts": "1563846249.002300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "77CA86A4-7326-40C1-BD36-0019B9F3DE63",
+        "type": "message",
+        "text": "すいません。原因が分からないのですが、腹痛が酷く、ずっとうずくまってる状態なので今日学生ゼミを休ませて頂きます。\n本当にすいません。",
+        "user": "UHEH8KZ7W",
+        "ts": "1563847360.004900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8fc3cf4d-762f-4db4-8835-7f3a54102a7d",
+        "type": "message",
+        "text": "同じくすみません\n発熱のためお休みさせていただきます:bow::bow:",
+        "user": "UGQV9DXRC",
+        "ts": "1563847902.005900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fe8cf6de-79d2-4467-8492-fda2494f04fa",
+        "type": "message",
+        "text": "今日は大河原の部屋でやりましょう",
+        "user": "UHFLB6JPR",
+        "ts": "1563849399.006200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGPH97FDW",
+                    "UHC5VBV5E",
+                    "UHFLC6N4X"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59BDB479-29BE-4DCD-85B6-EB8930605899",
+        "type": "message",
+        "text": "今週の金曜日は先生が法事でいらっしゃらないので、学生ゼミという形で今日出来なかったことなどをします。",
+        "user": "UGPH97FDW",
+        "ts": "1563857333.007700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

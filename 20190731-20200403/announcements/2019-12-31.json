@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "944A2DA4-2544-4D45-9924-58C2F2085BA2",
+        "type": "message",
+        "text": "LINEのデータを誤って削除してしまったのでまた会った時にアカウントを交換しましょう",
+        "user": "UHC5VBV5E",
+        "ts": "1577805750.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E80997FB-F9CA-4099-9DB8-616108A8A056",
+        "type": "message",
+        "text": "あけましておめでとうございます\n気合い！",
+        "user": "UHC5VBV5E",
+        "ts": "1577805768.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "7c4984db-cb6e-499c-9270-3603b14efdf4",
+        "type": "message",
+        "text": "修正版をあげた。\n\n明日に備えて早く寝たい",
+        "user": "UGPH97FDW",
+        "ts": "1558693802.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "53a95582-3f7d-4d12-97fa-16e3d34def70",
+        "type": "message",
+        "text": "2019\/05\/24\n&gt;フィードバック完成\n&gt;ランニング\n&gt;横浜負けた\n今後\n&gt;院試の勉強\n&gt;python\n&gt;実験準備等\n&gt;阪神に勝つ",
+        "user": "UHC5VBV5E",
+        "ts": "1558701511.002600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "baseball",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

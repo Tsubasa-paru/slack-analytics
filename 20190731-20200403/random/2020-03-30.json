@@ -1,0 +1,491 @@
+[
+    {
+        "client_msg_id": "e91a7fcf-21ee-46e3-b7e5-0eed1d76136d",
+        "type": "message",
+        "text": "<https:\/\/www.cc.uec.ac.jp\/blogs\/news\/2019\/11\/post-57.html>\n\n\nリモートの件ですが去年12月以降に学内で二段階認証をしている必要があるみたいです。\n\n多分僕だけできないことになりそう。。。",
+        "user": "UGPH97FDW",
+        "ts": "1585633290.002300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGPH97FDW",
+            "ts": "1585633695.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "情報基盤センターからのお知らせ",
+                "title": "統合認証システムの２要素認証導入について",
+                "title_link": "https:\/\/www.cc.uec.ac.jp\/blogs\/news\/2019\/11\/post-57.html",
+                "text": "教職員・学生　各位 情報基盤センターstaff@cc.uec.ac.jp 統合認...",
+                "fallback": "情報基盤センターからのお知らせ: 統合認証システムの２要素認証導入について",
+                "image_url": "https:\/\/www.cc.uec.ac.jp\/mt-static\/support\/theme_static\/rainier\/img\/siteicon-sample.png",
+                "from_url": "https:\/\/www.cc.uec.ac.jp\/blogs\/news\/2019\/11\/post-57.html",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 1608,
+                "service_icon": "https:\/\/www.cc.uec.ac.jp\/itcicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.cc.uec.ac.jp\/blogs\/news\/2019\/11\/post-57.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U2tN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.cc.uec.ac.jp\/blogs\/news\/2019\/11\/post-57.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nリモートの件ですが去年12月以降に学内で二段階認証をしている必要があるみたいです。\n\n多分僕だけできないことになりそう。。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "944cfab8-3f16-41e3-b3a5-1244b1d7351d",
+        "type": "message",
+        "text": "<https:\/\/www.dl.itc.u-tokyo.ac.jp\/manual\/guidance_pubmedwos.pdf>\n\nwebofscience の資料も随時張っておきます。",
+        "user": "UGPH97FDW",
+        "ts": "1585633324.003100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGPH97FDW",
+            "ts": "1585633421.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sf5oA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dl.itc.u-tokyo.ac.jp\/manual\/guidance_pubmedwos.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nwebofscience の資料も随時張っておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6709f836-dd38-4845-8870-3940b4756383",
+        "type": "message",
+        "text": "ところでこういう話はannouncementsに今後書かないほうがいいってことだよね。",
+        "user": "UGPH97FDW",
+        "ts": "1585633557.005500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gz0f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ところでこういう話はannouncementsに今後書かないほうがいいってことだよね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585633557.005500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585633682.008300",
+        "reply_users": [
+            "UUZ15MZT4"
+        ],
+        "replies": [
+            {
+                "user": "UUZ15MZT4",
+                "ts": "1585633682.008300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c5e2c04b-57f8-4521-9a58-65b1051e04fe",
+        "type": "message",
+        "text": "webofscience 登録できました",
+        "user": "UHC5VBV5E",
+        "ts": "1585633577.006100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LJOq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "webofscience 登録できました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C86AF15B-C549-4E3D-925F-D6A5B8C5A6D5",
+        "type": "message",
+        "text": "web of science登録出来ました",
+        "user": "UVBQW1MAR",
+        "ts": "1585633620.007500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gf9dc172696f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f9dc172696ffb9e8a0cbd0faceacaed3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "小西長門",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "k1710235",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "41TB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "web of science登録出来ました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2AED7C38-F0BD-4930-BF9C-9D87C94B9016",
+        "type": "message",
+        "text": "webofscience登録できました",
+        "user": "UUZ15LS10",
+        "ts": "1585633634.008000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g6281d0508bf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6281d0508bf1c00e81b9b556639b7069.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "飯野　綾太",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "iino8889000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BuQE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "webofscience登録できました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A0F84ABB-E3CE-4543-B6A5-0020B99860F9",
+        "type": "message",
+        "text": "webofscience登録できました。",
+        "user": "UV0AL2ZNX",
+        "ts": "1585633657.008200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g07d4d697721",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/07d4d69772185ae86d6dffc711bba60a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "猪野華央",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "soboroboro.wan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wGn6P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "webofscience登録できました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6118f60e-4799-4689-96d6-a06d8445ae9a",
+        "type": "message",
+        "text": "そうしてもらえると先生からの連絡が伝わりやすいです。",
+        "user": "UUZ15MZT4",
+        "ts": "1585633682.008300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "7dfa25c9925c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1006784279335_7dfa25c9925c232a45ec_72.jpg",
+            "first_name": "中田翼",
+            "real_name": "中田翼",
+            "display_name": "Tsubasa NAKADA",
+            "team": "TGNPXK07J",
+            "name": "tubasa.12345.67890",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jeDa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうしてもらえると先生からの連絡が伝わりやすいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585633557.005500",
+        "parent_user_id": "UGPH97FDW",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8F6A14C0-FABE-4F67-8288-72E79934DBC1",
+        "type": "message",
+        "text": "登録できました。",
+        "user": "UHEH8KZ7W",
+        "ts": "1585633804.009200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7w1u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "登録できました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7C41D5C0-FCD5-4592-A205-D26E0863538E",
+        "type": "message",
+        "text": "kaggleの説明がいまいちで申し訳ない。\nチュートリアルとエクササイズの中に進め方が書いてあるからそれを読んでやれば問題ないと思います。\n文句なり質問なり受け付けてるのでやりづらかったりしたら教えてください",
+        "user": "UHC5VBV5E",
+        "ts": "1585633931.011600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHC5VBV5E",
+            "ts": "1585633960.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nKUz0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "kaggleの説明がいまいちで申し訳ない。\nチュートリアルとエクササイズの中に進め方が書いてあるからそれを読んでやれば問題ないと思います。\n文句なり質問なり受け付けてるのでやりづらかったりしたら教えてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f07ee66-5499-410e-ab17-9334a6f3dca0",
+        "type": "message",
+        "text": "僕もweb of science登録出来ました",
+        "user": "UUZ15MZT4",
+        "ts": "1585634063.012000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "7dfa25c9925c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1006784279335_7dfa25c9925c232a45ec_72.jpg",
+            "first_name": "中田翼",
+            "real_name": "中田翼",
+            "display_name": "Tsubasa NAKADA",
+            "team": "TGNPXK07J",
+            "name": "tubasa.12345.67890",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "36R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "僕もweb of science登録出来ました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

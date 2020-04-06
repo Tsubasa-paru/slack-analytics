@@ -1,0 +1,46 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1-J65djLcvKoiZsD4pEsh0KE_WDwQOIe29vSTftAv6Ko>",
+        "files": [
+            {
+                "id": "FNQ3F5VGB",
+                "created": 1570172120,
+                "timestamp": 1570172120,
+                "name": "20191004",
+                "title": "20191004",
+                "mimetype": "application\/vnd.google-apps.document",
+                "filetype": "gdoc",
+                "pretty_type": "GSuite Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 3,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/document\/d\/1-J65djLcvKoiZsD4pEsh0KE_WDwQOIe29vSTftAv6Ko",
+                "thumb_64": "https:\/\/a.slack-edge.com\/80588\/img\/files\/gdraw_64.png",
+                "thumb_360": "https:\/\/a.slack-edge.com\/80588\/img\/files\/gdraw_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 167,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FNQ3F5VGB\/20191004",
+                "is_starred": false,
+                "external_id": "1-J65djLcvKoiZsD4pEsh0KE_WDwQOIe29vSTftAv6Ko",
+                "external_url": "https:\/\/docs.google.com\/document\/d\/1-J65djLcvKoiZsD4pEsh0KE_WDwQOIe29vSTftAv6Ko",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FNQ3F5VGB"
+        ],
+        "ts": "1570172119.000100",
+        "client_msg_id": "AED39BB5-325C-48DD-BC2E-0FAC71A23A20"
+    }
+]

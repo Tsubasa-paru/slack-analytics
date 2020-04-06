@@ -1,0 +1,485 @@
+[
+    {
+        "client_msg_id": "c25581de-fb54-4fee-9d46-91bda20bd8ee",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n明日の学生ゼミは午前中でしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1569830968.003200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A9AF1E97-56B0-4E5C-B907-08A19538B26B",
+        "type": "message",
+        "text": "金曜？",
+        "user": "UHFLB6JPR",
+        "ts": "1569831004.003900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c729f4e2-96e5-4893-b94d-045680bbf53b",
+        "type": "message",
+        "text": "火曜日です",
+        "user": "UGQV9DXRC",
+        "ts": "1569831026.004400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DF0FA036-6D5D-44B4-AC06-D6D437E58258",
+        "type": "message",
+        "text": "明日は任せます",
+        "user": "UHFLB6JPR",
+        "ts": "1569831040.005100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8605877c-0317-4d6d-979c-838a0be728d7",
+        "type": "message",
+        "text": "私が明日内定式で出れない話をした所、先生が午前中なら出れるとのお話をされていたので確認でした",
+        "user": "UGQV9DXRC",
+        "ts": "1569831079.005800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9B038C20-D245-4C5A-B182-253A3953BD99",
+        "type": "message",
+        "text": "金曜の話だと思ってました\n金曜は午前中にやりたいです\nみんなが集まれないなら、15時半からで",
+        "user": "UHFLB6JPR",
+        "ts": "1569831156.007700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "12364464-E8CE-46B3-A29D-209F0B8079E9",
+        "type": "message",
+        "text": "金曜日の午前中は車椅子の予備実験があります。",
+        "user": "UHEH8KZ7W",
+        "ts": "1569831187.008700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHEH8KZ7W",
+            "ts": "1569831205.000000"
+        }
+    },
+    {
+        "client_msg_id": "B1CC5BB2-3E13-4E00-A5A7-A402FFE6B742",
+        "type": "message",
+        "text": "ごめん、そうだ",
+        "user": "UHFLB6JPR",
+        "ts": "1569831199.009300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2265a4ac-5599-41bb-97aa-f7ef46a08417",
+        "type": "message",
+        "text": "承知しました\n金曜は午前中に予備実験の予定があるので、15時半からでよいでしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1569831201.009400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "409ac2a6-8f13-4bb6-bf26-2fa1f485030e",
+        "type": "message",
+        "text": "では15時半で！",
+        "user": "UGQV9DXRC",
+        "ts": "1569831209.009800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "06F5B64D-17C4-4F23-AA07-0C22295548C5",
+        "type": "message",
+        "text": "15時半からでお願いします",
+        "user": "UHFLB6JPR",
+        "ts": "1569831220.010400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D598E19D-A2D2-4B26-BFF2-4C02E77350DF",
+        "type": "message",
+        "text": "承知しました",
+        "user": "UHEH8KZ7W",
+        "ts": "1569831239.010900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1541b8ce-b873-4755-ab83-53e80de4b45c",
+        "type": "message",
+        "text": "<!channel>\n今週のゼミ・実験予定　全員参加です\n火曜日の学生ゼミは13時～\n金曜日は根本予備実験 9時～\n　　　　全体ゼミ 15時半～",
+        "user": "UGQV9DXRC",
+        "ts": "1569831959.013900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "635E86DB-7B37-4925-9B95-1EADF14FB187",
+        "type": "message",
+        "text": "今日の発表は他の人と比べても凄い良かったと思います",
+        "user": "UHFLB6JPR",
+        "ts": "1569833762.015300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569833762.015300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1569834540.017000",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1569834540.017000"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "dancer",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQV9DXRC",
+                    "UHC5VBV5E",
+                    "UGPH97FDW"
+                ],
+                "count": 3
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb90e767-697c-49ed-9ec0-0411b71af214",
+        "type": "message",
+        "text": "明日内定式なので行けません。金曜、全体ゼミ通常の時間で無いと予定あって厳しいです",
+        "user": "UHFLC6N4X",
+        "ts": "1569833943.016400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "44ba27f3-5a45-44be-93c6-91bed2c0e00f",
+        "type": "message",
+        "text": "ありがとうございました！",
+        "user": "UGQV9DXRC",
+        "ts": "1569834540.017000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569833762.015300",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "7cd03788-10f0-4398-82cb-742a29e0a480",
+        "type": "message",
+        "text": "午前の予備実験は出れる？",
+        "user": "UGQV9DXRC",
+        "ts": "1569834578.017400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "55b80894-e50f-4661-9127-2d62784e250c",
+        "type": "message",
+        "text": "出れます。",
+        "user": "UHFLC6N4X",
+        "ts": "1569834798.017600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "98d3652f-a27d-46ff-8c7a-4e2036255ddd",
+        "type": "message",
+        "text": "先生が通常のゼミの時刻に来れないからゼミはできないんだけど、午前の実験にはいらっしゃるので実験後に話ができるかも\n先週のゼミの課題だった、中間報告のフィードバックの準備はしておいてくれる？",
+        "user": "UGQV9DXRC",
+        "ts": "1569834881.018800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b565319e-2c19-4bd3-bc2b-36c74d0c6749",
+        "type": "message",
+        "text": "了解です",
+        "user": "UHFLC6N4X",
+        "ts": "1569834999.019100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

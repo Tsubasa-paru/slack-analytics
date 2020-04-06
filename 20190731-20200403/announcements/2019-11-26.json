@@ -1,0 +1,148 @@
+[
+    {
+        "client_msg_id": "7acee05a-a2f2-460d-8d99-7e436e85651a",
+        "type": "message",
+        "text": "<@UHG1M1NQ6> <@UHEH8KZ7W> <@UHC5VBV5E> <@UGQV9DXRC>各自、、健康支援学会の抄録を大河原と大河原研メーリスに送ってください。\n一度、今週中に送ってください。",
+        "user": "UHFLB6JPR",
+        "ts": "1574838819.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ezdc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHG1M1NQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHC5VBV5E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UGQV9DXRC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "各自、、健康支援学会の抄録を大河原と大河原研メーリスに送ってください。\n一度、今週中に送ってください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf9e60de-98af-4904-93f4-0644ca5dc532",
+        "type": "message",
+        "text": "メーリスのアドレスは後程アナウンスします",
+        "user": "UGQV9DXRC",
+        "ts": "1574838954.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "75072c86-f217-4b59-9cd7-2b0a725c348b",
+        "type": "message",
+        "text": "健康支援学会の登録はこちらのサイトからしてもよろしいでしょうか？\n<http:\/\/jshp.umin.jp\/meeting21\/application.html>\nまた会員になるためのサイトが分からないのですが会員登録はどこからしたらいいですか？",
+        "user": "UHEH8KZ7W",
+        "ts": "1574841241.003100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "第21回 日本健康支援学会年次学術大会",
+                "title_link": "http:\/\/jshp.umin.jp\/meeting21\/application.html",
+                "text": "第21回 日本健康支援学会年次学術大会 Official website",
+                "fallback": "第21回 日本健康支援学会年次学術大会",
+                "from_url": "http:\/\/jshp.umin.jp\/meeting21\/application.html",
+                "service_icon": "http:\/\/jshp.umin.jp\/favicon.ico",
+                "service_name": "jshp.umin.jp",
+                "id": 1,
+                "original_url": "http:\/\/jshp.umin.jp\/meeting21\/application.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0o6i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "健康支援学会の登録はこちらのサイトからしてもよろしいでしょうか？\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/jshp.umin.jp\/meeting21\/application.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nまた会員になるためのサイトが分からないのですが会員登録はどこからしたらいいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJJLRFL1E",
+                "created": 1557397594,
+                "timestamp": 1557397594,
+                "name": "清水_倫理申請書.doc",
+                "title": "清水_倫理申請書.doc",
+                "mimetype": "application\/msword",
+                "filetype": "doc",
+                "pretty_type": "Word Document",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 67584,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJJLRFL1E\/______________________.doc?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJJLRFL1E\/download\/______________________.doc?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJLRFL1E-725741c97c\/_______________________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJLRFL1E-725741c97c\/_______________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FJJLRFL1E\/______________________.doc",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJJLRFL1E-916c62e5f7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1557397595.000100",
+        "client_msg_id": "9c071a6b-ea45-49c0-9fd1-f3102f90bd82"
+    },
+    {
+        "client_msg_id": "E413D3DE-FA49-490A-88E0-A9DE6D34B187",
+        "type": "message",
+        "text": "同意説明書や関連資料は？",
+        "user": "UHFLB6JPR",
+        "ts": "1557397826.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "倫理申請の必要書類\n<https:\/\/drive.google.com\/file\/d\/1yW_lQJkWdccB9A8B9ZWYK7I1WJv1W80f\/view?usp=drivesdk>",
+        "files": [
+            {
+                "id": "FJCBA143T",
+                "created": 1557399734,
+                "timestamp": 1557399734,
+                "name": "倫理申請書手順.pdf",
+                "title": "倫理申請書手順.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 653114,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/file\/d\/1yW_lQJkWdccB9A8B9ZWYK7I1WJv1W80f\/view?usp=drivesdk",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJCBA143T-3ace921fb4\/______________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FJCBA143T\/_____________________.pdf",
+                "is_starred": false,
+                "external_id": "1yW_lQJkWdccB9A8B9ZWYK7I1WJv1W80f",
+                "external_url": "https:\/\/drive.google.com\/file\/d\/1yW_lQJkWdccB9A8B9ZWYK7I1WJv1W80f\/view?usp=drivesdk",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FJCBA143T"
+        ],
+        "ts": "1557399732.001400",
+        "client_msg_id": "b03e8749-2e59-4b50-b492-afebb1e84836",
+        "thread_ts": "1557399732.001400",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1557980509.001000",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1557399791.002600"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1557980499.000400"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1557980509.001000"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHEH8KZ7W",
+                    "UGQ2ENZD0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "add71bc0-c289-4de3-9d34-06bfdae2228d",
+        "type": "message",
+        "text": "手順書まとめてたのにあげてなかったかな、申し訳ない:scream:",
+        "user": "UGQV9DXRC",
+        "ts": "1557399791.002600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557399732.001400",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

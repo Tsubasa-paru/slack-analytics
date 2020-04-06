@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "f98d6a16-a70f-40f0-86cd-261e3366427f",
+        "type": "message",
+        "text": "#データセット作り\nimport pandas as pd\nimport numpy as np\nfrom scipy import signal\nr_d=pd.read_csv('\/Users\/ohkawara\/desktop\/actigraph\/2_drop\/r10_d.csv', header=0)\nr_f=pd.read_csv('\/Users\/ohkawara\/desktop\/actigraph\/3_filter\/r10_f.csv', header=0)\ndsd=signal.welch(r_d['x'])\ndsf=signal.welch(r_f['x'])\n\ndsd",
+        "user": "UGQV9DXRC",
+        "ts": "1565337742.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

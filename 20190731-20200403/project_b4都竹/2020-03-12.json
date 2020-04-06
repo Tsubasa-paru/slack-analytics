@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584075129.000500",
+        "user": "UUZ15MZT4",
+        "text": "<@UUZ15MZT4>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584075139.000600",
+        "user": "UV0AL2ZNX",
+        "text": "<@UV0AL2ZNX>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584075260.000700",
+        "user": "UVBQW1MAR",
+        "text": "<@UVBQW1MAR>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584075362.000800",
+        "user": "UUZ15LS10",
+        "text": "<@UUZ15LS10>さんがチャンネルに参加しました"
+    }
+]

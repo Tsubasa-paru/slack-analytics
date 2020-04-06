@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "94d795d2-728e-4e49-946a-1b821d6ff7ef",
+        "type": "message",
+        "text": "windows環境でのpip経由でのパッケージインストール手法が載ってましたので参考にどうぞ．\nどちらもJupyter notebookではなくPyCharmを使用しています．\n<https:\/\/gammasoft.jp\/python\/install-packages-with-pycharm\/>\n<https:\/\/qiita.com\/yamaAtsu\/items\/34e2a04408695365d586>",
+        "user": "UGQ2ENZD0",
+        "ts": "1553837373.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1553843148.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "ガンマソフト株式会社",
+                "title": "PyCharmでライブラリをインストールする | ガンマソフト株式会社",
+                "title_link": "https:\/\/gammasoft.jp\/python\/install-packages-with-pycharm\/",
+                "text": "Pythonの外部ライブラリは、PyPI（Python Package Index：<https:\/\/pypi.python.org\/）> で大抵探すことができ、インストールはpipを用いて以下のように簡...",
+                "fallback": "ガンマソフト株式会社: PyCharmでライブラリをインストールする | ガンマソフト株式会社",
+                "thumb_url": "https:\/\/gammasoft.jp\/images\/2018_07_23-pycharm-new-project.png",
+                "from_url": "https:\/\/gammasoft.jp\/python\/install-packages-with-pycharm\/",
+                "thumb_width": 540,
+                "thumb_height": 338,
+                "service_icon": "https:\/\/gammasoft.jp\/images\/icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/gammasoft.jp\/python\/install-packages-with-pycharm\/"
+            },
+            {
+                "service_name": "Qiita",
+                "title": "PyCharmによるパッケージの追加方法 - Qiita",
+                "title_link": "https:\/\/qiita.com\/yamaAtsu\/items\/34e2a04408695365d586",
+                "text": "初心者の方でも分かりやすく記載されていると思います。 #動作環境 windows7 pycharm-community-2016.1.4 python-2.7.4 #方法 PyCharmを立ち上げると、初期画面が出てきます。 !...",
+                "fallback": "Qiita: PyCharmによるパッケージの追加方法 - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/yamaAtsu\/items\/34e2a04408695365d586",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 2,
+                "original_url": "https:\/\/qiita.com\/yamaAtsu\/items\/34e2a04408695365d586"
+            }
+        ]
+    }
+]

@@ -1,0 +1,270 @@
+[
+    {
+        "client_msg_id": "448bded6-4f4f-4440-a114-d6a70aa856be",
+        "type": "message",
+        "text": "流れとしては、運動と佐藤研のローテーションを考えており、アイス作りは佐藤研見学の空き時間にチームごとにトライする形にできればと考えてます。\nその後、食後のアイスの時間に自分達のアイス作りを思い出しながら、プロの製作行程を見てみるのはどうかと。",
+        "user": "UGQV9DXRC",
+        "ts": "1567960631.003600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b4c12878-6ebb-4576-84dc-e70266afe718",
+        "type": "message",
+        "text": "そこで佐藤研の合間と考えると、武道場で行えるとベストです",
+        "user": "UGQV9DXRC",
+        "ts": "1567960673.004500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@UHFLB6JPR> \n鳴海さんから保険のご連絡です\n確認事項が二点ありますが\n①学生50名はなし\n②延期なし\nということでよろしいでしょうか？",
+        "files": [
+            {
+                "id": "FN4HGGZK6",
+                "created": 1568004684,
+                "timestamp": 1568004670,
+                "name": "Fwd: お待たせしてしまい申し訳ございません。",
+                "title": "Fwd: お待たせしてしまい申し訳ございません。",
+                "mimetype": "text\/html",
+                "filetype": "email",
+                "pretty_type": "Email",
+                "user": "UGQV9DXRC",
+                "editable": true,
+                "size": 17895,
+                "mode": "email",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN4HGGZK6\/fwd___________________________________________________________?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN4HGGZK6\/download\/fwd___________________________________________________________?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FN4HGGZK6\/fwd___________________________________________________________",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FN4HGGZK6-b25329ef5c",
+                "subject": "Fwd: お待たせしてしまい申し訳ございません。",
+                "to": [
+                    {
+                        "address": "kmt.sd.ma@gmail.com",
+                        "name": "鈴木美穂",
+                        "original": "鈴木美穂  <kmt.sd.ma@gmail.com>"
+                    }
+                ],
+                "from": [
+                    {
+                        "address": "mimiho.bell@gmail.com",
+                        "name": "鈴木美穂",
+                        "original": "鈴木美穂 <mimiho.bell@gmail.com>"
+                    }
+                ],
+                "cc": [],
+                "attachments": [],
+                "plain_text": "---------- Forwarded message ---------\r\nFrom: ＭＡＳ 鳴海 亮祐 <naruumi2@musashinoas.co.jp>\r\nDate: 2019年9月9日(月) 午後1:49\r\nSubject: お待たせしてしまい申し訳ございません。\r\nTo: 鈴木美穂 <mimiho.bell@gmail.com>\r\nCc: Kazunori Ohkawara <ohkawara_kazunori@e-one.uec.ac.jp>\r\n\r\n\r\n電気通信大学\r\n鈴木 様\r\n\r\n\r\nいつもお世話になります。\r\n対応が遅くなり申し訳ございません。\r\n\r\n今回の子ども食堂についての保険ですが、\r\n\r\n対象児童 ６５名\r\n兄弟関係者 ３３名\r\n計 ９８名\r\n\r\n主催者側学生５０名\r\n\r\nとのことでよろしいでしょうか。また、開催日は１４日（土）でお間違いないでしょうか。\r\n\r\nいくつか確認させてください。\r\n\r\n①傷害保険（けがの保険）は参加者の９８名でよいでしょうか。学生５０名は不要でしょうか。\r\nちなみに、参加者９８名だけであれば １７，９３４円\r\n学生を含む１４８名になると２７，０８４円 になります。\r\n\r\n賠償保険は５，０００円です。\r\n\r\n②天候不良などにより、開催日延期ということはあるでしょうか。\r\n\r\n上記２点の確認をお願い致します。\r\nお忙しいところ申し訳ありませんが、宜しくお願い致します。\r\n\r\n今週お伺いできる日程は、１２日（木）の１３時ぐらいまでの時間か、１３日（金）の午後になります。宜しくお願い致します。\r\n\r\n\r\n鳴海",
+                "preview": "<div><\/div><br><div><div>---------- Forwarded message ---------<br>From: &#65325;&#65313;&#65331;&#12288;&#40180;&#28023; &#20142;&#31056; <span>&lt;<a href=\"mailto:naruumi2@musashinoas.co.jp\">naruumi2@musashinoas.co.jp<\/a>&gt;<\/span><br>Date: 2019&#24180;9&#26376;9&#26085;(&#26376;) &#21320;&#24460;1:49<br>Subject: &#12362;&#24453;&#12383;&#12379;&#12375;&#12390;&#12375;&#12414;&#12356;&#30003;&#12375;&#35379;&#12372;&#12374;&#12356;&#12414;&#12379;&#12435;&#12290;<br>To: &#37428;&#26408;&#32654;&#31298; &lt;<a href=\"mailto:mimiho.bell@gmail.com\">mimiho.bell@gmail.com<\/a>&gt;<br>Cc: Kazunori Ohkawara &lt;<a href=\"mailto:ohkawara_kazunori@e-one.uec.ac.jp\">ohkawara_kazunori@e-one.uec.ac.jp<\/a>&gt;<br><\/div><br><br><div>  <div>  &#38651;&#27671;&#36890;&#20449;&#22823;&#23398;<\/div>  <div>  <div>  <div>  &#37428;&#26408;&#12288;&#27096;<\/div>  <div>  <br><\/div>  <div>  <br><\/div>  <div>  &#12356;&#12388;&#12418;&#12362;&#19990;&#35441;&#12395;&#12394;&#12426;&#12414;&#12377;&#12290;<\/div>  <div>  &#23550;&#24540;&#12364;&#36933;&#12367;&#12394;&#12426;&#30003;&#12375;&#35379;&#12372;&#12374;&#12356;&#12414;&#12379;&#12435;&#12290;<\/div>  <div>  <br><\/div>  <div>  &#20170;&#22238;&#12398;&#23376;&#12393;&#12418;&#39135;&#22530;&#12395;&#12388;&#12356;&#12390;&#12398;&#20445;&#38522;&#12391;&#12377;&#12364;&#12289;<\/div><\/div><\/div><\/div><\/div>",
+                "preview_plain_text": "---------- Forwarded message ---------\r\nFrom: ＭＡＳ 鳴海 亮祐 <naruumi2@musashinoas.co.jp>\r\nDate: 2019年9月9日(月) 午後1:49\r\nSubject: お待たせしてしまい申し訳ございません。\r\nTo: 鈴木美穂 <mimiho.bell@gmail.com>\r\nCc: Kazunori Ohkawara <ohkawara_kazunori@e-one.uec.ac.jp>\r\n\r\n\r\n電気通信大学\r\n鈴木 様\r\n\r\n\r\nいつもお世話になります。\r\n対応が遅くなり申し訳ございません。\r\n\r\n今回の子ども食堂についての保険ですが、\r\n\r\n対象児童 ６５名\r\n兄弟関係者 ３３名\r\n計 ９８名\r\n\r\n主催者側学生５０名\r\n\r\nとのことでよろしいでしょうか。また、開催日は１４日（土）でお間違いないでしょうか。\r\n\r\nいくつか確認させてください。\r\n\r\n①傷害保険（けがの保険）は参加者の９８名でよいでしょうか。学生５０名は不要でしょうか。\r\nちなみに、参加者９８名だけであれば １７，９３４円\r\n学生を含む１",
+                "headers": {
+                    "date": "Mon, 9 Sep 2019 13:51:10 +0900"
+                },
+                "has_more": true,
+                "sent_to_self": false,
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1568004828.000100"
+    },
+    {
+        "client_msg_id": "B8F5B74D-661B-4E77-974A-6BCE7FB18AAF",
+        "type": "message",
+        "text": "開催延期はしないです\n台風とかで最悪中止はあり得ます",
+        "user": "UHFLB6JPR",
+        "ts": "1568005363.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "CFE76679-6915-460F-853C-9E4C5C95CCF4",
+        "type": "message",
+        "text": "学生も加入してください",
+        "user": "UHFLB6JPR",
+        "ts": "1568005374.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "99D855DB-7612-4435-A743-0FFF297D1EF5",
+        "type": "message",
+        "text": "学生は賠償も加入してください",
+        "user": "UHFLB6JPR",
+        "ts": "1568006232.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4CA6B8B2-6B89-48FD-BAF5-A4E4F324416C",
+        "type": "message",
+        "text": "学生はなし、というのは傷害保険はなしを指してました。すみません。\n昨年は学生は賠償のみでしたので今年も同様ということでしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1568007268.004200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7129214d-3e3c-465f-aaae-ce6207a29d94",
+        "type": "message",
+        "text": "学生は賠償のみで行きましょう",
+        "user": "UHFLB6JPR",
+        "ts": "1568007307.004700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f31c50d5-678a-44c2-9417-ab985585cffe",
+        "type": "message",
+        "text": "<@UHFLB6JPR> \n木曜日の13時までか金曜日の午後でしたら来校いただけるとのことですが、いつにしましょう？",
+        "user": "UGQV9DXRC",
+        "ts": "1568007809.006000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "59fa7053-d166-4ced-9249-70a4aad8ca7d",
+        "type": "message",
+        "text": "金曜日15時でお願いします",
+        "user": "UHFLB6JPR",
+        "ts": "1568008057.006300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

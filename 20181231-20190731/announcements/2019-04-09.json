@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "fe996f51-e513-4b1f-84b4-14424789a1e9",
+        "type": "message",
+        "text": "新4年のアドレスをメーリスに追加しました",
+        "user": "UGQV9DXRC",
+        "ts": "1554794730.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cdd357db-2186-4d25-b78e-2218e714e035",
+        "type": "message",
+        "text": "西野先生からメモをいただきました\n<https:\/\/scrapbox.io\/nishinojunji-public\/%E3%83%87%E3%83%BC%E3%82%BF_AI_%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A0%94%E7%A9%B6>",
+        "user": "UHFLB6JPR",
+        "ts": "1554863789.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "nishinojunji-public",
+                "title": "データ AI スポーツ研究 - nishinojunji-public",
+                "title_link": "https:\/\/scrapbox.io\/nishinojunji-public\/%E3%83%87%E3%83%BC%E3%82%BF_AI_%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A0%94%E7%A9%B6",
+                "text": "データスポーツ、スポーツデータアナリティクス、スポーツとAIに関するメモランダム 機材 カメラ veo <https:\/\/app.veo.co\/> トラッキングデータ GPS GPS DGPS カタパルト <https:\/\/www.catapultsports.com\/> 無線レーダ計測（電波） 野球ピッチング球種センサ ドップラー計測（音波） ボール飛行速度対向計測 レーザ計測（レーザー光） 分析アウト",
+                "fallback": "nishinojunji-public: データ AI スポーツ研究 - nishinojunji-public",
+                "thumb_url": "https:\/\/scrapbox.io\/assets\/img\/content-logo.png",
+                "from_url": "https:\/\/scrapbox.io\/nishinojunji-public\/%E3%83%87%E3%83%BC%E3%82%BF_AI_%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A0%94%E7%A9%B6",
+                "thumb_width": 288,
+                "thumb_height": 288,
+                "service_icon": "https:\/\/scrapbox.io\/assets\/img\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/scrapbox.io\/nishinojunji-public\/%E3%83%87%E3%83%BC%E3%82%BF_AI_%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A0%94%E7%A9%B6"
+            }
+        ]
+    }
+]

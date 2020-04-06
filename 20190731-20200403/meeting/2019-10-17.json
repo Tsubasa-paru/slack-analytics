@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "b0aeba45-03ce-4c59-ac0d-f3807ab6d656",
+        "type": "message",
+        "text": "ゼミ資料\n<https:\/\/docs.google.com\/document\/d\/1-RpfQ6WJUjVkF9M5SRjJepmVkEfNCiqz1_y74yDXHA0\/edit?usp=sharing>",
+        "user": "UHEH8KZ7W",
+        "ts": "1571371749.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

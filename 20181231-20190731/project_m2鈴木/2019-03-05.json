@@ -1,0 +1,17 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551797034.000200",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1551797035.000300",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルの目的を設定しました : 実験関連を集めておく",
+        "purpose": "実験関連を集めておく"
+    }
+]

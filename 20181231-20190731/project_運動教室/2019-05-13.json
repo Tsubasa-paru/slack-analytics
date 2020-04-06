@@ -1,0 +1,73 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1557813647.000200",
+        "user": "UGPH97FDW",
+        "text": "<@UGPH97FDW>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1557813648.000400",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルに参加しました",
+        "inviter": "UGPH97FDW"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1557813648.000600",
+        "user": "UHEH8KZ7W",
+        "text": "<@UHEH8KZ7W>さんがチャンネルに参加しました",
+        "inviter": "UGPH97FDW"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1557813649.000800",
+        "user": "UGQ2ENZD0",
+        "text": "<@UGQ2ENZD0>さんがチャンネルに参加しました",
+        "inviter": "UGPH97FDW"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1557813650.001000",
+        "user": "UHFLB6JPR",
+        "text": "<@UHFLB6JPR>さんがチャンネルに参加しました",
+        "inviter": "UGPH97FDW"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1557813650.001200",
+        "user": "UHC5VBV5E",
+        "text": "<@UHC5VBV5E>さんがチャンネルに参加しました",
+        "inviter": "UGPH97FDW"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1557813651.001400",
+        "user": "UHFLC6N4X",
+        "text": "<@UHFLC6N4X>さんがチャンネルに参加しました",
+        "inviter": "UGPH97FDW"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1557813651.001600",
+        "user": "UHG1M1NQ6",
+        "text": "<@UHG1M1NQ6>さんがチャンネルに参加しました",
+        "inviter": "UGPH97FDW"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1557813651.001800",
+        "user": "UHDCWB95X",
+        "text": "<@UHDCWB95X>さんがチャンネルに参加しました",
+        "inviter": "UGPH97FDW"
+    }
+]

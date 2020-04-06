@@ -1,0 +1,250 @@
+[
+    {
+        "client_msg_id": "D7046E09-85D7-474F-A60A-125E2E5680DC",
+        "type": "message",
+        "text": "ゼミは3階でやります\n全員揃ってます。",
+        "user": "UHEH8KZ7W",
+        "ts": "1584072211.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHEH8KZ7W",
+            "ts": "1584072277.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tgns",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミは3階でやります\n全員揃ってます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584075129.001000",
+        "user": "UUZ15MZT4",
+        "text": "<@UUZ15MZT4>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584075139.001100",
+        "user": "UV0AL2ZNX",
+        "text": "<@UV0AL2ZNX>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584075260.001200",
+        "user": "UVBQW1MAR",
+        "text": "<@UVBQW1MAR>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "fc9d0df3-86b7-4746-bc40-906d706998ba",
+        "type": "message",
+        "text": "入れた人は:ballot_box_with_check:してね",
+        "user": "UGQV9DXRC",
+        "ts": "1584075336.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DgA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "入れた人は"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ballot_box_with_check"
+                            },
+                            {
+                                "type": "text",
+                                "text": "してね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC",
+                    "UV0AL2ZNX",
+                    "UVBQW1MAR",
+                    "UUZ15LS10",
+                    "UHC5VBV5E",
+                    "UUZ15MZT4"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UVBQW1MAR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584075362.002000",
+        "user": "UUZ15LS10",
+        "text": "<@UUZ15LS10>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "text": "slack使い方導入\n<https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FHFVARZNJ\/slack______.pptx>",
+        "files": [
+            {
+                "id": "FHFVARZNJ",
+                "created": 1553834836,
+                "timestamp": 1553834836,
+                "name": "slack導入.pptx",
+                "title": "slack導入.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 37966,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHFVARZNJ\/slack______.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHFVARZNJ\/download\/slack______.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHFVARZNJ-8812e9bf37\/slack_______converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHFVARZNJ-8812e9bf37\/slack_______thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FHFVARZNJ\/slack______.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHFVARZNJ-b9b5d8c68d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GKaVx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "slack使い方導入\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FHFVARZNJ\/slack______.pptx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FHFVARZNJ"
+        ],
+        "ts": "1584075383.002300",
+        "client_msg_id": "56ea59e1-918a-46a6-b469-7671a5af171b"
+    },
+    {
+        "client_msg_id": "948E4F27-7AB9-40DD-904C-F43058398BEC",
+        "type": "message",
+        "text": "この記事は面白い\n<https:\/\/medium.com\/@tomaspueyo\/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca>",
+        "user": "UHFLB6JPR",
+        "ts": "1584078811.004100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Coronavirus: Why You Must Act Now",
+                "title_link": "https:\/\/medium.com\/@tomaspueyo\/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca",
+                "text": "Politicians and Business Leaders: What Should You Do and When?",
+                "fallback": "Medium: Coronavirus: Why You Must Act Now",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/1*4kOJv8hmd5VFPcBL1mywsw.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "26 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1584076267,
+                "from_url": "https:\/\/medium.com\/@tomaspueyo\/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca",
+                "image_width": 414,
+                "image_height": 250,
+                "image_bytes": 111409,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/152\/152\/1*8I-HPL0bfoIzGied-dzOvA.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/@tomaspueyo\/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca"
+            }
+        ]
+    }
+]

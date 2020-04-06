@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "4d68e89c-d96d-4cab-9f40-a5c9f769148f",
+        "type": "message",
+        "text": "引継ぎ資料まとめ終わり\n<https:\/\/www.evernote.com\/shard\/s223\/sh\/cf82c4a5-a07b-fe2b-27a3-7f25a00bd6ad\/5b702b2048d6cf0f735527ff6f339caf>\nわからないことがあったら中の連絡先に連絡ください(ラインでもok)",
+        "user": "UGQV9DXRC",
+        "ts": "1585291832.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1585291862.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Evernote",
+                "title": "引継ぎ資料",
+                "title_link": "https:\/\/www.evernote.com\/shard\/s223\/sh\/cf82c4a5-a07b-fe2b-27a3-7f25a00bd6ad\/5b702b2048d6cf0f735527ff6f339caf",
+                "text": "・鈴木連絡先 　電話：090-7281-6191 　メール：mimiho.bell@gmail.com 　わからないことがあったら連絡ください ・住所録 　テプラ住所データ：運動教室住所録_1,_2(山崎さん2回分)、大河原研の住所データ 　その他住所録　　：運動教室住所録(山﨑さん2回分まとめ,電話番号はこっち) 　in　外付けハード　ファイル「住所録」 　ラベル印刷は以下のサイトでラベル屋さん...",
+                "fallback": "Evernote: 引継ぎ資料",
+                "thumb_url": "https:\/\/cdn1.evernote.com\/evernote.com\/img\/social-meta\/shared-note-thumbnail.png",
+                "from_url": "https:\/\/www.evernote.com\/shard\/s223\/sh\/cf82c4a5-a07b-fe2b-27a3-7f25a00bd6ad\/5b702b2048d6cf0f735527ff6f339caf",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/dashboard.svc.www.evernote.com\/app\/nv\/icons-1ec2b385e995168bc5bb4934b116d4a6\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.evernote.com\/shard\/s223\/sh\/cf82c4a5-a07b-fe2b-27a3-7f25a00bd6ad\/5b702b2048d6cf0f735527ff6f339caf"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kMxY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "引継ぎ資料まとめ終わり\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.evernote.com\/shard\/s223\/sh\/cf82c4a5-a07b-fe2b-27a3-7f25a00bd6ad\/5b702b2048d6cf0f735527ff6f339caf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nわからないことがあったら中の連絡先に連絡ください(ラインでもok)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

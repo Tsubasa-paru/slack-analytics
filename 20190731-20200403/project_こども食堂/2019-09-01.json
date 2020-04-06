@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "5f04e1c5-7694-4d00-a704-c540769f9316",
+        "type": "message",
+        "text": "<@UHEH8KZ7W>\n＊こども食堂当日までのタスクと現状確認したいこと＊\n　月曜に確認したいです！他にも気になることあったらリプライしておいてください～\n①科学の企画\n　→どう進めるか、どう教えるか\n　→材料の量と金額\n②タイムテーブル確定\n　→アイスをどこにいれるか、正確なタイムテーブルを確定\n③申込受付のキャンセル待ち連絡\n④保険申込(人数の上限が変更するかも？名簿と申込人数どうするか)　→　保険鳴海さんに連絡して確認",
+        "user": "UGQV9DXRC",
+        "ts": "1567345830.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E2E4BE50-871B-4599-A66F-390A5F43D73D",
+        "type": "message",
+        "text": "ごめんなさい、月曜日は今のところ学校行けるかが分からないです…。ごめんなさい。",
+        "user": "UHEH8KZ7W",
+        "ts": "1567351279.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567351279.001000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1567380338.000900",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567380338.000900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "10FC097D-F197-4001-A270-F0C22316F32F",
+        "type": "message",
+        "text": "参加者登録お願いします\n学生課の金子さん\n下記のとおり申し込みをさせていただけるでしょうか。\n対象児童：\n　金子仁美（ひとみ）多摩市立諏訪小学校4年1組\n　金子純也（じゅんや）同2年3組\n保護者氏名：金子恵\n保護者連絡先：090-4623-3226\n合計：3人\n集合：現地",
+        "user": "UHFLB6JPR",
+        "ts": "1567380155.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "74f46aea-a51a-40f9-8105-1a4a64750007",
+        "type": "message",
+        "text": "おっ、了解\n私も火水は甥の調子次第でわからないので、、\n①については以前からお願いしてたと思うんだけど、どのくらいまで考えられてるとかある？",
+        "user": "UGQV9DXRC",
+        "ts": "1567380338.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567351279.001000",
+        "parent_user_id": "UHEH8KZ7W"
+    },
+    {
+        "client_msg_id": "2b148488-8a8a-44ec-8762-41ec2b05d641",
+        "type": "message",
+        "text": "児童が2名、保護者1名ということですね\n承知しました",
+        "user": "UGQV9DXRC",
+        "ts": "1567380400.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c9b6d089-425a-4e70-9182-9b08c7b5c05d",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n先ほどの金子様お子さんですが、保険に加入される場合は住所が必要となります。\nご確認いただけますでしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1567392864.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

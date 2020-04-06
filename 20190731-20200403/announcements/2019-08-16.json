@@ -1,0 +1,394 @@
+[
+    {
+        "client_msg_id": "91AC4CE1-25B3-4EA1-A131-69210E8E1CD0",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> <@UHC5VBV5E> \n面接だけど、まずは平均を確実にとるのが重要です。\n・謙虚になりすぎて自分を過小評価した発言はしない\n・ただし、知ったかぶりはしない\n・答えの内容よりも印象の方が大切\n明るく、元気よく答えること\n声の大きさが大事で、はっきり大きめがいいです\n＊面接の質問が個人差を出せるものではないから、自然と回答内容が似たものになるのは仕方なく、かつ点差もつきにくい配点だから、「印象で勝負する」\n・↑を踏まえた上で、\n現状→院生活→卒業後の展望に繋がりがあると良い。また、そのことに根拠があるとなお良い。試験の結果はどうだったかは、感じたことをそのまま答えればよく、できなかった科目を突っ込まれたらこれからしっかり勉強しますと答えればよい。\n繰り返しになりますが、回答内容よりも受け答えの印象が大事！",
+        "user": "UHFLB6JPR",
+        "ts": "1566003703.016000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566003703.016000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1566003776.016700",
+        "reply_users": [
+            "UHEH8KZ7W"
+        ],
+        "replies": [
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1566003776.016700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2A394A0B-BFDB-458D-A07B-D3647F75BC01",
+        "type": "message",
+        "text": "アドバイスありがとうございます！ラストスパート頑張ります！",
+        "user": "UHEH8KZ7W",
+        "ts": "1566003776.016700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566003703.016000",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "3e6af10b-61c5-4ed2-a89a-45e776734a80",
+        "type": "message",
+        "text": "承知しました！\nちなみにスーツはネクタイとジャケットの着用はしなくて良いですか？",
+        "user": "UHC5VBV5E",
+        "ts": "1566003851.017400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6EA25AC0-3C3D-4CA1-B2F6-9B1245D03DE8",
+        "type": "message",
+        "text": "襟付きシャツと黒のパンツ とまともな靴なら大丈夫だよ",
+        "user": "UHFLB6JPR",
+        "ts": "1566004426.018700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0AF4E729-1C9B-4BC6-AB84-CDD9232361B6",
+        "type": "message",
+        "text": "シャツはズボンインだよ",
+        "user": "UHFLB6JPR",
+        "ts": "1566004441.019100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "346b938f-93ab-459f-bd63-96ea7eea9bf7",
+        "type": "message",
+        "text": "シャツの袖をまくるのは無しですか？",
+        "user": "UHC5VBV5E",
+        "ts": "1566004481.019500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2514298D-5D28-41B5-81E7-E6B62F4C8A7E",
+        "type": "message",
+        "text": "なし",
+        "user": "UHFLB6JPR",
+        "ts": "1566004617.019700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E86F321E-11FC-4C2B-BF24-884A0A10604B",
+        "type": "message",
+        "text": "それなら最初から半袖\n白のポロシャツでもいいと思う",
+        "user": "UHFLB6JPR",
+        "ts": "1566004653.020800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2ec27d2e-9b2b-4816-9907-b9d100cf3849",
+        "type": "message",
+        "text": "わかりました\nありがとうございます",
+        "user": "UHC5VBV5E",
+        "ts": "1566004692.021000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "09ED61F1-9A4C-42AD-A202-4B7C1044B13F",
+        "type": "message",
+        "text": "根本は受験番号1だから1人目は確実で、待つことなくすぐ終わるよ",
+        "user": "UHFLB6JPR",
+        "ts": "1566004917.022500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "43d26683-4af5-4029-8572-90959c847a91",
+        "type": "message",
+        "text": "あわわわ",
+        "user": "UHC5VBV5E",
+        "ts": "1566004948.022700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A9664214-1B91-480A-9818-BEFC4B0474F0",
+        "type": "message",
+        "text": "良い方向に考えれば、その会場での基準にするから絶対に悪い点はつかない",
+        "user": "UHFLB6JPR",
+        "ts": "1566005050.024500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cf163863-89ec-4efc-8a0b-a9aa80dca525",
+        "type": "message",
+        "text": "なるほど\nわかりました",
+        "user": "UHC5VBV5E",
+        "ts": "1566005083.024800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5C616DCF-5084-42D3-96E2-B81F48672EAD",
+        "type": "message",
+        "text": "ずるい…",
+        "user": "UHEH8KZ7W",
+        "ts": "1566005764.025100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ccb6fce0-476d-4bcf-aa52-1e6852599ea4",
+        "type": "message",
+        "text": "ワタシ　ガンショ　ハヤク　ダシタ",
+        "user": "UHC5VBV5E",
+        "ts": "1566005901.025700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "898A9E96-731E-4C92-ABA5-0618B2B15FB2",
+        "type": "message",
+        "text": "ジャア ジュケンヒョウ コウカン シヨウ\nハヤク カエリタイ",
+        "user": "UHEH8KZ7W",
+        "ts": "1566005983.026700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a843315e-528f-4479-87b3-a7273fa88caf",
+        "type": "message",
+        "text": "がーんばれー:v::v:",
+        "user": "UGQV9DXRC",
+        "ts": "1566006482.027200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHC5VBV5E",
+                    "UHEH8KZ7W"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

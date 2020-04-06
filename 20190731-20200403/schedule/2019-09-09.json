@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "7db6965c-8158-4b35-90b8-21a5aadf2c38",
+        "type": "message",
+        "text": "家族が会議で戻ってこれず甥を引き継ぎできないので学生ゼミに間に合わない～:sob:",
+        "user": "UGQV9DXRC",
+        "ts": "1568084728.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cdc76bdc-920c-4286-ac7b-80eb1bdf94d5",
+        "type": "message",
+        "text": "ドキュメントの所に詳録あげてくれたら見ておくので、先に始めててください",
+        "user": "UGQV9DXRC",
+        "ts": "1568084763.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

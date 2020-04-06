@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "007a35a3-14ba-452a-971f-f8addcf59f69",
+        "type": "message",
+        "text": "今週土曜日の9月14日はこども食堂です\n大河原研はこども食堂の受付と、アイスクリーム作りのサポートになります\n遅くても14:00には集合にしたいのでよろしくお願いします！\n岡田、福田、根本は参加確認してますが、<@UHG1M1NQ6> は大丈夫？",
+        "user": "UGQV9DXRC",
+        "ts": "1568108091.005200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ec953da8-bb6e-4ad2-81d4-ae4cdf7ee190",
+        "type": "message",
+        "text": "大丈夫です！",
+        "user": "UHG1M1NQ6",
+        "ts": "1568120475.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ddf75969-9504-4d91-8b5c-8ae4a5836009",
+        "type": "message",
+        "text": "よかった！\nよろしくお願いします！",
+        "user": "UGQV9DXRC",
+        "ts": "1568120560.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHG1M1NQ6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

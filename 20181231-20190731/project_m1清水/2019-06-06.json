@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "6C10D4E3-C242-42A7-971D-3BEEE1A59319",
+        "type": "message",
+        "text": "<https:\/\/eikaiwa.dmm.com\/uknow\/questions\/41961\/>",
+        "user": "UHEH8KZ7W",
+        "ts": "1559875995.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "DMM英会話なんてuKnow?",
+                "title": "体感時間って英語でなんて言うの？ - DMM英会話なんてuKnow?",
+                "title_link": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/41961\/",
+                "text": "25分間が体感時間でいうと3分ぐらいみたいな言い回しを教えてください",
+                "fallback": "DMM英会話なんてuKnow?: 体感時間って英語でなんて言うの？ - DMM英会話なんてuKnow?",
+                "image_url": "https:\/\/img.eikaiwa.dmm.com\/assets\/uknow\/fb_ogp.png",
+                "from_url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/41961\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 28296,
+                "service_icon": "https:\/\/img.eikaiwa.dmm.com\/assets\/uknow\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/41961\/"
+            }
+        ]
+    }
+]

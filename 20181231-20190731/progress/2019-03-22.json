@@ -1,0 +1,93 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1553247093.000200",
+        "user": "UGQ2ENZD0",
+        "text": "<@UGQ2ENZD0>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1553247093.000300",
+        "user": "UGQ2ENZD0",
+        "text": "<@UGQ2ENZD0>さんがチャンネルの目的を設定しました : 各自の進捗を報告しあう場です．細かな進捗でもどんどん報告していきましょう！",
+        "purpose": "各自の進捗を報告しあう場です．細かな進捗でもどんどん報告していきましょう！",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1553247094.000500",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルに参加しました",
+        "inviter": "UGQ2ENZD0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1553247094.000700",
+        "user": "UGPH97FDW",
+        "text": "<@UGPH97FDW>さんがチャンネルに参加しました",
+        "inviter": "UGQ2ENZD0"
+    },
+    {
+        "client_msg_id": "d57d8bb9-a103-47d4-b366-52c630fab2e4",
+        "type": "message",
+        "text": "鈴木ですー\n今日はレビュー論文の文献をエンドノートに紐付け終わって、文献数も訂正終わりました。後は特徴量のチェックがまだなので次週やります。\n",
+        "user": "UGQV9DXRC",
+        "ts": "1553247179.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "db7eb750-3c51-46c2-984d-c9bf390479a7",
+        "type": "message",
+        "text": "*Progrres*\n&gt; ・PCの見積もりが完了しました\n&gt; ・ECSSについて，航空券の予約が完了しました\n&gt; ・併せて，パスポートの申請およびクレジットカードの作成を行いました．\n*Task*\n&gt; ・倫理審査申請書類の作成\n&gt; ・pythonの勉強方法の提案",
+        "user": "UGQ2ENZD0",
+        "ts": "1553247424.004000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

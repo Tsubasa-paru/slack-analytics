@@ -1,0 +1,84 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJUFPSJP8",
+                "created": 1558069952,
+                "timestamp": 1558069952,
+                "name": "5.17研究デザイン案.pdf",
+                "title": "5.17研究デザイン案.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 315435,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJUFPSJP8\/5.17_____________________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJUFPSJP8\/download\/5.17_____________________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJUFPSJP8-c8208113b4\/5.17______________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FJUFPSJP8\/5.17_____________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJUFPSJP8-1aa327bcf4",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHG1M1NQ6",
+        "display_as_bot": false,
+        "ts": "1558069952.000100",
+        "client_msg_id": "21730f39-172b-48ba-ad35-20a90806f0ac"
+    },
+    {
+        "client_msg_id": "807B6616-EEBD-41AA-B355-A2A20969F78E",
+        "type": "message",
+        "text": "<https:\/\/neu-brains.co.jp\/image\/pdf\/ABC_guide.pdf>",
+        "user": "UHFLB6JPR",
+        "ts": "1558072711.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E817FDDF-B360-4D9B-A6B1-345FFD36D34B",
+        "type": "message",
+        "text": "費用が載ってる",
+        "user": "UHFLB6JPR",
+        "ts": "1558072725.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

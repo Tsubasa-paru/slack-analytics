@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "e3d4e51a-4046-4912-ad4b-34cc460e4163",
+        "type": "message",
+        "text": "使ってたPCモニターの買い替えをして余ったので、誰か学生部屋にもっていってください。\nもっと古いものと置き換えしてください。",
+        "user": "UHFLB6JPR",
+        "ts": "1583291524.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D6z2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "使ってたPCモニターの買い替えをして余ったので、誰か学生部屋にもっていってください。\nもっと古いものと置き換えしてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC",
+                    "UHEH8KZ7W"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

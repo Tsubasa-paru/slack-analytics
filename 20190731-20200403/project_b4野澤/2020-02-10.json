@@ -1,0 +1,118 @@
+[
+    {
+        "type": "message",
+        "text": "、",
+        "files": [
+            {
+                "id": "FTV55RX54",
+                "created": 1581345703,
+                "timestamp": 1581345703,
+                "name": "卒論抄録野澤KO.docx",
+                "title": "卒論抄録野澤KO.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHFLC6N4X",
+                "editable": false,
+                "size": 36283,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTV55RX54\/__________________ko.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTV55RX54\/download\/__________________ko.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTV55RX54-ee79ba345b\/__________________ko_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTV55RX54-ee79ba345b\/__________________ko_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLC6N4X\/FTV55RX54\/__________________ko.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FTV55RX54-7c7df1ba05",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5al2m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHFLC6N4X",
+        "display_as_bot": false,
+        "ts": "1581345706.000100",
+        "client_msg_id": "e55a3257-974a-4c3b-92b4-d33f578ede24"
+    },
+    {
+        "type": "message",
+        "text": "、",
+        "files": [
+            {
+                "id": "FTV56UEK0",
+                "created": 1581345739,
+                "timestamp": 1581345739,
+                "name": "卒論発表.pptx",
+                "title": "卒論発表.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHFLC6N4X",
+                "editable": false,
+                "size": 550495,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTV56UEK0\/____________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTV56UEK0\/download\/____________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTV56UEK0-d8d60e85cc\/_____________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTV56UEK0-d8d60e85cc\/_____________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLC6N4X\/FTV56UEK0\/____________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FTV56UEK0-7105181d36",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z1ck",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHFLC6N4X",
+        "display_as_bot": false,
+        "ts": "1581345745.000400",
+        "client_msg_id": "543a6267-46fa-4a36-a809-db57aff4e64a"
+    }
+]

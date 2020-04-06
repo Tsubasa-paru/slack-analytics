@@ -1,0 +1,253 @@
+[
+    {
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n研究費の申請書に関する論文まとめです\n卒論内容をざっとまとめてみましたが、大丈夫でしょうか？",
+        "files": [
+            {
+                "id": "FLKHBDL8M",
+                "created": 1563517419,
+                "timestamp": 1563517419,
+                "name": "日本人の活動分類論文.xlsx",
+                "title": "日本人の活動分類論文.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 16468,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLKHBDL8M\/______________________________.xlsx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLKHBDL8M\/download\/______________________________.xlsx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLKHBDL8M-bf5d6493d1\/_______________________________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLKHBDL8M-bf5d6493d1\/_______________________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FLKHBDL8M\/______________________________.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FLKHBDL8M-23f91fea40",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1563517420.001300",
+        "client_msg_id": "e663632a-1c15-41dc-9de5-5f928a81f436"
+    },
+    {
+        "client_msg_id": "25D3BFC6-3E54-41A3-A51A-004358CACC37",
+        "type": "message",
+        "text": "まず対応ありがとう",
+        "user": "UHFLB6JPR",
+        "ts": "1563518326.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "799AE6A5-D9BA-486C-8169-02FD6621EC4A",
+        "type": "message",
+        "text": "midorikawa(緑川)の研究も該当するかなと思ってます。高橋がピックアップしていた気がするけど",
+        "user": "UHFLB6JPR",
+        "ts": "1563518404.004100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ce4fa222-9850-4858-86d2-edabf191d733",
+        "type": "message",
+        "text": "高橋さんの卒論で特記されていたのは2件だけでしたが、探します",
+        "user": "UGQV9DXRC",
+        "ts": "1563518510.005400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "78b1a516-a13a-46b2-9755-4354719d9673",
+        "type": "message",
+        "text": "参考ついてました\nT. Midorikawa, S. Tanaka, K. Kaneko, K. Koizumi, K. Ishikawa-Takata, J. Futami, I. Tabata, Evaluation of low-intensity physical activity by triaxial accelerometry, Obesity (Silver Spring) 15(12) (2007) 3031-8.",
+        "user": "UGQV9DXRC",
+        "ts": "1563518634.006000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8370342f-272f-46e3-b017-926b0ef408fb",
+        "type": "message",
+        "text": "&gt;日本人を対象とした生活活動の分類は、生活活動を主とする非歩行活動と歩行活動に判別し、それらのエネルギー消費量を推定するものであり、2分類に限定されている[8, 9]。\n[9]は先ほどアップしたファイルの1にあたるY.oshimaのものです",
+        "user": "UGQV9DXRC",
+        "ts": "1563518683.006700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "96add137-183f-4eae-b59c-d9859855f764",
+        "type": "message",
+        "text": "私が投稿した2件については、以下の文章に引用されていたものです。\n&gt;　2.1項の加速度計を用いた生活活動分類の先行研究の中から、日本人を対象とした生活活動分類の研究について焦点をあてると、日本人を対象とした生活活動分類の研究はほとんど行われていない。\n&gt;日本人の生活活動分類の研究の進捗を理解するために、2010年に行われた研究[9]と2014年に行われた研究[82]の手法および結果を紹介する。",
+        "user": "UGQV9DXRC",
+        "ts": "1563518815.008100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d14cb791-8a74-424c-a4a8-e37474d139a7",
+        "type": "message",
+        "text": "T. Midorikawa, S. も表に加えてほしいのと、それに合わせて上記の文章を若干変えてほしいです",
+        "user": "UHFLB6JPR",
+        "ts": "1563519078.009100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "344743c2-b3a6-4826-8e30-c39dc3cd1b73",
+        "type": "message",
+        "text": "ちなみに装着部位が不明となっていますが、腰部です",
+        "user": "UHFLB6JPR",
+        "ts": "1563519137.009600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "edc764aa-f5d5-40a8-921c-65a648933ffb",
+        "type": "message",
+        "text": "上記の文章とは、装着部位の件でしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1563519268.009700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "04b125fa-4c5c-481d-9388-f8d04d9b995d",
+        "type": "message",
+        "text": "↓１）と２）をうまく統合して、midorikawaも引用しつつ、まとめてほしいです。\n＊ただし、細かい研究内容の説明は不要です。本当に大雑把で\n１）\n日本人を対象とした生活活動の分類は、生活活動を主とする非歩行活動と歩行活動に判別し、それらのエネルギー消費量を推定するものであり、2分類に限定されている[8, 9]。\n２）\n2.1項の加速度計を用いた生活活動分類の先行研究の中から、日本人を対象とした生活活動分類の研究について焦点をあてると、日本人を対象とした生活活動分類の研究はほとんど行われていない。\n&gt;日本人の生活活動分類の研究の進捗を理解するために、2010年に行われた研究[9]と2014年に行われた研究[82]の手法および結果を紹介する。",
+        "user": "UHFLB6JPR",
+        "ts": "1563519437.011800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

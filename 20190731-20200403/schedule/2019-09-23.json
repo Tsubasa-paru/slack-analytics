@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "ef266ea7-4a11-45b5-ba9f-cce71aa2e1f4",
+        "type": "message",
+        "text": "自転車パンクのため遅れます。",
+        "user": "UHG1M1NQ6",
+        "ts": "1569281273.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dcafe353-cd29-4833-ab26-7a42441adfcb",
+        "type": "message",
+        "text": "腹痛により遅れます",
+        "user": "UHFLC6N4X",
+        "ts": "1569281355.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

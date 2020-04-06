@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "There are *3* events this week",
+        "ts": "1557043201.000100",
+        "username": "ohkawaralab@gmail.com",
+        "bot_id": "BH8BEDHKK",
+        "attachments": [
+            {
+                "fallback": "学生ゼミ: <!date^1557201600^{date_short_pretty} from {time}|May 6th, 2019 from 1:00 PM> to <!date^1557205200^{time}|2:00 PM GMT+0900>",
+                "text": "<!date^1557201600^{date_short_pretty} from {time}|May 6th, 2019 from 1:00 PM> to <!date^1557205200^{time}|2:00 PM GMT+0900>",
+                "title": "学生ゼミ",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=bDkxN2MzMTJqbWZvYmVxN2JzbjFpaDVldGdfMjAxOTA1MDdUMDQwMDAwWiBvaGthd2FyYWxhYkBt",
+                "color": "4986e7",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "ゼミ: <!date^1557460800^{date_short_pretty} from {time}|May 9th, 2019 from 1:00 PM> to <!date^1557464400^{time}|2:00 PM GMT+0900>",
+                "text": "<!date^1557460800^{date_short_pretty} from {time}|May 9th, 2019 from 1:00 PM> to <!date^1557464400^{time}|2:00 PM GMT+0900>",
+                "title": "ゼミ",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=ZmR2NTNwNnRwNjJqZmFoYmEycmYxYmwzZmNfMjAxOTA1MTBUMDQwMDAwWiBvaGthd2FyYWxhYkBt",
+                "color": "4986e7",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "研究指導計画書(m): May 7th, 2019",
+                "text": "May 7th, 2019",
+                "title": "研究指導計画書(m)",
+                "id": 3,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NWdldWNnMjg4NDlqY3BwdTRqcmZibWZnaWcgb2hrYXdhcmFsYWJAbQ",
+                "color": "4986e7",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "31fe3db9-51ad-4f4f-87ed-35ed1cd5ae3b",
+        "type": "message",
+        "text": "受注され次第、先生のメールアドレスにサイコムから連絡が届くと思います",
+        "user": "UGQ2ENZD0",
+        "ts": "1555573112.003200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555558915.005600",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "3f43acbb-903c-4b51-8dbb-53f38f8509aa",
+        "type": "message",
+        "text": "明日は予定していた通りゼミ後に新メンバー歓迎会を西6でします。\n買い出しをしたいので12時頃に来れる人は研究室に来てください。",
+        "user": "UGPH97FDW",
+        "ts": "1555583578.005500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQV9DXRC",
+                    "UGQ2ENZD0"
+                ],
+                "count": 2
+            },
+            {
+                "name": "confetti_ball",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5CDD982C-6335-405F-9137-6CAF5025039F",
+        "type": "message",
+        "text": "明日のゼミは2時から西6に変更をお願いします",
+        "user": "UHFLB6JPR",
+        "ts": "1555589605.007000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGPH97FDW",
+                    "UHFLC6N4X",
+                    "UHC5VBV5E",
+                    "UGQV9DXRC",
+                    "UGQ2ENZD0",
+                    "UHG1M1NQ6"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

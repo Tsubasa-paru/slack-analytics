@@ -1,0 +1,188 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/file\/d\/1gipr1-EZ0s8VuBO3ZIy7nEiXMrKmruTC\/view?usp=sharing>",
+        "files": [
+            {
+                "id": "FRBQY26SV",
+                "created": 1576211568,
+                "timestamp": 1576211568,
+                "name": "健康支援学会2020_都竹ver03.docx",
+                "title": "健康支援学会2020_都竹ver03.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 471069,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRBQY26SV\/__________________2020_______ver03.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRBQY26SV\/download\/__________________2020_______ver03.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRBQY26SV-f76eb9f1af\/__________________2020_______ver03_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRBQY26SV-f76eb9f1af\/__________________2020_______ver03_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FRBQY26SV\/__________________2020_______ver03.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FRBQY26SV-bd49075c53",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gAGmi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1gipr1-EZ0s8VuBO3ZIy7nEiXMrKmruTC\/view?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHG1M1NQ6",
+        "display_as_bot": false,
+        "ts": "1576211570.000100",
+        "client_msg_id": "b5ee494a-84b1-4e4d-bd82-ced190a4d3a9"
+    },
+    {
+        "client_msg_id": "6103CBAB-82B9-4C08-92CA-F8AFC3651ED3",
+        "type": "message",
+        "text": "タスク\nタブレットと繋げられるhdmit端子がラボにあるか確認して、なければ購入してもらう\n来週のゼミまでにプロジェクターで見せられるように動作を確認する",
+        "user": "UGQV9DXRC",
+        "ts": "1576214805.002100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EnE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "タスク"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "タブレットと"
+                            },
+                            {
+                                "type": "text",
+                                "text": "繋"
+                            },
+                            {
+                                "type": "text",
+                                "text": "げられる"
+                            },
+                            {
+                                "type": "text",
+                                "text": "hdmit"
+                            },
+                            {
+                                "type": "text",
+                                "text": "端子がラボにあるか確認して、なければ購入してもらう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "来週のゼミまでにプロジェクターで見せられるように動作を確認する"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/drive\/folders\/1FKXJ6Xgo2-NXR3JdHaCEYERK0hr_vEZB>",
+        "files": [
+            {
+                "id": "FR9CB82D8",
+                "created": 1576219814,
+                "timestamp": 1576219814,
+                "name": "健康支援学会2020_都竹ver04.docx",
+                "title": "健康支援学会2020_都竹ver04.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 474051,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR9CB82D8\/__________________2020_______ver04.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR9CB82D8\/download\/__________________2020_______ver04.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR9CB82D8-44b62824e4\/__________________2020_______ver04_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR9CB82D8-44b62824e4\/__________________2020_______ver04_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FR9CB82D8\/__________________2020_______ver04.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FR9CB82D8-ee312f024d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0FMfw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1FKXJ6Xgo2-NXR3JdHaCEYERK0hr_vEZB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHG1M1NQ6",
+        "display_as_bot": false,
+        "ts": "1576219816.002200",
+        "client_msg_id": "ed0f6989-5898-4bb3-8ba0-d82cd2fb65b6"
+    }
+]

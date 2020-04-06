@@ -1,0 +1,165 @@
+[
+    {
+        "client_msg_id": "7A6F073B-01F4-4BF8-8E8C-F0FD3B947A44",
+        "type": "message",
+        "text": "申し訳ありません。ポスター期限を明日の13時までに伸ばして頂きたいです。\n\n今日大学で作業をしていたのですが、ECSSの時から使っていたデータには服薬、病気の判定情報を用いていなく、追加するためにファイルメーカーでデータセットを1から作り直す必要があり、再現に大きく時間がかかってしまってしまいました。\n現在エクセルに出すところまで出来たのですが、フリーズしてしまい、困っています。\nレイアウトや文章の中身もまだ見れていません。",
+        "user": "UGPH97FDW",
+        "ts": "1567937402.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "FD86AABE-13CC-4E88-851A-B550844D77A6",
+        "type": "message",
+        "text": "わかりました\nCKDの結果出しは火曜日の朝8時でいけますか？",
+        "user": "UHFLB6JPR",
+        "ts": "1567940086.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B084B01F-68FE-42A2-A822-A9E2A0A1822D",
+        "type": "message",
+        "text": "はい。何かしらの結果は出せるところまでするようにします。",
+        "user": "UGPH97FDW",
+        "ts": "1567941694.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "遅くなりました。糖尿病患者が少ないと思い改めて、データを確認しましたが、間違いはありませんでした。データセット作成の際のカットで大きく削られたのだと思います。",
+        "files": [
+            {
+                "id": "FN78EQZQW",
+                "created": 1568006241,
+                "timestamp": 1568006241,
+                "name": "日本体力医学会ポスター岡田4.pptx",
+                "title": "日本体力医学会ポスター岡田4.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGPH97FDW",
+                "editable": false,
+                "size": 13233477,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN78EQZQW\/_______________________________________4.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN78EQZQW\/download\/_______________________________________4.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGPH97FDW\/FN78EQZQW\/_______________________________________4.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FN78EQZQW-11862306dc",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGPH97FDW",
+        "display_as_bot": false,
+        "ts": "1568006272.000100",
+        "client_msg_id": "eed3455a-a134-48fc-8ce9-01296edc8f56"
+    },
+    {
+        "client_msg_id": "e841d426-c87f-45f3-a2ca-b45f81581a4d",
+        "type": "message",
+        "text": "表現等の微修正は必要ですが、とりあえず勝川先生に送ってください。",
+        "user": "UHFLB6JPR",
+        "ts": "1568007547.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f9f927cf-1729-4063-a456-a1236cfb3abd",
+        "type": "message",
+        "text": "承知いたしました。",
+        "user": "UGPH97FDW",
+        "ts": "1568007858.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ee8e0a70-bb35-4219-a257-07f05e477609",
+        "type": "message",
+        "text": "表の線が細い、ANNの概要図が枠の上の方に配置されすぎているのは気になります。学生ゼミでアドバイスをもらって",
+        "user": "UHFLB6JPR",
+        "ts": "1568007995.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

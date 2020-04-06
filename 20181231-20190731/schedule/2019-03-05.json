@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "BC087487-1E63-4268-BCEE-3E7133D432ED",
+        "type": "message",
+        "text": "3\/17 伊藤実験 集合10時半 実施11時〜14時 <#CGNQF4DTJ|_experiment> ",
+        "user": "UGQV9DXRC",
+        "ts": "1551797329.003800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A86A7D83-8A88-43B5-9F14-F7DB0654AEB0",
+        "type": "message",
+        "text": "3\/19 企業と面会 10時 <#CGPSV31U5|_meeting>",
+        "user": "UGQV9DXRC",
+        "ts": "1551797460.005200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1551838999.000000"
+        }
+    },
+    {
+        "client_msg_id": "531fa330-3ecf-4c3f-a20f-311a7d05b146",
+        "type": "message",
+        "text": "3\/15 ゼミ13時　<#CGPSV31U5|_meeting>",
+        "user": "UGQV9DXRC",
+        "ts": "1551838916.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "59f287ac-06f0-487e-9039-6b75eb3ee80c",
+        "type": "message",
+        "text": "3\/8 金 保険の話 12-13時",
+        "user": "UGQV9DXRC",
+        "ts": "1551839114.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

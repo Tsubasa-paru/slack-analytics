@@ -1,0 +1,153 @@
+[
+    {
+        "type": "message",
+        "text": "特徴量：加速度3軸合成値、心拍数\nsegment：1分\nなかなかよくなった\nsegment30秒あたりは期待できそう",
+        "files": [
+            {
+                "id": "FS5GMS5C6",
+                "created": 1577450697,
+                "timestamp": 1577450697,
+                "name": "右手首_seg1min_feat2.png",
+                "title": "右手首_seg1min_feat2.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 630540,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FS5GMS5C6\/__________seg1min_feat2.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FS5GMS5C6\/download\/__________seg1min_feat2.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FS5GMS5C6-4a9c79a95d\/__________seg1min_feat2_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FS5GMS5C6-4a9c79a95d\/__________seg1min_feat2_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FS5GMS5C6-4a9c79a95d\/__________seg1min_feat2_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 328,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FS5GMS5C6-4a9c79a95d\/__________seg1min_feat2_480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 437,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FS5GMS5C6-4a9c79a95d\/__________seg1min_feat2_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FS5GMS5C6-4a9c79a95d\/__________seg1min_feat2_720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 720,
+                "thumb_720_h": 655,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FS5GMS5C6-4a9c79a95d\/__________seg1min_feat2_800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 728,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FS5GMS5C6-4a9c79a95d\/__________seg1min_feat2_960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 960,
+                "thumb_960_h": 874,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FS5GMS5C6-4a9c79a95d\/__________seg1min_feat2_1024.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 932,
+                "image_exif_rotation": 1,
+                "original_w": 4634,
+                "original_h": 4218,
+                "thumb_tiny": "AwArADDT70Ud6KAEZdw6kfQ0KMDGSfrS0UAFFGaTIzjvQAiZwc+p\/nTqO9IcnigANH1oAwKQtjPHT3FADqYOZG9gKVX3HoR+IoAIcn1oAdzn2ooooAM8dKQqD1UHPtQyhhhhmgAAYAxQAAAHhQKUUUUAf\/\/Z",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FS5GMS5C6\/__________seg1min_feat2.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FS5GMS5C6-812b0f3ccf",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QtF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "特徴量：加速度3軸合成値、心拍数\nsegment：1分\nなかなかよくなった\nsegment30秒あたりは期待できそう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1577450709.000100",
+        "client_msg_id": "aa1c19aa-b960-4d46-8759-174f241f53ea"
+    },
+    {
+        "client_msg_id": "7EF591F1-E5BB-49D2-94AB-B0F566F4CDA2",
+        "type": "message",
+        "text": "30秒や1分のエポック長で推定がうまくいっても実生活では微妙です\n長くても10秒エポック長にしたいです\n人が同じ行動を30秒以上で30 秒単位で続けることってなかなかないでしょう<@UGQV9DXRC> ",
+        "user": "UHFLB6JPR",
+        "ts": "1577456999.005200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "EC641C42-D8E8-49FC-9EC1-235DC45CA528",
+        "type": "message",
+        "text": "なるほどですね\nちなみに今回は加速度200hz、心拍数1hzなのでエポック長1秒くらいの推定が一番精度良くなるのではと思っております",
+        "user": "UHC5VBV5E",
+        "ts": "1577491160.003100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "D8C937FD-0C22-4C57-9BB4-04830ACC60BE",
+        "type": "message",
+        "text": "1秒エポック長でエネルギーも分類もできると良いね\n分類はもう少し細かくする必要がありそうだけど",
+        "user": "UHFLB6JPR",
+        "ts": "1577491456.005300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_ok",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

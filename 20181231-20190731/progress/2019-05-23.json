@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "dc5c2167-d213-4cf7-bb18-098d34f70655",
+        "type": "message",
+        "text": "2019\/05\/23\n&gt;1，2限の授業を受けた\n&gt;Happinessの要約→Chapter01完了、Chapter02途中\n&gt;研究室で使う用のイヤホン購入\n&gt;PCでKindleを自分のカスタマイズで使う方法が分かった",
+        "user": "UHEH8KZ7W",
+        "ts": "1558608207.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0be2f172-6868-4295-ac51-edddad7998b2",
+        "type": "message",
+        "text": "今日は\n活動分類つづき\n&gt;被験者5人増やして、一旦結果をまとめた\n&gt;今後のことは明日の資料で",
+        "user": "UGQV9DXRC",
+        "ts": "1558610578.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "92bb49af-bbb2-40cb-b31c-4e0077000800",
+        "type": "message",
+        "text": "今日は\n&gt; 覚證寺の運動教室に参加した\n&gt;&gt; 6月初週は下條さんが来られないとのこと．なので私が参加する予定です\n&gt; 倫理審査申請書を書き直した\n&gt; 計画書を書いた\n&gt; 同意説明文を書いた\n&gt; 付属資料を用意した\nまだまだ\n&gt; 倫理審査申請書の内容がたりない\n&gt; フレイル予防のコンセプトおよびシステムの概要がたりない",
+        "user": "UGQ2ENZD0",
+        "ts": "1558613594.003300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1558613773.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95b0de5c-e980-44d3-a9af-3481bd159159",
+        "type": "message",
+        "text": "パワポの資料をプロジェクトに更新した。\n\n抄録は今日は出来なかった。\n明日午前中に相談して方針を決める。",
+        "user": "UGPH97FDW",
+        "ts": "1558616815.004800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

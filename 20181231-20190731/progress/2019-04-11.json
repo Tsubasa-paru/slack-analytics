@@ -1,0 +1,118 @@
+[
+    {
+        "client_msg_id": "258f0184-702c-4957-8c46-06947778cbf1",
+        "type": "message",
+        "text": "今日は\n&gt; ・覚證寺の運動教室に参加してきました\n&gt; ・覚證寺の住職さんから，「花まつり」を開催するので来年度は電通大にも手伝ってもらいたいな～という言葉をいただきました\n&gt; ・今年度の「花まつり」は今週の土曜日4\/13の11:00～13:00で行うようです\n&gt; ・栄養状態の評価に対するフィードバック手法を検討しました．開発環境が整いしだい，楽天レシピAPIを試して見ようと思います\n&gt; ・福田くんと筋トレ:muscle:しました",
+        "user": "UGQ2ENZD0",
+        "ts": "1554974108.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1554974156.000000"
+        },
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6f86e06d-8cae-4058-801e-ad2f95becc79",
+        "type": "message",
+        "text": "今日は就職関連で不在でした:bouquet: ",
+        "user": "UGQV9DXRC",
+        "ts": "1554974367.006400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "366CDE4F-EBFD-49D4-BC16-BCE6A59758C0",
+        "type": "message",
+        "text": "2019\/04\/11\n・授業を受けました\n・幸福論の読解の続き\n・TOEICの間違い直し\n・清水先輩と筋トレ",
+        "user": "UHEH8KZ7W",
+        "ts": "1554976210.008100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UGQV9DXRC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e2db7418-2281-4c64-9c6d-e272c4f98071",
+        "type": "message",
+        "text": "今日は\n&gt;・ニューラルネットワークの実行結果を、数値をいろいろいじって向上させてみた。\n&gt;・進捗報告用にまとめた\n&gt;・pubmedで先行研究を探した。(途中)",
+        "user": "UGPH97FDW",
+        "ts": "1554986643.010300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

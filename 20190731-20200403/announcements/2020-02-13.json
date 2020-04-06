@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "F73A61D6-6619-4A51-AF44-15920CEAC536",
+        "type": "message",
+        "text": "研究室のパソコン使うならパワポ移せるように準備しといて\n今パソコンは研究室にある",
+        "user": "UHC5VBV5E",
+        "ts": "1581650718.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oKtF7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "研究室のパソコン使うならパワポ移せるように準備しといて\n今パソコンは研究室にある"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

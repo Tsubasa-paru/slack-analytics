@@ -1,0 +1,166 @@
+[
+    {
+        "client_msg_id": "52C25425-18FC-48AA-8DFA-422BBB43F7A6",
+        "type": "message",
+        "text": "9時半頃には体育館にいるようにします",
+        "user": "UHFLB6JPR",
+        "ts": "1561675529.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0FA2291D-3354-4F37-B71F-DC92D496AA4A",
+        "type": "message",
+        "text": "体育館ついたら連絡して\n鍵あけます\n中にいます",
+        "user": "UHFLB6JPR",
+        "ts": "1561681282.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561681282.000800",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1561681924.004600",
+        "reply_users": [
+            "UHEH8KZ7W",
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1561681417.002800"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1561681589.004000"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1561681924.004600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4377DE3A-7228-48A9-BE29-281FC6AD08A3",
+        "type": "message",
+        "text": "亀八がPCのソフトウェア反応しません。\n亀八とPC間のBluetooth接続には問題無いのですが、ソフトウェアの方に反応がないです。",
+        "user": "UHEH8KZ7W",
+        "ts": "1561681417.002800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561681282.000800",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "367AEBDD-C173-4F8D-928A-4B7F2ABE6FBA",
+        "type": "message",
+        "text": "体育館に持ってきて\nそこでみんなと確認しよう",
+        "user": "UHFLB6JPR",
+        "ts": "1561681589.004000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561681282.000800",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "C83D9BC3-384C-4764-8E01-694129C5FC6D",
+        "type": "message",
+        "text": "今向かいます",
+        "user": "UHC5VBV5E",
+        "ts": "1561681616.004300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "CCA9BB57-3308-4133-BC51-7CC4CFF411AB",
+        "type": "message",
+        "text": "着きました！",
+        "user": "UHEH8KZ7W",
+        "ts": "1561681924.004600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561681282.000800",
+        "parent_user_id": "UHFLB6JPR"
+    }
+]

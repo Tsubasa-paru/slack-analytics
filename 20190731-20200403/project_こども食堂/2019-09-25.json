@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "8e3283d6-0e0b-4dce-9cb4-2d73bace1260",
+        "type": "message",
+        "text": "私の机の上にあった生協の領収書は保険の書類と合わせて保存しました",
+        "user": "UGQV9DXRC",
+        "ts": "1569459132.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

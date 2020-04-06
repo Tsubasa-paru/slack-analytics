@@ -1,0 +1,200 @@
+[
+    {
+        "client_msg_id": "72c31a82-5192-41bb-b176-fa1dfd70aa1c",
+        "type": "message",
+        "text": "本日のゼミは13時からでよろしいでしょうか",
+        "user": "UGQV9DXRC",
+        "ts": "1582243878.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ak9LZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本日のゼミは13時からでよろしいでしょうか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79ca70e1-70d8-49c7-a09f-0c4b02f0f8d5",
+        "type": "message",
+        "text": "確認遅くなり申し訳ありません",
+        "user": "UGQV9DXRC",
+        "ts": "1582243897.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MWqJM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確認遅くなり申し訳ありません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64beebc7-e381-40dc-b033-3ade7d3c29f4",
+        "type": "message",
+        "text": "今日はゼミなしにします。\n各自、発表の準備を進めてください。",
+        "user": "UHFLB6JPR",
+        "ts": "1582250691.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fa9J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日はゼミなしにします。\n各自、発表の準備を進めてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC",
+                    "UHEH8KZ7W"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "706ac880-6ac2-438b-a5f7-88c1dcc99a73",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> <@UHG1M1NQ6> <@UHC5VBV5E> <@UHV3GN694> <@UGQV9DXRC>\nできれば全員今日中に健康支援学会の発表資料を一度あげてもらいたいです。\n学外の共同研究者が入っている場合は、その方にメールして1週間程度のチェック期間が必要です。\nポスター印刷は発注して受け取りまで4日間は必要です。",
+        "user": "UHFLB6JPR",
+        "ts": "1582252366.003900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IflZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHG1M1NQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHC5VBV5E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHV3GN694"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UGQV9DXRC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nできれば全員今日中に健康支援学会の発表資料を一度あげてもらいたいです。\n学外の共同研究者が入っている場合は、その方にメールして1週間程度のチェック期間が必要です。\nポスター印刷は発注して受け取りまで4日間は必要です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

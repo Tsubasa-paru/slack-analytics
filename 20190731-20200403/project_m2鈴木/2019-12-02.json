@@ -1,0 +1,243 @@
+[
+    {
+        "client_msg_id": "0404e240-6021-4501-987e-1a3536249953",
+        "type": "message",
+        "text": "・psdを1secずつ入れる繰り返しの作り方について\n質問中\n<https:\/\/teratail.com\/questions\/226843>\n\n・psdについても1Hz,10Hz,100Hzとかで固定したところの値を入れてあげてもよいかも\n　代入をどうするか？",
+        "user": "UGQV9DXRC",
+        "ts": "1575277039.006800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "teratail[テラテイル]",
+                "title": "pythonで区間をずらしながら計算し、値を代入する繰り返しを実装したい｜teratail",
+                "title_link": "https:\/\/teratail.com\/questions\/226843",
+                "text": "dsというデータフレームのFxという列にあるデータについて、以下のように処理を行っています。 現在はds['Fx'][0:29]について計算をするとtupleで1値が与えられ、その値をds['psd_px'][0:29]に30個連続で同じ値が代入されるという",
+                "fallback": "teratail[テラテイル]: pythonで区間をずらしながら計算し、値を代入する繰り返しを実装したい｜teratail",
+                "thumb_url": "https:\/\/teratail.com\/img\/imgFacebookShare.png",
+                "from_url": "https:\/\/teratail.com\/questions\/226843",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/teratail.com\/img\/ios\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/teratail.com\/questions\/226843"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rewVf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "・psdを1secずつ入れる繰り返しの作り方について\n質問中\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/teratail.com\/questions\/226843"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n・psdについても1Hz,10Hz,100Hzとかで固定したところの値を入れてあげてもよいかも\n　代入をどうするか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575277039.006800",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1575879530.000300",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1575356300.007900"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1575441836.000100"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1575879530.000300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FQVQ4C2E7",
+                "created": 1575354941,
+                "timestamp": 1575354941,
+                "name": "健康支援学会2020抄録_鈴木KO.docx",
+                "title": "健康支援学会2020抄録_鈴木KO.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 18869,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQVQ4C2E7\/__________________2020_____________ko.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQVQ4C2E7\/download\/__________________2020_____________ko.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQVQ4C2E7-3fa9eb3154\/__________________2020_____________ko_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQVQ4C2E7-3fa9eb3154\/__________________2020_____________ko_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FQVQ4C2E7\/__________________2020_____________ko.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FQVQ4C2E7-d29d4c0d52",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1575354948.000200",
+        "client_msg_id": "244e2f94-4b08-4e8f-9d8c-a051f724409b"
+    },
+    {
+        "client_msg_id": "ff5cd3dc-58ec-4398-be62-1ee9945649f3",
+        "type": "message",
+        "text": "体力医学会とは違うタイトル、発表内容（分析内容）も違いが明確になっている必要があります（少なくとも発表者の中では）。\nまた、スペースがいっぱいになるように作成してください（空白は作らない）。\n背景は文章間のつながりがなかったので初めの部分を削っていますが、つながりをもたせて加筆してもらってもかまいません。",
+        "user": "UHFLB6JPR",
+        "ts": "1575355266.006500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i1OX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体力医学会とは違うタイトル、発表内容（分析内容）も違いが明確になっている必要があります（少なくとも発表者の中では）。\nまた、スペースがいっぱいになるように作成してください（空白は作らない）。\n背景は文章間のつながりがなかったので初めの部分を削っていますが、つながりをもたせて加筆してもらってもかまいません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5900aa8b-9c33-4479-86a4-e72a7bf45901",
+        "type": "message",
+        "text": "ご指摘ありがとうございます。\n今やっている追加の特徴量について載せられる結果が出れば、差別化して記載できるかなと考えていました、、\nイントロの部分ももう少し考えます。",
+        "user": "UGQV9DXRC",
+        "ts": "1575355319.007800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Avt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ご指摘ありがとうございます。\n今やっている追加の特徴量について載せられる結果が出れば、差別化して記載できるかなと考えていました、、\nイントロの部分ももう少し考えます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1302ff57-4fa5-44c5-8f3e-d0b4758c7fb0",
+        "type": "message",
+        "text": "nums = [0,1,2,3]\nfor i in nums:\n #psd検出\n f,psd=signal.welch(ds['Fx'][i*30:(i+1)*30-1])\n #ピーク検出\n maxid = signal.argrelmax(psd, order=30)\n #maxidは'tuple'で出てくるみたいなので、それをDFに変換\n list = maxid\nprint(peak)",
+        "user": "UGQV9DXRC",
+        "ts": "1575356300.007900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TwO+Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nums = [0,1,2,3]\nfor i in nums:\n #psd検出\n f,psd=signal.welch(ds['Fx'][i*30:(i+1)*30-1])\n #ピーク検出\n maxid = signal.argrelmax(psd, order=30)\n #maxidは'tuple'で出てくるみたいなので、それをDFに変換\n list = maxid\nprint(peak)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575277039.006800",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

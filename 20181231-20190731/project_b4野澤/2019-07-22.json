@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FLN68RAKE",
+                "created": 1563851144,
+                "timestamp": 1563851144,
+                "name": "2019_07_19野澤進捗.pptx",
+                "title": "2019_07_19野澤進捗.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHFLC6N4X",
+                "editable": false,
+                "size": 284947,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLN68RAKE\/2019_07_19____________.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLN68RAKE\/download\/2019_07_19____________.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLN68RAKE-f19a624b65\/2019_07_19_____________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLN68RAKE-f19a624b65\/2019_07_19_____________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLC6N4X\/FLN68RAKE\/2019_07_19____________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FLN68RAKE-922d53e2ae",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLC6N4X",
+        "display_as_bot": false,
+        "ts": "1563851147.000100",
+        "client_msg_id": "17b58122-c9c4-4035-8aaa-f56c310586ee"
+    }
+]

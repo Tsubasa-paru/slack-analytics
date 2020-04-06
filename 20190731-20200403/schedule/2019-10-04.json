@@ -1,0 +1,33 @@
+[
+    {
+        "client_msg_id": "c959007b-c8ad-4658-899b-9c15a4de9eec",
+        "type": "message",
+        "text": "２．　10月13日（日）vs理科大1１：00開始　会場　流経龍ヶ崎（茨城県）\n３．　10月26日（土）vs東京国際大1１：00開始　会場　東京経済大武蔵村山\n４．　11月10日（日）vs獨協大11：00開始　会場　大東文化大学（埼玉県東松山）\n５．　11月23日（土）vs東京経済大1３：４5開始　会場　東京経済大武蔵村山",
+        "user": "UHFLB6JPR",
+        "ts": "1570176069.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "football",
+                "users": [
+                    "UHC5VBV5E",
+                    "UHEH8KZ7W"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

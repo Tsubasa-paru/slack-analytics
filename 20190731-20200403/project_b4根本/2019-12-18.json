@@ -1,0 +1,444 @@
+[
+    {
+        "type": "message",
+        "text": "graphvizはproxyの影響でパソコンにインストールできませんでした。\n家でやったらhomebrewでインストールできました。\n\n仮想環境のjupyterでdotファイルは作れていたのでそれをjpegに変換できました。\n無事ランダムフォレスト 図示できましたよろこび",
+        "files": [
+            {
+                "id": "FRFPNAM5Y",
+                "created": 1576674669,
+                "timestamp": 1576674669,
+                "name": "ex.jpeg",
+                "title": "ex.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 159803,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRFPNAM5Y\/ex.jpeg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRFPNAM5Y\/download\/ex.jpeg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRFPNAM5Y-6e4e1c5edf\/ex_64.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRFPNAM5Y-6e4e1c5edf\/ex_80.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRFPNAM5Y-6e4e1c5edf\/ex_360.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 81,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRFPNAM5Y-6e4e1c5edf\/ex_480.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 108,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRFPNAM5Y-6e4e1c5edf\/ex_160.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRFPNAM5Y-6e4e1c5edf\/ex_720.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 720,
+                "thumb_720_h": 161,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRFPNAM5Y-6e4e1c5edf\/ex_800.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 179,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRFPNAM5Y-6e4e1c5edf\/ex_960.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 960,
+                "thumb_960_h": 215,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRFPNAM5Y-6e4e1c5edf\/ex_1024.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 230,
+                "image_exif_rotation": 1,
+                "original_w": 2043,
+                "original_h": 458,
+                "thumb_tiny": "AwAKADDTzSA5Gajycde1GT60APHIINBOMYNMyfX0oycdaAJCcDNLmosnPXvRk460Af\/Z",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FRFPNAM5Y\/ex.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FRFPNAM5Y-86c7abdb8b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wfl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "graphvizはproxyの影響でパソコンにインストールできませんでした。\n家でやったらhomebrewでインストールできました。\n\n仮想環境のjupyterでdotファイルは作れていたのでそれをjpegに変換できました。\n無事ランダムフォレスト 図示できましたよろこび"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1576674672.002000",
+        "client_msg_id": "10cf0287-1cd2-4428-a579-7f930f88c7d7",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a4c7043a-a96d-4fcc-a9c7-86639abdafaf",
+        "type": "message",
+        "text": "feature_nameをいじれていなかったらしく中身をみてもよくわからん状態",
+        "user": "UHC5VBV5E",
+        "ts": "1576674780.003700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uVOI2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "feature_nameをいじれていなかったらしく中身をみてもよくわからん状態"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D1B19899-82B3-463D-8A44-EDE21FC90ED5",
+        "type": "message",
+        "text": "データセット先頭から6番目の特徴力って事だと思うけど、、\n寄与度の表と比べて、6番目と9番目が寄与度が高ければそれで合ってるはず？",
+        "user": "UGQV9DXRC",
+        "ts": "1576677925.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XYsNe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "データセット先頭から"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "番目の特徴力って事だと思うけど、、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "寄与度の表と比べて、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "番目と"
+                            },
+                            {
+                                "type": "text",
+                                "text": "9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "番目が寄与度が高ければそれで合ってるはず？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "結果振り分けられた数が出せるはずだから、それ確認するといいかも\n<https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FQELT0NJU\/tree0____3_ds16_4______.png|https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FQELT0NJU\/tree0____3_ds16_4______.png>",
+        "files": [
+            {
+                "id": "FQELT0NJU",
+                "created": 1573545608,
+                "timestamp": 1573545608,
+                "name": "tree0_深3_ds16_4項目.png",
+                "title": "tree0_深3_ds16_4項目.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 63123,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQELT0NJU\/tree0____3_ds16_4______.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQELT0NJU\/download\/tree0____3_ds16_4______.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQELT0NJU-051592d37e\/tree0____3_ds16_4_______64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQELT0NJU-051592d37e\/tree0____3_ds16_4_______80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQELT0NJU-051592d37e\/tree0____3_ds16_4_______360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 85,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQELT0NJU-051592d37e\/tree0____3_ds16_4_______480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 113,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQELT0NJU-051592d37e\/tree0____3_ds16_4_______160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQELT0NJU-051592d37e\/tree0____3_ds16_4_______720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 720,
+                "thumb_720_h": 170,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQELT0NJU-051592d37e\/tree0____3_ds16_4_______800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 189,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQELT0NJU-051592d37e\/tree0____3_ds16_4_______960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 960,
+                "thumb_960_h": 226,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQELT0NJU-051592d37e\/tree0____3_ds16_4_______1024.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 241,
+                "image_exif_rotation": 1,
+                "original_w": 2109,
+                "original_h": 497,
+                "thumb_tiny": "AwALADDTpM56UzJyaMnFADvvHmgHnFJk5pMnBoAfkDrS1GSeKMnPWgD\/2Q==",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FQELT0NJU\/tree0____3_ds16_4______.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FQELT0NJU-32953f2a2e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wX+Ed",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "結果振り分けられた数が出せるはずだから、それ確認するといいかも"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FQELT0NJU\/tree0____3_ds16_4______.png",
+                                "text": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FQELT0NJU\/tree0____3_ds16_4______.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FQELT0NJU"
+        ],
+        "ts": "1576678089.002600",
+        "client_msg_id": "043CF298-816B-474A-9E0F-ED395DA809D8"
+    },
+    {
+        "client_msg_id": "55f6fd15-2a06-4017-9af0-9ae8d74d22ba",
+        "type": "message",
+        "text": "ありがとうございます\n結果を振り分けられた数とは鈴木さんのグラフでいう[ 0, 0, 37, 0 ] みたいなやつですか？\n回帰なので若干仕様は変わってそうですね\n明日詳しく聞きます",
+        "user": "UHC5VBV5E",
+        "ts": "1576731701.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5uM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます\n結果を振り分けられた数とは鈴木さんのグラフでいう[ 0, 0, 37, 0 ] みたいなやつですか？\n回帰なので若干仕様は変わってそうですね\n明日詳しく聞きます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e24f503b-0e74-4423-973f-3a7a6129accd",
+        "type": "message",
+        "text": "そうそう\nでも回帰だから出ないのか！\n意味合いでは近いものが出せると分かりやすいかなあと思ったんだけど、、考えておく",
+        "user": "UGQV9DXRC",
+        "ts": "1576733123.003700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qOh6x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうそう\nでも回帰だから出ないのか！\n意味合いでは近いものが出せると分かりやすいかなあと思ったんだけど、、考えておく"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FRKHXKL49",
+                "created": 1576736181,
+                "timestamp": 1576736181,
+                "name": "ID09_エネルギー消費量計算_根本20191219.xlsx",
+                "title": "ID09_エネルギー消費量計算_根本20191219.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 16970,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRKHXKL49\/id09______________________________________20191219.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRKHXKL49\/download\/id09______________________________________20191219.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRKHXKL49-1c9601a518\/id09______________________________________20191219_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRKHXKL49-1c9601a518\/id09______________________________________20191219_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FRKHXKL49\/id09______________________________________20191219.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FRKHXKL49-25560af7c6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1576736184.003800",
+        "client_msg_id": "5dcad7d4-3985-481f-a89a-2d007c72c173"
+    },
+    {
+        "client_msg_id": "a66d822f-30ff-4ae3-9e20-3fb3897ec266",
+        "type": "message",
+        "text": "ありがとうございます",
+        "user": "UHC5VBV5E",
+        "ts": "1576736208.004300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xRoGW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

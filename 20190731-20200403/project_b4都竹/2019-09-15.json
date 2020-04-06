@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FNF0SBH8E",
+                "created": 1568558738,
+                "timestamp": 1568558738,
+                "name": "卒論中間発表_抄録_最終更新.docx",
+                "title": "卒論中間発表_抄録_最終更新.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 78906,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNF0SBH8E\/______________________________________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNF0SBH8E\/download\/______________________________________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNF0SBH8E-c65b0c7fd6\/_______________________________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNF0SBH8E-c65b0c7fd6\/_______________________________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FNF0SBH8E\/______________________________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FNF0SBH8E-616ce42fdc",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHG1M1NQ6",
+        "display_as_bot": false,
+        "ts": "1568558741.000500",
+        "client_msg_id": "b420b813-7372-4898-9839-43b33aba7973"
+    }
+]

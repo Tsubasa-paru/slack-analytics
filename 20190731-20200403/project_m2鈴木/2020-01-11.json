@@ -1,0 +1,138 @@
+[
+    {
+        "type": "message",
+        "text": "*心拍の置き換えについての検討*\n<https:\/\/www.evernote.com\/shard\/s223\/sh\/94d18931-5868-40fc-b9b1-9b316bfefa32\/41e4b4c2e3f3182dca97c57172042b25>\n結果\n心拍と心拍の変化量(現時点での心拍\/5秒前の心拍)を入れてみた所、心拍の影響はあまりでなかった。(詳細はノート)\n中身を見ると歩行系と座位立位の区分けはできているようで、階段が歩行に多く間違えて分類されていることが分かった。",
+        "files": [
+            {
+                "id": "FSJSG1RNZ",
+                "created": 1578814896,
+                "timestamp": 1578814896,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 57532,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FSJSG1RNZ\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FSJSG1RNZ\/download\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJSG1RNZ-ed99a66e00\/image_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJSG1RNZ-ed99a66e00\/image_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJSG1RNZ-ed99a66e00\/image_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 125,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJSG1RNZ-ed99a66e00\/image_480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 167,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJSG1RNZ-ed99a66e00\/image_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJSG1RNZ-ed99a66e00\/image_720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 720,
+                "thumb_720_h": 250,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJSG1RNZ-ed99a66e00\/image_800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 278,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJSG1RNZ-ed99a66e00\/image_960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 960,
+                "thumb_960_h": 334,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSJSG1RNZ-ed99a66e00\/image_1024.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 356,
+                "image_exif_rotation": 1,
+                "original_w": 1225,
+                "original_h": 426,
+                "thumb_tiny": "AwAQADDS74oo\/iozQAUcUUUAFB6UUhPBoA\/\/2Q==",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FSJSG1RNZ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FSJSG1RNZ-a8353893bc",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Elp3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "心拍の置き換えについての検討",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.evernote.com\/shard\/s223\/sh\/94d18931-5868-40fc-b9b1-9b316bfefa32\/41e4b4c2e3f3182dca97c57172042b25"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n結果\n心拍と心拍の変化量(現時点での心拍\/5秒前の心拍)を入れてみた所、心拍の影響はあまりでなかった。(詳細はノート)\n中身を見ると歩行系と座位立位の区分けはできているようで、階段が歩行に多く間違えて分類されていることが分かった。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1578814900.004400",
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1578814934.000000"
+        },
+        "client_msg_id": "823005c8-a3f4-4a6c-9fe6-ad23dc24979e"
+    },
+    {
+        "client_msg_id": "d0d78a69-13a2-4bee-a0af-a4ccfe760abc",
+        "type": "message",
+        "text": "一旦ここで区切り、結果をまとめる。まとめ終わって時間に余裕があれば追分析する感じに。",
+        "user": "UGQV9DXRC",
+        "ts": "1578815121.005300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6CR2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一旦ここで区切り、結果をまとめる。まとめ終わって時間に余裕があれば追分析する感じに。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

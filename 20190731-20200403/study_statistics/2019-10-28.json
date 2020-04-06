@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "f2ba7786-f1e1-404a-8137-44fd0f80f3b0",
+        "type": "message",
+        "text": "今日はここ\n<http:\/\/kogolab.chillout.jp\/elearn\/hamburger\/chap7\/sec0.html>\n回答はリプライで",
+        "user": "UGQV9DXRC",
+        "ts": "1572320364.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572320364.001100",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1572924961.000100",
+        "reply_users": [
+            "UHG1M1NQ6",
+            "UHC5VBV5E",
+            "UHFLC6N4X",
+            "UHEH8KZ7W"
+        ],
+        "replies": [
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1572329239.001300"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1572353949.000100"
+            },
+            {
+                "user": "UHFLC6N4X",
+                "ts": "1572425540.000300"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1572924961.000100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1572924961.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FPYV2JTDL",
+                "created": 1572329237,
+                "timestamp": 1572329237,
+                "name": "ex7-9.xlsx",
+                "title": "ex7-9.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 19460,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPYV2JTDL\/ex7-9.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPYV2JTDL\/download\/ex7-9.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPYV2JTDL-64ab836d4b\/ex7-9_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPYV2JTDL-64ab836d4b\/ex7-9_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FPYV2JTDL\/ex7-9.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FPYV2JTDL-4caefc9f56",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHG1M1NQ6",
+        "display_as_bot": false,
+        "ts": "1572329239.001300",
+        "client_msg_id": "5840f1c0-4180-411d-a99b-a93524b01771",
+        "thread_ts": "1572320364.001100",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

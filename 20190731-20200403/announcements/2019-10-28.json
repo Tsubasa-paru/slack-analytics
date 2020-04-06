@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "f206f6e5-8f9b-4847-96ae-921ece72828d",
+        "type": "message",
+        "text": "<@UHG1M1NQ6>\nつたけへ\n坂本先生が今週木曜日31日の15時から17時半くらいまでにお越しいただけます。\n15時に大河原の部屋に集合するように。\n大河原は16時まで同行し、その後は都竹が個別に具体的な相談を進めていくという流れです。\n自分のやりたいことが説明でき、質問ができるよう準備してきてください。\nしっかりした資料を作成して、それをみせながら相談ができるように。\n最初が肝心です。",
+        "user": "UHFLB6JPR",
+        "ts": "1572316108.009500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "91c099c5-0553-4e88-94f1-57394b205496",
+        "type": "message",
+        "text": "タブレットをプロジェクターにつなぐコネクター等は生協で購入してください",
+        "user": "UHFLB6JPR",
+        "ts": "1572316162.010200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHG1M1NQ6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

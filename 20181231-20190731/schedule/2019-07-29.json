@@ -1,0 +1,116 @@
+[
+    {
+        "type": "message",
+        "text": "中間発表スケジュール",
+        "user": "UGQV9DXRC",
+        "ts": "1564387904.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[July 29th, 2019 5:10 PM] ohkawara_kazunori: メディア情報学プログラム・コースの卒論と修論の中間発表について\nタイトルと予稿の締め切りを、昨年同様以下のように決めたいと考えております。\n\nご意見がございましたら今週中を目処にご連絡いただけますでしょうか。\nお手数をおかけしますが、ご確認をどうぞよろしくお願い致します。\n\n（卒論）\n　タイトル　9\/13(金)　23:59\n　　予稿　　9\/20(金)　23:59\n　　発表　　9\/24(火)\n（修論）\n　タイトル　9\/17(火)　23:59\n　　予稿　　9\/27(金)　23:59\n　　発表　　9\/30(月)",
+                "ts": "1564387832.000300",
+                "author_id": "UHFLB6JPR",
+                "author_subname": "大河原一憲",
+                "channel_id": "CGT0P68RL",
+                "channel_name": "announcements",
+                "is_msg_unfurl": true,
+                "text": "メディア情報学プログラム・コースの卒論と修論の中間発表について\nタイトルと予稿の締め切りを、昨年同様以下のように決めたいと考えております。\n\nご意見がございましたら今週中を目処にご連絡いただけますでしょうか。\nお手数をおかけしますが、ご確認をどうぞよろしくお願い致します。\n\n（卒論）\n　タイトル　9\/13(金)　23:59\n　　予稿　　9\/20(金)　23:59\n　　発表　　9\/24(火)\n（修論）\n　タイトル　9\/17(火)　23:59\n　　予稿　　9\/27(金)　23:59\n　　発表　　9\/30(月)",
+                "author_name": "大河原一憲",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UHFLB6JPR",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0003-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGT0P68RL\/p1564387832000300",
+                "is_share": true,
+                "footer": "#announcements に投稿"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95002f88-3b6b-4286-9a03-107f0be8b4e6",
+        "type": "message",
+        "text": "申し訳ない\n貧血が酷く今日はお休みさせてください\n\n<@UGPH97FDW> \n来週の課題の更新と木金の運動教室のメンバー確認をお願いします:bow:",
+        "user": "UGQV9DXRC",
+        "ts": "1564455474.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32FE9D81-2FEB-49DD-B646-5EFF7CD6D987",
+        "type": "message",
+        "text": "ゼミの場所教えて",
+        "user": "UHFLB6JPR",
+        "ts": "1564459769.002800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ADCA859C-0EC6-4E02-99D8-540159B14C0D",
+        "type": "message",
+        "text": "学生部屋です",
+        "user": "UGPH97FDW",
+        "ts": "1564459797.003300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

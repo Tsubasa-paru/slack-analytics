@@ -1,0 +1,79 @@
+[
+    {
+        "type": "message",
+        "text": "パソコン選びの基準について清水君から教えてもらったので共有しておきます～",
+        "files": [
+            {
+                "id": "FKXDFLC8L",
+                "created": 1561618499,
+                "timestamp": 1561618499,
+                "name": "ink-image.png",
+                "title": "ink-image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 615130,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKXDFLC8L\/ink-image.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKXDFLC8L\/download\/ink-image.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKXDFLC8L-d9293716db\/ink-image_64.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKXDFLC8L-d9293716db\/ink-image_80.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKXDFLC8L-d9293716db\/ink-image_360.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 291,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKXDFLC8L-d9293716db\/ink-image_480.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_480_w": 388,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKXDFLC8L-d9293716db\/ink-image_160.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKXDFLC8L-d9293716db\/ink-image_720.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720_w": 582,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKXDFLC8L-d9293716db\/ink-image_800.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_800_w": 800,
+                "thumb_800_h": 990,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKXDFLC8L-d9293716db\/ink-image_960.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_960_w": 776,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKXDFLC8L-d9293716db\/ink-image_1024.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_1024_w": 828,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1536,
+                "original_h": 1900,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FKXDFLC8L\/ink-image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FKXDFLC8L-840b274939",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1561618502.000500",
+        "client_msg_id": "706dbed0-27c9-4046-8d77-f854e420bf39",
+        "reactions": [
+            {
+                "name": "male-technologist",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

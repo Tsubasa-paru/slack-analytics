@@ -1,0 +1,215 @@
+[
+    {
+        "client_msg_id": "b4e730f7-0acd-4355-964f-f119af253858",
+        "type": "message",
+        "text": "引き継ぎtodo\n①実験のデータ、分析について手順と所在をまとめる\n②今までの学会や発表のデータ整理(最新を残して、途中稿は消す)\n~③slackのオーナー権譲渡~\n④ドライブのパスワードやラボ導入時のまとめなど\n⑤住所録引継ぎ",
+        "user": "UGQV9DXRC",
+        "ts": "1583334112.003600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1584077048.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VJQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "引き継ぎtodo\n①実験のデータ、分析について手順と所在をまとめる\n②今までの学会や発表のデータ整理(最新を残して、途中稿は消す)\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "③slackのオーナー権譲渡",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n④ドライブのパスワードやラボ導入時のまとめなど\n⑤住所録引継ぎ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd3fb6fc-35de-418c-b547-298dbedc4b53",
+        "type": "message",
+        "text": "健康支援学会タイトル：\n決定木及びランダムフォレストを用いた活動分類に関する論文レビュー",
+        "user": "UGQV9DXRC",
+        "ts": "1583384978.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Tfg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "健康支援学会タイトル：\n決定木及びランダムフォレストを用いた活動分類に関する論文レビュー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582260198.001200",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "62a8e6d5-92f9-4180-9c0b-2a001b1c957c",
+        "type": "message",
+        "text": "タイトルの検討：\n決定木及びランダムフォレストを用いた(成人)を対象とした活動分類",
+        "user": "UGQV9DXRC",
+        "ts": "1583385064.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eWO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "タイトルの検討：\n決定木及びランダムフォレストを用いた(成人)を対象とした活動分類"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582260198.001200",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "ccfb0e1e-10c9-473d-9caa-252939e6aac4",
+        "type": "message",
+        "text": "PRISMA声明について\nこれを採用しないとシステマティックレビューにならない？今回はメタ分析をしていないから該当しない？",
+        "user": "UGQV9DXRC",
+        "ts": "1583385228.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tSsQN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PRISMA声明について\nこれを採用しないとシステマティックレビューにならない？今回はメタ分析をしていないから該当しない？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582260198.001200",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "7aa5ab08-1bd0-405f-8eaa-a27f712f876f",
+        "type": "message",
+        "text": "明日まで：\nタイトル決め\n目的以外の所は完成させる",
+        "user": "UGQV9DXRC",
+        "ts": "1583385356.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6RJRW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日まで：\nタイトル決め\n目的以外の所は完成させる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582260198.001200",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

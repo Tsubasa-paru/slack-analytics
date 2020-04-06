@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "b501f984-8f9a-439f-878f-21bc510b4f2f",
+        "type": "message",
+        "text": "*Pythonの勉強について*\n&gt;&gt;&gt;\n- 使用する環境にはPyCharmを推薦\n- 勉強用にGitHubへのCommit &amp; Pushも行う\n  - ソースコードの共有は高級なサービスを使ったほうが良い\n  - GitHub以外のリポジトリでも可\n- <https:\/\/qiita.com\/IshitaTakeshi>\n  - ↑知り合いのQiita",
+        "user": "UGQ2ENZD0",
+        "ts": "1553835373.003700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "IshitaTakeshi - Qiita",
+                "title_link": "https:\/\/qiita.com\/IshitaTakeshi",
+                "text": "初音ミクさんを中心とする正規分布にしたがっています",
+                "fallback": "Qiita: IshitaTakeshi - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/IshitaTakeshi",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/IshitaTakeshi"
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : ゼミで話す事がある人はいますか？",
+        "user": "USLACKBOT",
+        "ts": "1563408024.000100",
+        "team": "TGNPXK07J",
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "UHEH8KZ7W",
+                    "UHC5VBV5E",
+                    "UGQV9DXRC"
+                ],
+                "count": 3
+            },
+            {
+                "name": "cold_sweat",
+                "users": [
+                    "UHFLC6N4X"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

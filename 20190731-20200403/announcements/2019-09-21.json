@@ -1,0 +1,291 @@
+[
+    {
+        "client_msg_id": "B112BCBB-24BA-4CB2-93F2-8D7FDE9D1BC0",
+        "type": "message",
+        "text": "<@UHG1M1NQ6> <@UHEH8KZ7W> <@UHC5VBV5E> <@UHFLC6N4X> スライドは今日中にあげてよ",
+        "user": "UHFLB6JPR",
+        "ts": "1569058253.010600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569058253.010600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1569066970.011500",
+        "reply_users": [
+            "UHEH8KZ7W"
+        ],
+        "replies": [
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1569066970.011500"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1569066970.011500"
+    },
+    {
+        "client_msg_id": "FC11EE63-20BF-430E-ADA2-E30F2A1D7E60",
+        "type": "message",
+        "text": "スラックに",
+        "user": "UHFLB6JPR",
+        "ts": "1569058387.010900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "D00738E0-E069-44F4-A010-E0FDA7892C99",
+        "type": "message",
+        "text": "台本は明日中で",
+        "user": "UHFLB6JPR",
+        "ts": "1569058418.011400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9eb87dce-b4b7-4e61-b3f6-d6e0c36ff53f",
+        "type": "message",
+        "text": "承知しました",
+        "user": "UHEH8KZ7W",
+        "ts": "1569066970.011500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569058253.010600",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "type": "message",
+        "text": "2ページ目の背景以外のスライドと台本が出来ました。\n台本はノートに書かれています。\n背景に関しましては\n抄録の背景と同じ内容にしようと考えているのですが、どうやって自分の研究を紹介する流れに持っていくのかを模索中です。\nよろしくお願いします。",
+        "files": [
+            {
+                "id": "FNNCJ2NCX",
+                "created": 1569070179,
+                "timestamp": 1569070179,
+                "name": "2019　発表スライド.pptx",
+                "title": "2019　発表スライド.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 568777,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNNCJ2NCX\/2019_____________________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNNCJ2NCX\/download\/2019_____________________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNNCJ2NCX-d6a86cf2b5\/2019______________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNNCJ2NCX-d6a86cf2b5\/2019______________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FNNCJ2NCX\/2019_____________________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FNNCJ2NCX-185a48e582",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1569070182.011700",
+        "client_msg_id": "5f35a0c5-82b3-4311-aeaa-c7804b5786c3",
+        "thread_ts": "1569070182.011700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1569082904.013800",
+        "reply_users": [
+            "UGQV9DXRC",
+            "UHEH8KZ7W"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1569073810.013600"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1569082904.013800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FNNCM0S6B",
+                "created": 1569070636,
+                "timestamp": 1569070636,
+                "name": "bandicam 2019-09-21 21-56-26-550.jpg",
+                "title": "bandicam 2019-09-21 21-56-26-550.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 453673,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNNCM0S6B\/bandicam_2019-09-21_21-56-26-550.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNNCM0S6B\/download\/bandicam_2019-09-21_21-56-26-550.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNNCM0S6B-47fc56d2f3\/bandicam_2019-09-21_21-56-26-550_64.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNNCM0S6B-47fc56d2f3\/bandicam_2019-09-21_21-56-26-550_80.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNNCM0S6B-47fc56d2f3\/bandicam_2019-09-21_21-56-26-550_360.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 92,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNNCM0S6B-47fc56d2f3\/bandicam_2019-09-21_21-56-26-550_480.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 122,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNNCM0S6B-47fc56d2f3\/bandicam_2019-09-21_21-56-26-550_160.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNNCM0S6B-47fc56d2f3\/bandicam_2019-09-21_21-56-26-550_720.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 720,
+                "thumb_720_h": 184,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNNCM0S6B-47fc56d2f3\/bandicam_2019-09-21_21-56-26-550_800.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 204,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNNCM0S6B-47fc56d2f3\/bandicam_2019-09-21_21-56-26-550_960.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 960,
+                "thumb_960_h": 245,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNNCM0S6B-47fc56d2f3\/bandicam_2019-09-21_21-56-26-550_1024.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 261,
+                "image_exif_rotation": 1,
+                "original_w": 1595,
+                "original_h": 407,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FNNCM0S6B\/bandicam_2019-09-21_21-56-26-550.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FNNCM0S6B-dd5a6046ec",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1569070638.012000",
+        "client_msg_id": "2b33bee0-4146-4d5f-a5c6-3a4d98a5a7f6"
+    },
+    {
+        "client_msg_id": "3EC150F4-AF44-4526-B765-3A68BF868A7D",
+        "type": "message",
+        "text": "スライドだけざっと見ました！お疲れ様〜\nOECDの表とかわかりやすくなってるとおもう！\n一点だけ\n\n研究目的\nタイトルが研究目的でOECDとWHRの表に目的と書いてあるので、それが福田くんの目的のように見えるかも\n表のタイトルに先行研究の目的と付け加えて、左端の目的というのは消すとかどうだろ？\n",
+        "user": "UGQV9DXRC",
+        "ts": "1569073810.013600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569070182.011700",
+        "parent_user_id": "UHEH8KZ7W"
+    },
+    {
+        "client_msg_id": "cf06cfbc-0a8b-4993-ac14-cf64d3bb6f72",
+        "type": "message",
+        "text": "ありがとうございます！承知しました。\n変更してまた明日announcementsに背景も完成した形で上げます",
+        "user": "UHEH8KZ7W",
+        "ts": "1569082904.013800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569070182.011700",
+        "parent_user_id": "UHEH8KZ7W"
+    },
+    {
+        "client_msg_id": "91cf82f2-bd9a-449a-a854-a5303a002b81",
+        "type": "message",
+        "text": "すみません、今気づきました。昨日から風邪引いてしまい高熱が引かないのでタイミングで資料アップだけします。",
+        "user": "UHFLC6N4X",
+        "ts": "1569099385.014900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

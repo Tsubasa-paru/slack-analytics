@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "22447c29-ff01-485c-a5d6-34ecae09de95",
+        "type": "message",
+        "text": "<https:\/\/qiita.com\/s_katagiri\/items\/a6c3914e7623b4d7b5a3>",
+        "user": "UGQV9DXRC",
+        "ts": "1574237253.003000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "Python でのデータ分析作業をスマートにするために - Qiita",
+                "title_link": "https:\/\/qiita.com\/s_katagiri\/items\/a6c3914e7623b4d7b5a3",
+                "text": "はじめに ======== 機械学習を使った分析業務といっても、データの取り込み、モデリング、プロダクト化といった様々なステージに分けられ、それぞれのステージ特有のボトルネックがあるかと思います。私はその全てに対する処方箋を提示できる...",
+                "fallback": "Qiita: Python でのデータ分析作業をスマートにするために - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/s_katagiri\/items\/a6c3914e7623b4d7b5a3",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/s_katagiri\/items\/a6c3914e7623b4d7b5a3"
+            }
+        ]
+    }
+]

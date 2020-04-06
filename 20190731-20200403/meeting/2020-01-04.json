@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "65EC2DB8-4452-4003-8F04-C00CC9F9276A",
+        "type": "message",
+        "text": "論文書くときの時制についての記事\n参考になるかも\n<https:\/\/www.editage.jp\/insights\/the-secret-to-using-tenses-in-scientific-writing|https:\/\/www.editage.jp\/insights\/the-secret-to-using-tenses-in-scientific-writing>",
+        "user": "UGQV9DXRC",
+        "ts": "1578188332.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "エディテージ・インサイト",
+                "title": "科学論文における時制の使い分け | エディテージ・インサイト",
+                "title_link": "https:\/\/www.editage.jp\/insights\/the-secret-to-using-tenses-in-scientific-writing",
+                "text": "英語は汎用性の高い言語ですが、時制の使い分けに苦労する人も多いのではないでしょうか。科学論文で使うべき時制は、IMRaD形式の各セクションによって異なり、それぞれのセクションにふさわしい時制があります。",
+                "fallback": "エディテージ・インサイト: 科学論文における時制の使い分け | エディテージ・インサイト",
+                "image_url": "https:\/\/cdn.editage.jp\/insights\/editagejp\/production\/The%20secret%20to%20using%20tenses%20in%20scientific%20writing%20%5BInfographic%5D%20%28resized%29.jpg",
+                "image_width": 488,
+                "image_height": 250,
+                "ts": 1527037624,
+                "from_url": "https:\/\/www.editage.jp\/insights\/the-secret-to-using-tenses-in-scientific-writing",
+                "image_bytes": 193393,
+                "service_icon": "https:\/\/cdn.editage.jp\/insights\/editagejp\/production\/favicon_0.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.editage.jp\/insights\/the-secret-to-using-tenses-in-scientific-writing"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H1y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "論文書くときの時制についての記事"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "参考になるかも"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.editage.jp\/insights\/the-secret-to-using-tenses-in-scientific-writing",
+                                "text": "https:\/\/www.editage.jp\/insights\/the-secret-to-using-tenses-in-scientific-writing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

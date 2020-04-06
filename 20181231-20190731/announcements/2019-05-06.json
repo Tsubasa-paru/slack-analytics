@@ -1,0 +1,637 @@
+[
+    {
+        "client_msg_id": "1F725936-173A-4B38-A0E4-8BD1D45E20D7",
+        "type": "message",
+        "text": "岡田と野澤は\n5月29日水は空いてますか？\n勝川先生は17.24が無理で、31は大河原が無理なので、29で打診を考えてます",
+        "user": "UHFLB6JPR",
+        "ts": "1557151658.002700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557151658.002700",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1557195179.003100",
+        "reply_users": [
+            "UHFLC6N4X",
+            "UHFLB6JPR",
+            "UGPH97FDW"
+        ],
+        "replies": [
+            {
+                "user": "UHFLC6N4X",
+                "ts": "1557181927.000400"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1557192262.000900"
+            },
+            {
+                "user": "UGPH97FDW",
+                "ts": "1557195179.003100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHFLC6N4X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7492c9d1-d5dd-473f-afdf-ec004ba3f0f8",
+        "type": "message",
+        "text": "二限がありますが、午後なら空いています。",
+        "user": "UGPH97FDW",
+        "ts": "1557152530.003500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0c78c19d-9a54-453b-b364-4fc34000b580",
+        "type": "message",
+        "text": "自分大丈夫です。空いてます〜",
+        "user": "UHFLC6N4X",
+        "ts": "1557181927.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557151658.002700",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "35b45a8e-910e-45fb-b60f-ebcf9aaa413b",
+        "type": "message",
+        "text": "Ｊ専攻学生の指導教員の先生方へ\n建物事務室御中\n\n専攻事務室の箕輪です。\n研究指導計画書ならびに年間履修計画書の事務室受付が本日より開始となりまし\nた。以下、2件の書類をご提出願います。\n\n　＜事務室提出期間：5月7日（火）～10日（金）正午まで＞\n\n1.研究指導計画書\n2.年間履修計画書\n※専攻の提出先は教務課ではなく、両方とも専攻事務室です。\n※ＩＳ所属の学生さんは、こちらでは取りまとめませんので、所属専攻の事務室\nへお尋ねください。",
+        "user": "UHFLB6JPR",
+        "ts": "1557188774.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC",
+                    "UGPH97FDW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ae543b01-2f56-443e-900c-bdf298a0c3f0",
+        "type": "message",
+        "text": "今日、もう一度、5階の部屋に掃除機をかけてください。",
+        "user": "UHFLB6JPR",
+        "ts": "1557189108.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "5月29日水は17時から19時＠渋谷とかでも大丈夫？\n勝川先生から連絡があって",
+        "user": "UHFLB6JPR",
+        "ts": "1557192262.000900",
+        "thread_ts": "1557151658.002700",
+        "root": {
+            "client_msg_id": "1F725936-173A-4B38-A0E4-8BD1D45E20D7",
+            "type": "message",
+            "text": "岡田と野澤は\n5月29日水は空いてますか？\n勝川先生は17.24が無理で、31は大河原が無理なので、29で打診を考えてます",
+            "user": "UHFLB6JPR",
+            "ts": "1557151658.002700",
+            "team": "TGNPXK07J",
+            "thread_ts": "1557151658.002700",
+            "reply_count": 3,
+            "reply_users_count": 3,
+            "latest_reply": "1557195179.003100",
+            "reply_users": [
+                "UHFLC6N4X",
+                "UHFLB6JPR",
+                "UGPH97FDW"
+            ],
+            "subscribed": false
+        },
+        "client_msg_id": "87d6c87b-d5e8-47f9-b2da-7792e8456295"
+    },
+    {
+        "client_msg_id": "4d4543fc-66bc-4734-ad4f-cbb7b8f051a9",
+        "type": "message",
+        "text": "17〜19時承知しました",
+        "user": "UHFLC6N4X",
+        "ts": "1557194261.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJJ4F7PAA",
+                "created": 1557194561,
+                "timestamp": 1557194561,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 1104093,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJJ4F7PAA\/ios__________.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJJ4F7PAA\/download\/ios__________.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ4F7PAA-82ab6d269f\/ios___________64.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ4F7PAA-82ab6d269f\/ios___________80.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ4F7PAA-82ab6d269f\/ios___________360.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ4F7PAA-82ab6d269f\/ios___________480.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ4F7PAA-82ab6d269f\/ios___________160.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ4F7PAA-82ab6d269f\/ios___________720.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ4F7PAA-82ab6d269f\/ios___________800.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ4F7PAA-82ab6d269f\/ios___________960.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ4F7PAA-82ab6d269f\/ios___________1024.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 6,
+                "original_w": 4032,
+                "original_h": 3024,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FJJ4F7PAA\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJJ4F7PAA-4624f2461b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1557194566.001600",
+        "client_msg_id": "6309D20C-BD56-4D6A-B7ED-5DB643ADFB6E"
+    },
+    {
+        "client_msg_id": "59F198B9-1A8F-481D-9D58-31728172AB98",
+        "type": "message",
+        "text": "このプリンターを購入するから、キャスター付きの台を探してください",
+        "user": "UHFLB6JPR",
+        "ts": "1557194655.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87b354c0-959f-4c0a-b8ec-97680a75ca72",
+        "type": "message",
+        "text": "承知致しました",
+        "user": "UGPH97FDW",
+        "ts": "1557195179.003100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557151658.002700",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "type": "message",
+        "text": "TOEICの点数が出たのでご報告させていただきます。",
+        "files": [
+            {
+                "id": "FJJ5UFE14",
+                "created": 1557201039,
+                "timestamp": 1557201039,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 538977,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJJ5UFE14\/image_from_ios.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJJ5UFE14\/download\/image_from_ios.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ5UFE14-ee9dd10019\/image_from_ios_64.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ5UFE14-ee9dd10019\/image_from_ios_80.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ5UFE14-ee9dd10019\/image_from_ios_360.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ5UFE14-ee9dd10019\/image_from_ios_480.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ5UFE14-ee9dd10019\/image_from_ios_160.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ5UFE14-ee9dd10019\/image_from_ios_720.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ5UFE14-ee9dd10019\/image_from_ios_800.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1422,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ5UFE14-ee9dd10019\/image_from_ios_960.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ5UFE14-ee9dd10019\/image_from_ios_1024.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1242,
+                "original_h": 2208,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FJJ5UFE14\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJJ5UFE14-adfd25a0a7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1557201039.003300",
+        "client_msg_id": "B80976F1-050F-4048-BC08-2D414B57172A",
+        "thread_ts": "1557201039.003300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1557206902.004000",
+        "reply_users": [
+            "UHC5VBV5E"
+        ],
+        "replies": [
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1557206902.004000"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "dancer",
+                "users": [
+                    "UGQV9DXRC",
+                    "UGQ2ENZD0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "528C52C2-06A5-47BC-8A6C-C635C4358E37",
+        "type": "message",
+        "text": "over kill",
+        "user": "UHC5VBV5E",
+        "ts": "1557206902.004000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557201039.003300",
+        "parent_user_id": "UHEH8KZ7W"
+    },
+    {
+        "client_msg_id": "16d90114-b385-4c8e-ac47-88ed4196b4b8",
+        "type": "message",
+        "text": "とりあえず100点獲得か",
+        "user": "UHFLB6JPR",
+        "ts": "1557207632.004300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "defd7ce3-34fb-4b2a-b872-137adc7946fb",
+        "type": "message",
+        "text": "鈴木さんと根本へ\n5\/15（水）10：00から東7号館の1階ミーティングルームで企業と打ち合わせをします。\nセンサーに関するものです。\n参加してください。\n他の人も興味があれば参加していいので、連絡ください。",
+        "user": "UHFLB6JPR",
+        "ts": "1557207745.005700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC",
+                    "UHC5VBV5E",
+                    "UGQ2ENZD0"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d11b6a45-213c-4e51-8a4e-0ac63bfdc6e7",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n研究指導計画書及び年間履修計画書を提出させていただきます。\nご確認よろしくお願い致します。\nご印鑑はご確認いただいた後、別途頂きに伺います。",
+        "user": "UGQV9DXRC",
+        "ts": "1557210177.008400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557210177.008400",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1557210210.008900",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1557210191.008500"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1557210210.008900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJFGPQ7U4",
+                "created": 1557210190,
+                "timestamp": 1557210190,
+                "name": "19年度研究指導計画書_鈴木.docx",
+                "title": "19年度研究指導計画書_鈴木.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 18915,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJFGPQ7U4\/19__________________________________.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJFGPQ7U4\/download\/19__________________________________.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJFGPQ7U4-5a88e621aa\/19___________________________________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJFGPQ7U4-5a88e621aa\/19___________________________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FJFGPQ7U4\/19__________________________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJFGPQ7U4-b29b38779c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1557210191.008500",
+        "client_msg_id": "e789c202-6c70-4b3b-8647-733b6f30de32",
+        "thread_ts": "1557210177.008400",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJJ7U9214",
+                "created": 1557210208,
+                "timestamp": 1557210208,
+                "name": "19年度年間履修計画書_鈴木.docx",
+                "title": "19年度年間履修計画書_鈴木.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 20485,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJJ7U9214\/19__________________________________.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJJ7U9214\/download\/19__________________________________.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ7U9214-620de3a7ca\/19___________________________________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJJ7U9214-620de3a7ca\/19___________________________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FJJ7U9214\/19__________________________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJJ7U9214-f82e418752",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1557210210.008900",
+        "client_msg_id": "a2e3cfea-30f2-4894-a5a3-d6ebbf6a4556",
+        "thread_ts": "1557210177.008400",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "bb8a5fa7-9100-4a83-b157-552da81d1a1a",
+        "type": "message",
+        "text": "勝川先生との研究相談ですが、以下に決まりました。\n予約ができないので、少し早めに行って席を確保してもらえると助かります。\n5月２９日（水）14：00－16：00＠渋谷東急６階CAFE CUCINA＆COMPANY\n<https:\/\/tabelog.com\/tokyo\/A1303\/A130301\/13153572\/table\/>",
+        "user": "UHFLB6JPR",
+        "ts": "1557211460.010300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "カフェ クッチーナ&amp;カンパニー (渋谷\/カフェ)",
+                "title_link": "https:\/\/tabelog.com\/tokyo\/A1303\/A130301\/13153572\/table\/",
+                "text": "★★★☆☆3.51 ■【渋谷駅ダントツ駅近】《ちょっと一息》種類豊富なコーヒーと絶品パンケーキの安らぎカフェ ■予算(夜):～￥999",
+                "fallback": "カフェ クッチーナ&amp;カンパニー (渋谷\/カフェ)",
+                "thumb_url": "https:\/\/tblg.k-img.com\/resize\/640x640c\/restaurant\/images\/Rvw\/35317\/35317591.jpg?token=520420b&api=v2",
+                "from_url": "https:\/\/tabelog.com\/tokyo\/A1303\/A130301\/13153572\/table\/",
+                "thumb_width": 640,
+                "thumb_height": 640,
+                "service_icon": "https:\/\/tblg.k-img.com\/images\/smartphone\/favicon.png?20140320",
+                "service_name": "tabelog.com",
+                "id": 1,
+                "original_url": "https:\/\/tabelog.com\/tokyo\/A1303\/A130301\/13153572\/table\/"
+            }
+        ]
+    }
+]

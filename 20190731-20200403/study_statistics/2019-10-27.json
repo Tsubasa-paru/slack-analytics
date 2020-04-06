@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FPM8ES333",
+                "created": 1572237874,
+                "timestamp": 1572237874,
+                "name": "ハンバーガー統計　提出用.xlsx",
+                "title": "ハンバーガー統計　提出用.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 12584,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPM8ES333\/____________________________________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPM8ES333\/download\/____________________________________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPM8ES333-177a4d38ac\/_____________________________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPM8ES333-177a4d38ac\/_____________________________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FPM8ES333\/____________________________________.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FPM8ES333-d957b07d1b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1572237875.000200",
+        "client_msg_id": "6bff172c-852b-43ab-a88f-25f63876595c",
+        "thread_ts": "1571644062.000300",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

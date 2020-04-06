@@ -1,0 +1,95 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551796091.000200",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "FE006D51-57CE-48E3-8855-2AD21FB59D3B",
+        "type": "message",
+        "text": "とりあえずワークスペースを作ってみた\nチャンネルの種類や使い方は試用しつつ決めてこう",
+        "user": "UGQV9DXRC",
+        "ts": "1551797873.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551823201.000200",
+        "user": "UGQ2ENZD0",
+        "text": "<@UGQ2ENZD0>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "3b6adb33-cac6-415f-83eb-19a73d2de664",
+        "type": "message",
+        "text": "先生からの連絡がラインできて、それをスラックで書き換えるのめんどいな！いずれはここのワークスペースに先生を招待して、ボスからの連絡用チャンネルを作り、そこに書き込んでもらうようにしたらいいかな？",
+        "user": "UGQV9DXRC",
+        "ts": "1551840170.002700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "830af202-5289-4d88-a745-158b3444a5a6",
+        "type": "message",
+        "text": "そうですね",
+        "user": "UGQ2ENZD0",
+        "ts": "1551841959.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551848811.000200",
+        "user": "UGPH97FDW",
+        "text": "<@UGPH97FDW>さんがチャンネルに参加しました"
+    }
+]

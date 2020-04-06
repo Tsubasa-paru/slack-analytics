@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "2019\/05\/16現在の実験データについて理解したところ",
+        "files": [
+            {
+                "id": "FJE2Y5XTL",
+                "created": 1558013193,
+                "timestamp": 1558013193,
+                "name": "資料検索_1.0.docx",
+                "title": "資料検索_1.0.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 122164,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJE2Y5XTL\/_____________1.0.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJE2Y5XTL\/download\/_____________1.0.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJE2Y5XTL-0818a44293\/_____________1.0_converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJE2Y5XTL-0818a44293\/_____________1.0_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FJE2Y5XTL\/_____________1.0.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJE2Y5XTL-72f5c837f7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1558013194.000100",
+        "client_msg_id": "f8953b5d-6415-47ec-a3e1-cb1a2f27194e"
+    }
+]

@@ -1,0 +1,185 @@
+[
+    {
+        "client_msg_id": "CD5DC4A6-01C3-4DDD-9480-9EDBFA2C524C",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> 5万いつまでだっけ？コンビニ決済6日まで？",
+        "user": "UHC5VBV5E",
+        "ts": "1575360315.003100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5368DF6C-D7AB-4801-814D-7FBA8DC01B23",
+        "type": "message",
+        "text": "うん6に入金するつもりだから6日に頂ければ",
+        "user": "UHEH8KZ7W",
+        "ts": "1575360537.004100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_ryokai",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4226a05f-9b0c-42e1-b973-e9460f866859",
+        "type": "message",
+        "text": "金額変更ありました\n<https:\/\/ohkawaralab.slack.com\/archives\/CGPSV31U5\/p1575350935001600?thread_ts=1575350863.000800&amp;cid=CGPSV31U5>",
+        "user": "UGQV9DXRC",
+        "ts": "1575426629.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGPSV31U5\/p1575350935001600?thread_ts=1575350863.000800&amp;cid=CGPSV31U5",
+                "fallback": "[December 2nd, 2019 9:28 PM] kmt.sd.ma: 福田君に渡す\n③交通費(飛行機)+宿泊費　54600円\n\n③済：",
+                "ts": "1575350935.001600",
+                "msg_subtype": "thread_broadcast",
+                "author_id": "UGQV9DXRC",
+                "author_subname": "鈴木美穂",
+                "channel_id": "CGPSV31U5",
+                "channel_name": "meeting",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "福田君に渡す\n③交通費(飛行機)+宿泊費　54600円\n\n③済：",
+                "author_name": "鈴木美穂",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGPSV31U5\/p1575350935001600?thread_ts=1575350863.000800&amp;cid=CGPSV31U5",
+                "footer": "#meeting のスレッドから"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "joOC6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "金額変更ありました\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ohkawaralab.slack.com\/archives\/CGPSV31U5\/p1575350935001600?thread_ts=1575350863.000800&cid=CGPSV31U5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c98dcd43-0485-4b50-8228-203275442594",
+        "type": "message",
+        "text": "金額変更ありました(2の大会参加費は先生がまとめて払ってくださるので、学生は払わない)\n<https:\/\/ohkawaralab.slack.com\/archives\/CGPSV31U5\/p1575350920001300?thread_ts=1575350863.000800&amp;cid=CGPSV31U5>",
+        "user": "UGQV9DXRC",
+        "ts": "1575431287.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGPSV31U5\/p1575350920001300?thread_ts=1575350863.000800&amp;cid=CGPSV31U5",
+                "fallback": "[December 2nd, 2019 9:28 PM] kmt.sd.ma: 根本君に渡す\n①学会入会費+年会費　　 4000円\n②大会参加費　　　　　　2500円\n\n①済：福田\n②済：",
+                "ts": "1575350920.001300",
+                "msg_subtype": "thread_broadcast",
+                "author_id": "UGQV9DXRC",
+                "author_subname": "鈴木美穂",
+                "channel_id": "CGPSV31U5",
+                "channel_name": "meeting",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "根本君に渡す\n①学会入会費+年会費　　 4000円\n②大会参加費　　　　　　2500円\n\n①済：福田\n②済：",
+                "author_name": "鈴木美穂",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGPSV31U5\/p1575350920001300?thread_ts=1575350863.000800&amp;cid=CGPSV31U5",
+                "footer": "#meeting のスレッドから"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MBbyE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "金額変更ありました(2の大会参加費は先生がまとめて払ってくださるので、学生は払わない)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ohkawaralab.slack.com\/archives\/CGPSV31U5\/p1575350920001300?thread_ts=1575350863.000800&cid=CGPSV31U5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,261 @@
+[
+    {
+        "client_msg_id": "9f1848cd-b3df-4fe2-95b8-5427568c7337",
+        "type": "message",
+        "text": "福田くんにIDとパスの共有",
+        "user": "UGQV9DXRC",
+        "ts": "1564388364.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564388364.000600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1564388472.001800",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1564388472.001800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6755af56-6c29-4599-ae88-9f771b381fe5",
+        "type": "message",
+        "text": "リターン追加",
+        "user": "UGQV9DXRC",
+        "ts": "1564388367.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "52fc55c9-f931-46fc-98e9-eff461ae7fb9",
+        "type": "message",
+        "text": "昨年の報告書を埋め込みできるかどうか",
+        "user": "UGQV9DXRC",
+        "ts": "1564388381.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "160ec47a-8ed5-46b8-b65c-f87a638e8c42",
+        "type": "message",
+        "text": "Faavo 竹中さんに連絡",
+        "user": "UGQV9DXRC",
+        "ts": "1564388400.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564388400.001500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1564388409.001600",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1564388409.001600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a31f7e5d-1900-4ec9-9af2-595a43559f1e",
+        "type": "message",
+        "text": "電話したけど繋がらない　1720",
+        "user": "UGQV9DXRC",
+        "ts": "1564388409.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564388400.001500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "b1bee460-8025-49ca-8e77-a247c0d4af2d",
+        "type": "message",
+        "text": "Twitterから登録しました。\nページはまだ作成途中なので出来ていません。(はるかさんが作ってくださったのを少し付け足して打ち込むだけですが)\nユーザー名:ueccrushers1988\npw: ueccrushers\nアドレスueccrushers.staff@gmail.com",
+        "user": "UGQV9DXRC",
+        "ts": "1564388472.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564388364.000600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "type": "message",
+        "text": "画像pickup→確認メール",
+        "user": "UGQV9DXRC",
+        "ts": "1564388541.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[July 29th, 2019 5:21 PM] ohkawara_kazunori: 大河原一憲 [17:20]\nジェラート関連の写真はFBから取ってきて、山本さんにそれを使っていいか確認するのがいいと思う\n<https:\/\/ja-jp.facebook.com\/pg\/quattropanchine\/photos\/?ref=page_internal>\n佐藤研はここら辺から取ってきて、佐藤先生に確認するのがいいかな\n<http:\/\/satoh.cs.uec.ac.jp\/ja\/research\/hydroponics\/gallery.html>\n\n<http:\/\/facebook.com|facebook.com>\nジェラート専門店 クアットロパンキーネ QuattroPanchine\nジェラート専門店 クアットロパンキーネ QuattroPanchine, 横浜市. 971 likes · 97 talking about this · 367 were here. 乳化安定剤等不使用、自然素材のビオなジェラート専門店 \/イタリアンカフェバール Gelateria(GelatoFactory)\/Tavolacalda Bar Il Gelato Artigianale...",
+                "ts": "1564388478.022700",
+                "author_id": "UHFLB6JPR",
+                "author_subname": "大河原一憲",
+                "channel_id": "CJZ0QGKRB",
+                "channel_name": "project_こども食堂",
+                "is_msg_unfurl": true,
+                "text": "大河原一憲 [17:20]\nジェラート関連の写真はFBから取ってきて、山本さんにそれを使っていいか確認するのがいいと思う\n<https:\/\/ja-jp.facebook.com\/pg\/quattropanchine\/photos\/?ref=page_internal>\n佐藤研はここら辺から取ってきて、佐藤先生に確認するのがいいかな\n<http:\/\/satoh.cs.uec.ac.jp\/ja\/research\/hydroponics\/gallery.html>\n\n<http:\/\/facebook.com|facebook.com>\nジェラート専門店 クアットロパンキーネ QuattroPanchine\nジェラート専門店 クアットロパンキーネ QuattroPanchine, 横浜市. 971 likes · 97 talking about this · 367 were here. 乳化安定剤等不使用、自然素材のビオなジェラート専門店 \/イタリアンカフェバール Gelateria(GelatoFactory)\/Tavolacalda Bar Il Gelato Artigianale...",
+                "author_name": "大河原一憲",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UHFLB6JPR",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0003-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1564388478022700",
+                "is_share": true,
+                "footer": "#project_こども食堂 に投稿"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a85b2474-e810-48bf-8567-052a8ec0ca43",
+        "type": "message",
+        "text": "リンク切れてない。なんだろ？一応張りなおした",
+        "user": "UGQV9DXRC",
+        "ts": "1564465587.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564374106.000200",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FK4QZTMND",
+                "created": 1559823358,
+                "timestamp": 1559823358,
+                "name": "ECSS_Poster_Shimizu.pdf",
+                "title": "ECSS_Poster_Shimizu.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 712366,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK4QZTMND\/ecss_poster_shimizu.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK4QZTMND\/download\/ecss_poster_shimizu.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FK4QZTMND-7f1fb40e9b\/ecss_poster_shimizu_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 6063,
+                "thumb_pdf_h": 3421,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FK4QZTMND\/ecss_poster_shimizu.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FK4QZTMND-ffd1fcf953",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1559823361.000100",
+        "client_msg_id": "7a9d7e0f-f040-4cc6-ab63-d08567d094fa"
+    }
+]

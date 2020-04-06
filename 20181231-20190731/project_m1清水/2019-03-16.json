@@ -1,0 +1,266 @@
+[
+    {
+        "client_msg_id": "0c5b59c3-a4bc-42e5-a918-21468037bf35",
+        "type": "message",
+        "text": "*最低要求水準*\n&gt;&gt;&gt;\n- CPU : Intel Core i5-9600k 以上\n    - どうせ買うなら第9世代の方がコスパが高い\n    - 性能的には Core i5-8400 以上が好ましい\n        - これ以下になるとコスパ的にももったいない\n\n- GPU : NVIDIA GeForce GTX 1060(6GB) 以上\n    - どうせ買うならRTX 2060以上が良いだろう\n    - CUDAコア数は機械学習するときにも重要\n    - GPU自体はなくても良いが，あった方が確実によい\n\n- RAM : 16GB (DDR4) 以上\n    - 開発するなら8GBでは足りない\n    - 可能であれば32GBほしいが，あとで拡張すれば良いと思われる\n        - サーバー運用するなら32GBほしいね\n\n- ROM : SSD 250GB 以上\n    - 可能であれば500GBほしい\n    - 250だとデュアルブートに不安が残る\n    - 1TBのHDDがあるとデータ破損対策にもスキがない\n\n- マザーボード : Z370 チップセット\n    - Intelの第9世代CPUを積むならこれかZ390\n    - <https:\/\/pssection9.com\/archives\/intel-z370-h370-b360-h310-chipset.html>\n        - これに詳しい\n\n- OS : なし\n    - 大学のライセンスでWin10が入れられる\n    - Ubuntuも入れる予定(デュアルブート)\n\n- Office : なし\n    - これも大学のライセンスで入れる\n\n- CD\/DVD port : なし\n    - あっても良いが，なくても良い\n    - 内蔵型はそんなに高くないので入れても良いかも\n    - BTOだとタダでくっついてくることが多い\n\n- モニタ : なし\n    - 付属品はなくて良い\n    - 買うなら21インチ x 2\n        - 一つはピボットつきが望ましい\n        - 横置き+縦置きしたい\n    - どのみち，別途購入するべきであろう\n\n- マウス : なし\n    - BTO付属のやつはただのオプション商法\n    - 別に良いものを買うべきである\n    - 何なら，自宅の使ってないトラックボールを持ってきても良い\n\n- キーボード : なし\n    - やすっぽっちいパンタグラフ式のはあるだけ邪魔なのでいらない\n    - 無線は故障しやすいのでこれもいらない\n        - 使うならBTだが，一般向けの無線キーボードは糞なので要注意である\n    - 安いメカニカルキーボードを別に買えばよいだろう\n        - これについても，何なら自分のものがあるのでそれで良い",
+        "user": "UGQ2ENZD0",
+        "ts": "1552719746.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1552720031.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "公安9課",
+                "title": "Intel Z370, H370, B360, H310チップセットの違いについてと比較",
+                "title_link": "https:\/\/pssection9.com\/archives\/intel-z370-h370-b360-h310-chipset.html",
+                "text": "Intel Z370, H370, B360, H310チップセットの違いについてと比較。 Intel Z370, H370, B360, H310チップセットの違いについてと比較 この表本当か？これが無いと困る！この機能対応していないの？というものはきちんとご自分でIntel公式で仕様を確認することをオススメします。 Z370 H370 B360 H310 サポートしているCPU Coffee Lake Coffee Lake Coffee Lake Coffee Lake ソケット形状 LGA1151 LGA1151 LGA1151 LGA1151 オーバークロック ◯ × × × サポートしているメモリ DDR4-2666 DDR4-2666 DDR4-2666 DDR4-2666 最大メモリ容量 64GB スロット数4 デュアルチャネル 64GB スロット数4 デュアルチャネル 64GB スロット数4 デュアルチャネル 32GB スロット数2 デュアルチャネル チップセットの PCI Express 3.0レーン 24 20 12 6 (H310だけ2.0) PCI Express構成 x1, x2, x4 x1, x2, x4 x1, x2, x4 x1, x2, x4 CPUが内蔵する PCI Express x6レーンの構成 1x16 or 2x8 or 1x8 or 2x4 1x16 1x16 1x16 SATA3ポート数 6 6 6 4 搭載できるUSBポート数 の合計 14 14 12 10 USB3.1 Gen2 - 4 4 - USB3.1 Gen1 - 8 6 4 USB3.0 10 - - - USB2.0 14 14 12 10 Intel Optane Memory ◯ ◯ ◯ × Intel Rapid Storage Technology ◯ ◯ × × RAID構成 PCIe 0, 1, 5 SATA 0, 1, 5, 10 PCIe 0, 1, 5 SATA 0, 1, 5, 10 - - PCIストレージ向け Intel Rapid Storage Technology ◯ ◯ × × サポートされるディスプレイ数 3 3 3 2",
+                "fallback": "公安9課: Intel Z370, H370, B360, H310チップセットの違いについてと比較",
+                "thumb_url": "https:\/\/pssection9.com\/wp-content\/uploads\/2015\/02\/Intellogo-1024x678.png",
+                "ts": 1522742757,
+                "from_url": "https:\/\/pssection9.com\/archives\/intel-z370-h370-b360-h310-chipset.html",
+                "thumb_width": 1024,
+                "thumb_height": 678,
+                "service_icon": "https:\/\/pssection9.com\/wp-content\/uploads\/2018\/07\/Section9-logo2.png.pagespeed.ce.2FHng05Tl7.png",
+                "id": 1,
+                "original_url": "https:\/\/pssection9.com\/archives\/intel-z370-h370-b360-h310-chipset.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d8c53144-3fdc-4d46-af8c-eafe2febb638",
+        "type": "message",
+        "text": "*構成案1*\n&gt;&gt;&gt;\n- G-Master Hydro Z390 II\n    - <https:\/\/www.sycom.co.jp\/custom\/model?no=000639>\n\n- カスタマイズ込で235,830\\\n\n- CPU : Intel Core i5-9600k\n\n- GPU : RTX 2070\n\n- SSD : M.2 PCI-E接続 500GB\n\n- 変更点\n    - RAM 8GB -&gt; 16GB\n    - Windows10 Home -&gt; None\n\n- 最低要求よりも少し強めの構成\n    - TOSHIBA HDD 1TBを追加すると +6,660\\\n    - コスパは普通に良い\n    - RTX 2060 -&gt; 2070\n        - 順当にワンランク上の性能\n        - 性能的には13%くらい上昇している\n    - SSDがPCI-E接続なので高速\n        - SATA3よりも早いのでとても嬉しいですね\n\n- マザーボードが優秀\n    - Z390系列のみ\n    - i9-9900k前提なので，ここまで強くなくても良いか\n        - 電源周りが強烈\n        - OCを考慮している設計\n        - 解析で強いチップが必要になったらありがたい仕様\n    - 標準のマザボはASRock Z390 Extreme 4\n        - 青いデザインが無駄にかっこいい\n\n- 独自水冷を採用\n    - デュアル水冷\n    - 長期で使うなら多少のイニシャルコストは許容できるだろう\n    - 静音性が魅力的\n    - 空冷よりも内部温度が下がるため，長期運用に役立つ\n\n- GPUに水冷がつくので内部温度の安定性が高い",
+        "user": "UGQ2ENZD0",
+        "ts": "1552719780.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1552720016.000000"
+        }
+    },
+    {
+        "client_msg_id": "f1604f6d-c658-42a6-b340-13be74815ebf",
+        "type": "message",
+        "text": "*構成案2*\n&gt;&gt;&gt;\n- Radiant GZ2800Z390\n    - <https:\/\/www.sycom.co.jp\/custom\/model?no=000616>\n    - このミドルタワーをカスタマイズする\n\n- 179,710\\\n\n- CPU : i5-9600k\n\n- GPU : RTX 2060\n\n- RAM : 16GB\n\n- ROM : SSD 500GB + HDD 1TB\n\n- 電源ユニット : 750W Gold\n    - GPUの追加に伴いグレードアップ\n\n- 最低要求の水準に近い構成で，案1よりも5万円以上安い\n    - ミドルタワーなので排熱が不安\n\n- マザーボードが廉価版になっている\n    - チップセットはZ390\n    - Extreme4にすると1万円くらい高くなる\n\n- GPUをRTX 2070にすると204,610円に\n    - 水冷を排除して同一構成にすると213,590円\n    - 構成案1に方が総合的に見ると良いか\n\n- 空冷なのでうるさい\n    - 吸気が厳しいので研究室が埃っぽいと故障率が上がるかも",
+        "user": "UGQ2ENZD0",
+        "ts": "1552719925.002700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1552719999.000000"
+        }
+    },
+    {
+        "client_msg_id": "41a188ff-077b-4c69-8680-6c90df65508e",
+        "type": "message",
+        "text": "*構成案3*\n&gt;&gt;&gt;\n- GALLERIA-DF\n    - Dosparaのゲーミングデスクトップ\n\n- 134,480\\\n\n- CPU : i5-9400F\n    - 内蔵GPUがないモデル\n    - 8400の順当な後継機であり，性能も8400に毛が生えた程度\n    - 安いが，プリインストールのOSがないとPCの初期設定で面倒なことになる\n\n- GPU : RTX 2060\n\n- RAM : 16GB\n\n- ROM : SSD 500GB + HDD 1TB\n\n- OSなし\n\n- 電源ユニット : 650W BRONZE\n\n- 性能対費用は非常に良い\n\n- 出自不明のパーツが多い\n    - 冷却ファンを含め，個体差は覚悟しなければならない\n\n- 電源ユニットが少々怖い\n\n- マザーボードが不明\n    - 完全に謎のマザボである\n\n- SSDがSATA3なのでそんなにつよくはない\n    - マザーボードのPCIスロットが少ないのであろう\n        - もちろんマザーボードの出自は不明であるため，推測に過ぎないが\n\n- 研究用の計算機として買うのは少し怖い\n\n- 諸々の作業用としては全然アリ\n    - ここから全体をグレードダウンさせれば，B4の作業用としては十二分に使えると思われる",
+        "user": "UGQ2ENZD0",
+        "ts": "1552719974.003100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1552719988.000000"
+        }
+    },
+    {
+        "client_msg_id": "ef7d968a-1bba-43c1-a738-ab029c7963d5",
+        "type": "message",
+        "text": "*構成案4*\n&gt;&gt;&gt;\n- GALLERIA-ZG\n    - 名前のとおり，Dospara製\n\n- 239,980\\\n\n- CPU : Core i7-9700k\n\n- GPU : RTX 2080\n\n- RAM : 16GB\n\n- ROM : SSD 512GB + HDD 3TB\n\n- 電源ユニット : 700W Gold\n    - 例のごとく出自不明\n\n- 構成案1と同程度の価格だが，性能はすべて一回り上\n\n- ここまで性能が高くなると，正直空冷は怖い\n\n- 似たような構成をサイコムでやると2万円くらい高くなる\n    - 全体的な品質の向上を考えると+2万が高いか安いか\n\n- ここまでするならサイコムにして水冷をつけるのが無難か\n\n- 冷却は十分よりも過剰の方が良い\n    - Dosparaのハイエンドはそこが怖い",
+        "user": "UGQ2ENZD0",
+        "ts": "1552720226.003800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1552720599.003900",
+        "user": "UGQ2ENZD0",
+        "text": "<@UGQ2ENZD0>さんがチャンネルの目的を設定しました : 清水の研究に関するチャンネルです．通知はOnly Direct Messages &amp; Highlight Wordsで大丈夫です．",
+        "purpose": "清水の研究に関するチャンネルです．通知はOnly Direct Messages &amp; Highlight Wordsで大丈夫です．"
+    },
+    {
+        "client_msg_id": "7759ea36-5872-459d-911f-83d206fc2b46",
+        "type": "message",
+        "text": "現状，構成案1が良いでしょう．GPUをRTX2060で止めるなら，液冷はいらないと考えます．",
+        "user": "UGQ2ENZD0",
+        "ts": "1552720811.005400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d072b0ab-0ace-4d50-9767-fd89c02f0c55",
+        "type": "message",
+        "text": "*おまけ*\n(新ビヨンセ向けの自作PCの構成案)\n&gt;&gt;&gt;\nCPU : i3-8300, 20000\\前後\nこれくらいあれば十分．\n4770とか積んでるやつよりも性能が良い．\n9100とかがでたらそっちを買う\n8100ならさらに5kくらい安い(しかもつよい)\n<http:\/\/kakaku.com\/item\/K0001045050\/>\n\nRAM : DDR4 8GB x 1,  6000～8000\\(二枚組を買って一つずつ使う)\n8GBあればうちの研究室は十分．\n4GBの使ってる人もいるので...\n<https:\/\/www.amazon.co.jp\/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97PC%E7%94%A8%E3%83%A1%E3%83%A2%E3%83%AA-PC4-19200-DDR4-2400-Crucial-W4U2400CM-8G\/dp\/B01L6OC5LK\/ref=sr_1_2?ie=UTF8&amp;qid=1547970305&amp;sr=8-2&amp;keywords=ddr4+8gb+2%E6%9E%9A>\n\nSSD : 256GB, 7000\\前後\nデュアルブートしないならこれで十分(体験談)\nどうしてもというなら外付けHDDを使えば良い．\nメーカーは好みで．\nSLCは買っちゃダメだぞ☆\n\nマザー : mini ITX, 10000～13000\\\nスリムケースを使うのでこれ．\nHDMI * 1, DP * 1 なので映像出力も十分．\nトリプルディスプレイはできないが，そもそもそんなに机がでかくない．\n<https:\/\/www.amazon.co.jp\/ASRock-Intel-H310%E3%83%81%E3%83%83%E3%83%97%E3%82%BB%E3%83%83%E3%83%88%E6%90%AD%E8%BC%89-Mini-ITX%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-H310M-ITX\/dp\/B07BMQZWV2?SubscriptionId=AKIAIL4TH6ULUYQRBB2Q&amp;tag=mof777-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B07BMQZWV2>\n\nPCケース : 7000\\前後\nスリムケースを選択．\n内装はしょぼいのでエアフローは気にしない．\n<https:\/\/www.amazon.co.jp\/SilverStone-Milo-Mini-ITX-HTPC%E3%82%B1%E3%83%BC%E3%82%B9-SST-ML06B\/dp\/B00H4XG4RY\/ref=sr_1_10?s=computers&amp;ie=UTF8&amp;qid=1547967738&amp;sr=1-10&amp;refinements=p_n_feature_six_browse-bin%3A2189034051>\n\n電源ユニット : 300W, 5000\\前後\n300Wもいらないが，これくらいあれば安いのでも安全に運用できる．\n<http:\/\/kakaku.com\/pc\/power-supply\/itemlist.aspx?pdf_Spec301=300>\n\nDVDドライブ(内蔵) : 3000\\もしないで買える\nあったほうが良さそう．",
+        "user": "UGQ2ENZD0",
+        "ts": "1552721016.006800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1552721045.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "価格.com",
+                "title": "インテル Core i3 8300 BOX 価格比較",
+                "title_link": "http:\/\/kakaku.com\/item\/K0001045050\/",
+                "text": "■最安価格(税込)：19,958円　■価格.com売れ筋ランキング：40位　■満足度レビュー：0人　■クチコミ：0件 （※3月16日時点）",
+                "fallback": "価格.com: インテル Core i3 8300 BOX 価格比較",
+                "thumb_url": "https:\/\/img1.kakaku.k-img.com\/images\/logo\/200x200_01.png",
+                "from_url": "http:\/\/kakaku.com\/item\/K0001045050\/",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/kakaku.com\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/kakaku.com\/item\/K0001045050\/"
+            },
+            {
+                "title": "CFD販売 デスクトップPC用メモリ PC4-19200(DDR4-2400) 8GB×2枚 \/ 288pin \/ 無期限保証 \/ Crucial by Micron \/ W4U2400CM-8G",
+                "title_link": "https:\/\/www.amazon.co.jp\/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97PC%E7%94%A8%E3%83%A1%E3%83%A2%E3%83%AA-PC4-19200-DDR4-2400-Crucial-W4U2400CM-8G\/dp\/B01L6OC5LK\/ref=sr_1_2?ie=UTF8&qid=1547970305&sr=8-2&keywords=ddr4+8gb+2%E6%9E%9A",
+                "text": "CFD販売 デスクトップPC用メモリ PC4-19200(DDR4-2400) 8GB×2枚 \/ 288pin \/ 無期限保証 \/ Crucial by Micron \/ W4U2400CM-8G",
+                "fallback": "CFD販売 デスクトップPC用メモリ PC4-19200(DDR4-2400) 8GB×2枚 \/ 288pin \/ 無期限保証 \/ Crucial by Micron \/ W4U2400CM-8G",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/51nW-Z0FOJL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(113%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97PC%E7%94%A8%E3%83%A1%E3%83%A2%E3%83%AA-PC4-19200-DDR4-2400-Crucial-W4U2400CM-8G\/dp\/B01L6OC5LK\/ref=sr_1_2?ie=UTF8&qid=1547970305&sr=8-2&keywords=ddr4+8gb+2%E6%9E%9A",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 16341,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 2,
+                "original_url": "https:\/\/www.amazon.co.jp\/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97PC%E7%94%A8%E3%83%A1%E3%83%A2%E3%83%AA-PC4-19200-DDR4-2400-Crucial-W4U2400CM-8G\/dp\/B01L6OC5LK\/ref=sr_1_2?ie=UTF8&amp;qid=1547970305&amp;sr=8-2&amp;keywords=ddr4+8gb+2%E6%9E%9A"
+            },
+            {
+                "title": "ASRock Intel H310チップセット搭載 Mini-ITXマザーボード H310M-ITX\/ac",
+                "title_link": "https:\/\/www.amazon.co.jp\/ASRock-Intel-H310%E3%83%81%E3%83%83%E3%83%97%E3%82%BB%E3%83%83%E3%83%88%E6%90%AD%E8%BC%89-Mini-ITX%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-H310M-ITX\/dp\/B07BMQZWV2?SubscriptionId=AKIAIL4TH6ULUYQRBB2Q&tag=mof777-22&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07BMQZWV2",
+                "text": "ASRock H310M-ITX\/ac MotherboardFor users that need the most compact home or office platform available for the brand new Intel 8th Gen.Coffee Lake CPUs; enter the ASRock H310M-ITX\/ac Mini-ITX Motherboard.Utilising Intel's latest streamlined chipset; H310, the ASRock H310M-ITX\/ac Motherboard crams ...",
+                "fallback": "ASRock Intel H310チップセット搭載 Mini-ITXマザーボード H310M-ITX\/ac",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/51ITtk5xzpL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/ASRock-Intel-H310%E3%83%81%E3%83%83%E3%83%97%E3%82%BB%E3%83%83%E3%83%88%E6%90%AD%E8%BC%89-Mini-ITX%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-H310M-ITX\/dp\/B07BMQZWV2?SubscriptionId=AKIAIL4TH6ULUYQRBB2Q&tag=mof777-22&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07BMQZWV2",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 26482,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 3,
+                "original_url": "https:\/\/www.amazon.co.jp\/ASRock-Intel-H310%E3%83%81%E3%83%83%E3%83%97%E3%82%BB%E3%83%83%E3%83%88%E6%90%AD%E8%BC%89-Mini-ITX%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-H310M-ITX\/dp\/B07BMQZWV2?SubscriptionId=AKIAIL4TH6ULUYQRBB2Q&amp;tag=mof777-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B07BMQZWV2"
+            },
+            {
+                "title": "SilverStone Milo Series Mini-ITX HTPCケース ブラック SST-ML06B",
+                "title_link": "https:\/\/www.amazon.co.jp\/SilverStone-Milo-Mini-ITX-HTPC%E3%82%B1%E3%83%BC%E3%82%B9-SST-ML06B\/dp\/B00H4XG4RY\/ref=sr_1_10?s=computers&ie=UTF8&qid=1547967738&sr=1-10&refinements=p_n_feature_six_browse-bin%3A2189034051",
+                "text": "SilverStone Milo Series Mini-ITX HTPCケース ブラック SST-ML06B",
+                "fallback": "SilverStone Milo Series Mini-ITX HTPCケース ブラック SST-ML06B",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/41sajGjYPhL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(7%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/SilverStone-Milo-Mini-ITX-HTPC%E3%82%B1%E3%83%BC%E3%82%B9-SST-ML06B\/dp\/B00H4XG4RY\/ref=sr_1_10?s=computers&ie=UTF8&qid=1547967738&sr=1-10&refinements=p_n_feature_six_browse-bin%3A2189034051",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 11877,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 4,
+                "original_url": "https:\/\/www.amazon.co.jp\/SilverStone-Milo-Mini-ITX-HTPC%E3%82%B1%E3%83%BC%E3%82%B9-SST-ML06B\/dp\/B00H4XG4RY\/ref=sr_1_10?s=computers&amp;ie=UTF8&amp;qid=1547967738&amp;sr=1-10&amp;refinements=p_n_feature_six_browse-bin%3A2189034051"
+            },
+            {
+                "title": "価格.com - 電源容量:300Wの電源ユニット 人気売れ筋ランキング",
+                "title_link": "http:\/\/kakaku.com\/pc\/power-supply\/itemlist.aspx?pdf_Spec301=300",
+                "text": "電源容量:300Wの電源ユニット製品一覧 人気売れ筋ランキングの高い順！たくさんの製品の中から、価格やスペック、ランキング、満足度など、さまざまな条件を指定して自分にピッタリの製品を簡単に探し出すことができます。",
+                "fallback": "価格.com - 電源容量:300Wの電源ユニット 人気売れ筋ランキング",
+                "from_url": "http:\/\/kakaku.com\/pc\/power-supply\/itemlist.aspx?pdf_Spec301=300",
+                "service_icon": "https:\/\/kakaku.com\/favicon.ico",
+                "service_name": "kakaku.com",
+                "id": 5,
+                "original_url": "http:\/\/kakaku.com\/pc\/power-supply\/itemlist.aspx?pdf_Spec301=300"
+            }
+        ]
+    }
+]

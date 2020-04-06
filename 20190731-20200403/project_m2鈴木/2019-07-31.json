@@ -1,0 +1,298 @@
+[
+    {
+        "client_msg_id": "f94493d1-8f09-44d1-a9bd-20b8be75d4e9",
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/5887366\/matlab-spectrogram-params>\n\nwelch法のわかりやすそうなやつ",
+        "user": "UGQV9DXRC",
+        "ts": "1564585284.002800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "MATLAB 'spectrogram' params",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/5887366\/matlab-spectrogram-params",
+                "text": "I am a beginner in MATLAB and I should perform a spectral analysis of an EEG signal drawing the graphs of power spectral density and spectrogram. My signal is 10 seconds long and a sampling frequen...",
+                "fallback": "Stack Overflow: MATLAB 'spectrogram' params",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/5887366\/matlab-spectrogram-params",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/5887366\/matlab-spectrogram-params"
+            }
+        ],
+        "thread_ts": "1563810742.000100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "5ad61622-9557-4c04-8a69-d1d58ca1ca97",
+        "type": "message",
+        "text": "なぜそこまでpsdが必要とされるのか",
+        "user": "UGQV9DXRC",
+        "ts": "1564585526.003100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563810742.000100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "735d5497-9b80-4ff3-ab52-7d3d0d43d9be",
+        "type": "message",
+        "text": "<https:\/\/dsp.stackexchange.com\/questions\/2096\/why-so-many-methods-of-computing-psd>",
+        "user": "UGQV9DXRC",
+        "ts": "1564585530.003300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Signal Processing Stack Exchange",
+                "title": "Why so many methods of computing PSD?",
+                "title_link": "https:\/\/dsp.stackexchange.com\/questions\/2096\/why-so-many-methods-of-computing-psd",
+                "text": "Welch's method has been my go-to algorithm for computing power spectral density (PSD) of evenly-sampled timeseries. I noticed that there are many other methods for computing PSD. For example, in ...",
+                "fallback": "Signal Processing Stack Exchange: Why so many methods of computing PSD?",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/dsp\/img\/apple-touch-icon@2.png?v=e0439310c223",
+                "from_url": "https:\/\/dsp.stackexchange.com\/questions\/2096\/why-so-many-methods-of-computing-psd",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/dsp\/img\/favicon.ico?v=c671ebf56db6",
+                "id": 1,
+                "original_url": "https:\/\/dsp.stackexchange.com\/questions\/2096\/why-so-many-methods-of-computing-psd"
+            }
+        ],
+        "thread_ts": "1563810742.000100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FLRFDFQ2D",
+                "created": 1564585844,
+                "timestamp": 1564585844,
+                "name": "0801ゼミ.pptx",
+                "title": "0801ゼミ.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 97749,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLRFDFQ2D\/0801______.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLRFDFQ2D\/download\/0801______.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLRFDFQ2D-7cb8b4b1db\/0801_______converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLRFDFQ2D-7cb8b4b1db\/0801_______thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 1100,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FLRFDFQ2D\/0801______.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FLRFDFQ2D-eb571f40bc",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1564585845.003600",
+        "client_msg_id": "7be6446b-4f03-45e9-9655-578a64753897"
+    },
+    {
+        "client_msg_id": "20acc167-b828-4163-b631-cd8b76501e4c",
+        "type": "message",
+        "text": "psd パワースペクトル密度について読む\n\n・なぜそこまでpsdが必要とされるのか\n<https:\/\/dsp.stackexchange.com\/questions\/2096\/why-so-many-methods-of-computing-psd>\n\n・welch法の理解\n<https:\/\/stackoverflow.com\/questions\/5887366\/matlab-spectrogram-params>\n\n・scipy-welch関数の解説\n<https:\/\/org-technology.com\/posts\/power-spectral-density.html>",
+        "user": "UGQV9DXRC",
+        "ts": "1564585953.005000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564585953.005000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1564998257.000200",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1564998257.000200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FLLDMPX6W",
+                "created": 1564586166,
+                "timestamp": 1564586166,
+                "name": "204834_こども食堂2019概要図.pptx",
+                "title": "Android からのファイル",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 283198,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLLDMPX6W\/204834________________2019_________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLLDMPX6W\/download\/204834________________2019_________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLLDMPX6W-83ca1b599e\/204834________________2019__________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLLDMPX6W-83ca1b599e\/204834________________2019__________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 825,
+                "thumb_pdf_h": 1192,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FLLDMPX6W\/204834________________2019_________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FLLDMPX6W-988620e8fe",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1564586168.005100",
+        "client_msg_id": "7a26e993-5b1c-4dca-b923-54441d990732",
+        "thread_ts": "1564586168.005100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1564586246.005400",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1564586246.005400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2cc9f5fb-3915-45d4-9ea0-8350158323b0",
+        "type": "message",
+        "text": "フリー素材のとこ",
+        "user": "UGQV9DXRC",
+        "ts": "1564586246.005400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564586168.005100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FM0MPT39C",
+                "created": 1564627896,
+                "timestamp": 1564627896,
+                "name": "こども食堂2019概要図_suzuki.pptx",
+                "title": "こども食堂2019概要図_suzuki.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 277202,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FM0MPT39C\/_______________2019__________suzuki.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FM0MPT39C\/download\/_______________2019__________suzuki.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FM0MPT39C-bb7ca2a914\/_______________2019__________suzuki_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FM0MPT39C-bb7ca2a914\/_______________2019__________suzuki_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 825,
+                "thumb_pdf_h": 1192,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FM0MPT39C\/_______________2019__________suzuki.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FM0MPT39C-dbfcc29409",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1564627897.000100",
+        "client_msg_id": "e6f1351b-2ded-405d-9a04-8f26a2ccc437"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJNUH3L9Y",
+                "created": 1558847900,
+                "timestamp": 1558847900,
+                "name": "倫理審査申請書類一式.zip",
+                "title": "倫理審査申請書類一式.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 1745749,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJNUH3L9Y\/______________________________.zip?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJNUH3L9Y\/download\/______________________________.zip?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FJNUH3L9Y\/______________________________.zip",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJNUH3L9Y-4195021441",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1558847900.000700",
+        "client_msg_id": "b03266a9-2a35-4e0f-af0d-1950976e2a2c"
+    },
+    {
+        "client_msg_id": "bd180649-ac5f-4f6b-8fdf-3f9aa3c64a6c",
+        "type": "message",
+        "text": "2.倫理審査申請書に書き足しました",
+        "user": "UGQ2ENZD0",
+        "ts": "1558847904.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "cd5f2d4c-3899-4330-88c7-3529ec3814bb",
+        "type": "message",
+        "text": "12日(日)にやったこと\n• 複数枚(3枚)の同時ダウンロード機能\n• ニフクラのDBデータ追加機能\n• データ更新機能\nなどの機能を作ってみたがこれまでのものを組み合わせるとエラーが発生してしまっているため、早く解消させる。\nその後複数端末での操作を試みる。",
+        "user": "UHG1M1NQ6",
+        "ts": "1578846297.008600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BIpV3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12日(日)にやったこと\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "複数枚(3枚)の同時ダウンロード機能"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ニフクラのDBデータ追加機能"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "データ更新機能"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "などの機能を作ってみたがこれまでのものを組み合わせるとエラーが発生してしまっているため、早く解消させる。\nその後複数端末での操作を試みる。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

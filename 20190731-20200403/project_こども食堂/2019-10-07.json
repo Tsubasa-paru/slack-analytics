@@ -1,0 +1,81 @@
+[
+    {
+        "client_msg_id": "C532C23F-6B5B-4FE1-9A6D-A8B9DE600429",
+        "type": "message",
+        "text": "<@UHFLB6JPR> フードドライブについて、ホームページなどはありますでしょうか？\n報告書に記載したいとのことです",
+        "user": "UGQV9DXRC",
+        "ts": "1570433668.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2205b01e-0e61-48e5-8486-a45c1693c7fa",
+        "type": "message",
+        "text": "ご確認ありがとうございます:bow:",
+        "user": "UGQV9DXRC",
+        "ts": "1570437389.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "27e3dbda-cbde-442c-8c4d-3080608d8819",
+        "type": "message",
+        "text": "メール確認しました\n以下のURLを掲載いたします\n<https:\/\/www.city.chofu.tokyo.jp\/www\/contents\/1560302412378\/index.html>",
+        "user": "UGQV9DXRC",
+        "ts": "1570495938.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "調布市ホームページ",
+                "title": "(令和元年度第1回)食品ロスを減らすフードドライブが開催される | 調布市",
+                "title_link": "https:\/\/www.city.chofu.tokyo.jp\/www\/contents\/1560302412378\/index.html",
+                "text": "(令和元年度第1回)食品ロスを減らすフードドライブが開催される",
+                "fallback": "調布市ホームページ: (令和元年度第1回)食品ロスを減らすフードドライブが開催される | 調布市",
+                "from_url": "https:\/\/www.city.chofu.tokyo.jp\/www\/contents\/1560302412378\/index.html",
+                "thumb_url": "https:\/\/www.city.chofu.tokyo.jp\/www\/image_chofu\/img-ci01.png",
+                "thumb_width": 169,
+                "thumb_height": 63,
+                "service_icon": "https:\/\/www.city.chofu.tokyo.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.city.chofu.tokyo.jp\/www\/contents\/1560302412378\/index.html"
+            }
+        ]
+    }
+]

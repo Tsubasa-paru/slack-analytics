@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "75db6f9e-886b-4e6f-b0c3-fd49860834c9",
+        "type": "message",
+        "text": "・日記表示部分機能的な面は完了\n・あとはレイアウト",
+        "user": "UHG1M1NQ6",
+        "ts": "1573192598.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

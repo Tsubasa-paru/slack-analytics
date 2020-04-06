@@ -1,0 +1,73 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJGTJ5C2W",
+                "created": 1558347582,
+                "timestamp": 1558347582,
+                "name": "清水_倫理申請書_v3.doc",
+                "title": "清水_倫理申請書_v3.doc",
+                "mimetype": "application\/msword",
+                "filetype": "doc",
+                "pretty_type": "Word Document",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 77824,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJGTJ5C2W\/_______________________v3.doc?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJGTJ5C2W\/download\/_______________________v3.doc?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJGTJ5C2W-0863abd6f8\/_______________________v3_converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJGTJ5C2W-0863abd6f8\/_______________________v3_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FJGTJ5C2W\/_______________________v3.doc",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJGTJ5C2W-52de92636f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1558347585.000700",
+        "client_msg_id": "f52a8cbe-c31f-472a-9a4e-55d3fa50a9ab"
+    },
+    {
+        "client_msg_id": "538377e7-05e2-456f-9159-0feada55a3ad",
+        "type": "message",
+        "text": "熱が下がらないため本日も休養します。",
+        "user": "UGQ2ENZD0",
+        "ts": "1558394709.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

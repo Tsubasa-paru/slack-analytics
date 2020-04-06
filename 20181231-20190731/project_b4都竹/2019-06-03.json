@@ -1,0 +1,96 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJWRP6T18",
+                "created": 1559616448,
+                "timestamp": 1559616448,
+                "name": "6.4_進捗.pptx",
+                "title": "6.4_進捗.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 467608,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJWRP6T18\/6.4_______.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJWRP6T18\/download\/6.4_______.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJWRP6T18-7a68ec13fe\/6.4________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJWRP6T18-7a68ec13fe\/6.4________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FJWRP6T18\/6.4_______.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJWRP6T18-0043762854",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHG1M1NQ6",
+        "display_as_bot": false,
+        "ts": "1559616453.000100",
+        "client_msg_id": "4d6069bf-fabd-4bc7-ae7a-e0e01ed2b532",
+        "reactions": [
+            {
+                "name": "the_fatal_smile",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UGQV9DXRC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/open?id=1S8gWfHUN0gKk7Ts-lAQrKr48f_ZZPRp5>",
+        "files": [
+            {
+                "id": "FHKELK895",
+                "created": 1554167730,
+                "timestamp": 1554167730,
+                "name": "山崎_修論提出版.pdf",
+                "title": "山崎_修論提出版.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 3010765,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/file\/d\/1S8gWfHUN0gKk7Ts-lAQrKr48f_ZZPRp5\/view?usp=drivesdk",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHKELK895-6283bbe56c\/_______________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FHKELK895\/______________________.pdf",
+                "is_starred": false,
+                "external_id": "1S8gWfHUN0gKk7Ts-lAQrKr48f_ZZPRp5",
+                "external_url": "https:\/\/drive.google.com\/file\/d\/1S8gWfHUN0gKk7Ts-lAQrKr48f_ZZPRp5\/view?usp=drivesdk",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FHKELK895"
+        ],
+        "ts": "1559622503.000300",
+        "client_msg_id": "1fd44292-0e59-426c-b789-7e167f7c9875"
+    }
+]

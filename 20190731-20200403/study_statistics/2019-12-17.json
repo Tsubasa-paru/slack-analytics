@@ -1,0 +1,106 @@
+[
+    {
+        "type": "message",
+        "text": "<@UGQV9DXRC> <@UHEH8KZ7W>",
+        "files": [
+            {
+                "id": "FRSH7UPPX",
+                "created": 1576572658,
+                "timestamp": 1576572658,
+                "name": "健康支援学会2020_福田KO20191217.docx",
+                "title": "健康支援学会2020_福田KO20191217.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 100563,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRSH7UPPX\/__________________2020_______ko20191217.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRSH7UPPX\/download\/__________________2020_______ko20191217.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRSH7UPPX-1e3e265d58\/__________________2020_______ko20191217_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRSH7UPPX-1e3e265d58\/__________________2020_______ko20191217_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FRSH7UPPX\/__________________2020_______ko20191217.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FRSH7UPPX-3b7d23a65f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eehG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UGQV9DXRC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1576572661.000300",
+        "client_msg_id": "1b19c6a8-4f84-417e-84b1-73302f6e1676"
+    },
+    {
+        "client_msg_id": "8fe5a45b-a305-4f70-9de3-15bd6417ae65",
+        "type": "message",
+        "text": "こんなんでどうかな？\n図1の旗の部分の文字は白抜きだけど、白黒印刷すると不鮮明だから、黒に修正してもいいかなと思いました。",
+        "user": "UHFLB6JPR",
+        "ts": "1576572729.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ryd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こんなんでどうかな？\n図1の旗の部分の文字は白抜きだけど、白黒印刷すると不鮮明だから、黒に修正してもいいかなと思いました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

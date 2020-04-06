@@ -1,0 +1,111 @@
+[
+    {
+        "client_msg_id": "fffc43af-80d7-4b9a-9677-ca16f428aef6",
+        "type": "message",
+        "text": "3年生との面会まとめ\n学生部屋に来てもらって研究についてと3月の予定の話をしています。\n一応共有しておきます。\n全員の面会が終わり次第3月の顔合わせの予定を決めます。\n\n[小西]\n運動意欲増進系の研究に興味あり。3月3、5日はこれる。\n\n[猪野]\n生活習慣病患者の医療費推定の研究に興味あり。3月前半は就活忙しい。3月16日以降ならこれる。\n\n[飯野]\nまだ。",
+        "user": "UHC5VBV5E",
+        "ts": "1582180175.004700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHC5VBV5E",
+            "ts": "1582180252.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "odp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3年生との面会まとめ\n学生部屋に来てもらって研究についてと3月の予定の話をしています。\n一応共有しておきます。\n全員の面会が終わり次第3月の顔合わせの予定を決めます。\n\n[小西]\n運動意欲増進系の研究に興味あり。3月3、5日はこれる。\n\n[猪野]\n生活習慣病患者の医療費推定の研究に興味あり。3月前半は就活忙しい。3月16日以降ならこれる。\n\n[飯野]\nまだ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582180175.004700",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1582194771.000200",
+        "reply_users": [
+            "UGQV9DXRC",
+            "UHC5VBV5E"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1582182332.004900"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1582186599.000200"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1582194771.000200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "cc18093f-6eb4-4026-8172-0184842aa814",
+        "type": "message",
+        "text": "ありがとー！猪野さんの希望のやつは、先生が前になしといっていた気がする",
+        "user": "UGQV9DXRC",
+        "ts": "1582182332.004900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1582182428.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SHv3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとー！猪野さんの希望のやつは、先生が前になしといっていた気がする"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582180175.004700",
+        "parent_user_id": "UHC5VBV5E"
+    }
+]

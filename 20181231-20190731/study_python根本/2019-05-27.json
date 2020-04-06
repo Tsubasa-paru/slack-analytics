@@ -1,0 +1,481 @@
+[
+    {
+        "client_msg_id": "0cf85a30-2ac1-4630-93b6-0d76a6096c85",
+        "type": "message",
+        "text": "中央値で埋めるのはAgeだけでいいですか?\nCabin等は数値ではないですので",
+        "user": "UHC5VBV5E",
+        "ts": "1558943180.011300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f05c9b52-44d4-4aec-9361-6042cbe4e663",
+        "type": "message",
+        "text": "欠損値が入ってるラベルを書いてみて",
+        "user": "UGQV9DXRC",
+        "ts": "1558943495.011900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1558943509.000000"
+        }
+    },
+    {
+        "client_msg_id": "f4fda956-eb29-40cd-9a66-6d57462b0c16",
+        "type": "message",
+        "text": "PassengerId      0\nSurvived         0\nPclass           0\nName             0\nSex              0\nAge            177\nSibSp            0\nParch            0\nTicket           0\nFare             0\nCabin          687\nEmbarked         2\nです！",
+        "user": "UHC5VBV5E",
+        "ts": "1558943916.013000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8281cc50-7ebc-41b4-99ec-45240078b6b1",
+        "type": "message",
+        "text": "Age とCabin とEmbarked",
+        "user": "UHC5VBV5E",
+        "ts": "1558943939.013400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a75fab0b-45a6-451b-9736-6eae69cc4350",
+        "type": "message",
+        "text": "コード見れんかった～\nFareも欠損あったと思ったけど勘違いかな",
+        "user": "UGQV9DXRC",
+        "ts": "1558943998.014300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7d030c08-e656-4b1f-9154-3ad8c8c377da",
+        "type": "message",
+        "text": "git 見れないすね",
+        "user": "UHC5VBV5E",
+        "ts": "1558943998.014400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ffd1c5bc-6bc3-4c0d-97ba-317fe0b54b87",
+        "type": "message",
+        "text": "うん",
+        "user": "UGQV9DXRC",
+        "ts": "1558944002.014600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1bb81a11-2f3b-42ec-b04b-3768bdf799d1",
+        "type": "message",
+        "text": "ちょいお待ちを",
+        "user": "UHC5VBV5E",
+        "ts": "1558944014.015000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f6dee115-5338-4120-9c9b-e6d8e7831795",
+        "type": "message",
+        "text": "<https:\/\/github.com\/nemawatt\/Lab_Python\/blob\/master\/python_study\/0527py.ipynb>",
+        "user": "UHC5VBV5E",
+        "ts": "1558944069.016600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "885f9aad-3c2f-4ffc-97c7-45ff9c7c1dc3",
+        "type": "message",
+        "text": "結果を見ると中央値が適応されるのははAgeだけみたいだね\nそしたらCabinとEmbarkedはどうしましょ",
+        "user": "UGQV9DXRC",
+        "ts": "1558944138.017400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "45d10017-bacd-4e37-bca3-837d376feab2",
+        "type": "message",
+        "text": "NameやpassengerIDみたいに分類とは無関係な特徴量は後で省くんだけど、cabinとembarkedもそうする？\nそれとも何かで埋める？",
+        "user": "UGQV9DXRC",
+        "ts": "1558944225.019400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "620efcb9-41ef-43aa-abf2-cb47cfe9a04e",
+        "type": "message",
+        "text": "embarked のアルファベットが何を意味しているのかわからないですが、適当に埋めますか?",
+        "user": "UHC5VBV5E",
+        "ts": "1558944313.020100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5419e77a-53a3-4237-b760-d7feafad8cc4",
+        "type": "message",
+        "text": "ここみたらわかるよ\n<https:\/\/www.kaggle.com\/c\/titanic\/data>",
+        "user": "UGQV9DXRC",
+        "ts": "1558944403.020700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Titanic: Machine Learning from Disaster",
+                "title_link": "https:\/\/www.kaggle.com\/c\/titanic\/data",
+                "text": "Start here! Predict survival on the Titanic and get familiar with ML basics",
+                "fallback": "Titanic: Machine Learning from Disaster",
+                "thumb_url": "https:\/\/storage.googleapis.com\/kaggle-competitions\/kaggle\/3136\/logos\/thumb76_76.png",
+                "from_url": "https:\/\/www.kaggle.com\/c\/titanic\/data",
+                "thumb_width": 120,
+                "thumb_height": 120,
+                "service_icon": "https:\/\/www.kaggle.com\/favicon.ico",
+                "service_name": "kaggle.com",
+                "id": 1,
+                "original_url": "https:\/\/www.kaggle.com\/c\/titanic\/data"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ace1577f-706a-4733-8bdc-51cc59a93b0a",
+        "type": "message",
+        "text": "Dataのとこ",
+        "user": "UGQV9DXRC",
+        "ts": "1558944429.021000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6ee07559-ea28-470c-811f-dbde1e340b8f",
+        "type": "message",
+        "text": "wakarimasita",
+        "user": "UHC5VBV5E",
+        "ts": "1558944468.021200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1c3abd15-c044-4c42-b0f5-939978918f52",
+        "type": "message",
+        "text": "わからんくても適当にしないで一応自分の中の基準を作るのだ",
+        "user": "UGQV9DXRC",
+        "ts": "1558944544.023300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fbcbd263-5366-4221-b4b6-849c8eb02bfc",
+        "type": "message",
+        "text": "どうしてこれにしたの？って聞かれて答えられないと私や岡田くんみたいにゼミ中に死んでしまうのだ",
+        "user": "UGQV9DXRC",
+        "ts": "1558944567.024100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "077dda3f-47e8-4eb5-8ca3-d3467efa0e86",
+        "type": "message",
+        "text": "はい…",
+        "user": "UHC5VBV5E",
+        "ts": "1558944580.024300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f5f2bd8-c03f-4f0f-8d8b-f09a26fb5a01",
+        "type": "message",
+        "text": "分類とは無関係だと思うので消しましょう\nと言いたいんですが、ゴールがなんでしたっけ?",
+        "user": "UHC5VBV5E",
+        "ts": "1558944785.025800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ca4cfa63-abb6-4ba5-a09f-c73aaee492d1",
+        "type": "message",
+        "text": "事故で亡くなった人の原因分析だよ\n何歳以上で性別は何だったら亡くなりやすかったのか？",
+        "user": "UGQV9DXRC",
+        "ts": "1558945047.028800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "db4c6ef2-6664-4cf2-812d-deb0321ec7b1",
+        "type": "message",
+        "text": "サイトに書いてありましたね\nごめんなさい x 100",
+        "user": "UHC5VBV5E",
+        "ts": "1558945305.029300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "the_boss",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

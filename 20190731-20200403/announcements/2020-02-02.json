@@ -1,0 +1,67 @@
+[
+    {
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n発表会抄録を提出させていただきます。\nご確認よろしくお願いします。\n<https:\/\/drive.google.com\/open?id=1RXWhHT3hsvFl4vRia7-QQuSf23KANwJ4>",
+        "files": [
+            {
+                "id": "FT3AN98M9",
+                "created": 1580637448,
+                "timestamp": 1580637448,
+                "name": "修論抄録.docx",
+                "title": "修論抄録.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 27528,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1RXWhHT3hsvFl4vRia7-QQuSf23KANwJ4",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FT3AN98M9\/____________.docx",
+                "is_starred": false,
+                "external_id": "1RXWhHT3hsvFl4vRia7-QQuSf23KANwJ4",
+                "external_url": "https:\/\/drive.google.com\/open?id=1RXWhHT3hsvFl4vRia7-QQuSf23KANwJ4",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dT\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n発表会抄録を提出させていただきます。\nご確認よろしくお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1RXWhHT3hsvFl4vRia7-QQuSf23KANwJ4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FT3AN98M9"
+        ],
+        "ts": "1580637444.001100",
+        "client_msg_id": "fe071c49-6418-4654-af0d-f3d22c41ad94"
+    }
+]

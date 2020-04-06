@@ -1,0 +1,558 @@
+[
+    {
+        "type": "message",
+        "text": "遅くなり申し訳ありません。\nご確認宜しくお願い致します。\n<@UGQ2ENZD0> <@UHFLB6JPR> <@UGPH97FDW>",
+        "files": [
+            {
+                "id": "FJZLWKLSG",
+                "created": 1558800463,
+                "timestamp": 1558800463,
+                "name": "日本体力医学会_0526.docx",
+                "title": "日本体力医学会_0526.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 15354,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJZLWKLSG\/______________________0526.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJZLWKLSG\/download\/______________________0526.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJZLWKLSG-33c7740f16\/______________________0526_converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJZLWKLSG-33c7740f16\/______________________0526_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FJZLWKLSG\/______________________0526.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJZLWKLSG-2cfe60ec2e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1558800465.000500",
+        "client_msg_id": "e6dceb0f-f283-4040-887f-37c08b3f7e50"
+    },
+    {
+        "client_msg_id": "AA85D52B-7B9E-42C0-94A2-CF14914635E1",
+        "type": "message",
+        "text": "人数の加筆、平均年齢、男女比、\n心拍計の情報は削除\nタイトル\nまずは",
+        "user": "UHFLB6JPR",
+        "ts": "1558834630.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "承知しました。ありがとうございます。",
+        "files": [
+            {
+                "id": "FJNSWEBA7",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1558834970.006000",
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1558835013.000000"
+        },
+        "client_msg_id": "e09523ca-0b27-4e3d-a602-2b27f71cd9ed"
+    },
+    {
+        "client_msg_id": "A6FD0178-2306-46B2-9E04-9B47D3798D47",
+        "type": "message",
+        "text": "行動変容は手法じゃなくて、変容だよ",
+        "user": "UHFLB6JPR",
+        "ts": "1558835125.007800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4D7F868D-218E-4318-BB75-4A62AB136DF7",
+        "type": "message",
+        "text": "状態",
+        "user": "UHFLB6JPR",
+        "ts": "1558835202.008100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "訂正させていただきましたので、ご確認よろしくお願い致します。",
+        "files": [
+            {
+                "id": "FK2FT7JB0",
+                "created": 1558839092,
+                "timestamp": 1558839092,
+                "name": "日本体力医学会_0526.docx",
+                "title": "日本体力医学会_0526.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 15625,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK2FT7JB0\/______________________0526.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK2FT7JB0\/download\/______________________0526.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FK2FT7JB0-c087cc4eb9\/______________________0526_converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FK2FT7JB0-c087cc4eb9\/______________________0526_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FK2FT7JB0\/______________________0526.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FK2FT7JB0-a8f502aba5",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1558839094.000100",
+        "client_msg_id": "e70d61da-809a-4afe-8fe5-b4c6be515aec"
+    },
+    {
+        "client_msg_id": "1761FDC0-BDD2-4298-8E7C-71605CBE9C30",
+        "type": "message",
+        "text": "何回回した？",
+        "user": "UHFLB6JPR",
+        "ts": "1558840781.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DABC96D9-5B1B-4710-A8DE-EB42E0D1F874",
+        "type": "message",
+        "text": "先行研究は具体的に引用せず、\n欧米の@先行研究と比較して\nとしてください",
+        "user": "UHFLB6JPR",
+        "ts": "1558840977.004000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "22147b3f-a7a3-433e-b923-037faba25ccc",
+        "type": "message",
+        "text": "回すというのは、機械学習をでしょうか？でしたら各被験者に対して1回ずつです。\nランダムフォレストの仕組み自体が、中でデータセットの組み合わせを何種類も作った上で決定木の分析をそれぞれ行って、その複数の結果をまとめたものなので、何度も回す必要は無いと判断しました。",
+        "user": "UGQV9DXRC",
+        "ts": "1558841044.005700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "46B12860-A4B3-4048-AACB-BF5FFC2F3110",
+        "type": "message",
+        "text": "1つの◎回回して、最良の結果を採用し、\nそれを10回行った平均という認識でいい？",
+        "user": "UHFLB6JPR",
+        "ts": "1558841445.007600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "40D5EB68-6843-488F-9FA5-7E6271F5C6FB",
+        "type": "message",
+        "text": "一つのデータセットで◎回回して...",
+        "user": "UHFLB6JPR",
+        "ts": "1558841711.008600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "56a4de63-d5d8-4d66-833e-c6f332df5149",
+        "type": "message",
+        "text": "ランダムフォレストを用いて1つのデータセットで複数回分類したのでは無く、ランダムフォレストの学習によって作られた複数の決定木を用いたということがご理解いただけていれば大丈夫だと思います",
+        "user": "UGQV9DXRC",
+        "ts": "1558844229.009900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b8d3a4cb-9b7b-4639-a670-ce2ed16e5ab1",
+        "type": "message",
+        "text": "擬似的なコードで言うなら、\nRandomforest(data)\nを実行して出力される結果は、複数の決定木による多数決の結果だということです",
+        "user": "UGQV9DXRC",
+        "ts": "1558844312.011900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9CD70EFB-8005-4777-A074-FD5F27384AE5",
+        "type": "message",
+        "text": "okです\n平均は何の平均かは示す必要があるよ",
+        "user": "UHFLB6JPR",
+        "ts": "1558844437.013100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d9b334ee-cfa4-484d-ad6d-1b85fcebd585",
+        "type": "message",
+        "text": "'''9名分のデータを教師として1名のデータを分類した際、結果～'''\nの部分を\n'''9名分を教師データ、1名分をテストデータとして分類した際、データの組み合わせを10通り行った平均では～'''\nと書き換えると伝わるでしょうか？？:sweat:",
+        "user": "UGQV9DXRC",
+        "ts": "1558844770.017600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7C68B74A-25F1-4B32-9F94-E82273788361",
+        "type": "message",
+        "text": "\n\n方法に\nシミュレーションは、毎回、データセットを学習用とテスト用に9：1に割り付け、計10回実施した。\n",
+        "user": "UHFLB6JPR",
+        "ts": "1558845480.022000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "03D0D7EE-35A8-4F85-AC2F-49997743DB47",
+        "type": "message",
+        "text": "結果のところは、\n◎◎◎を表すF値の結果は、4分類で...",
+        "user": "UHFLB6JPR",
+        "ts": "1558845597.024100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6bf96d60-6972-44e2-ac34-097f949ab090",
+        "type": "message",
+        "text": "◎の部分はF値の意義ということでしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1558846893.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d974adad-4218-4ff0-9a96-ccf88de18c44",
+        "type": "message",
+        "text": "字数がギリギリなので調整して検討します:bow:",
+        "user": "UGQV9DXRC",
+        "ts": "1558846926.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0A8F3CD7-AB91-4863-8988-E2F11600F0B4",
+        "type": "message",
+        "text": "学習器の精度を表す",
+        "user": "UHFLB6JPR",
+        "ts": "1558846984.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "訂正部分のご確認よろしくお願い致します。",
+        "files": [
+            {
+                "id": "FJNTZLCAF",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1558847562.002300",
+        "client_msg_id": "af9d9ef3-13d9-4c39-95df-e448c508da50"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FK26GTRJT",
+                "created": 1558847649,
+                "timestamp": 1558847649,
+                "name": "日本体力医学会_0526_ver3.docx",
+                "title": "日本体力医学会_0526_ver3.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 15648,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK26GTRJT\/______________________0526_ver3.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK26GTRJT\/download\/______________________0526_ver3.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FK26GTRJT-d641e3263c\/______________________0526_ver3_converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FK26GTRJT-d641e3263c\/______________________0526_ver3_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FK26GTRJT\/______________________0526_ver3.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FK26GTRJT-78cf8f0541",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1558847651.002700",
+        "client_msg_id": "362d9a51-a150-4327-a043-6b10cc590294"
+    },
+    {
+        "client_msg_id": "51FD3CD7-60F1-4072-95F2-7BACD4B187D4",
+        "type": "message",
+        "text": "だいたい良いので、明日の朝までに修正して返信します",
+        "user": "UHFLB6JPR",
+        "ts": "1558848196.004500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DEDCFF7A-E85A-4740-A864-D9FB0C196EAA",
+        "type": "message",
+        "text": "ありがとうございます。よろしくお願い致します。",
+        "user": "UGQV9DXRC",
+        "ts": "1558848798.005000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

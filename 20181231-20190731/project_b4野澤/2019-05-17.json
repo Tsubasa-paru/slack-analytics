@@ -1,0 +1,170 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJF1WC32N",
+                "created": 1558082073,
+                "timestamp": 1558082073,
+                "name": "Ensemble_Methods_for_Classification_of_Physical.24.pdf",
+                "title": "Ensemble_Methods_for_Classification_of_Physical.24.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 255462,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJF1WC32N\/ensemble_methods_for_classification_of_physical.24.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJF1WC32N\/download\/ensemble_methods_for_classification_of_physical.24.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJF1WC32N-64a890a0ff\/ensemble_methods_for_classification_of_physical.24_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 894,
+                "thumb_pdf_h": 1196,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FJF1WC32N\/ensemble_methods_for_classification_of_physical.24.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJF1WC32N-3589ff9610",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1558082074.000700",
+        "client_msg_id": "dc5dc84a-7430-4d0d-97a1-e9e8ad46ff79"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJSDGP70V",
+                "created": 1558082358,
+                "timestamp": 1558082358,
+                "name": "Detection_of_Type,_Duration,_and_Intensity_of.pdf",
+                "title": "Detection_of_Type,_Duration,_and_Intensity_of.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 221604,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJSDGP70V\/detection_of_type__duration__and_intensity_of.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJSDGP70V\/download\/detection_of_type__duration__and_intensity_of.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJSDGP70V-99949cf9e1\/detection_of_type__duration__and_intensity_of_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 921,
+                "thumb_pdf_h": 1224,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FJSDGP70V\/detection_of_type__duration__and_intensity_of.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJSDGP70V-a3aabc903c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1558082359.001000",
+        "client_msg_id": "0754105f-34be-496b-b71e-7da2f1f8b337"
+    },
+    {
+        "client_msg_id": "1182b690-34ff-4b0b-9dc8-bb397404a6cb",
+        "type": "message",
+        "text": "Detection of type...の方が使ってる手法が少なくて簡単だと思うのでそっちから読むといいかも",
+        "user": "UGQV9DXRC",
+        "ts": "1558082480.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DA7983C3-C00B-4054-B93A-C254216ABB78",
+        "type": "message",
+        "text": "いや、そっちは1種類だから、目的とは違うかな\n上の論文みたいなことで、結果重視の検討出来ないかなと",
+        "user": "UHFLB6JPR",
+        "ts": "1558083553.004100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558083553.004100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1558083785.004300",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1558083785.004300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "custom_ok",
+                "users": [
+                    "UHFLC6N4X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90e1364f-73f3-4ce3-8c49-7605ee1d2585",
+        "type": "message",
+        "text": "なるほどです\n確かにEnsemble Methodsの方は学習器の比較をしてるので検討材料にはなると思います。\n機械学習調べ始めだとしたらいきなりヘビーかなと思っただけでした:man-bowing:",
+        "user": "UGQV9DXRC",
+        "ts": "1558083785.004300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558083553.004100",
+        "parent_user_id": "UHFLB6JPR"
+    }
+]

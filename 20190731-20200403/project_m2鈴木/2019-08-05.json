@@ -1,0 +1,41 @@
+[
+    {
+        "client_msg_id": "A3587B6E-24FB-4E6E-87AC-1B568900D42F",
+        "type": "message",
+        "text": "<https:\/\/univ-study.net\/spectrum-and-fourie-transform\/>",
+        "user": "UGQV9DXRC",
+        "ts": "1564998257.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "理系大学生の数学駆け込み寺",
+                "title": "うそ!?スペクトルとフーリエ変換がこんな関係だったなんて！ | 理系大学生の数学駆け込み寺",
+                "title_link": "https:\/\/univ-study.net\/spectrum-and-fourie-transform\/",
+                "text": "スペクトルがフーリエ変換とフーリエ逆変換で表されます。フーリエ変換とフーリエ逆変換の変数を時間と角周波数で表すと、身の回りにある波という波はフーリエ変換とフーリエ逆変換で表され、それをスペクトルとして表せるのです。それだけフーリエ変換とフーリエ逆変換は重要なのです。",
+                "fallback": "理系大学生の数学駆け込み寺: うそ!?スペクトルとフーリエ変換がこんな関係だったなんて！ | 理系大学生の数学駆け込み寺",
+                "thumb_url": "https:\/\/univ-study.net\/wp-content\/plugins\/all-in-one-seo-pack\/images\/default-user-image.png",
+                "from_url": "https:\/\/univ-study.net\/spectrum-and-fourie-transform\/",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/i2.wp.com\/univ-study.net\/wp-content\/uploads\/2019\/06\/cropped-e160f3e8a0642be867cc456ed009389e.jpg?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/univ-study.net\/spectrum-and-fourie-transform\/"
+            }
+        ],
+        "thread_ts": "1564585953.005000",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

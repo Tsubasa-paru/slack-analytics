@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "f03f80fe-a891-4575-bbed-33d322c5817d",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n居室の水道から錆がちょこちょこ出ているので、以下の浄水器をつけたいです。\nご検討宜しくお願い致します。\n<https:\/\/www.amazon.co.jp\/%E3%83%9C%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E8%B2%A9%E5%A3%B2-J-226-%E6%B5%84%E6%B0%B4%E8%9B%87%E5%8F%A3-%E3%83%88%E3%83%AB%E3%83%9E%E3%83%AA%E3%83%B3\/dp\/B005C8R53U\/ref=pd_sbs_201_4\/358-6258865-1520427?_encoding=UTF8&amp;pd_rd_i=B005C8R53U&amp;pd_rd_r=4380eacd-866d-11e9-a0c5-971276eab70c&amp;pd_rd_w=7uzRp&amp;pd_rd_wg=knmfL&amp;pf_rd_p=ad2ea29d-ea11-483c-9db2-6b5875bb9b73&amp;pf_rd_r=5A3TRZ798BFXQY71E0EG&amp;psc=1&amp;refRID=5A3TRZ798BFXQY71E0EG>",
+        "user": "UGQV9DXRC",
+        "ts": "1559614304.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "浄水蛇口 トルマリン J-226",
+                "title_link": "https:\/\/www.amazon.co.jp\/%E3%83%9C%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E8%B2%A9%E5%A3%B2-J-226-%E6%B5%84%E6%B0%B4%E8%9B%87%E5%8F%A3-%E3%83%88%E3%83%AB%E3%83%9E%E3%83%AA%E3%83%B3\/dp\/B005C8R53U\/ref=pd_sbs_201_4\/358-6258865-1520427?_encoding=UTF8&pd_rd_i=B005C8R53U&pd_rd_r=4380eacd-866d-11e9-a0c5-971276eab70c&pd_rd_w=7uzRp&pd_rd_wg=knmfL&pf_rd_p=ad2ea29d-ea11-483c-9db2-6b5875bb9b73&pf_rd_r=5A3TRZ798BFXQY71E0EG&psc=1&refRID=5A3TRZ798BFXQY71E0EG",
+                "text": "●【商品説明】●水に混ざる鉄サビ、ゴミの不純物を7層のろ過材でカットします。●ヤシ殻活性炭、トルマリン鉱石、亜硫酸カルシウムがきれいでおいしい水を作ります。●新機構の取付口なので一般丸型水栓(パイプ径16mm)と泡沫水栓(口径22mm)のどちらにも取り付けられます。●まとめ買いの場合、システムの仕様で個数分の送料が加算される場合がありますが、送料は１配送先につき1個分の金額となります。●システムの仕様で配達日を指定出来る場合がありますが、配達日の指定は出来ませんのでご了承ください。●ご注文確定後のキャンセルならびに、お届けしました商品のお客様都合による「返品 交換」は行っておりません。",
+                "fallback": "浄水蛇口 トルマリン J-226",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/51Ch4KEnZdL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(23%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/%E3%83%9C%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E8%B2%A9%E5%A3%B2-J-226-%E6%B5%84%E6%B0%B4%E8%9B%87%E5%8F%A3-%E3%83%88%E3%83%AB%E3%83%9E%E3%83%AA%E3%83%B3\/dp\/B005C8R53U\/ref=pd_sbs_201_4\/358-6258865-1520427?_encoding=UTF8&pd_rd_i=B005C8R53U&pd_rd_r=4380eacd-866d-11e9-a0c5-971276eab70c&pd_rd_w=7uzRp&pd_rd_wg=knmfL&pf_rd_p=ad2ea29d-ea11-483c-9db2-6b5875bb9b73&pf_rd_r=5A3TRZ798BFXQY71E0EG&psc=1&refRID=5A3TRZ798BFXQY71E0EG",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 20385,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.co.jp\/%E3%83%9C%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E8%B2%A9%E5%A3%B2-J-226-%E6%B5%84%E6%B0%B4%E8%9B%87%E5%8F%A3-%E3%83%88%E3%83%AB%E3%83%9E%E3%83%AA%E3%83%B3\/dp\/B005C8R53U\/ref=pd_sbs_201_4\/358-6258865-1520427?_encoding=UTF8&amp;pd_rd_i=B005C8R53U&amp;pd_rd_r=4380eacd-866d-11e9-a0c5-971276eab70c&amp;pd_rd_w=7uzRp&amp;pd_rd_wg=knmfL&amp;pf_rd_p=ad2ea29d-ea11-483c-9db2-6b5875bb9b73&amp;pf_rd_r=5A3TRZ798BFXQY71E0EG&amp;psc=1&amp;refRID=5A3TRZ798BFXQY71E0EG"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C0E6F9ED-F3C5-4F02-846A-229FC58007E6",
+        "type": "message",
+        "text": "少額なので学生達で出し合って買えますか",
+        "user": "UHFLB6JPR",
+        "ts": "1559621593.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC",
+                    "UGPH97FDW",
+                    "UHEH8KZ7W",
+                    "UGQ2ENZD0"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

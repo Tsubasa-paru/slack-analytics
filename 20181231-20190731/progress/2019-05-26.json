@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "4ba63a85-cb19-4684-b05b-a39ea59d988e",
+        "type": "message",
+        "text": "今日は\n&gt; 倫理審査申請書類の続きをやった\n&gt; zipファイルの文字コードと格闘した (勝利した)\n&gt; pure python + PyCharm の準備をした (勝利した)\n&gt; Windows Power Shell と格闘した (またしても文字コードと格闘した．勝利した)\n&gt; これから技術英語の講義を受けてきます",
+        "user": "UGQ2ENZD0",
+        "ts": "1558939968.003300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

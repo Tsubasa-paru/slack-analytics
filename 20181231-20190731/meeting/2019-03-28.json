@@ -1,0 +1,66 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHFVARZNJ",
+                "created": 1553834836,
+                "timestamp": 1553834836,
+                "name": "slack導入.pptx",
+                "title": "slack導入.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 37966,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHFVARZNJ\/slack______.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHFVARZNJ\/download\/slack______.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHFVARZNJ-8812e9bf37\/slack_______converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHFVARZNJ-8812e9bf37\/slack_______thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FHFVARZNJ\/slack______.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHFVARZNJ-b9b5d8c68d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1553834838.000100",
+        "client_msg_id": "4418e68c-7f5b-415d-9157-030b3f8880cb"
+    },
+    {
+        "client_msg_id": "AE5C6990-3601-43CB-9CA7-BAFF68181D74",
+        "type": "message",
+        "text": "学生ゼミですること\n→Mの研究について\n→卒論読んできてもらう",
+        "user": "UGQV9DXRC",
+        "ts": "1553836438.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1553591680.001500",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

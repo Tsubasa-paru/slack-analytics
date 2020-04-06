@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "text": "発表資料の訂正　残し\n・ページ番号\n・先行研究のellis人数、参考文献\n<https:\/\/drive.google.com\/open?id=13oqj3KpeuDmokVVhtawSHJySQlZ0swcn>",
+        "files": [
+            {
+                "id": "FT5CG5QH0",
+                "created": 1580833411,
+                "timestamp": 1580833411,
+                "name": "修論発表会.pptx",
+                "title": "修論発表会.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 821958,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=13oqj3KpeuDmokVVhtawSHJySQlZ0swcn",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FT5CG5QH0\/_______________.pptx",
+                "is_starred": false,
+                "external_id": "13oqj3KpeuDmokVVhtawSHJySQlZ0swcn",
+                "external_url": "https:\/\/drive.google.com\/open?id=13oqj3KpeuDmokVVhtawSHJySQlZ0swcn",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f+jzZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "発表資料の訂正　残し\n・ページ番号\n・先行研究のellis人数、参考文献\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=13oqj3KpeuDmokVVhtawSHJySQlZ0swcn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FT5CG5QH0"
+        ],
+        "ts": "1580833409.000900",
+        "client_msg_id": "3c41bf85-f8fe-48f2-9872-9b0a48b8c0a1"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "client_msg_id": "4871da10-820f-4d73-840d-f3d9a5e93b2a",
+        "type": "message",
+        "text": "将来的に統計分析をすると思うので，参考書を使って基礎を勉強しておく．\n&gt;確率・統計解析の基礎　朝倉書店\n&gt;統計学入門　東京大学教養学部統計学教室 編\nゴールはMATLABで分析することであると思われるので，後ほどそちらに移行できるようにする．すなわち，MATLABを使った勉強に移るようにする．\n御門違いであればご指摘願いたい",
+        "user": "UHC5VBV5E",
+        "ts": "1555499015.003800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555499015.003800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1555502909.000100",
+        "reply_users": [
+            "UGQV9DXRC",
+            "UHC5VBV5E"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1555500585.005900"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1555502909.000100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "198bf73f-adb7-4ef3-ab1e-92c99fe62e7d",
+        "type": "message",
+        "text": "以下サイトのWeb教材リストに載ってるアイスクリーム～とハンバーガー～の教材を使って基礎統計の勉強会をやる予定なのでよかったら見てみて\n<http:\/\/kogolab.chillout.jp\/elearn\/index.html>",
+        "user": "UGQV9DXRC",
+        "ts": "1555500585.005900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555499015.003800",
+        "parent_user_id": "UHC5VBV5E"
+    },
+    {
+        "client_msg_id": "307f787b-fe3f-46b6-a0ce-755fb410e35b",
+        "type": "message",
+        "text": "ありがとうございます!",
+        "user": "UHC5VBV5E",
+        "ts": "1555502909.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555499015.003800",
+        "parent_user_id": "UHC5VBV5E"
+    }
+]

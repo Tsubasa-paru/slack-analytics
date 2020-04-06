@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJNUP4CGN",
+                "created": 1557576350,
+                "timestamp": 1557576350,
+                "name": "システムのコンセプト.pptx",
+                "title": "システムのコンセプト.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 60001,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJNUP4CGN\/______________________________.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJNUP4CGN\/download\/______________________________.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJNUP4CGN-5f74776928\/_______________________________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJNUP4CGN-5f74776928\/_______________________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FJNUP4CGN\/______________________________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJNUP4CGN-66e2ab6621",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1557576353.000100",
+        "client_msg_id": "c0029750-11da-4aa7-8528-1fdab123d836"
+    }
+]

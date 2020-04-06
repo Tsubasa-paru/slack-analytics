@@ -1,0 +1,32 @@
+[
+    {
+        "client_msg_id": "CF60920C-4216-4B52-91D1-3AE703A067C9",
+        "type": "message",
+        "text": "<@UHG1M1NQ6> <@UHFLC6N4X> \nつたけ、のざわはスライド作り始めて\n抄録は今夜確認します",
+        "user": "UHFLB6JPR",
+        "ts": "1568605756.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHG1M1NQ6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

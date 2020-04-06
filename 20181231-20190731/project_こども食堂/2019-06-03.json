@@ -1,0 +1,37 @@
+[
+    {
+        "client_msg_id": "f85786a9-8ffb-46a9-988d-46aaeeff678a",
+        "type": "message",
+        "text": "2019\/06\/04　こども食堂　MTG\n\n役割決め\n・アメフト部\n　ポスター、チラシの作成\n　当日の企画・運営\n　リターン品関係\n・大河原研\n　クラウドファンディングの記事練り直し、レポート\n　保険\n　申し込み\n　フードドライブ、フードバンク\n　→受け取りはアメフト部にもSOS\n\n大まかなプログラム\n　集合\n　↓\n　アメフト\n　↓\n　ローテ（プログラミング、食育、佐藤研）\n　↓\n　ご飯\n\n西地区全体を使わず、体育館と佐藤研を開催場所にする\n→雨天の場合のリスクを考えて\n\n水耕栽培は今年も入れる\n\n大河原研がやること\n　ボランティア部とのやり取り\n　佐藤研とのやり取り\n\nこれからの課題\n　食事中のコミュニケーションをいかに取っていくか",
+        "user": "UHEH8KZ7W",
+        "ts": "1559613891.008400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHEH8KZ7W",
+            "ts": "1559623435.000000"
+        },
+        "reactions": [
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UHC5VBV5E"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

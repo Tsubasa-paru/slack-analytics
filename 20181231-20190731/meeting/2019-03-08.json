@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "f18f541a-a4c3-4b02-ac6c-3ac4f879ae01",
+        "type": "message",
+        "text": "2018-2019引き継ぎ\n\nまず、18日月～22日金の5日間で具体的なデータや分析方法などの引継ぎを行いたいです。\nそれにあたって、4年生には15日金までに希望の研究テーマを確定してもらうこととします。\n自分自身で決めかねている場合は選択肢を出してもらい、そのうちから先生に決定していただきます。\n\n卒業式までの期間が残り2週間となりましたので、このような形がベストだと判断しました。\nご検討宜しくお願い致します。",
+        "user": "UGQV9DXRC",
+        "ts": "1552037582.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1552037610.000000"
+        }
+    },
+    {
+        "client_msg_id": "464336ab-63f5-4744-b305-3104da3aca8e",
+        "type": "message",
+        "text": "先生から\n鈴木さんの提案はokです\nただし、担当制にし過ぎて、担当者だけの個人任せにせず、岡田、清水、鈴木さんで全体を把握しながら進めてほしいです",
+        "user": "UGQV9DXRC",
+        "ts": "1552037624.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

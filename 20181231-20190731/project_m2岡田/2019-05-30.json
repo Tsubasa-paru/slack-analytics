@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "76181d0b-9432-4b06-9473-9dac20d0ac9d",
+        "type": "message",
+        "text": "<https:\/\/research-er.jp\/articles\/view\/79953>",
+        "user": "UGQV9DXRC",
+        "ts": "1559273868.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "日本の研究.com",
+                "title": "【プレスリリース】人工知能により患者データから肝がんの存在を予測 | 日本の研究.com",
+                "title_link": "https:\/\/research-er.jp\/articles\/view\/79953",
+                "text": "2019.05.31 島津製作所,東京大学 プレスリリース 東京大学医学部附属病院と株式会社島津製作所は、「人工知能により患者データから肝がんの存在を予測」と題した論文を 5 月 30 日に英学術誌「Scientific Reports」にて発表しましたのでご報告いたします。発表者:佐藤 雅哉 (東...",
+                "fallback": "日本の研究.com: 【プレスリリース】人工知能により患者データから肝がんの存在を予測 | 日本の研究.com",
+                "image_url": "https:\/\/research-er.jp\/img\/article\/20190531\/20190531113525.png",
+                "from_url": "https:\/\/research-er.jp\/articles\/view\/79953",
+                "image_width": 430,
+                "image_height": 250,
+                "image_bytes": 216090,
+                "service_icon": "https:\/\/research-er.jp\/img\/favicon\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/research-er.jp\/articles\/view\/79953"
+            }
+        ]
+    }
+]

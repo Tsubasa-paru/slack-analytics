@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "text": "今学期の時間割予定です．\noffice workは大学側に技術英語の事務で働くと申請した時間帯です．実際はこの時間に働きません．\n(この時間に授業等入れると大学側にこの時間に働いてないのがばれるので注意します．一応共有しておきます．)\n授業頑張るど",
+        "files": [
+            {
+                "id": "FHB3VMTGB",
+                "created": 1554695330,
+                "timestamp": 1554695330,
+                "name": "time_table.png",
+                "title": "time_table.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 32339,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHB3VMTGB\/time_table.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHB3VMTGB\/download\/time_table.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHB3VMTGB-4451bc2ffc\/time_table_64.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHB3VMTGB-4451bc2ffc\/time_table_80.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHB3VMTGB-4451bc2ffc\/time_table_360.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 360,
+                "thumb_360_h": 136,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHB3VMTGB-4451bc2ffc\/time_table_480.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_480_w": 480,
+                "thumb_480_h": 181,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHB3VMTGB-4451bc2ffc\/time_table_160.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "image_exif_rotation": 1,
+                "original_w": 672,
+                "original_h": 254,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FHB3VMTGB\/time_table.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHB3VMTGB-d0fe2f7fe2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1554695331.000100",
+        "client_msg_id": "87e0f966-1f7a-4d21-af2b-87168504a462",
+        "reactions": [
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

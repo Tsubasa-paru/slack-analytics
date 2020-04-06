@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "text": "今日の修論発表のコメントです\n<https:\/\/drive.google.com\/open?id=1N6J7YaF7ekJaNBJqeUEp4hmImJvx1o4_>",
+        "files": [
+            {
+                "id": "FT8MZCKMG",
+                "created": 1580979577,
+                "timestamp": 1580979577,
+                "name": "修論コメント_鈴木.pdf",
+                "title": "修論コメント_鈴木.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 659630,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1N6J7YaF7ekJaNBJqeUEp4hmImJvx1o4_",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FT8MZCKMG\/_________________________.pdf",
+                "is_starred": false,
+                "external_id": "1N6J7YaF7ekJaNBJqeUEp4hmImJvx1o4_",
+                "external_url": "https:\/\/drive.google.com\/open?id=1N6J7YaF7ekJaNBJqeUEp4hmImJvx1o4_",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jvHy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の修論発表のコメントです\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1N6J7YaF7ekJaNBJqeUEp4hmImJvx1o4_"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FT8MZCKMG"
+        ],
+        "ts": "1580979575.000500",
+        "client_msg_id": "160ed812-e9f3-4b66-af33-ea1327948c09"
+    }
+]

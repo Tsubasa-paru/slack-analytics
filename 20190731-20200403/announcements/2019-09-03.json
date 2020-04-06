@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "77825217-62C2-4C2A-AEA6-6D45B9EAEACE",
+        "type": "message",
+        "text": "来週一週間は時間あけてるので積極的にアポイントをとってください\n来週中に抄録は完成する気持ちで取り組んでもらいたいです",
+        "user": "UHFLB6JPR",
+        "ts": "1567569403.002700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f6b50390-bae6-4852-a384-a9bd8d5741b2",
+        "type": "message",
+        "text": "対応をよろしくお願いします。\n【9\/30提出期限】研究倫理教育受講について９月３０日（月）が西５事務室への提出期限となっております。\n中間発表時期と重なりますが、「必ず」期限までに受講を済ませて\n修了証等を提出するよう、未受講の学生さんへお伝えくださいますよう\nお願いいたします。\n※ Ⅰ類の卒研生はⅠ類事務室が担当しますので、以下のリストには\n　　含まれておりません。\n--------------------------------------\n氏名　　　 ID受取    修了\n清水　俊平   未           未\n福田　裕司   済           未\n--------------------------------------",
+        "user": "UHFLB6JPR",
+        "ts": "1567580008.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

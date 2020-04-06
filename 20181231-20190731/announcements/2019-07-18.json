@@ -1,0 +1,110 @@
+[
+    {
+        "client_msg_id": "6858a1eb-429b-4448-a15b-82d8b062b434",
+        "type": "message",
+        "text": "京王線小田急線が火災で止まっているようなので無理しないでね\n<https:\/\/www.keio.co.jp\/unkou\/unkou_sp.html>",
+        "user": "UGQV9DXRC",
+        "ts": "1563490332.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "556c7f8e-22af-439c-80d5-da681738b690",
+        "type": "message",
+        "text": "今週のゼミはおやすみ、\n来週火曜の学生ゼミの時に行います。",
+        "user": "UGQV9DXRC",
+        "ts": "1563490925.003300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHFLC6N4X",
+                    "UHEH8KZ7W",
+                    "UGPH97FDW"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26679E31-2A18-4399-A62A-157E32F90643",
+        "type": "message",
+        "text": "来週の火曜日は院試組以外は必ず進捗をスライドにまとめて発表してください",
+        "user": "UHFLB6JPR",
+        "ts": "1563491026.004600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_ok",
+                "users": [
+                    "UHFLC6N4X",
+                    "UHEH8KZ7W",
+                    "UGPH97FDW",
+                    "UHC5VBV5E",
+                    "UHG1M1NQ6"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39655E14-846E-4107-AEF7-E4D48E621747",
+        "type": "message",
+        "text": "今日は11時から16時までは部屋で仕事してるから個別に相談ある人は遠慮なく来てください",
+        "user": "UHFLB6JPR",
+        "ts": "1563491143.006300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

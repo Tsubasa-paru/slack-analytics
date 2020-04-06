@@ -1,0 +1,219 @@
+[
+    {
+        "client_msg_id": "C02C127B-C881-4AE2-B4A1-5F1420E765C3",
+        "type": "message",
+        "text": "<@UHC5VBV5E> <@UHEH8KZ7W> <@UHG1M1NQ6> <@UHFLC6N4X> 去年の研究室配属プロセスで、教員が1人２分くらいの紹介を全員やったでしょ\nあれ、意味あると思った？\nみんなの様子をみてて、キツそうだった印象なんで",
+        "user": "UHFLB6JPR",
+        "ts": "1565867094.004800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "11559BB3-AC06-49B3-BC3D-21F14F884857",
+        "type": "message",
+        "text": "僕は意味なかったです\n結局先生との面談とかオープンキャンパスで進路を決めたので…\n各研究室が何やってるかの概要はネットでも見れますからね",
+        "user": "UHC5VBV5E",
+        "ts": "1565868015.007600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3C4A2B16-BEE8-4D41-A3E2-8CC65FB2457B",
+        "type": "message",
+        "text": "自分はそれよりも食堂でやった食事会の方がいいかなと思いました。自分が第2志望にしたきっかけもそれだったので…",
+        "user": "UHEH8KZ7W",
+        "ts": "1565868102.007700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "明日は平常心でガンバレ、福田 根本",
+        "files": [
+            {
+                "id": "FMCTSRY9J",
+                "created": 1565868807,
+                "timestamp": 1565868807,
+                "name": "iOS のファイル.MOV",
+                "title": "iOS のファイル",
+                "mimetype": "video\/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 26162418,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMCTSRY9J\/ios________________.mov?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMCTSRY9J\/download\/ios________________.mov?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FMCTSRY9J\/ios________________.mov",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMCTSRY9J-02c9547505",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1565868807.008900",
+        "client_msg_id": "31FDF226-10D0-4660-BB2F-E9EB1B7AC1D3",
+        "thread_ts": "1565868807.008900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1565874316.010700",
+        "reply_users": [
+            "UHC5VBV5E",
+            "UHEH8KZ7W"
+        ],
+        "replies": [
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1565869081.009900"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1565874316.010700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6D773EA1-073A-4BCB-994F-EE22BEB0776C",
+        "type": "message",
+        "text": "心が穏やかになりました笑\n頑張ります",
+        "user": "UHC5VBV5E",
+        "ts": "1565869081.009900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565868807.008900",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "AD1944B3-7EB4-43F6-A526-FBE3B999C620",
+        "type": "message",
+        "text": "ありがとうございます！\n力み過ぎないように頑張ります！",
+        "user": "UHEH8KZ7W",
+        "ts": "1565874316.010700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565868807.008900",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "b8cc4021-dac6-4f70-b080-de06b8e9f0da",
+        "type": "message",
+        "text": "意味なかったです。軽い紹介のためだけに全員拘束で数時間かけるよりも、各々興味あるところを食事会で直に聞きに行く方がためになると感じました。",
+        "user": "UHG1M1NQ6",
+        "ts": "1565886161.013800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "17EFBA8D-3EB2-4BB9-9F9A-62B19A53BB80",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> <@UHC5VBV5E> \n今日は風が強くて最高の試験日和:monkey:\n間違いない:pig2:",
+        "user": "UHFLB6JPR",
+        "ts": "1565919642.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "rooster",
+                "users": [
+                    "UHC5VBV5E",
+                    "UGQV9DXRC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

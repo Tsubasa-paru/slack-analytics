@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FPKNCB3LJ",
+                "created": 1572425539,
+                "timestamp": 1572425539,
+                "name": "分散分析2.xlsx",
+                "title": "分散分析2.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHFLC6N4X",
+                "editable": false,
+                "size": 12937,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPKNCB3LJ\/____________2.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPKNCB3LJ\/download\/____________2.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPKNCB3LJ-7182cb8293\/____________2_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPKNCB3LJ-7182cb8293\/____________2_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLC6N4X\/FPKNCB3LJ\/____________2.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FPKNCB3LJ-1e186cc76a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLC6N4X",
+        "display_as_bot": false,
+        "ts": "1572425540.000300",
+        "client_msg_id": "9675504f-28a4-41ef-8cdb-6bbc50933582",
+        "thread_ts": "1572320364.001100",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

@@ -1,0 +1,185 @@
+[
+    {
+        "client_msg_id": "cdac6992-3226-45d3-97ff-1d59e41519eb",
+        "type": "message",
+        "text": "<https:\/\/imbalanced-learn.readthedocs.io\/en\/stable\/generated\/imblearn.under_sampling.RandomUnderSampler.html>",
+        "user": "UGQV9DXRC",
+        "ts": "1558428749.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "87bb7f81-cf7f-4d6c-89ee-0d283a30b6b8",
+        "type": "message",
+        "text": "5月21日\n\n60パー近くを占めていた0円のクラスをアンダーサンプリングすることで、0円以外の他クラスと同じ割合にした。(他クラスは4分位にした。)\n\n精度と、カッパ係数は乱数を変えて100回計測したものの平均を出せるようになった。\n\n\nハイパーパラメータの値については全く触れられていないので、今回はデフォルト値や、推奨値で行うことになりそう。",
+        "user": "UGPH97FDW",
+        "ts": "1558451658.005200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5076c62f-b317-4ceb-a694-e3e88b52ad72",
+        "type": "message",
+        "text": "明日結果をまとめて、抄録をつくる。",
+        "user": "UGPH97FDW",
+        "ts": "1558451718.005800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4d5ac1ec-0b49-4c60-8ccc-2e4042e20ac2",
+        "type": "message",
+        "text": "scikit-learnのMLPClassifier  ニューラルネットワークパラメータ設定公式リンク\n\n<https:\/\/scikit-learn.org\/stable\/modules\/generated\/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier>",
+        "user": "UGPH97FDW",
+        "ts": "1558506400.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGPH97FDW",
+            "ts": "1558506475.000000"
+        }
+    },
+    {
+        "client_msg_id": "e47c3c57-41d8-497b-b10d-a5075bed6e75",
+        "type": "message",
+        "text": "ハイパーパラメータ自動最適化ツール「Optuna」公開\n<https:\/\/research.preferred.jp\/2018\/12\/optuna-release\/>",
+        "user": "UGPH97FDW",
+        "ts": "1558506587.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Preferred Research",
+                "title": "ハイパーパラメータ自動最適化ツール「Optuna」公開 | Preferred Research",
+                "title_link": "https:\/\/research.preferred.jp\/2018\/12\/optuna-release\/",
+                "fallback": "Preferred Research: ハイパーパラメータ自動最適化ツール「Optuna」公開 | Preferred Research",
+                "image_url": "https:\/\/avatars2.githubusercontent.com\/u\/23070723?s=280&v=4",
+                "from_url": "https:\/\/research.preferred.jp\/2018\/12\/optuna-release\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 10513,
+                "id": 1,
+                "original_url": "https:\/\/research.preferred.jp\/2018\/12\/optuna-release\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f01e2ab4-e606-4feb-97ae-d2eae0dd290d",
+        "type": "message",
+        "text": "カッパ係数のモジュールの公式ページ\n<https:\/\/scikit-learn.org\/stable\/modules\/generated\/sklearn.metrics.cohen_kappa_score.html#sklearn.metrics.cohen_kappa_score>",
+        "user": "UGPH97FDW",
+        "ts": "1558506712.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "39368673-e071-448d-8f25-ab4a6efaa730",
+        "type": "message",
+        "text": "不均衡データの扱いについて<http:\/\/tekenuko.hatenablog.com\/entry\/2017\/12\/11\/214522>",
+        "user": "UGPH97FDW",
+        "ts": "1558506862.002500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "データサイエンティスト(仮)",
+                "title": "Pythonでデータ分析：imbalanced-learnで不均衡データのサンプリングを行う - データサイエンティスト(仮)",
+                "title_link": "http:\/\/tekenuko.hatenablog.com\/entry\/2017\/12\/11\/214522",
+                "text": "導入 クラス分類、例えば0：負例と1：正例の二値分類を行う際に、データが不均衡である場合がたびたびあります。例えば、クレジットカードの取引データで、一つの取引に対して不正利用かどうか（不正利用なら1、それ以外は0）といった値が付与されているカラムがあるとします。通常、不正利用というのは稀に起こる事象なので、不正利用かどうかが格納されているカラムに関してはほとんどが0で、1がほとんどない、という状況になりがちです。上記の状況で不正利用を予測するようなモデル構築をする場合、目的変数として不正利用かどうかを用いることになりますが、0と1の比率が50%から極度に乖離します（1の比率が0.X%とかになる…",
+                "fallback": "データサイエンティスト(仮): Pythonでデータ分析：imbalanced-learnで不均衡データのサンプリングを行う - データサイエンティスト(仮)",
+                "thumb_url": "https:\/\/cdn.image.st-hatena.com\/image\/scale\/c34d1e70aa51f8d287cafb4f6e3e22f41d7f3ed4\/backend=imager;enlarge=0;height=1000;version=1;width=1200\/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F106733241%2F1514226069425759",
+                "ts": 1512996322,
+                "from_url": "http:\/\/tekenuko.hatenablog.com\/entry\/2017\/12\/11\/214522",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/cdn.image.st-hatena.com\/image\/favicon\/464abe9a2e58b370624b466837c5772ab9c7e68d\/version=1\/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fcustom_blog_icon%2F106733241%2F1514225768224071",
+                "id": 1,
+                "original_url": "http:\/\/tekenuko.hatenablog.com\/entry\/2017\/12\/11\/214522"
+            }
+        ]
+    }
+]

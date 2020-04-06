@@ -1,0 +1,39 @@
+[
+    {
+        "type": "message",
+        "text": "西野先生とのミーティングの議事録",
+        "files": [
+            {
+                "id": "FHK1DLAN5",
+                "created": 1554885974,
+                "timestamp": 1554885974,
+                "name": "mtg20190410.txt",
+                "title": "mtg20190410.txt",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 5925,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHK1DLAN5\/mtg20190410.txt?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHK1DLAN5\/download\/mtg20190410.txt?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FHK1DLAN5\/mtg20190410.txt",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHK1DLAN5-cef86a8a01",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1554885974.005600",
+        "client_msg_id": "2ad0c29d-8bad-44ec-ba4e-c37351262df3"
+    }
+]

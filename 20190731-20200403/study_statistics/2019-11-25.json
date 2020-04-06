@@ -1,0 +1,155 @@
+[
+    {
+        "type": "message",
+        "text": "アイスクリーム統計第3章",
+        "files": [
+            {
+                "id": "FQLB85BQA",
+                "created": 1574740195,
+                "timestamp": 1574740195,
+                "name": "アイスクリーム統計.xlsx",
+                "title": "アイスクリーム統計.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 43588,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQLB85BQA\/___________________________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQLB85BQA\/download\/___________________________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQLB85BQA-f373a7beb9\/____________________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQLB85BQA-f373a7beb9\/____________________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FQLB85BQA\/___________________________.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FQLB85BQA-93ef42c25a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y9FRr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アイスクリーム統計第3章"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1574740198.000300",
+        "client_msg_id": "8fe0e6d4-d8ed-43a3-95be-905af872f11c"
+    },
+    {
+        "client_msg_id": "cb385303-30b9-4ca2-8cbe-6a38789aa8ac",
+        "type": "message",
+        "text": "<http:\/\/kogolab.chillout.jp\/elearn\/icecream\/chap3\/sec0.html>",
+        "user": "UHC5VBV5E",
+        "ts": "1574743768.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zOh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/kogolab.chillout.jp\/elearn\/icecream\/chap3\/sec0.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574743768.000800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1574743796.000900",
+        "reply_users": [
+            "UHC5VBV5E"
+        ],
+        "replies": [
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1574743796.000900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FQR7ZDRCH",
+                "created": 1574743784,
+                "timestamp": 1574743784,
+                "name": "アイスクリーム統計_3.xlsx",
+                "title": "アイスクリーム統計_3.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 37396,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQR7ZDRCH\/____________________________3.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQR7ZDRCH\/download\/____________________________3.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQR7ZDRCH-0e73f01e9c\/____________________________3_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQR7ZDRCH-0e73f01e9c\/____________________________3_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FQR7ZDRCH\/____________________________3.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FQR7ZDRCH-e7d1c252fe",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1574743796.000900",
+        "client_msg_id": "fc07efdd-58c6-4098-8070-406763bc7f52",
+        "thread_ts": "1574743768.000800",
+        "parent_user_id": "UHC5VBV5E"
+    }
+]

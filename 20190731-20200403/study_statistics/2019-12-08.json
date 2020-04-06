@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FRECYKKJR",
+                "created": 1575797086,
+                "timestamp": 1575797086,
+                "name": "アイスクリーム統計_4.xlsx",
+                "title": "アイスクリーム統計_4.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 43570,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRECYKKJR\/____________________________4.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRECYKKJR\/download\/____________________________4.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRECYKKJR-0f9ffb008c\/____________________________4_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRECYKKJR-0f9ffb008c\/____________________________4_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FRECYKKJR\/____________________________4.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FRECYKKJR-67501587fb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1575797089.000100",
+        "client_msg_id": "86576ebc-9a62-4ef6-bb15-ef7b70e310b9",
+        "thread_ts": "1575339442.000300",
+        "parent_user_id": "UHEH8KZ7W"
+    }
+]

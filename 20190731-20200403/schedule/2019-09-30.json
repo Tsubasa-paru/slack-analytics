@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "efce6cff-b31a-4a02-96c4-327ab02de662",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/1Vn787wutIYBgWQyi2jMevFY-1SXqvk_Y6v6KRDX6bVU\/edit?usp=drivesdk>\n授業日程管理表に後期の予定を付け足しました。",
+        "user": "UHC5VBV5E",
+        "ts": "1569890267.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "eafac4c9-f28c-47ba-9555-6477f875acbd",
+        "type": "message",
+        "text": "今のところ、火曜4限と金曜4限の授業をとる予定です。\nゼミには支障がないと思います",
+        "user": "UHC5VBV5E",
+        "ts": "1569890368.002600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

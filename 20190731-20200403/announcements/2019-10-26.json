@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "8EC4F1EC-4461-4D5D-8EC8-0493D72B5316",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> <@UHG1M1NQ6> <@UGQV9DXRC> <@UHFLC6N4X> <@UHC5VBV5E> \n研究室公開は11月24日（日）の12時から17時でやります。\n日程調整と準備をお願いします。",
+        "user": "UHFLB6JPR",
+        "ts": "1572134971.002300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572134971.002300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1572144284.002900",
+        "reply_users": [
+            "UHEH8KZ7W",
+            "UHFLC6N4X"
+        ],
+        "replies": [
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1572135172.002600"
+            },
+            {
+                "user": "UHFLC6N4X",
+                "ts": "1572144284.002900"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1572144284.002900",
+        "reactions": [
+            {
+                "name": "custom_ok",
+                "users": [
+                    "UHC5VBV5E",
+                    "UGQV9DXRC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AD724639-DC7C-46F0-BE5A-297629669EA8",
+        "type": "message",
+        "text": "承知しました",
+        "user": "UHEH8KZ7W",
+        "ts": "1572135172.002600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572134971.002300",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "82d0e4ba-e934-473f-9796-080e7193994d",
+        "type": "message",
+        "text": "外せない用事あって厳しいです",
+        "user": "UHFLC6N4X",
+        "ts": "1572144284.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572134971.002300",
+        "parent_user_id": "UHFLB6JPR"
+    }
+]

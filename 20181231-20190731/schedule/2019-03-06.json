@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_add",
+        "text": "このチャンネルに次のインテグレーションを追加しました : <https:\/\/ohkawaralab.slack.com\/services\/BGR0H7T9P|Google Calendar for Team Events>",
+        "user": "UGQV9DXRC",
+        "bot_id": "BGR0H7T9P",
+        "bot_link": "<https:\/\/ohkawaralab.slack.com\/services\/BGR0H7T9P|Google Calendar for Team Events>",
+        "ts": "1551945309.000100"
+    }
+]

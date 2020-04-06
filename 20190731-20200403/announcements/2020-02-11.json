@@ -1,0 +1,304 @@
+[
+    {
+        "client_msg_id": "078B5743-F069-46C6-A847-242584B46D7C",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> 福田、余白はないように埋めて",
+        "user": "UHFLB6JPR",
+        "ts": "1581425187.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "28f5130a-0d01-4868-a6cb-1b572a93f41d",
+        "type": "message",
+        "text": "承知しました。",
+        "user": "UHEH8KZ7W",
+        "ts": "1581425206.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A=gC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2622C038-9088-4369-8896-4507171CD0E8",
+        "type": "message",
+        "text": "<@UHC5VBV5E> <@UHEH8KZ7W> <@UHG1M1NQ6> <@UHFLC6N4X> <@UGQV9DXRC> \n明日の10時30分から教授会入ったので、早くて 11時30 分からで変更お願いします。\n選挙なんでたぶん一時間じゃ終わらないと思います。\n終わったら連絡します。",
+        "user": "UHFLB6JPR",
+        "ts": "1581425487.004600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_ok",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A70BF963-F67C-47EB-B193-2D838B0A829C",
+        "type": "message",
+        "text": "家庭の都合で1時には帰宅しなくてはならないので、先にスライドできている人は送っておいてくれれば簡単なところは見ておきます:man-bowing::man-bowing:",
+        "user": "UGQV9DXRC",
+        "ts": "1581425599.005900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aSUq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "家庭の都合で1時には帰宅しなくてはならないので、先にスライドできている人は送っておいてくれれば簡単なところは見ておきます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n夜分遅くに申し訳ございません。余白を埋めたのでご確認をお願いします。",
+        "files": [
+            {
+                "id": "FTFUV8URY",
+                "created": 1581429091,
+                "timestamp": 1581429091,
+                "name": "2019卒業論文抄録 ver02.docx",
+                "title": "2019卒業論文抄録 ver02.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 196724,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTFUV8URY\/2019___________________ver02.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTFUV8URY\/download\/2019___________________ver02.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTFUV8URY-01c3d71654\/2019___________________ver02_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTFUV8URY-01c3d71654\/2019___________________ver02_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FTFUV8URY\/2019___________________ver02.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FTFUV8URY-05274af6ff",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ySeA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n夜分遅くに申し訳ございません。余白を埋めたのでご確認をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1581429095.006600",
+        "client_msg_id": "553dc9f4-d934-4e71-9bf2-eb5de2778de8"
+    },
+    {
+        "client_msg_id": "2ccdf254-e813-4abb-9c85-9ac42f8a1ad9",
+        "type": "message",
+        "text": "学生部屋で発表練習の準備をしておきます",
+        "user": "UGQV9DXRC",
+        "ts": "1581474330.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M=20N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学生部屋で発表練習の準備をしておきます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5BB24C29-5D5A-49B7-99FC-58E4B2ECEA2B",
+        "type": "message",
+        "text": "12時15分くらいになりそうです",
+        "user": "UHFLB6JPR",
+        "ts": "1581476325.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5b3dd4ff-fbe7-49c8-91c3-24b6ab9816c6",
+        "type": "message",
+        "text": "<@UHFLB6JPR> \n卒論用のファイルを校費で購入します:bow:",
+        "user": "UGQV9DXRC",
+        "ts": "1581492416.002100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wxj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n卒論用のファイルを校費で購入します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

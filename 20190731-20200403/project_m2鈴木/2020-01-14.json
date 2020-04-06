@@ -1,0 +1,182 @@
+[
+    {
+        "type": "message",
+        "text": "心拍+心拍変化量\/心拍のみ\/心拍変化量のみ\/心拍なしの4種類まとめ終わり\n<https:\/\/drive.google.com\/file\/d\/1nhMfLqU04tELW5fNAi2FPRgsGI_Ypp0E\/view?usp=sharing>\n平均で一番高かった組み合わせは\n4種  ：心拍変化量のみで平均92.6%\n14種：心拍ぬきで平均59.2%\n今後の方針は以下\n<https:\/\/www.evernote.com\/shard\/s223\/sh\/a94ffd9f-96be-4fc9-b70e-9c57ee1941a9\/2fb36b6db9a4d684f8a7c2433cf1de81>",
+        "files": [
+            {
+                "id": "FMYABJJTU",
+                "created": 1568365030,
+                "timestamp": 1568365030,
+                "name": "実験精度まとめ.xlsx",
+                "title": "実験精度まとめ.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 124403,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1nhMfLqU04tELW5fNAi2FPRgsGI_Ypp0E",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMYABJJTU-ae2c06a9a2\/______________________64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMYABJJTU-ae2c06a9a2\/______________________80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMYABJJTU-ae2c06a9a2\/______________________360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 255,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMYABJJTU-ae2c06a9a2\/______________________480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 339,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMYABJJTU-ae2c06a9a2\/______________________160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMYABJJTU-ae2c06a9a2\/______________________720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 720,
+                "thumb_720_h": 509,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMYABJJTU-ae2c06a9a2\/______________________800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 566,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMYABJJTU-ae2c06a9a2\/______________________960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 960,
+                "thumb_960_h": 679,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 724,
+                "thumb_tiny": "AwAhADDSJxRn3oPWjn0oAM+4pN3uKOfT9aDn0\/WgBcnApRyKaOgpR0FAAetFBUHqKNo9KACkPSl2j0o2j0oAQdBTh0FHQUUAFFFFABRRRQAUUUUAf\/\/Z",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMYABJJTU\/_____________________.xlsx",
+                "is_starred": false,
+                "external_id": "1nhMfLqU04tELW5fNAi2FPRgsGI_Ypp0E",
+                "external_url": "https:\/\/drive.google.com\/open?id=1nhMfLqU04tELW5fNAi2FPRgsGI_Ypp0E",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U9ER",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "心拍+心拍変化量\/心拍のみ\/心拍変化量のみ\/心拍なしの4種類まとめ終わり\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1nhMfLqU04tELW5fNAi2FPRgsGI_Ypp0E\/view?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n平均で一番高かった組み合わせは\n4種  ：心拍変化量のみで平均92.6%\n14種：心拍ぬきで平均59.2%\n今後の方針は以下\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.evernote.com\/shard\/s223\/sh\/a94ffd9f-96be-4fc9-b70e-9c57ee1941a9\/2fb36b6db9a4d684f8a7c2433cf1de81"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FMYABJJTU"
+        ],
+        "ts": "1578992492.008700",
+        "client_msg_id": "0dc5a34d-e9e1-46c0-b85d-6a560a6a9dae"
+    },
+    {
+        "client_msg_id": "69EE9389-1F18-4DD8-AC8E-2FADF4554A1E",
+        "type": "message",
+        "text": "14種の場合\n最大平均が59.2？\n70くらいはあるとの認識だったけど",
+        "user": "UHFLB6JPR",
+        "ts": "1579058632.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ab00e218-becf-46fb-95ef-2dad9456130c",
+        "type": "message",
+        "text": "全部のデータ使った場合なので階段抜きはまとめ終わってないですが、階段抜くと69とかそのくらいになりそうです",
+        "user": "UGQV9DXRC",
+        "ts": "1579059036.004800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PXBS0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全部のデータ使った場合なので階段抜きはまとめ終わってないですが、階段抜くと69とかそのくらいになりそうです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B7AB0C1C-36F6-45E3-982D-514BA35072DD",
+        "type": "message",
+        "text": "なるほど\n理由はないけど、感覚的に70は超えたらいいなと",
+        "user": "UHFLB6JPR",
+        "ts": "1579059150.006000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

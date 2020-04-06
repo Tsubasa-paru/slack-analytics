@@ -1,0 +1,80 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FR16XJ3EV",
+                "created": 1575450678,
+                "timestamp": 1575450678,
+                "name": "心理学研究７４（３）.pdf",
+                "title": "心理学研究７４（３）.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 1183308,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR16XJ3EV\/______________________________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR16XJ3EV\/download\/______________________________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR16XJ3EV-e625e39a16\/_______________________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 788,
+                "thumb_pdf_h": 1112,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FR16XJ3EV\/______________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FR16XJ3EV-316847541b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1575450679.000100",
+        "client_msg_id": "49a2cd3f-1426-4a17-b149-94aa10cbed68"
+    },
+    {
+        "client_msg_id": "698c80cd-bf3c-4ba4-8f15-e56c023395f3",
+        "type": "message",
+        "text": "持ってるかもだけど、参考までに",
+        "user": "UHFLB6JPR",
+        "ts": "1575450703.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g25f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "持ってるかもだけど、参考までに"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,742 @@
+[
+    {
+        "client_msg_id": "be88f65b-39d8-4246-bf20-8a0c22794a87",
+        "type": "message",
+        "text": "<@UHC5VBV5E> <@UHG1M1NQ6> <@UGQV9DXRC> <@UHFLC6N4X>\n明日東1号館のカードキー、西6のカギとカードキー持っている人は返却をお願いします。",
+        "user": "UHEH8KZ7W",
+        "ts": "1585036826.003400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dBX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHC5VBV5E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHG1M1NQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UGQV9DXRC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHFLC6N4X"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n明日東1号館のカードキー、西6のカギとカードキー持っている人は返却をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EA7D33F1-C920-4068-9573-C0D16F6ADFAE",
+        "type": "message",
+        "text": "31日まではずっと使いたいんですが、すぐにまたもらえるんですか？",
+        "user": "UHC5VBV5E",
+        "ts": "1585037022.004900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VDuU2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "31日まではずっと使いたいんですが、すぐにまたもらえるんですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b08e212-5e13-42bb-85f6-ad990a68e6b1",
+        "type": "message",
+        "text": "数を確認したいので、返却と書きました。紛らわしくてごめんなさい。",
+        "user": "UHEH8KZ7W",
+        "ts": "1585037141.005900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1mT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "数を確認したいので、返却と書きました。紛らわしくてごめんなさい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5FA696F5-D3AE-488B-8B2A-EBC2F48A70AD",
+        "type": "message",
+        "text": "了解です",
+        "user": "UHC5VBV5E",
+        "ts": "1585037186.006100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SG+F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8E9DCF80-B476-4796-B851-C0873F8628C0",
+        "type": "message",
+        "text": "12:40から授与式を行います。",
+        "user": "UHEH8KZ7W",
+        "ts": "1585106796.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Vq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12:40から授与式を行います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "982d16b0-5184-4a4a-bf12-7c0de46b19b5",
+        "type": "message",
+        "text": "<@UHG1M1NQ6> <@UHEH8KZ7W> <@UGQV9DXRC> <@UHC5VBV5E> <@UHV3GN694> <@UHFLC6N4X> <@UGPH97FDW>\n東1のカードキー\n東1　5階の鍵\n西6　カードキー\n西６　鍵\n誰が持ってるかすべてチェックしてください。",
+        "user": "UHFLB6JPR",
+        "ts": "1585109791.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KHc7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHG1M1NQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UGQV9DXRC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHC5VBV5E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHV3GN694"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHFLC6N4X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UGPH97FDW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n東1のカードキー\n東1　5階の鍵\n西6　カードキー\n西６　鍵\n誰が持ってるかすべてチェックしてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585109791.002200",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1585110596.005900",
+        "reply_users": [
+            "UGPH97FDW",
+            "UHEH8KZ7W",
+            "UGQV9DXRC",
+            "UHV3GN694",
+            "UHG1M1NQ6"
+        ],
+        "replies": [
+            {
+                "user": "UGPH97FDW",
+                "ts": "1585110008.004600"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1585110226.004900"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1585110281.005100"
+            },
+            {
+                "user": "UHV3GN694",
+                "ts": "1585110431.005700"
+            },
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1585110596.005900"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1585110596.005900"
+    },
+    {
+        "client_msg_id": "190CAE9D-395F-4990-B556-74FA7727FDFF",
+        "type": "message",
+        "text": "東1のカードキー(大河原件6番)と、5階の鍵を今手元に持ってます。\n西6のカードキーと鍵は4年生の確か福田か根本に預けました。",
+        "user": "UGPH97FDW",
+        "ts": "1585110008.004600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGPH97FDW",
+            "ts": "1585110369.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AGzKy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "東1のカードキー(大河原件6番)と、5階の鍵を今手元に持ってます。\n西6のカードキーと鍵は4年生の確か福田か根本に預けました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585109791.002200",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "ad1e3e09-c0d4-4907-804f-44b2a0073eb7",
+        "type": "message",
+        "text": "自分の手元に西6のカードキーが4つとカギが2つあるのですが、他に西6関係でもっている人いますか？",
+        "user": "UHEH8KZ7W",
+        "ts": "1585110226.004900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JKC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分の手元に西6のカードキーが4つとカギが2つあるのですが、他に西6関係でもっている人いますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585109791.002200",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "c3045c0d-b447-49c6-b4c7-53b43702cdbb",
+        "type": "message",
+        "text": "五階の鍵だけ持ってます！",
+        "user": "UGQV9DXRC",
+        "ts": "1585110281.005100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XeYn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "五階の鍵だけ持ってます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585109791.002200",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "B697F8F8-5B65-45C7-9450-2095A7289ED0",
+        "type": "message",
+        "text": "5階の鍵持ってます",
+        "user": "UHV3GN694",
+        "ts": "1585110431.005700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g09c71d9cc54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b09c71d9cc541041ebfe419872e7fc9c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "高柳里紗",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "rxrxree609",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T+X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5階の鍵持ってます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585109791.002200",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "1ff8953a-0c4a-4d2b-a495-c5e77ad30cf1",
+        "type": "message",
+        "text": "東1のカードキーと5階の鍵持ってます",
+        "user": "UHG1M1NQ6",
+        "ts": "1585110596.005900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q6xxi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "東1のカードキーと5階の鍵持ってます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585109791.002200",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "217a4c83-e5a6-4c47-8fd5-50516c5a5b68",
+        "type": "message",
+        "text": "福田　西6のカードキーが4つとカギが2つは誰から受け取ったの？",
+        "user": "UHFLB6JPR",
+        "ts": "1585110848.006400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vmkv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "福田　西6のカードキーが4つとカギが2つは誰から受け取ったの？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F010QCYUCSC",
+                "created": 1585110941,
+                "timestamp": 1585110941,
+                "name": "鍵の管理.xlsx",
+                "title": "鍵の管理.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 9166,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-F010QCYUCSC\/____________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-F010QCYUCSC\/download\/____________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-F010QCYUCSC-e4503845ed\/_____________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-F010QCYUCSC-e4503845ed\/_____________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/F010QCYUCSC\/____________.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-F010QCYUCSC-d57b54f519",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1585110945.007800",
+        "client_msg_id": "4ae6ee52-0f2a-4257-96d9-8aee1e847a25"
+    },
+    {
+        "client_msg_id": "ece49601-4eb6-4527-b3c5-d710d07926dc",
+        "type": "message",
+        "text": "カードキーとカギ1つずつは岡田先輩から頂きました。\nカードキー3枚とカギ1本は研究室においてありました(清水先輩からカードキーとカギ1つずつ返却していただきました）。",
+        "user": "UHEH8KZ7W",
+        "ts": "1585110980.008500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "myH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "カードキーとカギ1つずつは岡田先輩から頂きました。\nカードキー3枚とカギ1本は研究室においてありました(清水先輩からカードキーとカギ1つずつ返却していただきました）。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7ee9cc5-fd0f-4490-bf03-7363d15bf33d",
+        "type": "message",
+        "text": "slack管理者関係\n<https:\/\/slack.com\/intl\/ja-jp\/help\/articles\/201912948-%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%BC--Owner--%E3%81%A8%E7%AE%A1%E7%90%86%E8%80%85--Admin->",
+        "user": "UHEH8KZ7W",
+        "ts": "1585114563.009000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Slack Help Center",
+                "title": "オーナー (Owner) と管理者 (Admin)",
+                "title_link": "https:\/\/slack.com\/intl\/ja-jp\/help\/articles\/201912948-%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%BC--Owner--%E3%81%A8%E7%AE%A1%E7%90%86%E8%80%85--Admin-",
+                "text": "ワークスペースのオーナーまたは管理者は、他のメンバーに管理権限を付与して、ワークスペースの管理を手伝ってもらうことができます。 オBAD+C3...",
+                "fallback": "Slack Help Center: オーナー (Owner) と管理者 (Admin)",
+                "thumb_url": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/slack_hash_256.png",
+                "from_url": "https:\/\/slack.com\/intl\/ja-jp\/help\/articles\/201912948-%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%BC--Owner--%E3%81%A8%E7%AE%A1%E7%90%86%E8%80%85--Admin-",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/favicon-32.png",
+                "id": 1,
+                "original_url": "https:\/\/slack.com\/intl\/ja-jp\/help\/articles\/201912948-%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%BC--Owner--%E3%81%A8%E7%AE%A1%E7%90%86%E8%80%85--Admin-"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EKln",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "slack管理者関係\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/slack.com\/intl\/ja-jp\/help\/articles\/201912948-%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%BC--Owner--%E3%81%A8%E7%AE%A1%E7%90%86%E8%80%85--Admin-"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UHG1M1NQ6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

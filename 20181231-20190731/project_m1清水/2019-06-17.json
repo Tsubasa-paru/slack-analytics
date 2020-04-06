@@ -1,0 +1,84 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FKAJ5KPRR",
+                "created": 1560818846,
+                "timestamp": 1560818846,
+                "name": "19009_3.【申請者送付用】審査コメントまとめ.pdf",
+                "title": "19009_3.【申請者送付用】審査コメントまとめ.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 264388,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKAJ5KPRR\/19009_3.___________________________________________________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKAJ5KPRR\/download\/19009_3.___________________________________________________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKAJ5KPRR-ca54ed0b4a\/19009_3.____________________________________________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FKAJ5KPRR\/19009_3.___________________________________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FKAJ5KPRR-1e9bf1a33b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1560818846.000100",
+        "client_msg_id": "569b0780-38d8-4331-b7cf-caf1a4e0b3a2"
+    },
+    {
+        "client_msg_id": "f26ac711-a5dc-4606-bd3d-e2034dd23683",
+        "type": "message",
+        "text": "コメント1に対する回答案を大河原に送ってください\n文章だけでいいです。",
+        "user": "UHFLB6JPR",
+        "ts": "1560818890.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3b07bb3d-46bd-4287-98ab-5c971d5c9b58",
+        "type": "message",
+        "text": "「タブレットを回収して，USB接続してデータを回収するのでしょうか？」\n質問のとおりに，USB接続でデータを回収する予定です",
+        "user": "UGQ2ENZD0",
+        "ts": "1560820158.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

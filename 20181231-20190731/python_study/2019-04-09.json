@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "text": "とどいた",
+        "files": [
+            {
+                "id": "FHJP3H1LH",
+                "created": 1554865127,
+                "timestamp": 1554865127,
+                "name": "IMG_20190410_115832.jpg",
+                "title": "無題",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 236745,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHJP3H1LH\/img_20190410_115832.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHJP3H1LH\/download\/img_20190410_115832.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHJP3H1LH-6719e6476a\/img_20190410_115832_64.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHJP3H1LH-6719e6476a\/img_20190410_115832_80.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHJP3H1LH-6719e6476a\/img_20190410_115832_360.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHJP3H1LH-6719e6476a\/img_20190410_115832_480.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHJP3H1LH-6719e6476a\/img_20190410_115832_160.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHJP3H1LH-6719e6476a\/img_20190410_115832_720.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHJP3H1LH-6719e6476a\/img_20190410_115832_800.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1422,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHJP3H1LH-6719e6476a\/img_20190410_115832_960.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHJP3H1LH-6719e6476a\/img_20190410_115832_1024.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 6,
+                "original_w": 3264,
+                "original_h": 1836,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FHJP3H1LH\/img_20190410_115832.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHJP3H1LH-a7cdb07db6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1554865127.000600",
+        "client_msg_id": "1b034206-2ec9-4be3-bbb0-a2dad2466825",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

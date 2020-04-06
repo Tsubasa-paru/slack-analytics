@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "71708465-0fb1-4b5f-a842-5e73b8347772",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/14NdnZpSl-pf0xTdEMXnxoofL4UJ5ZZX3LbgQllbNHCM\/edit?usp=sharing>",
+        "user": "UHEH8KZ7W",
+        "ts": "1571976181.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

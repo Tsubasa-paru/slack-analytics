@@ -1,0 +1,251 @@
+[
+    {
+        "client_msg_id": "FFE15308-E6E1-4664-AE05-B567A9406854",
+        "type": "message",
+        "text": "<@UHG1M1NQ6> <@UHC5VBV5E> \nスライドのwebアップを今日中にしてよ",
+        "user": "UHFLB6JPR",
+        "ts": "1569230783.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHG1M1NQ6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "522CC021-42D0-49F5-AA44-0BEF6D6BEB79",
+        "type": "message",
+        "text": "つたけにはみんなからも声かけてください",
+        "user": "UHFLB6JPR",
+        "ts": "1569233306.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "明日のスケジュール",
+        "files": [
+            {
+                "id": "FNA8ZNZ6F",
+                "created": 1569244341,
+                "timestamp": 1569244341,
+                "name": "media_middle.pdf",
+                "title": "File from iOS",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 364448,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNA8ZNZ6F\/media_middle.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNA8ZNZ6F\/download\/media_middle.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNA8ZNZ6F-fdb3e4a40f\/media_middle_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 1819,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FNA8ZNZ6F\/media_middle.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FNA8ZNZ6F-4bc220574a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1569244343.000100",
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7B98C3D4-54A3-4494-809F-FDCF1FE7FA51",
+        "type": "message",
+        "text": "自分の発表についた質問とそれに対する回答は後で復習して本発表対策にするから要メモです！\n自分の時は解答に精一杯なのでお互いに補填しあってね",
+        "user": "UGQV9DXRC",
+        "ts": "1569281664.002100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "雑メモですが共有します\n矢印はみんなの回答",
+        "files": [
+            {
+                "id": "FNQV8JP7G",
+                "created": 1569300146,
+                "timestamp": 1569300146,
+                "name": "iOS の画像.png",
+                "title": "iOS の画像",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 722381,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNQV8JP7G\/ios__________.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNQV8JP7G\/download\/ios__________.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNQV8JP7G-4f96797435\/ios___________64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNQV8JP7G-4f96797435\/ios___________80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNQV8JP7G-4f96797435\/ios___________360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 141,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNQV8JP7G-4f96797435\/ios___________480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 188,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNQV8JP7G-4f96797435\/ios___________160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNQV8JP7G-4f96797435\/ios___________720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 283,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNQV8JP7G-4f96797435\/ios___________800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 2038,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNQV8JP7G-4f96797435\/ios___________960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 377,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNQV8JP7G-4f96797435\/ios___________1024.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 402,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1206,
+                "original_h": 3072,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FNQV8JP7G\/ios__________.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FNQV8JP7G-b0cbdb6528",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1569300146.000100",
+        "client_msg_id": "8D55B794-B93D-478F-AB82-F2848C8031CA",
+        "thread_ts": "1569300146.000100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1569300213.000400",
+        "reply_users": [
+            "UHEH8KZ7W"
+        ],
+        "replies": [
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1569300213.000400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "UHG1M1NQ6",
+                    "UHC5VBV5E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6c4aaa0-696b-40d4-aada-66d367bd3bf6",
+        "type": "message",
+        "text": "ありがとうございます",
+        "user": "UHEH8KZ7W",
+        "ts": "1569300213.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569300146.000100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "14205020-06e5-4e75-9649-4f078c16b990",
+        "type": "message",
+        "text": "みんな発表お疲れ様でした！\n今日はゆっくり休んでね\n\n今週金曜はゼミあります。\nゼミの時に、発表時に貰った質問と今ならどう答えられるかや今後の方針で変化があった事など、フィードバックを考えてきて報告できるとよいです！",
+        "user": "UGQV9DXRC",
+        "ts": "1569306350.003100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

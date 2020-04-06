@@ -1,0 +1,144 @@
+[
+    {
+        "type": "message",
+        "text": "飛行機乗りました。\n行ってきます！！",
+        "files": [
+            {
+                "id": "FNF8PS3FH",
+                "created": 1568635045,
+                "timestamp": 1568635045,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UGPH97FDW",
+                "editable": false,
+                "size": 1459688,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNF8PS3FH\/ios__________.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNF8PS3FH\/download\/ios__________.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNF8PS3FH-7998610504\/ios___________64.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNF8PS3FH-7998610504\/ios___________80.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNF8PS3FH-7998610504\/ios___________360.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNF8PS3FH-7998610504\/ios___________480.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNF8PS3FH-7998610504\/ios___________160.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNF8PS3FH-7998610504\/ios___________720.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNF8PS3FH-7998610504\/ios___________800.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNF8PS3FH-7998610504\/ios___________960.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNF8PS3FH-7998610504\/ios___________1024.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "image_exif_rotation": 1,
+                "original_w": 4032,
+                "original_h": 3024,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGPH97FDW\/FNF8PS3FH\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FNF8PS3FH-ca3f680d6d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGPH97FDW",
+        "display_as_bot": false,
+        "ts": "1568635049.000300",
+        "client_msg_id": "FF47832D-AA59-4D56-B432-DED087C38894",
+        "reactions": [
+            {
+                "name": "female_fairy",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "crossed_flags",
+                "users": [
+                    "UHC5VBV5E",
+                    "UHEH8KZ7W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "earth_asia",
+                "users": [
+                    "UHFLC6N4X",
+                    "UHEH8KZ7W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "100",
+                "users": [
+                    "UHG1M1NQ6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "862AD7F8-6427-40EC-8C40-6A5D44E6AFA3",
+        "type": "message",
+        "text": "いってらっしゃい！",
+        "user": "UGQV9DXRC",
+        "ts": "1568635075.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "59C8B7BE-91B7-4193-AE19-5FE485AFEA98",
+        "type": "message",
+        "text": "楽しんで来てくださいー",
+        "user": "UHC5VBV5E",
+        "ts": "1568637360.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

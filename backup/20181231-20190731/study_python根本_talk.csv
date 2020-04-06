@@ -1,0 +1,55 @@
+﻿channel_id,talk_id,ts,thread_ts,talk_user,text,date
+CJHU8M93L,b0a29cd2-c860-4ec0-ba22-64b36702dddf,1558934089.0008,,UHC5VBV5E,"今更ですが、csvの読み取りまで…
+<https://github.com/nemawatt/Lab_Python/blob/master/python_study/0527py.ipynb>",2019-05-26
+CJHU8M93L,8cdab85b-0825-42af-bba3-0f8fe9e40610,1558934760.0011,,UGQV9DXRC,お、いいね,2019-05-26
+CJHU8M93L,74543644-db3d-46ba-95d8-bda0c2efb477,1558935151.0044,,UGQV9DXRC,"そしたら、次に欠損値の処理をする
+&gt;データとして取れてない値(欠損値)があるとこの後の処理でエラーが出ちゃう
+&gt;そこを何かの値で埋めるか、欠損値自体を消す作業が必要",2019-05-26
+CJHU8M93L,43430c61-f0c0-4e8a-9482-911b2512c422,1558935284.0073,,UGQV9DXRC,"とゆうことで、下の二つをやってみて
+&gt;①データの中に欠損値が入ってる列(ラベル)を探す
+&gt;②欠損値をそのラベルの中央値で埋める",2019-05-26
+CJHU8M93L,324dcfa3-1c4e-49d0-849f-ff8cfebaa075,1558935946.0084,,UHC5VBV5E,わかりました!,2019-05-26
+CJHU8M93L,0021d04f-6903-48d3-bda7-7cf958df2749,1558423483.0007,,UGQV9DXRC,<https://www.kaggle.com/c/titanic/data>,2019-05-21
+CJHU8M93L,20d94dd7-3af7-41cf-9dc9-4d13c31a69f2,1558423490.001,,UGQV9DXRC,ここからデータをとってきてちょ,2019-05-21
+CJHU8M93L,941099a6-60bb-4e39-8857-6ae5b09d83fd,1558424386.0011,,UGQV9DXRC,,2019-05-21
+CJHU8M93L,00ae9aa8-9782-44b1-950c-cac66326debb,1558943180.0113,,UHC5VBV5E,"中央値で埋めるのはAgeだけでいいですか?
+Cabin等は数値ではないですので",2019-05-27
+CJHU8M93L,1cce8ac4-af45-418b-a51b-91d5af01d1d4,1558943495.0119,,UGQV9DXRC,欠損値が入ってるラベルを書いてみて,2019-05-27
+CJHU8M93L,3ace21dd-b29a-4bba-9078-54132b1aa6f9,1558943916.013,,UHC5VBV5E,"PassengerId      0
+Survived         0
+Pclass           0
+Name             0
+Sex              0
+Age            177
+SibSp            0
+Parch            0
+Ticket           0
+Fare             0
+Cabin          687
+Embarked         2
+です！",2019-05-27
+CJHU8M93L,110d0cda-46c2-482c-b63f-de8d19752c3f,1558943939.0134,,UHC5VBV5E,Age とCabin とEmbarked,2019-05-27
+CJHU8M93L,41b7c085-fa41-44c1-97c7-62413af49d48,1558943998.0143,,UGQV9DXRC,"コード見れんかった～
+Fareも欠損あったと思ったけど勘違いかな",2019-05-27
+CJHU8M93L,ba48df68-59d1-4f01-8211-0e4946bf1cae,1558943998.0144,,UHC5VBV5E,git 見れないすね,2019-05-27
+CJHU8M93L,a5f6ccec-c94e-44bb-b16d-6403e8cd4780,1558944002.0146,,UGQV9DXRC,うん,2019-05-27
+CJHU8M93L,bafdaf94-d832-457b-8b33-6044401fed04,1558944014.015,,UHC5VBV5E,ちょいお待ちを,2019-05-27
+CJHU8M93L,c1f51f0c-c233-4aee-b28c-9edfc3c52073,1558944069.0166,,UHC5VBV5E,<https://github.com/nemawatt/Lab_Python/blob/master/python_study/0527py.ipynb>,2019-05-27
+CJHU8M93L,9c45a86b-c4c6-4e25-b46c-a2bc17fda1c3,1558944138.0174,,UGQV9DXRC,"結果を見ると中央値が適応されるのははAgeだけみたいだね
+そしたらCabinとEmbarkedはどうしましょ",2019-05-27
+CJHU8M93L,40f8f163-a06e-4ed6-b835-d1f3922b04e4,1558944225.0194,,UGQV9DXRC,"NameやpassengerIDみたいに分類とは無関係な特徴量は後で省くんだけど、cabinとembarkedもそうする？
+それとも何かで埋める？",2019-05-27
+CJHU8M93L,e17eea30-056a-4475-adb9-634632c62293,1558944313.0201,,UHC5VBV5E,embarked のアルファベットが何を意味しているのかわからないですが、適当に埋めますか?,2019-05-27
+CJHU8M93L,65d6fa76-890f-44df-b6d7-0560204077bb,1558944403.0207,,UGQV9DXRC,"ここみたらわかるよ
+<https://www.kaggle.com/c/titanic/data>",2019-05-27
+CJHU8M93L,9744574e-932e-4925-a6c4-61b382c26e59,1558944429.021,,UGQV9DXRC,Dataのとこ,2019-05-27
+CJHU8M93L,bcaa1d10-88c4-4d68-87bd-79652c3ff631,1558944468.0212,,UHC5VBV5E,wakarimasita,2019-05-27
+CJHU8M93L,090030a6-4980-4b25-ae04-10bdc2de5ca3,1558944544.0233,,UGQV9DXRC,わからんくても適当にしないで一応自分の中の基準を作るのだ,2019-05-27
+CJHU8M93L,afea594c-2bac-4a3c-84b5-210d4e97dd07,1558944567.0241,,UGQV9DXRC,どうしてこれにしたの？って聞かれて答えられないと私や岡田くんみたいにゼミ中に死んでしまうのだ,2019-05-27
+CJHU8M93L,b177e3b8-fb3f-427d-bf30-3b2ae619d112,1558944580.0243,,UHC5VBV5E,はい…,2019-05-27
+CJHU8M93L,01f4c783-15d8-4b42-9372-d9ffbb3a7b4c,1558944785.0258,,UHC5VBV5E,"分類とは無関係だと思うので消しましょう
+と言いたいんですが、ゴールがなんでしたっけ?",2019-05-27
+CJHU8M93L,29780610-1a31-467d-8853-5225b7397a11,1558945047.0288,,UGQV9DXRC,"事故で亡くなった人の原因分析だよ
+何歳以上で性別は何だったら亡くなりやすかったのか？",2019-05-27
+CJHU8M93L,577b4e5f-06b2-428a-bf31-ed85d1f9ffa6,1558945305.0293,,UHC5VBV5E,"サイトに書いてありましたね
+ごめんなさい x 100",2019-05-27

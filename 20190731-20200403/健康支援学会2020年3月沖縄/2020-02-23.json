@@ -1,0 +1,503 @@
+[
+    {
+        "client_msg_id": "8e70e742-10b1-4e4e-bbec-edc589ff9a64",
+        "type": "message",
+        "text": "<@UHV3GN694> <@UHC5VBV5E> <@UGQV9DXRC> <@UHEH8KZ7W> <@UHG1M1NQ6>\n・鈴木さん、根本のスライドに文献というスライドは不要です。そのかわり、各スライドの文献は数字ではなく、直接、著者、雑誌、発行年等を記載すること\n・根元のスライドは全体的に文字やグラフが小さいです。鈴木さんくらいの大きさや太さがほしいです。そこを修正したらとりあえず、共同研究者へ回してください。\n・ポスター発表のフォーマットは全員統一してほしいです。昨年度のをベースにして、発表者3人ですりあわせしてください。\n・福田のポスターは、抄録に書いてあることしか記載されていないので、もう少し詳しく情報や考察等を含めてほしいです。\n最初のこども食堂とは図はコンセプトとマッチしていないので修正が必要です。鈴木さんイ一度相談してみてください。こども、共食、地域交流でこども食堂を囲むのはおかしいです。\nまた、左下の概念図は大きすぎです。今の5分の1くらいの大きさでいいと思います。",
+        "user": "UHFLB6JPR",
+        "ts": "1582446716.007700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yadR2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHV3GN694"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHC5VBV5E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UGQV9DXRC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHG1M1NQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n・鈴木さん、根本のスライドに文献というスライドは不要です。そのかわり、各スライドの文献は数字ではなく、直接、著者、雑誌、発行年等を記載すること\n・根元のスライドは全体的に文字やグラフが小さいです。鈴木さんくらいの大きさや太さがほしいです。そこを修正したらとりあえず、共同研究者へ回してください。\n・ポスター発表のフォーマットは全員統一してほしいです。昨年度のをベースにして、発表者3人ですりあわせしてください。\n・福田のポスターは、抄録に書いてあることしか記載されていないので、もう少し詳しく情報や考察等を含めてほしいです。\n最初のこども食堂とは図はコンセプトとマッチしていないので修正が必要です。鈴木さんイ一度相談してみてください。こども、共食、地域交流でこども食堂を囲むのはおかしいです。\nまた、左下の概念図は大きすぎです。今の5分の1くらいの大きさでいいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC",
+                    "UHC5VBV5E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2997301e-add1-4076-a851-bff863664045",
+        "type": "message",
+        "text": "高柳のポスターは内容的に悪くはないんだけど、ぱっと見たときに興味がわく感じではないんだよね。",
+        "user": "UHFLB6JPR",
+        "ts": "1582446896.008700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EZb57",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "高柳のポスターは内容的に悪くはないんだけど、ぱっと見たときに興味がわく感じではないんだよね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHV3GN694"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25C087FD-E875-44A7-8B81-9183EC02968A",
+        "type": "message",
+        "text": "ポスターのフォーマットですが、タイトルを書いているバーの部分とその脇の大学マークのところのことを指してます。\n昨年の私のものをコピーして使って貰えばいいと思います",
+        "user": "UGQV9DXRC",
+        "ts": "1582447358.010900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/OV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ポスターのフォーマットですが、タイトルを書いているバーの部分とその脇の大学マークのところのことを指してます。\n昨年の私のものをコピーして使って貰えばいいと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b5264690-d7e7-42a7-a4c0-c60ebcfbfbfa",
+        "type": "message",
+        "text": "色もね",
+        "user": "UHFLB6JPR",
+        "ts": "1582447408.011300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9mly",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "色もね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F018CF44-6B40-494E-B483-83F94B8BD62C",
+        "type": "message",
+        "text": "去年はベースカラーを青にするくらいだったような気がします:thinking_face:",
+        "user": "UGQV9DXRC",
+        "ts": "1582447515.013100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Vcd9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "去年はベースカラーを青にするくらいだったような気がします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7ddf621-505b-4427-8157-b7a5e4357e1d",
+        "type": "message",
+        "text": "今回ベースカラーは統一しよう",
+        "user": "UHFLB6JPR",
+        "ts": "1582447788.013500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XEb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今回ベースカラーは統一しよう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b5418ff3-3dbd-4af6-bfda-0382d0e6fad8",
+        "type": "message",
+        "text": "学会は開催する方向で進んでいるようです",
+        "user": "UHFLB6JPR",
+        "ts": "1582447808.013900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L\/Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学会は開催する方向で進んでいるようです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "550A8566-08D8-485B-BE6E-592684E8182D",
+        "type": "message",
+        "text": "ではベースカラーは3人で統一してもらうとして、話をしておいてくださいな\n<@UHEH8KZ7W> \n火曜日に大学来れる？その時に一緒に考えよう。あとドライブにファイルをあげるんじゃ\n<@UHV3GN694> \nもう少し全体のデザインとしてメリハリ、見やすさを詰めていくといいかもしれません。\n具体的に煮詰まったらいつでも連絡ください〜火曜日来てもらえればいます:palms_up_together:",
+        "user": "UGQV9DXRC",
+        "ts": "1582448528.018700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1582448940.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2JdoD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ではベースカラーは3人で統一してもらうとして、話をしておいてくださいな\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n火曜日に大学来れる？その時に一緒に考えよう。あとドライブにファイルをあげるんじゃ\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHV3GN694"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nもう少し全体のデザインとしてメリハリ、見やすさを詰めていくといいかもしれません。\n具体的に煮詰まったらいつでも連絡ください〜火曜日来てもらえればいます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582448528.018700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1582454342.000800",
+        "reply_users": [
+            "UHV3GN694"
+        ],
+        "replies": [
+            {
+                "user": "UHV3GN694",
+                "ts": "1582454342.000800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "92EF2494-DB63-4769-A3A6-7D11CDF50399",
+        "type": "message",
+        "text": "アドバイスありがとうございます。火曜日伺います！",
+        "user": "UHV3GN694",
+        "ts": "1582454342.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g09c71d9cc54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b09c71d9cc541041ebfe419872e7fc9c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "高柳里紗",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "rxrxree609",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g+U=B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アドバイスありがとうございます。火曜日伺います！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582448528.018700",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "689154F2-8015-409C-814A-5A67DEA3A905",
+        "type": "message",
+        "text": "<@UGQV9DXRC> はい火曜日大丈夫です。",
+        "user": "UHEH8KZ7W",
+        "ts": "1582465778.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=G=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UGQV9DXRC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " はい火曜日大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,305 @@
+[
+    {
+        "client_msg_id": "F1775B8C-8332-4EF1-B09D-7A855839509A",
+        "type": "message",
+        "text": "今日のところ、分析計は大丈夫そうです",
+        "user": "UHFLB6JPR",
+        "ts": "1576141833.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "90DBCD4A-9599-4613-BABF-EEA21213DF42",
+        "type": "message",
+        "text": "ありがとうございます\n加速度計2種類も大丈夫でした",
+        "user": "UHC5VBV5E",
+        "ts": "1576141881.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "569DEC86-99D4-47B8-90CA-A7A27B9DBA41",
+        "type": "message",
+        "text": "一応リマインドですが明日はテック技販の方々もいらっしゃいます",
+        "user": "UHC5VBV5E",
+        "ts": "1576142541.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6b90213f-05f7-4469-954b-822b792caea0",
+        "type": "message",
+        "text": "東１－６０２、８１０の管理している総合文化部会事務室より教室使用に\nつきまして\n \n授業で６０２、８１０室を使用している先生が昼休みに授業の準備を\n行い鍵を閉めているのですが、先日昼休み後授業までの間に鍵を開けて\n入っている人がいる　と指摘が総合文化事務室にありました。\nその時間帯は授業の準備が完了しているため\n教室に入ることは避けていただきたいとのことです。\n \n上記の指摘を受けまして体育事務室にある鍵は、\n①　部会の先生にお渡し（または代理の学生に渡す）する。\n②　事前に決めた時間帯のみに使用\n \nといたします。\n \n①・②以外（忘れ物を取りに行くなど）の場合は\n総合文化事務室（東１－６１３）に鍵を借りるようにしていただきたく\nお願いいたします。\n \n東１－６０２、８１０に関しましては”ゼミ室”ではなく”教室”の扱い\nであるため。上記のような注意点がございます。",
+        "user": "UHFLB6JPR",
+        "ts": "1576212504.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "idU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "東１－６０２、８１０の管理している総合文化部会事務室より教室使用に\nつきまして\n \n授業で６０２、８１０室を使用している先生が昼休みに授業の準備を\n行い鍵を閉めているのですが、先日昼休み後授業までの間に鍵を開けて\n入っている人がいる　と指摘が総合文化事務室にありました。\nその時間帯は授業の準備が完了しているため\n教室に入ることは避けていただきたいとのことです。\n \n上記の指摘を受けまして体育事務室にある鍵は、\n①　部会の先生にお渡し（または代理の学生に渡す）する。\n②　事前に決めた時間帯のみに使用\n \nといたします。\n \n①・②以外（忘れ物を取りに行くなど）の場合は\n総合文化事務室（東１－６１３）に鍵を借りるようにしていただきたく\nお願いいたします。\n \n東１－６０２、８１０に関しましては”ゼミ室”ではなく”教室”の扱い\nであるため。上記のような注意点がございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0860472-8543-41ff-a1f8-8109279b978b",
+        "type": "message",
+        "text": "3階の教室が15：30から違う研究室が使うそうなんですが、どこでゼミをしますか？",
+        "user": "UHEH8KZ7W",
+        "ts": "1576213047.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VXH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3階の教室が15：30から違う研究室が使うそうなんですが、どこでゼミをしますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "381598ab-3115-4b8f-b151-69407f2b32c0",
+        "type": "message",
+        "text": "3階",
+        "user": "UHFLB6JPR",
+        "ts": "1576213316.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "30jq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3階"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FR9BMLARG",
+                "created": 1576217527,
+                "timestamp": 1576217527,
+                "name": "健康支援学会2020_都竹ver03KO.docx",
+                "title": "健康支援学会2020_都竹ver03KO.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 473172,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR9BMLARG\/__________________2020_______ver03ko.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR9BMLARG\/download\/__________________2020_______ver03ko.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FR9BMLARG\/__________________2020_______ver03ko.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FR9BMLARG-2397e227bd",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1576217569.001300",
+        "client_msg_id": "905a9f76-960b-473b-9f54-ad920f4e6633"
+    },
+    {
+        "client_msg_id": "5f54cdbf-0551-4024-90c1-733687905533",
+        "type": "message",
+        "text": "ありがとうございます。",
+        "user": "UHG1M1NQ6",
+        "ts": "1576217656.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X+G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "180c5189-5c26-4014-833a-d41408e12200",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n坂本先生は非学会員でよかったでしょうか、？？",
+        "user": "UGQV9DXRC",
+        "ts": "1576221520.003900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E7g5Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n坂本先生は非学会員でよかったでしょうか、？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

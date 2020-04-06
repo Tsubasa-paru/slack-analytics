@@ -1,0 +1,268 @@
+[
+    {
+        "client_msg_id": "EEF5C00A-7C3E-4541-B3BE-EDB786162B68",
+        "type": "message",
+        "text": "明日の13時30分にやりましょう\n金曜日は鈴木さん来なくてもいいです",
+        "user": "UHFLB6JPR",
+        "ts": "1577174605.028700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dce7bfcf-4df8-4032-9288-2b9ed53d36a5",
+        "type": "message",
+        "text": "ありがとうございます！:man-bowing:\nもともと27金曜と31火曜は来る予定なので、もし何かあればお声かけいただければ:man-bowing:",
+        "user": "UGQV9DXRC",
+        "ts": "1577174693.029800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CkrOf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nもともと27金曜と31火曜は来る予定なので、もし何かあればお声かけいただければ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5714A8FD-1CB5-4277-AD5C-6DA3C7AEF6C0",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> \n福田\n倫理申請がさっき通ったので測定進めて\n明日のゼミまでに根本が鈴木さんな確認した上で、松浦さんに謝金の手続きの相談をしてください",
+        "user": "UHFLB6JPR",
+        "ts": "1577175029.032800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC",
+                    "UHEH8KZ7W"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6820C0A0-6623-4528-BFBF-77F82A644F81",
+        "type": "message",
+        "text": "謝金は現金1000円で大河原の科研費を使う",
+        "user": "UHFLB6JPR",
+        "ts": "1577175274.034300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0288605A-2610-4B5C-B196-38626FF6A448",
+        "type": "message",
+        "text": "年末年始は活動パターンが違うから測定は不可\n早くて１月６日スタート\nアンケートも測定開始日か活動量測定期間中にやってもらうこと\n事前はダメ\n６日にスタートしても活動量測定が終わるのはその８日後だから15日になります",
+        "user": "UHFLB6JPR",
+        "ts": "1577175648.038400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F09FE069-208C-4241-B86B-A6DBECA7E522",
+        "type": "message",
+        "text": "できる限り６日の週にお願いできるよう、年内にアポをとる努力を\n40人は厳しそうだから、5人×4(年代、性別)=20人は最低ラインで頑張ろう",
+        "user": "UHFLB6JPR",
+        "ts": "1577175849.042300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2CFB1EFC-4572-43DB-9E48-1B944D4D1C59",
+        "type": "message",
+        "text": "説明および測定開始のため、対象者に来てもらうまたは行く際、最初の2ー3回は誰かに立ちあってもらうこと\n月曜日は大河原は授業で無理ですが、7日火曜日は13ー15時以外は大丈夫です",
+        "user": "UHFLB6JPR",
+        "ts": "1577176020.046100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "CA470A9C-8463-44C6-BB0F-6FA60FD4DE0F",
+        "type": "message",
+        "text": "水曜日は学外でだめ\n木曜日は14時-15時で運転教室あるから同行してくれたらお願いできます\nただし、五限が授業だから帰りは自力でかえってもらうことになります",
+        "user": "UHFLB6JPR",
+        "ts": "1577176146.049500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9845FCDD-57FC-4CE9-873F-405DFA4E079D",
+        "type": "message",
+        "text": "ゼミは学生部屋でもよろしいでしょうか？",
+        "user": "UHEH8KZ7W",
+        "ts": "1577247904.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Vk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミは学生部屋でもよろしいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7F646626-F49B-4E3C-A9DF-477E6D3F4CB1",
+        "type": "message",
+        "text": "行きます",
+        "user": "UHFLB6JPR",
+        "ts": "1577248315.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

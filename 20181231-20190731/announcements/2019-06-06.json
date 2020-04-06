@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "AA01761A-955C-43E7-93AA-333F25A72E10",
+        "type": "message",
+        "text": "次からゼミは発表用の資料はslackにあげるのではなく、ノートpcに落としておいて下さい。たまに回線が繋がらなくてゼミを円滑に進めることができなくなります。\nまたゼミの進行のためにannouncementsにゼミの大まかな流れを書いておいて下さい。\nとのことです。",
+        "user": "UHEH8KZ7W",
+        "ts": "1559876511.006900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "83477E2D-8EFC-4FB9-8B4A-7BC20F0E4D4A",
+        "type": "message",
+        "text": "「機械学習 入門 本」で検索して10個くらいのサイトを見たのですが、大体のサイトで載っていた本を3冊載せておきます。\n\nやさしく学ぶ 機械学習を理解するための数学のきほん ~アヤノ&amp;ミオと一緒に学ぶ 機械学習の理論と数学、実装まで~\n<https:\/\/www.amazon.co.jp\/gp\/aw\/d\/4839963525\/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8>\n\nPython機械学習プログラミング 達人データサイエンティストによる理論と実践\n<https:\/\/www.amazon.co.jp\/Python機械学習プログラミング-達人データサイエンティストによる理論と実践-impress-top-gear\/dp\/4844380605\/ref=sr_1_13?ie=UTF8&amp;qid=1515555285&amp;sr=8-13&amp;keywords=Scikit+learn>\n\nPythonではじめる機械学習 ―scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎\n<https:\/\/www.amazon.co.jp\/dp\/4873117984?_encoding=UTF8&amp;isInIframe=0&amp;n=465392&amp;ref_=dp_proddesc_0&amp;s=books&amp;showDetailProductDesc=1#product-description_feature_div>\n",
+        "user": "UHEH8KZ7W",
+        "ts": "1559878000.007000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "やさしく学ぶ 機械学習を理解するための数学のきほん ~アヤノ&amp;ミオと一緒に学ぶ 機械学習の理論と数学、実装まで~",
+                "title_link": "https:\/\/www.amazon.co.jp\/gp\/aw\/d\/4839963525\/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8",
+                "text": "やさしく学ぶ 機械学習を理解するための数学のきほん ~アヤノ&amp;ミオと一緒に学ぶ 機械学習の理論と数学、実装まで~",
+                "fallback": "やさしく学ぶ 機械学習を理解するための数学のきほん ~アヤノ&amp;ミオと一緒に学ぶ 機械学習の理論と数学、実装まで~",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/5149k70AUiL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(45%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/gp\/aw\/d\/4839963525\/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 21837,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.co.jp\/gp\/aw\/d\/4839963525\/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8"
+            },
+            {
+                "title": "Python機械学習プログラミング 達人データサイエンティストによる理論と実践 (impress top gear)",
+                "title_link": "https:\/\/www.amazon.co.jp\/Python機械学習プログラミング-達人データサイエンティストによる理論と実践-impress-top-gear\/dp\/4844380605\/ref=sr_1_13?ie=UTF8&qid=1515555285&sr=8-13&keywords=Scikit+learn",
+                "text": "Python機械学習プログラミング 達人データサイエンティストによる理論と実践 (impress top gear)",
+                "fallback": "Python機械学習プログラミング 達人データサイエンティストによる理論と実践 (impress top gear)",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/514o4N8pD2L._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingTHREEANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(22%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/Python機械学習プログラミング-達人データサイエンティストによる理論と実践-impress-top-gear\/dp\/4844380605\/ref=sr_1_13?ie=UTF8&qid=1515555285&sr=8-13&keywords=Scikit+learn",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 24721,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 2,
+                "original_url": "https:\/\/www.amazon.co.jp\/Python機械学習プログラミング-達人データサイエンティストによる理論と実践-impress-top-gear\/dp\/4844380605\/ref=sr_1_13?ie=UTF8&amp;qid=1515555285&amp;sr=8-13&amp;keywords=Scikit+learn"
+            },
+            {
+                "title": "Pythonではじめる機械学習 ―scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎",
+                "title_link": "https:\/\/www.amazon.co.jp\/dp\/4873117984?_encoding=UTF8&isInIframe=0&n=465392&ref_=dp_proddesc_0&s=books&showDetailProductDesc=1#product-description_feature_div",
+                "text": "Pythonではじめる機械学習 ―scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎",
+                "fallback": "Pythonではじめる機械学習 ―scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/51GQH7tZNlL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(22%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/dp\/4873117984?_encoding=UTF8&isInIframe=0&n=465392&ref_=dp_proddesc_0&s=books&showDetailProductDesc=1#product-description_feature_div",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 18581,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 3,
+                "original_url": "https:\/\/www.amazon.co.jp\/dp\/4873117984?_encoding=UTF8&amp;isInIframe=0&amp;n=465392&amp;ref_=dp_proddesc_0&amp;s=books&amp;showDetailProductDesc=1#product-description_feature_div"
+            }
+        ]
+    }
+]

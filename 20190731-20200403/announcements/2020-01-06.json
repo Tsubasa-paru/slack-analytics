@@ -1,0 +1,210 @@
+[
+    {
+        "client_msg_id": "E679CBE3-7365-41D9-B344-10E17BBF5EB2",
+        "type": "message",
+        "text": "いち、金曜日の運動教室の場所を教えてください。当日は帯同できないですが。",
+        "user": "UHFLB6JPR",
+        "ts": "1578321340.003400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "88D12557-F089-4E65-9CD5-844A88143EB4",
+        "type": "message",
+        "text": "<@UHFLB6JPR>　調布ヶ丘地域センターです。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578354042.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b0qWR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　調布ヶ丘地域センターです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "001ec180-d365-498b-b73b-c06c2ff2d7c9",
+        "type": "message",
+        "text": "関係者の皆様\n \n以前お願いさせていただきましたが，\n授業のため体育館の演習室を以下の日程で使用させていただきます．\n \n1\/8, 15, 22, 29(予備日)の水曜日\n \n10:30-15:00頃で，AMかPMどちらか使用する予定です．\n体育館管理人室も部分的に使用させていただきます．\n \n以上，ご迷惑おかけいたしますが，よろしくお願いいたします．\n \n星野太佑\n Daisuke HOSHINO\n 共通教育部　健康スポーツ科学部会\n 基盤理工学専攻\n <mailto:dhoshino@uec.ac.jp|dhoshino@uec.ac.jp>\n <tel:0424435585|042-443-5585> (ex.5585)\n 東6-908",
+        "user": "UHFLB6JPR",
+        "ts": "1578364381.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3b+O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "関係者の皆様\n \n以前お願いさせていただきましたが，\n授業のため体育館の演習室を以下の日程で使用させていただきます．\n \n1\/8, 15, 22, 29(予備日)の水曜日\n \n10:30-15:00頃で，AMかPMどちらか使用する予定です．\n体育館管理人室も部分的に使用させていただきます．\n \n以上，ご迷惑おかけいたしますが，よろしくお願いいたします．\n \n星野太佑\n Daisuke HOSHINO\n 共通教育部　健康スポーツ科学部会\n 基盤理工学専攻\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:dhoshino@uec.ac.jp",
+                                "text": "dhoshino@uec.ac.jp"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:0424435585",
+                                "text": "042-443-5585"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (ex.5585)\n 東6-908"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcc4146f-3215-46b1-8807-2465ec304bce",
+        "type": "message",
+        "text": "先生はゼミにいらっしゃいますか？？学生部屋です",
+        "user": "UGQV9DXRC",
+        "ts": "1578369675.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C=83",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先生はゼミにいらっしゃいますか？？学生部屋です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "782df567-48c9-45f4-9f52-e8943e18430f",
+        "type": "message",
+        "text": "今いる人の卒論まとめを送付させていただきます\n<https:\/\/drive.google.com\/open?id=1R-RKk7cX2hs7VWGiUlLNdae4XdMBRjFr>",
+        "user": "UGQV9DXRC",
+        "ts": "1578370440.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FEP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今いる人の卒論まとめを送付させていただきます\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1R-RKk7cX2hs7VWGiUlLNdae4XdMBRjFr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

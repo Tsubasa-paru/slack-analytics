@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "0c18416a-3efe-432e-8528-8dc7d3b2b9ff",
+        "type": "message",
+        "text": "2019\/05\/16\n&gt;授業（1，2限）\n&gt;研究室のゴミ出し\n&gt;幸福度に関する研究会報告pdf（途中）\n明日やること\n&gt;ゼミ前に発表することをまとめる\n&gt;幸福度に関する研究会報告pdfの続き\n&gt;リチャードレイヤードのHappinessを読む",
+        "user": "UHEH8KZ7W",
+        "ts": "1557994061.003600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57ac2765-94e4-4476-811c-e61ad5ec2d7b",
+        "type": "message",
+        "text": "今日\n&gt;活動分類\n&gt;現状データセットの中身は生値、絶対値、水平方向の合成値とそれぞれにバターワースかけたもの\n&gt;回答のラベル付けをしているけどうまいコードが見つからず今日も夜になった:))))\n&gt;ラベル付けが終わったらRFかけて終わり",
+        "user": "UGQV9DXRC",
+        "ts": "1558008235.006300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "09c241bf-b36f-43a8-99e0-41e94e5bc73a",
+        "type": "message",
+        "text": "今日は\n&gt; 倫理審査申請書類の作成を進めました\n&gt; 使用する質問紙について作成を行いました\n&gt; 計画書と説明文はまだです\n&gt; 山崎先輩と伊藤先輩の机の中身を整理しました\n&gt; 私が所有していた403, 405の鍵を奉納しました．そして506の鍵を受け取りました",
+        "user": "UGQ2ENZD0",
+        "ts": "1558009094.008400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9aeb5c2-9782-4c9b-902a-a97a594a3d15",
+        "type": "message",
+        "text": "2019\/05\/16\n&gt;データの場所、概要を記したファイルを作成した。\n&gt;MATLABのフィルタリングの仕方がわかった。(修論に書いてある)\n&gt;授業\n明日\n&gt;自分のPCでまとめたフォルダを研究室のPCに移す",
+        "user": "UHC5VBV5E",
+        "ts": "1558013093.011000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

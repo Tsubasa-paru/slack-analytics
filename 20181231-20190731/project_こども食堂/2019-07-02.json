@@ -1,0 +1,153 @@
+[
+    {
+        "client_msg_id": "3E954CDF-7C5E-4526-AC41-F537A3C6B31C",
+        "type": "message",
+        "text": "月、火曜日は15:00まで\n水曜日はいつでもおkです\n木曜日は1、2限授業です\n金曜日はいつでもおkです\n",
+        "user": "UHEH8KZ7W",
+        "ts": "1562058735.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_ryokai",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "857EF376-6B59-44B3-914F-00A8AEFF8AE8",
+        "type": "message",
+        "text": "質問なのですが、佐藤研のオープンキャンパスは何時までやっていらっしゃるか、お聞きしてもよろしいでしょうか？",
+        "user": "UHEH8KZ7W",
+        "ts": "1562058799.003200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "11C6F8DC-6CC0-4A7A-93D5-EED0917B9BC0",
+        "type": "message",
+        "text": "何時までかはわからないな\nBBQは18時くらいじゃないかな",
+        "user": "UHFLB6JPR",
+        "ts": "1562079504.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_ryokai",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "竹中さんMTGは\n7\/8月の9時～になりました\n場所は図書館で借りる予定です",
+        "files": [
+            {
+                "id": "FKWUCH001",
+                "created": 1562114445,
+                "timestamp": 1562114431,
+                "name": "Fwd: 新規クラウドファンディングのご相談(電通大こども食堂)",
+                "title": "Fwd: 新規クラウドファンディングのご相談(電通大こども食堂)",
+                "mimetype": "text\/html",
+                "filetype": "email",
+                "pretty_type": "Email",
+                "user": "UGQV9DXRC",
+                "editable": true,
+                "size": 32960,
+                "mode": "email",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKWUCH001\/fwd_______________________________________________________________________________?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKWUCH001\/download\/fwd_______________________________________________________________________________?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FKWUCH001\/fwd_______________________________________________________________________________",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FKWUCH001-e98172730b",
+                "subject": "Fwd: 新規クラウドファンディングのご相談(電通大こども食堂)",
+                "to": [
+                    {
+                        "address": "kmt.sd.ma@gmail.com",
+                        "name": "鈴木美穂",
+                        "original": "鈴木美穂  <kmt.sd.ma@gmail.com>"
+                    }
+                ],
+                "from": [
+                    {
+                        "address": "mimiho.bell@gmail.com",
+                        "name": "鈴木美穂",
+                        "original": "鈴木美穂 <mimiho.bell@gmail.com>"
+                    }
+                ],
+                "cc": [],
+                "attachments": [],
+                "plain_text": "---------- Forwarded message ---------\r\nFrom: 竹中裕晃 <takenaka@skyscale.co.jp>\r\nDate: 2019年7月3日(水) 午前1:47\r\nSubject: Re: 新規クラウドファンディングのご相談(電通大こども食堂)\r\nTo: 鈴木美穂 <mimiho.bell@gmail.com>\r\n\r\n\r\n鈴木様\r\n\r\nいつも大変お世話になっております。\r\n竹中です。\r\n\r\nご連絡ありがとうございます。\r\n\r\nでは、8日月曜日の9:00～でお願いします！\r\n\r\n場所は大学にお伺いすると良いでしょうか？\r\n建物など教えて頂けると幸いです。\r\n\r\nよろしくお願いいたします。\r\n\r\n2019年7月2日(火) 15:36 鈴木美穂 <mimiho.bell@gmail.com>:\r\n>\r\n> 竹中様\r\n>\r\n> お世話になっております。\r\n> ご連絡いただきありがとうございます！\r\n> お返事が遅れてしまい申し訳ありません。\r\n>\r\n> 急なお話で恐縮なのですが、以下の日時でご検討頂けますと幸いです。\r\n>\r\n> 7\/8月 9:00〜10:30\r\n> 7\/9火 9:00〜10:30\r\n>\r\n> 他の日時も調整させていただきますのでご連絡下さい。\r\n> よろしくお願いいたします。\r\n>\r\n> 電気通信大学 鈴木美穂\r\n>\r\n>\r\n> 2019年6月28日(金) 22:48 竹中裕晃 <takenaka@skyscale.co.jp>:\r\n>>\r\n>> 鈴木様\r\n>>\r\n>> いつも大変お世話になっております。\r\n>> 竹中です。\r\n>>\r\n>> メールをいただいていたのに、お返事ができておらず、申し訳ございません！\r\n>>\r\n>> お打ち合わせの件、是非よろしくお願いいたします！\r\n>>\r\n>> もし、よろしければ、皆さまのご都合を教えてください。\r\n>> いくつか候補があると助かります。\r\n>>\r\n>> 何卒よろしくお願いいたします！\r\n>>\r\n>> 2019年6月26日(水) 16:52 鈴木美穂 <mimiho.bell@gmail.com>:\r\n>> >\r\n>> > 株式会社スカイスケール 竹中様\r\n>> > CC：電気通信大学こども食堂関係者\r\n>> >\r\n>> > お世話になっております。\r\n>> > 電気通信大学大河原研究室 修士２年の鈴木美穂と申します。\r\n>> >\r\n>> > 昨年は電通大こども食堂2018にご協力いただきありがとうございました。\r\n>> > クラウドファンディングによってこども食堂の支援の輪が広がっていくことを感じ、当日は沢山の子供たちと充実した時を過ごすことが出来ました。\r\n>> >\r\n>> > 開催後には多くの嬉しいお声を頂き、今年もこども食堂を開催したいと考えております。\r\n>> > そこで、再度竹中様にご協力いただければと思いご連絡させていただきました。\r\n>> > もしお時間よろしければぜひ新しいプロジェクトチームとミーティングを開かせていただきたいのですが、ご都合いかがでしょうか？\r\n>> >\r\n>> > お忙しい所大変恐縮ですが、ご検討いただけますと幸いです。\r\n>> > よろしくお願いいたします。\r\n>> >\r\n>> > 電気通信大学大河原研究室 修士2年\r\n>> > 鈴木美穂\r\n>> > 電話：090-7281-6191\r\n>> > メール：mimiho.bell@gmail.com\r\n>>\r\n>>\r\n>>\r\n>> --\r\n>> ーーーーーーーーーーーーーーーーーーーーーーーーー\r\n>> 株式会社スカイスケール\r\n>> 竹中裕晃\r\n>> 050-3636-6236\r\n>> takenaka@skyscale.co.jp\r\n>> www.skyscale.co.jp\r\n>>\r\n>> エリアオーナー\r\n>> FAAVO東京調布・府中\r\n>> https:\/\/faavo.jp\/tokyochofufuchu\r\n>> クラウドファンディング プロジェクト募集中です！\r\n>>\r\n>> FacebookID\r\n>> http:\/\/www.facebook.com\/takenaka.hiroaki.0\r\n>> ーーーーーーーーーーーーーーーーーーーーーーーーー\r\n>\r\n> --\r\n>\r\n> 電気通信大学大河原研究室 修士1年\r\n> 鈴木美穂\r\n> 電話：090-7281-6191\r\n> メール：mimiho.bell@gmail.com\r\n\r\n\r\n\r\n-- \r\nーーーーーーーーーーーーーーーーーーーーーーーーー\r\n株式会社スカイスケール\r\n竹中裕晃\r\n050-3636-6236\r\ntakenaka@skyscale.co.jp\r\nwww.skyscale.co.jp\r\n\r\nエリアオーナー\r\nFAAVO東京調布・府中\r\nhttps:\/\/faavo.jp\/tokyochofufuchu\r\nクラウドファンディング プロジェクト募集中です！\r\n\r\nFacebookID\r\nhttp:\/\/www.facebook.com\/takenaka.hiroaki.0\r\nーーーーーーーーーーーーーーーーーーーーーーーーー",
+                "preview": "<div><\/div><br><div><div>---------- Forwarded message ---------<br>From: &#31481;&#20013;&#35029;&#26179; <span>&lt;<a href=\"mailto:takenaka@skyscale.co.jp\">takenaka@skyscale.co.jp<\/a>&gt;<\/span><br>Date: 2019&#24180;7&#26376;3&#26085;(&#27700;) &#21320;&#21069;1:47<br>Subject: Re: &#26032;&#35215;&#12463;&#12521;&#12454;&#12489;&#12501;&#12449;&#12531;&#12487;&#12451;&#12531;&#12464;&#12398;&#12372;&#30456;&#35527;(&#38651;&#36890;&#22823;&#12371;&#12393;&#12418;&#39135;&#22530;)<br>To: &#37428;&#26408;&#32654;&#31298; &lt;<a href=\"mailto:mimiho.bell@gmail.com\">mimiho.bell@gmail.com<\/a>&gt;<br><\/div><br><br>&#37428;&#26408;&#27096;<br><br>  &#12356;&#12388;&#12418;&#22823;&#22793;&#12362;&#19990;&#35441;&#12395;&#12394;&#12387;&#12390;&#12362;&#12426;&#12414;&#12377;&#12290;<br>  &#31481;&#20013;&#12391;&#12377;&#12290;<br><br>  &#12372;&#36899;&#32097;&#12354;&#12426;&#12364;&#12392;&#12358;&#12372;&#12374;&#12356;&#12414;&#12377;&#12290;<br><br>  &#12391;&#12399;&#12289;8&#26085;&#26376;&#26332;&#26085;&#12398;9:00&#65374;&#12391;&#12362;&#39000;&#12356;&#12375;&#12414;&#12377;&#65281;<br><br>  &#22580;&#25152;&#12399;&#22823;&#23398;&#12395;&#12362;&#20282;&#12356;&#12377;&amp;<\/div>",
+                "preview_plain_text": "---------- Forwarded message ---------\r\nFrom: 竹中裕晃 <takenaka@skyscale.co.jp>\r\nDate: 2019年7月3日(水) 午前1:47\r\nSubject: Re: 新規クラウドファンディングのご相談(電通大こども食堂)\r\nTo: 鈴木美穂 <mimiho.bell@gmail.com>\r\n\r\n\r\n鈴木様\r\n\r\nいつも大変お世話になっております。\r\n竹中です。\r\n\r\nご連絡ありがとうございます。\r\n\r\nでは、8日月曜日の9:00～でお願いします！\r\n\r\n場所は大学にお伺いすると良いでしょうか？\r\n建物など教えて頂けると幸いです。\r\n\r\nよろしくお願いいたします。\r\n\r\n2019年7月2日(火) 15:36 鈴木美穂 <mimiho.bell@gmail.com>:\r\n>\r\n> 竹中様\r\n>\r\n> お世話になっております。\r\n> ご連絡いただきありがとうございます！\r\n> お返事が遅れてしまい申し訳ありません。\r\n>\r\n> 急なお話で恐縮なのですが、以下の日時でご検討頂けますと幸いです。\r\n>\r\n> 7\/8月 9:00",
+                "headers": {
+                    "date": "Wed, 3 Jul 2019 09:40:31 +0900"
+                },
+                "has_more": true,
+                "sent_to_self": false,
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1562114561.000100",
+        "reactions": [
+            {
+                "name": "custom_ryokai",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

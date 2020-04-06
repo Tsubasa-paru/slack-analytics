@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n村岡先生にご指摘いただいたところを修正しました。\nこちらの最終確認をお願いいたします。\n\n最終版が出来次第、各先生方にスライドの確認依頼と合わせて、大会が中止になったことと、大会webに発表資料を公開することを連絡します。",
+        "files": [
+            {
+                "id": "FUALN1M4J",
+                "created": 1582985625,
+                "timestamp": 1582985625,
+                "name": "健康支援学会2020_根本.pdf",
+                "title": "健康支援学会2020_根本.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 3967638,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUALN1M4J\/__________________2020_______.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUALN1M4J\/download\/__________________2020_______.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUALN1M4J-b12bee4491\/__________________2020________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FUALN1M4J\/__________________2020_______.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FUALN1M4J-5ce2bd470a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XdkB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n村岡先生にご指摘いただいたところを修正しました。\nこちらの最終確認をお願いいたします。\n\n最終版が出来次第、各先生方にスライドの確認依頼と合わせて、大会が中止になったことと、大会webに発表資料を公開することを連絡します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1582985628.000200",
+        "client_msg_id": "fb2d960b-992c-42b3-a555-054a4ae30325"
+    }
+]

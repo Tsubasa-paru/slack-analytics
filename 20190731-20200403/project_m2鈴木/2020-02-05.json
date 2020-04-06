@@ -1,0 +1,93 @@
+[
+    {
+        "type": "message",
+        "text": "スライド訂正版\nスクリプトなしだとどうしても超過してしまうので、課題をまとめに入れ、結果のスライドを一枚削った\n<https:\/\/drive.google.com\/open?id=1a_AIJ_Y0Gb1U3l_kAsv5ROYVkaw7N7Xc>",
+        "files": [
+            {
+                "id": "FTMN5BPQF",
+                "created": 1580911132,
+                "timestamp": 1580911132,
+                "name": "修論発表会_鈴木提出.pdf",
+                "title": "修論発表会_鈴木提出.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 859569,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1a_AIJ_Y0Gb1U3l_kAsv5ROYVkaw7N7Xc",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FTMN5BPQF\/____________________________.pdf",
+                "is_starred": false,
+                "external_id": "1a_AIJ_Y0Gb1U3l_kAsv5ROYVkaw7N7Xc",
+                "external_url": "https:\/\/drive.google.com\/open?id=1a_AIJ_Y0Gb1U3l_kAsv5ROYVkaw7N7Xc",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y8\/DS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スライド訂正版\nスクリプトなしだとどうしても超過してしまうので、課題をまとめに入れ、結果のスライドを一枚削った\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1a_AIJ_Y0Gb1U3l_kAsv5ROYVkaw7N7Xc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FTMN5BPQF"
+        ],
+        "ts": "1580911130.000700",
+        "client_msg_id": "5384273c-5adf-4951-9b1d-191586d5a5b0"
+    },
+    {
+        "client_msg_id": "A70F96E5-0EB4-4740-A1C7-9B936F6AD0DA",
+        "type": "message",
+        "text": "細かいけど、合意→同意",
+        "user": "UHFLB6JPR",
+        "ts": "1580944815.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

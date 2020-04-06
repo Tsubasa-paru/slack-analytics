@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "e8a425a6-4e8a-44ac-92fc-2758616df9e4",
+        "type": "message",
+        "text": "pythonで活動分類できるようになった:raised_hands:\n&gt;活動を14種類に分けるとf値0.16\n&gt;4種類(仰臥位,座位,立位,歩行)に分けるとf値0.74\n&gt;トレーニング2人,テスト1人\n&gt;データセットの中身は同じまま\n&gt;(生値、絶対値、水平方向の合成値とそれぞれにバターワースかけたもの)(他のはやり方がわからないので一旦結果を出すことにしたorz)\n今後の課題\n&gt;・人を増やす\n&gt;・データセットの中身を増やす(平均値，パワースペクトル密度)",
+        "user": "UGQV9DXRC",
+        "ts": "1558259349.005600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1558259468.000000"
+        }
+    }
+]

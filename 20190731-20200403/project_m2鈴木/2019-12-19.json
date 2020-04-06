@@ -1,0 +1,366 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "先行研究の追加について\n検索word\n((classification OR classifications) and (accelerometer OR accelerometry)) and (activity OR activities)\n\n&gt; 2008\/4\/1~2018\/3\/31：533件\n&gt; 2018\/4\/1~2019\/12\/20：122件",
+        "user": "UGQV9DXRC",
+        "ts": "1576820677.000300",
+        "thread_ts": "1576563619.001900",
+        "root": {
+            "type": "message",
+            "text": "修論リンクと進捗メモ\n<https:\/\/drive.google.com\/open?id=1ttj0nGKq8GCDAad6-ebSThVVxXrLWG4W>\n\n目次\n第1章　序論\n1.1　背景\n1.2　先行研究\n1.2.2　3軸加速度計と決定木を用いた生活活動分類\n1.2.3　3軸加速度計とランダムフォレストを用いた生活活動分類\n1.2.4　まとめ\n1.3　目的",
+            "files": [
+                {
+                    "id": "FRU8WE72B",
+                    "created": 1576563622,
+                    "timestamp": 1576563622,
+                    "name": "修論_鈴木1217.docx",
+                    "title": "修論_鈴木.docx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word Document",
+                    "user": "UGQV9DXRC",
+                    "editable": false,
+                    "size": 16073,
+                    "mode": "external",
+                    "is_external": true,
+                    "external_type": "gdrive",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/drive.google.com\/open?id=1ttj0nGKq8GCDAad6-ebSThVVxXrLWG4W",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_360_w": 255,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_480_w": 339,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_720_w": 509,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1131,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_960_w": 679,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_1024.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_1024_w": 724,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 1,
+                    "original_w": 1024,
+                    "original_h": 1448,
+                    "thumb_tiny": "AwAwACHSJA6mlBB6dqbJ0FM3Ed6TaQEtFQ7z\/ep8ZznnNCkmA+iiimA2TpTO3QU+TpTPwoAPwpyd6bn2\/Snp3oAdRRRQAyTOBjFR\/P6ipiMijaPSgCLB9R+VPjBGcnP4U7aPSlAA6UAFFFFAH\/\/Z",
+                    "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FRU8WE72B\/_____________1217.docx",
+                    "is_starred": false,
+                    "external_id": "1ttj0nGKq8GCDAad6-ebSThVVxXrLWG4W",
+                    "external_url": "https:\/\/drive.google.com\/open?id=1ttj0nGKq8GCDAad6-ebSThVVxXrLWG4W",
+                    "has_rich_preview": true
+                }
+            ],
+            "upload": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gKL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "修論リンクと進捗メモ\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/drive.google.com\/open?id=1ttj0nGKq8GCDAad6-ebSThVVxXrLWG4W"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n目次\n第1章　序論\n1.1　背景\n1.2　先行研究\n1.2.2　3軸加速度計と決定木を用いた生活活動分類\n1.2.3　3軸加速度計とランダムフォレストを用いた生活活動分類\n1.2.4　まとめ\n1.3　目的"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "user": "UGQV9DXRC",
+            "display_as_bot": false,
+            "x_files": [
+                "FRU8WE72B"
+            ],
+            "ts": "1576563619.001900",
+            "edited": {
+                "user": "UGQV9DXRC",
+                "ts": "1576647021.000000"
+            },
+            "client_msg_id": "f436e776-7c30-4cc6-98b9-326215fd0e3b",
+            "thread_ts": "1576563619.001900",
+            "reply_count": 7,
+            "reply_users_count": 1,
+            "latest_reply": "1578208956.000400",
+            "reply_users": [
+                "UGQV9DXRC"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x6U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先行研究の追加について\n検索word\n((classification OR classifications) and (accelerometer OR accelerometry)) and (activity OR activities)\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2008\/4\/1~2018\/3\/31：533件\n2018\/4\/1~2019\/12\/20：122件"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "352ee031-96fb-4c27-a981-f63e39369c41"
+    },
+    {
+        "client_msg_id": "f19be382-a8f6-4f08-86b6-619f4426b9bc",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n100本くらい増えてます～\n一応ざっと目を通してみます",
+        "user": "UGQV9DXRC",
+        "ts": "1576820836.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=yQPO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n100本くらい増えてます～\n一応ざっと目を通してみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C872EEAD-28A5-40AB-A251-A773070A84DE",
+        "type": "message",
+        "text": "ピックアップ必要なのは3本くらいだと思います",
+        "user": "UHFLB6JPR",
+        "ts": "1576820900.002300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "追加の可能性あり\n<https:\/\/www.evernote.com\/shard\/s223\/sh\/bf85ea91-1425-4777-9124-667f6eb1534a\/a670974d2cca7ead63894a257d936c3a>",
+        "user": "UGQV9DXRC",
+        "ts": "1576828011.002700",
+        "thread_ts": "1576563619.001900",
+        "root": {
+            "type": "message",
+            "text": "修論リンクと進捗メモ\n<https:\/\/drive.google.com\/open?id=1ttj0nGKq8GCDAad6-ebSThVVxXrLWG4W>\n\n目次\n第1章　序論\n1.1　背景\n1.2　先行研究\n1.2.2　3軸加速度計と決定木を用いた生活活動分類\n1.2.3　3軸加速度計とランダムフォレストを用いた生活活動分類\n1.2.4　まとめ\n1.3　目的",
+            "files": [
+                {
+                    "id": "FRU8WE72B",
+                    "created": 1576563622,
+                    "timestamp": 1576563622,
+                    "name": "修論_鈴木1217.docx",
+                    "title": "修論_鈴木.docx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word Document",
+                    "user": "UGQV9DXRC",
+                    "editable": false,
+                    "size": 16073,
+                    "mode": "external",
+                    "is_external": true,
+                    "external_type": "gdrive",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/drive.google.com\/open?id=1ttj0nGKq8GCDAad6-ebSThVVxXrLWG4W",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_360_w": 255,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_480_w": 339,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_720_w": 509,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1131,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_960_w": 679,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_1024.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_1024_w": 724,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 1,
+                    "original_w": 1024,
+                    "original_h": 1448,
+                    "thumb_tiny": "AwAwACHSJA6mlBB6dqbJ0FM3Ed6TaQEtFQ7z\/ep8ZznnNCkmA+iiimA2TpTO3QU+TpTPwoAPwpyd6bn2\/Snp3oAdRRRQAyTOBjFR\/P6ipiMijaPSgCLB9R+VPjBGcnP4U7aPSlAA6UAFFFFAH\/\/Z",
+                    "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FRU8WE72B\/_____________1217.docx",
+                    "is_starred": false,
+                    "external_id": "1ttj0nGKq8GCDAad6-ebSThVVxXrLWG4W",
+                    "external_url": "https:\/\/drive.google.com\/open?id=1ttj0nGKq8GCDAad6-ebSThVVxXrLWG4W",
+                    "has_rich_preview": true
+                }
+            ],
+            "upload": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gKL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "修論リンクと進捗メモ\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/drive.google.com\/open?id=1ttj0nGKq8GCDAad6-ebSThVVxXrLWG4W"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n目次\n第1章　序論\n1.1　背景\n1.2　先行研究\n1.2.2　3軸加速度計と決定木を用いた生活活動分類\n1.2.3　3軸加速度計とランダムフォレストを用いた生活活動分類\n1.2.4　まとめ\n1.3　目的"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "user": "UGQV9DXRC",
+            "display_as_bot": false,
+            "x_files": [
+                "FRU8WE72B"
+            ],
+            "ts": "1576563619.001900",
+            "edited": {
+                "user": "UGQV9DXRC",
+                "ts": "1576647021.000000"
+            },
+            "client_msg_id": "f436e776-7c30-4cc6-98b9-326215fd0e3b",
+            "thread_ts": "1576563619.001900",
+            "reply_count": 7,
+            "reply_users_count": 1,
+            "latest_reply": "1578208956.000400",
+            "reply_users": [
+                "UGQV9DXRC"
+            ],
+            "subscribed": false
+        },
+        "attachments": [
+            {
+                "service_name": "Evernote",
+                "title": "追加の論文検索",
+                "title_link": "https:\/\/www.evernote.com\/shard\/s223\/sh\/bf85ea91-1425-4777-9124-667f6eb1534a\/a670974d2cca7ead63894a257d936c3a",
+                "text": "採択の可能性あり 高齢者 optimal wear-siteの検出 <https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/31726952> 高齢者分類 <https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/29994291> A Cascade Ensemble Learning Model for Human Activity Recognition with ...",
+                "fallback": "Evernote: 追加の論文検索",
+                "thumb_url": "https:\/\/cdn1.evernote.com\/evernote.com\/img\/social-meta\/shared-note-thumbnail.png",
+                "from_url": "https:\/\/www.evernote.com\/shard\/s223\/sh\/bf85ea91-1425-4777-9124-667f6eb1534a\/a670974d2cca7ead63894a257d936c3a",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/dashboard.svc.www.evernote.com\/app\/nv\/icons-1ec2b385e995168bc5bb4934b116d4a6\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.evernote.com\/shard\/s223\/sh\/bf85ea91-1425-4777-9124-667f6eb1534a\/a670974d2cca7ead63894a257d936c3a"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CRn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "追加の可能性あり\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.evernote.com\/shard\/s223\/sh\/bf85ea91-1425-4777-9124-667f6eb1534a\/a670974d2cca7ead63894a257d936c3a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4c7be27e-69f5-47ed-9663-1f38c92d593a"
+    }
+]

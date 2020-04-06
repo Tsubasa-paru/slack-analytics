@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "d2b656f8-160c-494c-ab4f-caf9137f2911",
+        "type": "message",
+        "text": "結果のsdについてですが、この結果はすべて機械学習の分類精度を示したf値なのですが、f値には標準偏差は必要なのでしょうか？\n平均に関しては、その1-10のf値の平均なので一応標準偏差をつけたという形です",
+        "user": "UGQV9DXRC",
+        "ts": "1566976198.005700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6827a5b9-522c-49dd-987a-5329b80a8c46",
+        "type": "message",
+        "text": "なるほど、SDは入れないです。\nただし、被験者番号1～１０というラベリングが良くないかな\n表2のタイトルは分類精度の方がいいのと（タイトル内に（％）があった方がいいです",
+        "user": "UHFLB6JPR",
+        "ts": "1566976507.007900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7dba54df-861c-4d5f-bb99-498e507d48cc",
+        "type": "message",
+        "text": "タイトルの変更について承知しました\n被験者番号についても高橋さんの卒論に沿ったのですが、試行回数のような意味を持つのでそうゆう言葉に変えたいなと思っています。検討します",
+        "user": "UGQV9DXRC",
+        "ts": "1566976783.010100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "10736cbb-b40a-4a8a-b04c-425f0052a866",
+        "type": "message",
+        "text": "*8\/28の進捗*\n・5種類に種目を振り分けなおした\n↠ランダムフォレストかける段階でエラーが出てる、nanが含まれてるらしい\n\n*明日*\n・エラーの対応(結果一覧_5)\n　どこがnanなのか？\n・ポスター修正\n　表2のタイトルを分類精度(%)に\n　\n*検討*\n・ポスター修正\n　種目別精度の出し方\n　表2の被験者番号以外の名前の付け方",
+        "user": "UGQV9DXRC",
+        "ts": "1566982268.013800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

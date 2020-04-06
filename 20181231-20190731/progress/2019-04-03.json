@@ -1,0 +1,214 @@
+[
+    {
+        "client_msg_id": "A75C0A7D-41F2-412A-B5C0-B246FDA59E52",
+        "type": "message",
+        "text": "2019\/04\/03\n・大河原先生と研究テーマについて話し合い\n・先行研究、論文漁り\n・TOEIC LISTENINGの模擬テスト",
+        "user": "UHEH8KZ7W",
+        "ts": "1554279639.003500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UGQV9DXRC",
+                    "UGPH97FDW"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4dfe5ddb-c9ca-4d5a-87c5-f79271df9f28",
+        "type": "message",
+        "text": "今日は\n&gt; Pythonの勉強をしました\n&gt; 差し替え用のSSDを見繕いました\n&gt;&gt; 500GB\n&gt;&gt; <https:\/\/www.biccamera.com\/bc\/item\/4382220\/>\n&gt;&gt; 2.5インチなので，3.5インチベイ用のマウンタが別途購入が必要になるかもしれません(普通は2.5インチのものに付属しますが)\n&gt; 403のお掃除を進めました\n&gt; なくなっていた大河原研究室(2)のACアダプタを発見しました！",
+        "user": "UGQ2ENZD0",
+        "ts": "1554279953.005600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ビックカメラ.com",
+                "title": "ビックカメラ.com - MZ-76E500B\/IT 内蔵SSD 860 EVO [2.5インチ \/500GB]",
+                "title_link": "https:\/\/www.biccamera.com\/bc\/item\/4382220\/",
+                "text": "〔個人向けSSD：860 EVO〕最新のV-NANDとアルゴリズムベースの堅牢なコントローラを搭載 信頼のSSD。",
+                "fallback": "ビックカメラ.com: ビックカメラ.com - MZ-76E500B\/IT 内蔵SSD 860 EVO [2.5インチ \/500GB]",
+                "thumb_url": "https:\/\/image.biccamera.com\/img\/00000004382220_A01.jpg?sr.dw=320&sr.dh=320&sr.jqh=60&sr.mat=1",
+                "from_url": "https:\/\/www.biccamera.com\/bc\/item\/4382220\/",
+                "thumb_width": 320,
+                "thumb_height": 320,
+                "service_icon": "https:\/\/www.biccamera.com\/bc\/resources4\/common\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.biccamera.com\/bc\/item\/4382220\/"
+            }
+        ],
+        "thread_ts": "1554279953.005600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1554286680.008400",
+        "reply_users": [
+            "UHFLB6JPR",
+            "UGQ2ENZD0"
+        ],
+        "replies": [
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1554286505.008200"
+            },
+            {
+                "user": "UGQ2ENZD0",
+                "ts": "1554286680.008400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "custom_ryokai",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQV9DXRC",
+                    "UGPH97FDW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5315e47-97c0-4111-ae81-e2e32b777d87",
+        "type": "message",
+        "text": "今日は\n&gt;pythonの勉強をしました\n&gt;エンドノート周りの整備をしました\n明日は甥と京王れーるランドに行くのでおりません:train: :heart_eyes:",
+        "user": "UGQV9DXRC",
+        "ts": "1554282472.007200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UHEH8KZ7W",
+                    "UGPH97FDW"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ABC59143-113A-4E9B-ACD8-D7034ACEA792",
+        "type": "message",
+        "text": "これって、なんで必要なんだっけ？",
+        "user": "UHFLB6JPR",
+        "ts": "1554286505.008200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554279953.005600",
+        "parent_user_id": "UGQ2ENZD0"
+    },
+    {
+        "client_msg_id": "43fcbcd9-14a7-4114-a07d-29918de4fb32",
+        "type": "message",
+        "text": "永井さんの使ってたPCは初期化済なので、SSD換装して使いやすくするためです。RAM8GBかつi7-4790kですがHDDブートのため動作がモッサリしているので、換装した方が良いと考えています。",
+        "user": "UGQ2ENZD0",
+        "ts": "1554286680.008400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1554286717.000000"
+        },
+        "thread_ts": "1554279953.005600",
+        "parent_user_id": "UGQ2ENZD0"
+    },
+    {
+        "client_msg_id": "834d9876-4dee-4893-864a-8a4bbd0697f0",
+        "type": "message",
+        "text": "今日は\n&gt;深層学習に関する本を読み理解を深めました。\n&gt;Googleが出しているtensorflowでニューラルネットワークを進めている(不動産価格の予測)。エラーが出て詰まっているところ。\n&gt;　前回のアヤメのはnumpyでの実装だった。結局知識が不足しているので探して目の前に出てきたものに飛びついている現状。\n\n明日は\n&gt;不動産予測モデルのつづき",
+        "user": "UGPH97FDW",
+        "ts": "1554288260.013800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGPH97FDW",
+            "ts": "1554288310.000000"
+        }
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "type": "message",
+        "text": "抄録\n<https:\/\/drive.google.com\/file\/d\/1eop09pyYeyrtNb1ubUmIFs0zi3UnK1fS\/view?usp=sharing>",
+        "files": [
+            {
+                "id": "FTF1CHLAD",
+                "created": 1581162537,
+                "timestamp": 1581162537,
+                "name": "卒研抄録_根本.docx",
+                "title": "卒研抄録_根本.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 408842,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1eop09pyYeyrtNb1ubUmIFs0zi3UnK1fS",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FTF1CHLAD\/___________________.docx",
+                "is_starred": false,
+                "external_id": "1eop09pyYeyrtNb1ubUmIFs0zi3UnK1fS",
+                "external_url": "https:\/\/drive.google.com\/open?id=1eop09pyYeyrtNb1ubUmIFs0zi3UnK1fS",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vyd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "抄録\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1eop09pyYeyrtNb1ubUmIFs0zi3UnK1fS\/view?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "x_files": [
+            "FTF1CHLAD"
+        ],
+        "ts": "1581162535.000300",
+        "edited": {
+            "user": "UHC5VBV5E",
+            "ts": "1581162632.000000"
+        },
+        "client_msg_id": "305baa94-655d-4d3e-80ae-f9ede3c5e8f0"
+    }
+]

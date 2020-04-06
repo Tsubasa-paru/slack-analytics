@@ -1,0 +1,159 @@
+[
+    {
+        "client_msg_id": "915f2a61-d36a-43f0-8f69-5d0df5a64307",
+        "type": "message",
+        "text": "<https:\/\/teratail.com\/questions\/220712>",
+        "user": "UGQV9DXRC",
+        "ts": "1575278155.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "teratail[テラテイル]",
+                "title": "python DataFrame中の指定した行で平均をとる繰り返し処理を行いたい｜teratail",
+                "title_link": "https:\/\/teratail.com\/questions\/220712",
+                "text": "以下のようなDataFrameに対し、z列にy列の3値ずつの平均値を順番に代入する繰り返し処理を書きたいのですが、for文の書き方がわからず困っています。ご指導いただけますと幸いです。 現在得られるDataframe xyz10.10.12-0.10.130.20.24-0.20.250.40.",
+                "fallback": "teratail[テラテイル]: python DataFrame中の指定した行で平均をとる繰り返し処理を行いたい｜teratail",
+                "thumb_url": "https:\/\/teratail.com\/img\/imgFacebookShare.png",
+                "from_url": "https:\/\/teratail.com\/questions\/220712",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/teratail.com\/img\/ios\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/teratail.com\/questions\/220712"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0iWF=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/teratail.com\/questions\/220712"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9660746-cf58-4832-963b-693e95f9d131",
+        "type": "message",
+        "text": "<http:\/\/www.kisse-logs.com\/2017\/04\/08\/python-dataframe\/>",
+        "user": "UGQV9DXRC",
+        "ts": "1575279729.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "kisse-logs!",
+                "title": "Python pandas DataFrameに1行ずつSeriesを追加する。",
+                "title_link": "http:\/\/www.kisse-logs.com\/2017\/04\/08\/python-dataframe\/",
+                "text": "こんにちは、kisseです。 Pythonのpandasでめっちゃハマった箇所があったので、記事にします。 ベ…",
+                "fallback": "kisse-logs!: Python pandas DataFrameに1行ずつSeriesを追加する。",
+                "image_url": "http:\/\/www.kisse-logs.com\/wp-content\/uploads\/2017\/04\/snake-145409_640.png",
+                "image_width": 500,
+                "image_height": 250,
+                "ts": 1491628422,
+                "from_url": "http:\/\/www.kisse-logs.com\/2017\/04\/08\/python-dataframe\/",
+                "image_bytes": 50593,
+                "service_icon": "http:\/\/www.kisse-logs.com\/wp-content\/uploads\/2017\/05\/xcropped-518721ee92f7965b27ef29c2f9b43ddd-300x300.png.pagespeed.ic.UDYdog50R0.png",
+                "id": 1,
+                "original_url": "http:\/\/www.kisse-logs.com\/2017\/04\/08\/python-dataframe\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wa8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.kisse-logs.com\/2017\/04\/08\/python-dataframe\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0125cfc2-28a2-430d-921d-bc3a629bc2dc",
+        "type": "message",
+        "text": "sumの値をpd.Series型?にして 元のデータフレームdsにds.append( )で問題解決した",
+        "user": "UHC5VBV5E",
+        "ts": "1575286004.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n4K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sumの値をpd.Series型?にして 元のデータフレームdsにds.append( )で問題解決した"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

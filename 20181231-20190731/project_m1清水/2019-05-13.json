@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "c628cee5-6ed2-44a2-a7a2-45047a2497fa",
+        "type": "message",
+        "text": "506の準備と明日締切の課題のため、倫理審査申請書類の作業がほとんど進んでいないです。明日は午前中に作業をして学生ゼミの前に一度書類をアップロードし、その後修正を加えます",
+        "user": "UGQ2ENZD0",
+        "ts": "1557754338.003600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "現段階での倫理審査申請書をアップロードいたします",
+        "files": [
+            {
+                "id": "FJNHST532",
+                "created": 1557805385,
+                "timestamp": 1557805385,
+                "name": "清水_倫理申請書.doc",
+                "title": "清水_倫理申請書.doc",
+                "mimetype": "application\/msword",
+                "filetype": "doc",
+                "pretty_type": "Word Document",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 72192,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJNHST532\/______________________.doc?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJNHST532\/download\/______________________.doc?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJNHST532-8a039eeeae\/_______________________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJNHST532-8a039eeeae\/_______________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FJNHST532\/______________________.doc",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJNHST532-c16da11f4f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1557805386.000100",
+        "client_msg_id": "b4e5553a-4b67-43a7-8157-5528b946395d"
+    }
+]

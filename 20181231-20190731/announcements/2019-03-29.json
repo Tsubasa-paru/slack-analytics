@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "e9fc3d7c-abd0-47c9-add3-5f6a5bb2eff0",
+        "type": "message",
+        "text": "<!channel> 金曜日の13:00～ は基本的にゼミがあるので参加してください(長期休暇を除く)",
+        "user": "UGQ2ENZD0",
+        "ts": "1553843268.005700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b9d28190-d588-45ab-940b-cd76b2b8b172",
+        "type": "message",
+        "text": "新B4生に鍵を渡しました．\n```\n都竹  403  カードキー : N3882-E10274\n福田  403  カードキー : N3882-E10277\n根本  403  カードキー : N3882-E10149\n```\n部屋割りが決まったタイミングで返却&amp;再配布があると思うので，部屋については暫定です．\n<@UHFLC6N4X> 野澤くんはM生が居るときに，早めに取りに来てください．",
+        "user": "UGQ2ENZD0",
+        "ts": "1553846078.009800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1553846078.009800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1554452779.006900",
+        "reply_users": [
+            "UHFLB6JPR",
+            "UHFLC6N4X"
+        ],
+        "replies": [
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1553846356.011600"
+            },
+            {
+                "user": "UHFLC6N4X",
+                "ts": "1554452779.006900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "ドライブに鍵関係の保有者リストファイルがあるはずだから、アップデートして",
+        "user": "UHFLB6JPR",
+        "ts": "1553846356.011600",
+        "thread_ts": "1553846078.009800",
+        "root": {
+            "client_msg_id": "b9d28190-d588-45ab-940b-cd76b2b8b172",
+            "type": "message",
+            "text": "新B4生に鍵を渡しました．\n```\n都竹  403  カードキー : N3882-E10274\n福田  403  カードキー : N3882-E10277\n根本  403  カードキー : N3882-E10149\n```\n部屋割りが決まったタイミングで返却&amp;再配布があると思うので，部屋については暫定です．\n<@UHFLC6N4X> 野澤くんはM生が居るときに，早めに取りに来てください．",
+            "user": "UGQ2ENZD0",
+            "ts": "1553846078.009800",
+            "team": "TGNPXK07J",
+            "thread_ts": "1553846078.009800",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1554452779.006900",
+            "reply_users": [
+                "UHFLB6JPR",
+                "UHFLC6N4X"
+            ],
+            "subscribed": false
+        },
+        "client_msg_id": "B05229E5-C17E-45ED-B346-89477C0533EB",
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

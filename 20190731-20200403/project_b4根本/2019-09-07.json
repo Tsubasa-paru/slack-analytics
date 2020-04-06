@@ -1,0 +1,49 @@
+[
+    {
+        "type": "message",
+        "text": "入門！機械学習とは？ディープラーニングとの違いも解説 | ハシカケ-実現したいことから学べるプログラミングサイト\n<https:\/\/hashikake.com\/machine_learning>",
+        "user": "UGQV9DXRC",
+        "ts": "1567856846.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ハシカケ-実現したいことから学べるプログラミングサイト",
+                "title": "入門！機械学習とは？ディープラーニングとの違いも解説",
+                "title_link": "https:\/\/hashikake.com\/machine_learning",
+                "text": "「機械学習」（Machine learning）とは何でしょうか？ざっくり言うと、「コンピューターを使って、人間の脳のような学習能力を再現しよう」という技術です。機械学習では、コンピューターにあらかじめまとまった数のデータを与えることによっ",
+                "fallback": "ハシカケ-実現したいことから学べるプログラミングサイト: 入門！機械学習とは？ディープラーニングとの違いも解説",
+                "image_url": "https:\/\/hashikake.com\/wp-content\/uploads\/2019\/08\/shutterstock_1059770543_white.jpg",
+                "ts": 1566714942,
+                "from_url": "https:\/\/hashikake.com\/machine_learning",
+                "image_width": 456,
+                "image_height": 250,
+                "image_bytes": 110872,
+                "service_icon": "https:\/\/hashikake.com\/wp-content\/uploads\/2019\/06\/cropped-hashikakepro-1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/hashikake.com\/machine_learning"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

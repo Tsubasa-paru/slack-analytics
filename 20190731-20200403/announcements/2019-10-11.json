@@ -1,0 +1,115 @@
+[
+    {
+        "client_msg_id": "5D6A5580-8482-48FA-BBE2-88849E6E0AAC",
+        "type": "message",
+        "text": "硬くて開かなくなったコックは見事に開いたのだ！",
+        "user": "UHFLB6JPR",
+        "ts": "1570791704.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FPA3NFXPX",
+                "created": 1570791718,
+                "timestamp": 1570791718,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 773419,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPA3NFXPX\/ios__________.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPA3NFXPX\/download\/ios__________.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPA3NFXPX-ec1014bb01\/ios___________64.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPA3NFXPX-ec1014bb01\/ios___________80.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPA3NFXPX-ec1014bb01\/ios___________360.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPA3NFXPX-ec1014bb01\/ios___________480.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPA3NFXPX-ec1014bb01\/ios___________160.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPA3NFXPX-ec1014bb01\/ios___________720.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPA3NFXPX-ec1014bb01\/ios___________800.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPA3NFXPX-ec1014bb01\/ios___________960.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPA3NFXPX-ec1014bb01\/ios___________1024.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 6,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAwACSF1ZCSSRntnpTVuJlOA2R7insVFMTAzQ0guTR3DSSrG6DLHGama3G6q8PN1D9a0T96pY0VDbj0o+zD0q5gUYFIZjPDKr4YY+pqPcatvC7x+YyKijuT1qoFJOKokt24VWjkaVRt5I71ZF5C54Yj6ioVtA5Ch1VlGGwM1SeN42YEEYOCaVhmuJ48ffX86Xz4\/wC+v51i5NGTRYLm0ZUlRk5GR1bpVF4wrhsY7Y7Glh44c\/MfU1IyhscZxUcz2NeRbhDNC8xURsD3JNMuZP8ASCq\/LwAccZpEfyplO0EtwaZOxe63ewq07ozkrOxaXTo2UMSykjkUv9mR\/wB9vyq5uA9Pzo3D2\/Onck\/\/2Q==",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FPA3NFXPX\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FPA3NFXPX-be55586b3d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1570791723.001400",
+        "client_msg_id": "97199FE9-D872-4FD9-8F20-B2FED11AC941",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69AF5733-138C-44DB-82B5-8E52F3B49C1E",
+        "type": "message",
+        "text": "わー:man-bowing:",
+        "user": "UHC5VBV5E",
+        "ts": "1570791801.002100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

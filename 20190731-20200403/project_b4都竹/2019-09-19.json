@@ -1,0 +1,439 @@
+[
+    {
+        "client_msg_id": "AF841288-1197-4F41-9CE2-6164A22C8ED4",
+        "type": "message",
+        "text": "再際→開催",
+        "user": "UHFLB6JPR",
+        "ts": "1568876484.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5A1EB76D-B441-4CCC-8313-853FAB9B15C8",
+        "type": "message",
+        "text": "↑アブスト一枚目\n他も誤字脱字とか自分で確認してよ",
+        "user": "UHFLB6JPR",
+        "ts": "1568876528.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568876528.002900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1568876782.004300",
+        "reply_users": [
+            "UHG1M1NQ6"
+        ],
+        "replies": [
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1568876782.004300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1568876782.004300"
+    },
+    {
+        "client_msg_id": "574eaaa6-1458-4f59-828a-333bf3d5d6f6",
+        "type": "message",
+        "text": "図3のところ、一応正式な書類だから\"モチベ\"じゃなくて\"モチベーション\"と書いた方がいいかも",
+        "user": "UGQV9DXRC",
+        "ts": "1568876603.003600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a15cf50d-0c83-42eb-aed0-4a9193c6269a",
+        "type": "message",
+        "text": "先にスライド見てコメントつけたら送ります",
+        "user": "UGQV9DXRC",
+        "ts": "1568876635.004200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568876635.004200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1568876850.004700",
+        "reply_users": [
+            "UHG1M1NQ6"
+        ],
+        "replies": [
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1568876850.004700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1568876850.004700"
+    },
+    {
+        "client_msg_id": "7315f1cf-85d0-4105-8d9a-9ac0d0fc0d8b",
+        "type": "message",
+        "text": "1度確認したのですが見落としていました。\nもう1度細かく見て直します。",
+        "user": "UHG1M1NQ6",
+        "ts": "1568876782.004300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568876528.002900",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "ba739f20-7b6c-4837-8df2-a90ac21fa0fd",
+        "type": "message",
+        "text": "モチベーションへ変更しました。\n承知しました。ありがとうございます。",
+        "user": "UHG1M1NQ6",
+        "ts": "1568876850.004700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568876635.004200",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "1c832cd6-382a-431b-8974-d7ad56f04b12",
+        "type": "message",
+        "text": "まだ時間ある？どんな感じで説明するか聞きながらスライド見たいんだけど、slack電話つなげられるかな？？",
+        "user": "UGQV9DXRC",
+        "ts": "1568877235.005900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "一応今ざっとみた",
+        "files": [
+            {
+                "id": "FN4S99HGA",
+                "created": 1568877298,
+                "timestamp": 1568877298,
+                "name": "卒論中間発表_発表スライド_都竹_szk.pptx",
+                "title": "卒論中間発表_発表スライド_都竹_szk.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 98737,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN4S99HGA\/_____________________________________________szk.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN4S99HGA\/download\/_____________________________________________szk.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FN4S99HGA-dfd81c6895\/_____________________________________________szk_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FN4S99HGA-dfd81c6895\/_____________________________________________szk_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FN4S99HGA\/_____________________________________________szk.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FN4S99HGA-84e27a1d4c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1568877329.006000",
+        "client_msg_id": "3b2ff1fc-f82e-4f6e-9592-c31c87e6add5",
+        "thread_ts": "1568877329.006000",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1568877839.007000",
+        "reply_users": [
+            "UHG1M1NQ6",
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1568877722.006500"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568877769.006700"
+            },
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1568877839.007000"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1568877839.007000"
+    },
+    {
+        "client_msg_id": "aa91cbaa-00d4-4c27-890d-1a34bcd723d5",
+        "type": "message",
+        "text": "時間大丈夫です。ありがとうございます。",
+        "user": "UHG1M1NQ6",
+        "ts": "1568877722.006500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568877329.006000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "5bf3117c-2837-4470-b2cd-5f847574ca93",
+        "type": "message",
+        "text": "そしたらこっちからかけるからちょいまって！",
+        "user": "UGQV9DXRC",
+        "ts": "1568877769.006700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568877329.006000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "dea1d555-f00d-4d2e-bbc7-4984b8b84b75",
+        "type": "message",
+        "text": "承知しました。",
+        "user": "UHG1M1NQ6",
+        "ts": "1568877839.007000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568877329.006000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "type": "message",
+        "text": "永井君の卒論発表のとき\nこんな感じで初めにグラフが入れられると充実してくるかなあ\n<https:\/\/drive.google.com\/open?id=1By9VpIBqhQ3xCK08DYGXBSiYsTpLRunc>",
+        "files": [
+            {
+                "id": "FHDVB5AQ2",
+                "created": 1554888273,
+                "timestamp": 1554888273,
+                "name": "永井卒論発表0212鈴木.pptx",
+                "title": "永井卒論発表0212鈴木.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 1224448,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/file\/d\/1By9VpIBqhQ3xCK08DYGXBSiYsTpLRunc\/view?usp=drivesdk",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHDVB5AQ2-020167b22f\/__________________0212_______64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHDVB5AQ2-020167b22f\/__________________0212_______80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHDVB5AQ2-020167b22f\/__________________0212_______360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHDVB5AQ2-020167b22f\/__________________0212_______480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHDVB5AQ2-020167b22f\/__________________0212_______160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHDVB5AQ2-020167b22f\/__________________0212_______720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHDVB5AQ2-020167b22f\/__________________0212_______800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHDVB5AQ2-020167b22f\/__________________0212_______960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 576,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FHDVB5AQ2\/__________________0212______.pptx",
+                "is_starred": false,
+                "external_id": "1By9VpIBqhQ3xCK08DYGXBSiYsTpLRunc",
+                "external_url": "https:\/\/drive.google.com\/file\/d\/1By9VpIBqhQ3xCK08DYGXBSiYsTpLRunc\/view?usp=drivesdk",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FHDVB5AQ2"
+        ],
+        "ts": "1568878632.007700",
+        "client_msg_id": "7e6e5684-0c10-4405-b8fb-8a8f67020fc8"
+    },
+    {
+        "client_msg_id": "c0d26a2d-82c2-4226-8c7c-78cd0cdfc98b",
+        "type": "message",
+        "text": "なるほど。。確かにグラフなどで具体的な数字が出てくると変わりますね。。自分のスライドにも付け加えてみます！",
+        "user": "UHG1M1NQ6",
+        "ts": "1568878812.010300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "誤字脱字確認・修正済み",
+        "files": [
+            {
+                "id": "FNHMF0FN0",
+                "created": 1568903831,
+                "timestamp": 1568903831,
+                "name": "卒論中間発表_抄録_最終更新都竹KO_FINAL.pdf",
+                "title": "卒論中間発表_抄録_最終更新都竹KO_FINAL.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 345482,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNHMF0FN0\/____________________________________________ko_final.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNHMF0FN0\/download\/____________________________________________ko_final.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNHMF0FN0-f148d5f452\/____________________________________________ko_final_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FNHMF0FN0\/____________________________________________ko_final.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FNHMF0FN0-bd6169968b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHG1M1NQ6",
+        "display_as_bot": false,
+        "ts": "1568903832.010700",
+        "client_msg_id": "1b2fdf0f-b614-4023-981a-1a4c74a1fedf"
+    }
+]

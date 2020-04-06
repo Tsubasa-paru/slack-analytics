@@ -1,0 +1,64 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FN865LMUG",
+                "created": 1568193106,
+                "timestamp": 1568193106,
+                "name": "日本体力医学会ポスター岡田5KO.pptx",
+                "title": "日本体力医学会ポスター岡田5KO.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 398902,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN865LMUG\/_______________________________________5ko.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN865LMUG\/download\/_______________________________________5ko.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FN865LMUG-faaa3c8b40\/_______________________________________5ko_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FN865LMUG-faaa3c8b40\/_______________________________________5ko_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 3642,
+                "thumb_pdf_h": 5149,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FN865LMUG\/_______________________________________5ko.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FN865LMUG-d81df3b763",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1568193117.000400",
+        "client_msg_id": "d0eb3d9a-7583-4008-abba-52ed59675c60"
+    },
+    {
+        "client_msg_id": "04769280-7dc9-4252-8560-8b1673deb3d5",
+        "type": "message",
+        "text": "悩んでいたファイルメーカーの操作が解決した。\n明日には、たぶん結果も出せそう。",
+        "user": "UGPH97FDW",
+        "ts": "1568207647.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

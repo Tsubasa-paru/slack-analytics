@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "016bde18-0a47-445a-9c0b-68aa4001dcbe",
+        "type": "message",
+        "text": "新しいカスタム絵文字を登録しました．\nご活用ください．",
+        "user": "UGQ2ENZD0",
+        "ts": "1554111838.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQV9DXRC",
+                    "UGPH97FDW",
+                    "UHEH8KZ7W"
+                ],
+                "count": 3
+            },
+            {
+                "name": "the_fatal_smile",
+                "users": [
+                    "UGQV9DXRC",
+                    "UGPH97FDW",
+                    "UHEH8KZ7W"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be7e478b-8057-47ea-bec9-8a198e213f02",
+        "type": "message",
+        "text": ":koki_good:  :the_fatal_smile:",
+        "user": "UGQ2ENZD0",
+        "ts": "1554111850.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

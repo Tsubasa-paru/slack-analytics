@@ -1,0 +1,509 @@
+[
+    {
+        "type": "message",
+        "text": "<@UHFLB6JPR> <@UHEH8KZ7W>\n先生の訂正ファイル\n<https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FRSH7UPPX\/__________________2020_______ko20191217.docx>\nコメント\n<https:\/\/ohkawaralab.slack.com\/archives\/CKWT4TANP\/p1576572729001700>\n\n図の訂正用ファイル\n<https:\/\/drive.google.com\/open?id=1VeF-XQtrUGzCpXDT4fxcaDz-S6StNS8o>",
+        "files": [
+            {
+                "id": "FLVPZEQQJ",
+                "created": 1565320240,
+                "timestamp": 1565320240,
+                "name": "こども食堂2019_概要図.pptx",
+                "title": "こども食堂2019_概要図.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 277202,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1VeF-XQtrUGzCpXDT4fxcaDz-S6StNS8o",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLVPZEQQJ-7ed0529092\/_______________2019___________64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLVPZEQQJ-7ed0529092\/_______________2019___________80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLVPZEQQJ-7ed0529092\/_______________2019___________360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 249,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLVPZEQQJ-7ed0529092\/_______________2019___________480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 332,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLVPZEQQJ-7ed0529092\/_______________2019___________160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLVPZEQQJ-7ed0529092\/_______________2019___________720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 498,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLVPZEQQJ-7ed0529092\/_______________2019___________800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1155,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLVPZEQQJ-7ed0529092\/_______________2019___________960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 665,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLVPZEQQJ-7ed0529092\/_______________2019___________1024.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 709,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 1479,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FLVPZEQQJ\/_______________2019__________.pptx",
+                "is_starred": false,
+                "external_id": "1VeF-XQtrUGzCpXDT4fxcaDz-S6StNS8o",
+                "external_url": "https:\/\/drive.google.com\/open?id=1VeF-XQtrUGzCpXDT4fxcaDz-S6StNS8o",
+                "has_rich_preview": true
+            },
+            {
+                "id": "FRSH7UPPX",
+                "created": 1576572658,
+                "timestamp": 1576572658,
+                "name": "健康支援学会2020_福田KO20191217.docx",
+                "title": "健康支援学会2020_福田KO20191217.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 100563,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRSH7UPPX\/__________________2020_______ko20191217.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRSH7UPPX\/download\/__________________2020_______ko20191217.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRSH7UPPX-1e3e265d58\/__________________2020_______ko20191217_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRSH7UPPX-1e3e265d58\/__________________2020_______ko20191217_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FRSH7UPPX\/__________________2020_______ko20191217.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FRSH7UPPX-3b7d23a65f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ESSaY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n先生の訂正ファイル\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FRSH7UPPX\/__________________2020_______ko20191217.docx"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nコメント\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ohkawaralab.slack.com\/archives\/CKWT4TANP\/p1576572729001700"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n図の訂正用ファイル\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1VeF-XQtrUGzCpXDT4fxcaDz-S6StNS8o"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "x_files": [
+            "FLVPZEQQJ",
+            "FRSH7UPPX"
+        ],
+        "ts": "1576575101.001600",
+        "client_msg_id": "9e8b46c4-17bd-4a63-a80d-8e01f1a5cd21",
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CKWT4TANP\/p1576572729001700",
+                "fallback": "[December 17th, 2019 12:52 AM] ohkawara_kazunori: こんなんでどうかな？\n図1の旗の部分の文字は白抜きだけど、白黒印刷すると不鮮明だから、黒に修正してもいいかなと思いました。",
+                "ts": "1576572729.001700",
+                "author_id": "UHFLB6JPR",
+                "author_subname": "大河原一憲",
+                "channel_id": "CKWT4TANP",
+                "channel_name": "study_statistics",
+                "is_msg_unfurl": true,
+                "text": "こんなんでどうかな？\n図1の旗の部分の文字は白抜きだけど、白黒印刷すると不鮮明だから、黒に修正してもいいかなと思いました。",
+                "author_name": "大河原一憲",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UHFLB6JPR",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CKWT4TANP\/p1576572729001700",
+                "footer": "#study_statistics に投稿"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2ea039c1-f1a7-49fb-a4da-c17d52f4c470",
+        "type": "message",
+        "text": "個人的には目的の\n&gt; 子ども食堂だから食育に深く関連した内容にしなくてはいけないという考え方をやめ、情報理工学系の大学生だからこそできる地域貢献とは何か？を考えることから始まった。\nの部分が少し口語的かなという気がします。\n&gt; 子ども食堂の既成概念にとらわれず、情報理工学系の大学生だからこそできる地域貢献とは何かを考えることから始まった。\nみたいな感じではどうでしょう～？？",
+        "user": "UGQV9DXRC",
+        "ts": "1576575332.005100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w9Q6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "個人的には目的の\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "子ども食堂だから食育に深く関連した内容にしなくてはいけないという考え方をやめ、情報理工学系の大学生だからこそできる地域貢献とは何か？を考えることから始まった。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "の部分が少し口語的かなという気がします。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "子ども食堂の既成概念にとらわれず、情報理工学系の大学生だからこそできる地域貢献とは何かを考えることから始まった。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "みたいな感じではどうでしょう～？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1C41A84C-1DBD-4B22-9168-93C32602BA53",
+        "type": "message",
+        "text": "やめ　は　とらわれず\nがいいね",
+        "user": "UHFLB6JPR",
+        "ts": "1576575844.006000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6D9EDDE8-BD88-429D-B64A-DFD4B98AD875",
+        "type": "message",
+        "text": "子ども食堂の既成概念としてしまうと不正確になっちゃいます",
+        "user": "UHFLB6JPR",
+        "ts": "1576575967.007700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "FB010E4B-F3A5-41D4-BD38-0E755A4CD398",
+        "type": "message",
+        "text": "「はじめに」の文章を受けてるから、子ども食堂の第二の既成概念の範疇で企画を考えてるから",
+        "user": "UHFLB6JPR",
+        "ts": "1576576198.009500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2d8dd60b-832a-4133-8772-5bfd828c5fdd",
+        "type": "message",
+        "text": "あー、、そうですよね\n上手く言おうとしすぎました:cold_sweat:\n語尾変えるだけで十分かもしれません",
+        "user": "UGQV9DXRC",
+        "ts": "1576576474.010400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kmJs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あー、、そうですよね\n上手く言おうとしすぎました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cold_sweat"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n語尾変えるだけで十分かもしれません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5ec7ec29-8956-4c8c-bd2d-367926e8f182",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n訂正された抄録を確認しました。図1の部分を修正後もう1度このチャンネルに上げさせていただきます。次回からはもう少し言い回しやまとめ方を改善します。",
+        "user": "UHEH8KZ7W",
+        "ts": "1576643478.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ZJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n訂正された抄録を確認しました。図1の部分を修正後もう1度このチャンネルに上げさせていただきます。次回からはもう少し言い回しやまとめ方を改善します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "・図のタイトルを黒く変更\n・開催の目的にある「～考え方をやめ」を「～考え方にとらわれず」に変更\n・上記の変更で字数オーバーになったので同じ項目の「～大学生だからこそできる」を「大学生ならではの」に変更しました。",
+        "files": [
+            {
+                "id": "FRGKKS06P",
+                "created": 1576647017,
+                "timestamp": 1576647017,
+                "name": "健康支援学会2020_福田ver07.docx",
+                "title": "健康支援学会2020_福田ver07.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 177524,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRGKKS06P\/__________________2020_______ver07.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRGKKS06P\/download\/__________________2020_______ver07.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRGKKS06P-31cdbb5611\/__________________2020_______ver07_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRGKKS06P-31cdbb5611\/__________________2020_______ver07_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FRGKKS06P\/__________________2020_______ver07.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FRGKKS06P-496d420b4f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S4H3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "・図のタイトルを黒く変更\n・開催の目的にある「～考え方をやめ」を「～考え方にとらわれず」に変更\n・上記の変更で字数オーバーになったので同じ項目の「～大学生だからこそできる」を「大学生ならではの」に変更しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1576647020.002400",
+        "client_msg_id": "c9339c23-cf6b-4bc5-b6c7-575540f72c3a"
+    },
+    {
+        "client_msg_id": "B92F62B1-40ED-4063-9638-CEC5E248DD09",
+        "type": "message",
+        "text": "図1の運動、食育、科学の文字が白抜きでしょ\nそれも黒にした方がわかりやすければ、そうしてください。\n抄録を見る人がカラーで見る機会は全くないので。\nあとは自分で判断して、提出してください",
+        "user": "UHFLB6JPR",
+        "ts": "1576648379.007200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "34157dbf-1576-4b45-9f25-f1b837d4761f",
+        "type": "message",
+        "text": "運動、食育、科学の文字が白抜きの方が見やすいので上記のファイルで提出します。",
+        "user": "UHEH8KZ7W",
+        "ts": "1576650659.008200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jS2TD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "運動、食育、科学の文字が白抜きの方が見やすいので上記のファイルで提出します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

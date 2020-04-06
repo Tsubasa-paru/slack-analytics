@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "757d3121-b6f4-4c75-a80e-b5dd8c758fc2",
+        "type": "message",
+        "text": "4階学生部屋に残っている本とか備品類も5階にもってきてください。",
+        "user": "UHFLB6JPR",
+        "ts": "1558076680.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "54f860e0-79d4-4302-b8c2-1d2dbc01a7ac",
+        "type": "message",
+        "text": "<https:\/\/qiita.com\/KanNishida\/items\/8ab8553b17cb57e772d6>",
+        "user": "UGQ2ENZD0",
+        "ts": "1554257939.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "結局、機械学習と統計学は何が違うのか？ - Qiita",
+                "title_link": "https:\/\/qiita.com\/KanNishida\/items\/8ab8553b17cb57e772d6",
+                "text": "![rawpixel-296618-unsplash.jpg](<https:\/\/qiita-image-store.s3.amazonaws.com\/0\/124978\/d5c2e66a-c8e2-e039-335f-2da947ec3>...",
+                "fallback": "Qiita: 結局、機械学習と統計学は何が違うのか？ - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/KanNishida\/items\/8ab8553b17cb57e772d6",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/KanNishida\/items\/8ab8553b17cb57e772d6"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_with_monocle",
+                "users": [
+                    "UGPH97FDW",
+                    "UHEH8KZ7W"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

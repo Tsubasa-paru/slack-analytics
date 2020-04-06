@@ -1,0 +1,44 @@
+[
+    {
+        "type": "message",
+        "text": "python",
+        "user": "UHC5VBV5E",
+        "ts": "1559019670.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[May 27th, 2019 5:01 PM] w.4.univ: <https:\/\/github.com\/nemawatt\/Lab_Python\/blob\/master\/python_study\/0527py.ipynb>",
+                "ts": "1558944069.016600",
+                "author_id": "UHC5VBV5E",
+                "author_subname": "根本亘",
+                "channel_id": "CJHU8M93L",
+                "channel_name": "study_python根本",
+                "is_msg_unfurl": true,
+                "text": "<https:\/\/github.com\/nemawatt\/Lab_Python\/blob\/master\/python_study\/0527py.ipynb>",
+                "author_name": "根本亘",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UHC5VBV5E",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJHU8M93L\/p1558944069016600",
+                "is_share": true,
+                "footer": "#study_python根本 に投稿"
+            }
+        ]
+    }
+]

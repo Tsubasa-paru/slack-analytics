@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "1cbaf56c-fbdf-425a-bf81-5cf68ab84127",
+        "type": "message",
+        "text": "来週金曜日 3\/29までに倫理審査申請書類のたたき台を作ってくる\n&gt;&gt;&gt;\n- 西地区和みヨガ\n    - 月2-&gt;月1になった\n    - もう少し強度の高いやつをやりたい\n    - ここでスクエアステップを立ち上げたい\n\n- 6月の第一，第三の木曜日午後\n    - 6\/6, 6\/20の午後\n\n- 月に3回程度でスクエアステップ教室を立ち上げたい\n    - 90分\n    - 60分，準備運動，ステップ，クールダウン\n    - 30分，タブレット\n\n- これに向けて実証実験をやる\n    - プレテスト\n    - 本実験は別でやるつもりでいること\n\n- NFCで出席とれるようなカードを導入したい\n    - 活動量計を出席カード代わりにしたい\n    - オムロンのやつでできるならそれが良い\n\n- オムロンのやつはいろいろなところがオープンになっている\n    - PC等と通信できるならそれが良い",
+        "user": "UGQ2ENZD0",
+        "ts": "1553246884.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1553246917.000000"
+        }
+    }
+]

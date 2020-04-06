@@ -1,0 +1,115 @@
+[
+    {
+        "client_msg_id": "923e9deb-1129-4b87-b57c-37e5db733557",
+        "type": "message",
+        "text": "清水、13日の運動教室に向けて、準備をしてください。\n準備というのは、タブレットの準備だけではないです。\nスクエアステップのマット、名札、当日の大河原研からの参加者など、運営に関わる全てを指します。",
+        "user": "UHFLB6JPR",
+        "ts": "1559792533.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559792533.001900",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1559798801.005200",
+        "reply_users": [
+            "UGQ2ENZD0",
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UGQ2ENZD0",
+                "ts": "1559793581.002000"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1559797045.005000"
+            },
+            {
+                "user": "UGQ2ENZD0",
+                "ts": "1559798801.005200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "33a7774f-883d-4529-8231-5901845fc801",
+        "type": "message",
+        "text": "承知しました．いくつか質問があります．\n･マットは武道場のものを持っていく形でしょうか\n･名札は学生のものだけでしょうか．学生の名札はすでに作ってあるのですが，参加者分も必要である場合は，名簿をいただきたいです\n･教室は14:00-15:30ですが，現地には開始30分前頃にはついていた方が良いでしょうか",
+        "user": "UGQ2ENZD0",
+        "ts": "1559793581.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559792533.001900",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "A556FE58-2BE1-4D27-A583-1282C120A403",
+        "type": "message",
+        "text": "諸々、どうしたらいいと思う？\n名簿は現時点でないです\nマットは武道場のものを使うことはできますが、安藤先生に承諾を得た方がいいです",
+        "user": "UHFLB6JPR",
+        "ts": "1559797045.005000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559792533.001900",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "897580d8-6823-4a18-97a0-47b62012f149",
+        "type": "message",
+        "text": "名札に関しては，白紙の名札を持っていき，その場で書いていただくようにしたいと思います．当日までに名簿等がいただけるのであれば，作って持っていきます．\nマットについては，センターないし教室の主催側が持っていないと理解しても良いでしょうか．ないのであれば，持っていっても良いかについて取り急ぎ安藤先生にお聞きしたいと思います",
+        "user": "UGQ2ENZD0",
+        "ts": "1559798801.005200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559792533.001900",
+        "parent_user_id": "UHFLB6JPR"
+    }
+]

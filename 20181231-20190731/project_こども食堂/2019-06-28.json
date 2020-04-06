@@ -1,0 +1,154 @@
+[
+    {
+        "client_msg_id": "B1E19B79-77B1-46C4-92D0-A1DE3C0BC4CA",
+        "type": "message",
+        "text": "竹中さんの対応ありがとうございます:woman-bowing::skin-tone-2:",
+        "user": "UGQV9DXRC",
+        "ts": "1561706422.002600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "この後の流れをまとめてみました",
+        "files": [
+            {
+                "id": "FKZ8D3JU8",
+                "created": 1561707495,
+                "timestamp": 1561707495,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 389182,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKZ8D3JU8\/image_from_ios.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKZ8D3JU8\/download\/image_from_ios.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKZ8D3JU8-2870450780\/image_from_ios_64.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKZ8D3JU8-2870450780\/image_from_ios_80.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKZ8D3JU8-2870450780\/image_from_ios_360.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 235,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKZ8D3JU8-2870450780\/image_from_ios_480.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_480_w": 313,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKZ8D3JU8-2870450780\/image_from_ios_160.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKZ8D3JU8-2870450780\/image_from_ios_720.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720_w": 470,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKZ8D3JU8-2870450780\/image_from_ios_800.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1225,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKZ8D3JU8-2870450780\/image_from_ios_960.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_960_w": 627,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKZ8D3JU8-2870450780\/image_from_ios_1024.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_1024_w": 669,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1911,
+                "original_h": 2926,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FKZ8D3JU8\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FKZ8D3JU8-0a06a8f004",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1561707495.003100",
+        "client_msg_id": "A03AEC89-467A-4453-899D-DC51DB61F2AF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "FAAVOから問い合わせに返信来ました",
+        "files": [
+            {
+                "id": "FKZBGN2FP",
+                "created": 1561714301,
+                "timestamp": 1561714287,
+                "name": "Fwd: 【FAAVOお問い合わせ】 ueccrushers1988(ohkawaralab@gmail.com)様",
+                "title": "Fwd: 【FAAVOお問い合わせ】 ueccrushers1988(ohkawaralab@gmail.com)様",
+                "mimetype": "text\/html",
+                "filetype": "email",
+                "pretty_type": "Email",
+                "user": "UGQV9DXRC",
+                "editable": true,
+                "size": 14079,
+                "mode": "email",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKZBGN2FP\/fwd_____faavo______________________ueccrushers1988_ohkawaralab_gmail.com____?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKZBGN2FP\/download\/fwd_____faavo______________________ueccrushers1988_ohkawaralab_gmail.com____?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FKZBGN2FP\/fwd_____faavo______________________ueccrushers1988_ohkawaralab_gmail.com____",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FKZBGN2FP-a6ad1a51e2",
+                "subject": "Fwd: 【FAAVOお問い合わせ】 ueccrushers1988(ohkawaralab@gmail.com)様",
+                "to": [
+                    {
+                        "address": "kmt.sd.ma@gmail.com",
+                        "name": "鈴木美穂",
+                        "original": "鈴木美穂  <kmt.sd.ma@gmail.com>"
+                    }
+                ],
+                "from": [
+                    {
+                        "address": "ohkawaralab@gmail.com",
+                        "name": "大河原研究室",
+                        "original": "大河原研究室 <ohkawaralab@gmail.com>"
+                    }
+                ],
+                "cc": [],
+                "attachments": [],
+                "plain_text": "---------- Forwarded message ---------\r\nFrom: CAMPFIRE 運営スタッフ (地域クラウドファンディング FAAVO) <support@faavo.zendesk.com>\r\nDate: 2019年6月28日(金) 午後6:29\r\nSubject: 【FAAVOお問い合わせ】 ueccrushers1988(ohkawaralab@gmail.com)様\r\nTo: ueccrushers1988 <ohkawaralab@gmail.com>\r\n\r\n\r\n##- 返信の際は、この行より上にご記入ください -##\r\n\r\nご返信の際は、このメールへお願いいたします。\r\n\r\nueccrushers1988 様\r\n\r\n*CAMPFIRE 運営スタッフ* (地域クラウドファンディング FAAVO)\r\n\r\n6月28日 18:29 JST\r\n鈴木さま\r\n\r\n\r\nお世話になります。\r\nFAAVO運営事務局です。\r\n\r\nお問い合わせいただきありがとうございます。\r\n早速ですがご案内させていただきます。\r\n今年も起案をご検討いただきありがとうございます。\r\n\r\nご連絡がつかないとのこと申し訳ございませんでした。\r\n本部から共有させていただきFAAVO調布・府中の竹中からご連絡させていただきますので、\r\n恐れ入りますが、もうしばらくお待ちいただけると幸いです。\r\n\r\n引き続き何卒よろしくお願いいたします。\r\n------------------------------\r\n\r\nFAAVO（ファーボ）\r\n地域×クラウドファンディング\r\nhttps:\/\/faavo.jp\/\r\n\r\nFAAVOに関するお問い合わせ\r\ninfo@faavo.jp\r\n\r\n運営本部：株式会社CAMPFIRE\r\nhttps:\/\/camp-fire.jp\r\n------------------------------\r\n\r\n[0906XQ-MD6V]",
+                "preview": "<div><div><\/div><br><div><div>---------- Forwarded message ---------<br>From: CAMPFIRE &#36939;&#21942;&#12473;&#12479;&#12483;&#12501; (&#22320;&#22495;&#12463;&#12521;&#12454;&#12489;&#12501;&#12449;&#12531;&#12487;&#12451;&#12531;&#12464; FAAVO) <span>&lt;<a href=\"mailto:support@faavo.zendesk.com\">support@faavo.zendesk.com<\/a>&gt;<\/span><br>Date: 2019&#24180;6&#26376;28&#26085;(&#37329;) &#21320;&#24460;6:29<br>Subject: &#12304;FAAVO&#12362;&#21839;&#12356;&#21512;&#12431;&#12379;&#12305; ueccrushers1988(<a href=\"mailto:ohkawaralab@gmail.com\">ohkawaralab@gmail.com<\/a>)&#27096;<br>To: ueccrushers1988 &lt;<a href=\"mailto:ohkawaralab@gmail.com\">ohkawaralab@gmail.com<\/a>&gt;<br><\/div><br><br><u><\/u>                <div>    <div>      <div>##- &#36820;&#20449;&#12398;&#38555;&#12399;&#12289;&#12371;&#12398;&#34892;&#12424;&#12426;&#19978;&#12395;&#12372;&#35352;&#20837;&#12367;&#12384;&#12373;&#12356; -##<\/div>      &#12372;&#36820;&#20449;&#12398;&#38555;&#12399;&#12289;&#12371;&#12398;&#12513;&#12540;&#12523;&#12408;&#12362;&#39000;&#12356;&#12356;&#12383;&#12375;&#12414;&#12377;&#12290;<br><br>ueccrushers1988 &#27096;<br><br><div><table><tbody><tr><td>      <table><tbody><tr><td>                                                                                CAMPFIRE &#36939;&#21942;<\/td><\/tr><\/tbody><\/table><\/td><\/tr><\/tbody><\/table><\/div><\/div><\/div><\/div><\/div>",
+                "preview_plain_text": "---------- Forwarded message ---------\r\nFrom: CAMPFIRE 運営スタッフ (地域クラウドファンディング FAAVO) <support@faavo.zendesk.com>\r\nDate: 2019年6月28日(金) 午後6:29\r\nSubject: 【FAAVOお問い合わせ】 ueccrushers1988(ohkawaralab@gmail.com)様\r\nTo: ueccrushers1988 <ohkawaralab@gmail.com>\r\n\r\n\r\n##- 返信の際は、この行より上にご記入ください -##\r\n\r\nご返信の際は、このメールへお願いいたします。\r\n\r\nueccrushers1988 様\r\n\r\n*CAMPFIRE 運営スタッフ* (地域クラウドファンディング FAAVO)\r\n\r\n6月28日 18:29 JST\r\n鈴木さま\r\n\r\n\r\nお世話になります。\r\nFAAVO運営事務局です。\r\n\r\nお問い合わせいただきありがとうございます。\r\n早速ですがご案内させていただきます。\r\n今年も起案をご検討いただきありがとうございます。\r\n",
+                "headers": {
+                    "date": "Fri, 28 Jun 2019 18:31:27 +0900"
+                },
+                "has_more": true,
+                "sent_to_self": false,
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1561714369.000100"
+    }
+]

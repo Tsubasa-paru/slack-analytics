@@ -1,0 +1,357 @@
+[
+    {
+        "type": "message",
+        "text": "バイトに行く前に現時点でのスライドをアップしておきます。\n帰ってきたらまた急いで進めます。",
+        "files": [
+            {
+                "id": "FTTS9PXSQ",
+                "created": 1581408730,
+                "timestamp": 1581408730,
+                "name": "卒論発表スライド_都竹.pptx",
+                "title": "卒論発表スライド_都竹.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 2468354,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTTS9PXSQ\/_______________________________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTTS9PXSQ\/download\/_______________________________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTTS9PXSQ-0f1d7cdc87\/________________________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTTS9PXSQ-0f1d7cdc87\/________________________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FTTS9PXSQ\/_______________________________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FTTS9PXSQ-6d7fd978de",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EMwa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトに行く前に現時点でのスライドをアップしておきます。\n帰ってきたらまた急いで進めます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHG1M1NQ6",
+        "display_as_bot": false,
+        "ts": "1581408733.000100",
+        "client_msg_id": "13c53db0-a301-4f96-9c11-a700078e76f0"
+    },
+    {
+        "type": "message",
+        "text": "抄録、スライド、原稿",
+        "files": [
+            {
+                "id": "FTV4WSPAL",
+                "created": 1581440421,
+                "timestamp": 1581440421,
+                "name": "卒業論文発表_抄録4_都竹.docx",
+                "title": "卒業論文発表_抄録4_都竹.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 713123,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTV4WSPAL\/_________________________4_______.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTV4WSPAL\/download\/_________________________4_______.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTV4WSPAL-67ed34ec66\/_________________________4________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTV4WSPAL-67ed34ec66\/_________________________4________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FTV4WSPAL\/_________________________4_______.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FTV4WSPAL-b226923cde",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FTK0R3U57",
+                "created": 1581440421,
+                "timestamp": 1581440421,
+                "name": "卒業論文発表_抄録4_都竹.pdf",
+                "title": "卒業論文発表_抄録4_都竹.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 379995,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTK0R3U57\/_________________________4_______.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTK0R3U57\/download\/_________________________4_______.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FTK0R3U57\/_________________________4_______.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FTK0R3U57-16bce94763",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FTULYJJP6",
+                "created": 1581440421,
+                "timestamp": 1581440421,
+                "name": "卒論発表スライド_都竹.pptx",
+                "title": "卒論発表スライド_都竹.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 2492448,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTULYJJP6\/_______________________________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTULYJJP6\/download\/_______________________________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FTULYJJP6\/_______________________________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FTULYJJP6-7138d8d694",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FTULYJJRJ",
+                "created": 1581440421,
+                "timestamp": 1581440421,
+                "name": "卒業論文発表_原稿_都竹.docx",
+                "title": "卒業論文発表_原稿_都竹.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 19809,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTULYJJRJ\/________________________________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTULYJJRJ\/download\/________________________________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTULYJJRJ-1ddd013070\/_________________________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTULYJJRJ-1ddd013070\/_________________________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FTULYJJRJ\/________________________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FTULYJJRJ-4340aac3bf",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/lqT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "抄録、スライド、原稿"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHG1M1NQ6",
+        "ts": "1581440430.000400",
+        "client_msg_id": "02c61930-ef9c-4356-99ef-d347fab87e79"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FTVFQ0J3E",
+                "created": 1581470618,
+                "timestamp": 1581470618,
+                "name": "卒業論文発表_抄録4_都竹KO.docx",
+                "title": "卒業論文発表_抄録4_都竹KO.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 714540,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTVFQ0J3E\/_________________________4_______ko.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTVFQ0J3E\/download\/_________________________4_______ko.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTVFQ0J3E-271921748f\/_________________________4_______ko_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTVFQ0J3E-271921748f\/_________________________4_______ko_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FTVFQ0J3E\/_________________________4_______ko.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FTVFQ0J3E-6b9a160b67",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1581470623.000100",
+        "client_msg_id": "5e393944-03cb-4795-a6c5-27a39236fd7d"
+    },
+    {
+        "client_msg_id": "7429f78a-0137-47cd-b198-8b38a6831529",
+        "type": "message",
+        "text": "少し修正しました。\nこれで抄録はOKです。\nアップしてください。",
+        "user": "UHFLB6JPR",
+        "ts": "1581470656.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FzX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "少し修正しました。\nこれで抄録はOKです。\nアップしてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21f577fd-a5ba-4de2-8ddb-4f0b5892d544",
+        "type": "message",
+        "text": "承知しました。何度も修正して頂きありがとうございました。",
+        "user": "UHG1M1NQ6",
+        "ts": "1581471996.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BUYw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。何度も修正して頂きありがとうございました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FTXTAHT7H",
+                "created": 1581475461,
+                "timestamp": 1581475461,
+                "name": "卒論発表スライド_都竹_szk.pptx",
+                "title": "卒論発表スライド_都竹_szk.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 2495431,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTXTAHT7H\/________________________________szk.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTXTAHT7H\/download\/________________________________szk.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTXTAHT7H-b177a770e9\/________________________________szk_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTXTAHT7H-b177a770e9\/________________________________szk_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FTXTAHT7H\/________________________________szk.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FTXTAHT7H-029f4b5130",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1581475467.000100",
+        "client_msg_id": "c2d3b12d-c163-4c6d-bab2-72afa0837905"
+    }
+]

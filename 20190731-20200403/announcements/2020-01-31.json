@@ -1,0 +1,551 @@
+[
+    {
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n修論要項を提出させていただきます。ご確認よろしくお願いいたします。\n<https:\/\/drive.google.com\/open?id=1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ>",
+        "files": [
+            {
+                "id": "FT16LE2HH",
+                "created": 1580462904,
+                "timestamp": 1580462904,
+                "name": "修論要項_鈴木.docx",
+                "title": "修論要項_鈴木.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 13303,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FT16LE2HH\/___________________.docx",
+                "is_starred": false,
+                "external_id": "1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ",
+                "external_url": "https:\/\/drive.google.com\/open?id=1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GvR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n修論要項を提出させていただきます。ご確認よろしくお願いいたします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FT16LE2HH"
+        ],
+        "ts": "1580462902.002500",
+        "client_msg_id": "9ed05bf2-a044-4f18-9c91-20a0d98cbc2f"
+    },
+    {
+        "client_msg_id": "7576CBBA-FFF2-4394-BF1F-02C725B533F3",
+        "type": "message",
+        "text": "2ー６行は流れと表現がちょっと雑な感じです。",
+        "user": "UHFLB6JPR",
+        "ts": "1580464044.005200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "70B4CDAA-8204-4D8D-ADEF-8DC5F9A630D8",
+        "type": "message",
+        "text": "最後の段落の結果としては不要\n「よって」は口語っぽいかな",
+        "user": "UHFLB6JPR",
+        "ts": "1580464119.007000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@UHFLB6JPR>\nご指摘ありがとうございました。\n訂正を行いましたのでご確認よろしくお願いいたします。\n<https:\/\/drive.google.com\/open?id=1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ>",
+        "files": [
+            {
+                "id": "FT16LE2HH",
+                "created": 1580462904,
+                "timestamp": 1580462904,
+                "name": "修論要項_鈴木.docx",
+                "title": "修論要項_鈴木.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 13303,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FT16LE2HH\/___________________.docx",
+                "is_starred": false,
+                "external_id": "1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ",
+                "external_url": "https:\/\/drive.google.com\/open?id=1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eYb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nご指摘ありがとうございました。\n訂正を行いましたのでご確認よろしくお願いいたします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FT16LE2HH"
+        ],
+        "ts": "1580471611.008000",
+        "client_msg_id": "8687be98-55d8-410e-96f8-3c52ec71f0d4"
+    },
+    {
+        "client_msg_id": "73CFEB37-CAA6-4C99-9960-611AFC9FF508",
+        "type": "message",
+        "text": "4行目\n質的評価が有効\n\n身体活動を具体的に評価するためには活動分類手法の提案が必要である。\n\nそこで本研究は、....を用いて...モデルの構築を目的とした。\n\n16名(ooo)であった。\n\n以下の指定された　←削除\n3分間ずつ　←削除\n\n身体活動は　←削除\n\n評価され　→ 評価し\n\n交差妥当性の検証には16...を用いた。\n\n分類モデル...  から組み合わせを検討した。　←約2.5行分を削除\n\n分類器は、　← 、を加える\n \n% (最高値は99.0%)、\n% (最高値は92.0%)、\n\nとなった　→ であった　\n\n従って　→ これらのことから、",
+        "user": "UHFLB6JPR",
+        "ts": "1580473532.023900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@UHFLB6JPR>\nご指摘ありがとうございます。訂正を行いました。\n<https:\/\/drive.google.com\/open?id=1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ>",
+        "files": [
+            {
+                "id": "FT16LE2HH",
+                "created": 1580462904,
+                "timestamp": 1580462904,
+                "name": "修論要項_鈴木.docx",
+                "title": "修論要項_鈴木.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 13303,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FT16LE2HH\/___________________.docx",
+                "is_starred": false,
+                "external_id": "1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ",
+                "external_url": "https:\/\/drive.google.com\/open?id=1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h9J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nご指摘ありがとうございます。訂正を行いました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FT16LE2HH"
+        ],
+        "ts": "1580474046.024300",
+        "client_msg_id": "b0b27b47-cae4-45db-a265-1753a9cb124d"
+    },
+    {
+        "client_msg_id": "C888E8F0-BFBD-4375-8FB8-7C908AD15BAC",
+        "type": "message",
+        "text": "日本の人口の約25%が65歳以上の高齢者であり、 高齢者の健康維持は国の大きな課題である。先行研究では座位につながる要因を指摘する ことで座位を減らす効果が確認されており、高齢者の身体活動量を増加させる行動変容の 観点において、日常生活中での身体活動の質的評価が有効と考えられる。身体活動を具体的 に評価するためには活動分類手法の提案が必要であるが、国内においてはほとんど検討がなされていない。",
+        "user": "UHFLB6JPR",
+        "ts": "1580474530.027200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E0AC5121-B0FD-4B90-9127-3CC0D0980C37",
+        "type": "message",
+        "text": "↓は削除　または　今の表現だと理解されないので、表現を変える必要があります。\n\n特徴量の選定では加速度成分、心拍成分 の特徴量について組み合わせを検討した。\n\n最適な特徴量の組み合わせは、加速度成分●項目、心拍成分●項目を用いて、？？法により検討した。\n●は数字",
+        "user": "UHFLB6JPR",
+        "ts": "1580474839.032500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n繰り返しになりお手数をおかけし申し訳ありません。\nイントロ書き換え、上記の件は削除しました。\n<https:\/\/drive.google.com\/open?id=1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ>",
+        "files": [
+            {
+                "id": "FT16LE2HH",
+                "created": 1580462904,
+                "timestamp": 1580462904,
+                "name": "修論要項_鈴木.docx",
+                "title": "修論要項_鈴木.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 13303,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FT16LE2HH\/___________________.docx",
+                "is_starred": false,
+                "external_id": "1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ",
+                "external_url": "https:\/\/drive.google.com\/open?id=1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0adN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n繰り返しになりお手数をおかけし申し訳ありません。\nイントロ書き換え、上記の件は削除しました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1Yw-68asaQuXlD3yXIn4cBv6R3E2ifzYJ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FT16LE2HH"
+        ],
+        "ts": "1580475554.033000",
+        "client_msg_id": "42d2e989-d0b2-4e72-95d5-1ef21157c713"
+    },
+    {
+        "client_msg_id": "49D977F2-DC80-40F9-89DA-6F814DAA12B1",
+        "type": "message",
+        "text": "交差妥当性の研究　→ 交差妥当性の検討には",
+        "user": "UHFLB6JPR",
+        "ts": "1580475981.034900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "185745AB-AD00-4410-BE47-247A7313ACCD",
+        "type": "message",
+        "text": "これでいいです",
+        "user": "UHFLB6JPR",
+        "ts": "1580475992.035200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a2d0750a-2cc1-495e-b779-034b0fffb908",
+        "type": "message",
+        "text": "すみません、、ありがとうございます。\n要項と修論提出しました。",
+        "user": "UGQV9DXRC",
+        "ts": "1580476362.035700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2tkA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません、、ありがとうございます。\n要項と修論提出しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/open?id=17FbYrdkkOqC5rfaErp3-kFrU_mOkN7wa>",
+        "files": [
+            {
+                "id": "FT1LBCL04",
+                "created": 1579838369,
+                "timestamp": 1579838369,
+                "name": "修論_鈴木.docx",
+                "title": "修論_鈴木.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 1168377,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/file\/d\/17FbYrdkkOqC5rfaErp3-kFrU_mOkN7wa\/view?usp=drivesdk",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FT1LBCL04\/_____________.docx",
+                "is_starred": false,
+                "external_id": "17FbYrdkkOqC5rfaErp3-kFrU_mOkN7wa",
+                "external_url": "https:\/\/drive.google.com\/file\/d\/17FbYrdkkOqC5rfaErp3-kFrU_mOkN7wa\/view?usp=drivesdk",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PMK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=17FbYrdkkOqC5rfaErp3-kFrU_mOkN7wa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FT1LBCL04"
+        ],
+        "ts": "1580476379.035900",
+        "client_msg_id": "8ddda84f-5afc-4e54-a25c-4ae9863b47a4"
+    },
+    {
+        "client_msg_id": "63399A31-ED24-4634-82AF-14080A170D94",
+        "type": "message",
+        "text": "お疲れ様です！",
+        "user": "UHEH8KZ7W",
+        "ts": "1580480089.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eNFK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

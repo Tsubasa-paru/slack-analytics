@@ -1,0 +1,41 @@
+[
+    {
+        "client_msg_id": "6d2fe285-22c1-4e91-94a3-283ef9d5bb2b",
+        "type": "message",
+        "text": "<https:\/\/www.fastcompany.com\/3061283\/how-apple-made-the-watch-work-for-wheelchair-users>",
+        "user": "UHC5VBV5E",
+        "ts": "1574063798.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Fast Company",
+                "title": "How Apple Made The Watch Work For Wheelchair Users",
+                "title_link": "https:\/\/www.fastcompany.com\/3061283\/how-apple-made-the-watch-work-for-wheelchair-users",
+                "text": "Apple engineer Ron Huang describes the year-long process of overhauling watchOS for people in wheelchairs.",
+                "fallback": "Fast Company: How Apple Made The Watch Work For Wheelchair Users",
+                "image_url": "https:\/\/images.fastcompany.net\/image\/upload\/w_1280,f_auto,q_auto,fl_lossy\/wp-cms\/uploads\/2016\/06\/3061283-poster-p-1-how-apple-designed-the-first-wearable-for-wheelchair-users.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1467036000,
+                "from_url": "https:\/\/www.fastcompany.com\/3061283\/how-apple-made-the-watch-work-for-wheelchair-users",
+                "image_bytes": 124941,
+                "service_icon": "https:\/\/www.fastcompany.com\/apple-touch-icon.png?v=5",
+                "id": 1,
+                "original_url": "https:\/\/www.fastcompany.com\/3061283\/how-apple-made-the-watch-work-for-wheelchair-users"
+            }
+        ]
+    }
+]

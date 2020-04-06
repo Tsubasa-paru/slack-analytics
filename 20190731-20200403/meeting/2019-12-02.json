@@ -1,0 +1,176 @@
+[
+    {
+        "client_msg_id": "eac9c596-f957-4fe5-8569-831d30ff2339",
+        "type": "message",
+        "text": "建て替え支払い済のリストをここに下げておきます",
+        "user": "UGQV9DXRC",
+        "ts": "1575350863.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BkZB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "建て替え支払い済のリストをここに下げておきます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575350863.000800",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1575350935.001600",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1575350920.001300"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1575350935.001600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "根本君に渡す\n①学会入会費+年会費　　 4000円\n②大会参加費　　　　　　2500円\n\n①済：福田\n②済：先生が立て替え",
+        "user": "UGQV9DXRC",
+        "ts": "1575350920.001300",
+        "thread_ts": "1575350863.000800",
+        "root": {
+            "client_msg_id": "eac9c596-f957-4fe5-8569-831d30ff2339",
+            "type": "message",
+            "text": "建て替え支払い済のリストをここに下げておきます",
+            "user": "UGQV9DXRC",
+            "ts": "1575350863.000800",
+            "team": "TGNPXK07J",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "BkZB",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "建て替え支払い済のリストをここに下げておきます"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1575350863.000800",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1575350935.001600",
+            "reply_users": [
+                "UGQV9DXRC"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5KX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "根本君に渡す\n①学会入会費+年会費　　 4000円\n②大会参加費　　　　　　2500円\n\n①済：福田\n②済：先生が立て替え"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "fe1dd3f7-1eb9-4d69-b666-9c50a9c88a6a"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "福田君に渡す\n③交通費(飛行機)+宿泊費　54600円\n\n③済：",
+        "user": "UGQV9DXRC",
+        "ts": "1575350935.001600",
+        "thread_ts": "1575350863.000800",
+        "root": {
+            "client_msg_id": "eac9c596-f957-4fe5-8569-831d30ff2339",
+            "type": "message",
+            "text": "建て替え支払い済のリストをここに下げておきます",
+            "user": "UGQV9DXRC",
+            "ts": "1575350863.000800",
+            "team": "TGNPXK07J",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "BkZB",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "建て替え支払い済のリストをここに下げておきます"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1575350863.000800",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1575350935.001600",
+            "reply_users": [
+                "UGQV9DXRC"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AJf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "福田君に渡す\n③交通費(飛行機)+宿泊費　54600円\n\n③済："
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2da8ec8c-74c1-486a-ab19-4a2c3e9fd7e1"
+    }
+]

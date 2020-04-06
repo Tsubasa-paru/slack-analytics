@@ -1,0 +1,40 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551947005.000200",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1551947006.000300",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルの目的を設定しました : 清水くんの研究について",
+        "purpose": "清水くんの研究について"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1552025423.000200",
+        "user": "UGQ2ENZD0",
+        "text": "<@UGQ2ENZD0>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1552025447.000400",
+        "user": "UGPH97FDW",
+        "text": "<@UGPH97FDW>さんがチャンネルに参加しました",
+        "inviter": "UGQV9DXRC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1552027387.001000",
+        "user": "UGQ2ENZD0",
+        "text": "<@UGQ2ENZD0>さんがチャンネルの目的を設定しました : 清水の研究について",
+        "purpose": "清水の研究について"
+    }
+]

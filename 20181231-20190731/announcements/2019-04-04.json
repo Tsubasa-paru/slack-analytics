@@ -1,0 +1,177 @@
+[
+    {
+        "client_msg_id": "eac21cc7-3683-4d9f-9c70-8493e2184e15",
+        "type": "message",
+        "text": "今日のゼミは13時からです。\n内容は以下を予定しています。\n&gt;・進捗報告\n&gt;・エンドノートの使い方",
+        "user": "UGQV9DXRC",
+        "ts": "1554419725.002600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2afdb894-98aa-4ee1-813a-7fdf08e1c153",
+        "type": "message",
+        "text": "大河原に来たメールをスラックにそのまま転送することはできる？",
+        "user": "UHFLB6JPR",
+        "ts": "1554433779.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554433779.000700",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1554452836.007200",
+        "reply_users": [
+            "UGQV9DXRC",
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554434001.000800"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554434135.001100"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1554434848.003200"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554452836.007200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "61027ecc-baf3-42bf-95fc-a2a5367fabbb",
+        "type": "message",
+        "text": "こんな感じでしょうか？？\n<https:\/\/qiita.com\/xtl124\/items\/6892a07b3945d5aede5b>",
+        "user": "UGQV9DXRC",
+        "ts": "1554434001.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "Gmailで受信した特定のメールをSlackに通知を連携させるやーつ - Qiita",
+                "title_link": "https:\/\/qiita.com\/xtl124\/items\/6892a07b3945d5aede5b",
+                "text": "## 背景 サポート宛に来るメールを振り分けたかった。 ## 用意するもの Gmailアカウント テスト用のSlackのワークスペース ## 手順 ### slackのメアド発行 Slack 環境設定 -&gt; Slackへのメー...",
+                "fallback": "Qiita: Gmailで受信した特定のメールをSlackに通知を連携させるやーつ - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/xtl124\/items\/6892a07b3945d5aede5b",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/xtl124\/items\/6892a07b3945d5aede5b"
+            }
+        ],
+        "thread_ts": "1554433779.000700",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "658fbccf-7902-419a-ae65-e0dfdece2985",
+        "type": "message",
+        "text": "意図があっていれば試しておきます",
+        "user": "UGQV9DXRC",
+        "ts": "1554434135.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554433779.000700",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "C106E56F-64AA-47D4-A4DD-49F40DC94C24",
+        "type": "message",
+        "text": "メーリングリストの代わりができればどんな風でも",
+        "user": "UHFLB6JPR",
+        "ts": "1554434848.003200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554433779.000700",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "ff2b47a2-81a4-4b64-8cf5-8a7a4d88dcff",
+        "type": "message",
+        "text": "ゼミは306で行います",
+        "user": "UGQV9DXRC",
+        "ts": "1554435933.003600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

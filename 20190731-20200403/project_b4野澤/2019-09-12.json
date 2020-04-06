@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FNA2EB023",
+                "created": 1568193568,
+                "timestamp": 1568193568,
+                "name": "日本体力医学会ポスター2019岡田.pdf",
+                "title": "日本体力医学会ポスター2019岡田.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 610370,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNA2EB023\/_________________________________2019______.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNA2EB023\/download\/_________________________________2019______.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNA2EB023-aa45fb271f\/_________________________________2019_______thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 3642,
+                "thumb_pdf_h": 5149,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FNA2EB023\/_________________________________2019______.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FNA2EB023-3cd0da866a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1568350050.000400"
+    }
+]

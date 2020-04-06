@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "F64F30A8-1E5E-4492-9A26-D0D054169541",
+        "type": "message",
+        "text": "こども食堂で使った道具は実験測定演習室に置いてあります",
+        "user": "UHEH8KZ7W",
+        "ts": "1568449858.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C1EB5491-070A-489B-8DDC-385A9F2F2170",
+        "type": "message",
+        "text": "おかげ様で今日は素晴らしい子ども食堂ができました\n当日は大変だし、結果を出す重要な日ですが、企画を考えたり、CFの成功をさせたり、参加募集かけたり、受け付けたり、対外的調整など、当日にいたるまでの準備の方が何倍も大変だったと思います。研究室のみんなに感謝です。特に鈴木さん、福田は多くの時間を割いて対応してくれました。ありがとうございます！\n\n",
+        "user": "UHFLB6JPR",
+        "ts": "1568466304.010500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHEH8KZ7W",
+                    "UGQV9DXRC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "ce1795fd-86e0-4abf-acd3-efa276a69734",
+        "type": "message",
+        "text": "<https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1567155506002700>",
+        "user": "UGQV9DXRC",
+        "ts": "1567395396.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1567155506002700",
+                "fallback": "[August 30th, 2019 1:58 AM] kmt.sd.ma: 8\/30まで\n・nanの修正はできた(ds6だけチャリが入ってるから)\n・次のエラー：Unknown label type: 'continuous'\n　<https:\/\/teratail.com\/questions\/108034>\n　ラベルは整数である必要がある為、分類できないことがわかった\n　↠ラベルは整数にする or ClassifierではなくRegressorにする\nRegressor <https:\/\/www.sejuku.net\/blog\/64374>",
+                "ts": "1567155506.002700",
+                "author_id": "UGQV9DXRC",
+                "author_subname": "鈴木美穂",
+                "channel_id": "CGNQF4DTJ",
+                "channel_name": "project_m2鈴木",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "8\/30まで\n・nanの修正はできた(ds6だけチャリが入ってるから)\n・次のエラー：Unknown label type: 'continuous'\n　<https:\/\/teratail.com\/questions\/108034>\n　ラベルは整数である必要がある為、分類できないことがわかった\n　↠ラベルは整数にする or ClassifierではなくRegressorにする\nRegressor <https:\/\/www.sejuku.net\/blog\/64374>",
+                "author_name": "鈴木美穂",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1567155506002700",
+                "footer": "#project_m2鈴木 のスレッド"
+            }
+        ]
+    }
+]

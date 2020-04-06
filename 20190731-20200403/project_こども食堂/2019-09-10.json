@@ -1,0 +1,1827 @@
+[
+    {
+        "client_msg_id": "ce8380b6-8f61-4471-a4e0-4d119bda9a54",
+        "type": "message",
+        "text": "こども食堂当日までのtodo",
+        "user": "UGQV9DXRC",
+        "ts": "1568106683.009500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568106683.009500",
+        "reply_count": 12,
+        "reply_users_count": 2,
+        "latest_reply": "1568244554.000300",
+        "reply_users": [
+            "UGQV9DXRC",
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568106701.009600"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568106749.009800"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568107266.010000"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568107309.010200"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568107432.010400"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568107503.011000"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1568112831.015100"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568113849.018200"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568113881.018400"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568113909.018600"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568244535.000100"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568244554.000300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56c934c6-b85b-4890-89e8-f8470429c646",
+        "type": "message",
+        "text": "大河原先生\n養生テープ、マジックペン",
+        "user": "UGQV9DXRC",
+        "ts": "1568106701.009600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1568113825.000000"
+        },
+        "thread_ts": "1568106683.009500",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d48dd84-1029-4481-82d9-22012b4a5c35",
+        "type": "message",
+        "text": "金曜日にプロジェクターレンタル",
+        "user": "UGQV9DXRC",
+        "ts": "1568106749.009800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568106683.009500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "c1e4ec32-3c84-45ff-a316-38cbccb84a27",
+        "type": "message",
+        "text": "生協にお願い\n　牛乳と生クリームの保管\n　氷の保管\n　ナッツアレルギーの子\n　ホワイトボードレンタル\n　マイクレンタル",
+        "user": "UGQV9DXRC",
+        "ts": "1568107266.010000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1568244871.000000"
+        },
+        "thread_ts": "1568106683.009500",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cef8ac15-1643-48b3-9f0b-462a7b06186e",
+        "type": "message",
+        "text": "牛乳、生クリーム、砂糖　予約",
+        "user": "UGQV9DXRC",
+        "ts": "1568107309.010200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568106683.009500",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c119c4d-455e-4b85-a1a0-4c88d8a25c31",
+        "type": "message",
+        "text": "百均\n　ジップロック\n　靴用ビニール袋\n　スプーン　100個(70個でもよい？)\n　皿　100枚",
+        "user": "UGQV9DXRC",
+        "ts": "1568107432.010400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1568129818.000000"
+        },
+        "thread_ts": "1568106683.009500",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c8ce33ca-fc10-41ba-bfc4-f7154a4c62f5",
+        "type": "message",
+        "text": "親用アンケート",
+        "user": "UGQV9DXRC",
+        "ts": "1568107503.011000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568106683.009500",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c5f012a0-b5e6-4c2d-9b97-40cd4b3368fd",
+        "type": "message",
+        "text": "<@UHEH8KZ7W>　は牛乳、生クリーム、砂糖の予約をお願いできる？\n何人分作るとどのくらいか先にここにアップして、okとってから予約してほしい！",
+        "user": "UGQV9DXRC",
+        "ts": "1568112125.014000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568112125.014000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1568161289.000300",
+        "reply_users": [
+            "UHEH8KZ7W"
+        ],
+        "replies": [
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1568161289.000300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "972E3B65-7D37-41F3-A37D-213DF056D5C4",
+        "type": "message",
+        "text": "養生テープとマジックは大河原が担当します",
+        "user": "UHFLB6JPR",
+        "ts": "1568112831.015100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568106683.009500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "F927520C-0C95-499E-89C9-39367D6E8487",
+        "type": "message",
+        "text": "紙コップ600個 2871円\nポカリパウダー 10Lx3 2000円\nオーダー済み 大河原",
+        "user": "UHFLB6JPR",
+        "ts": "1568113025.017400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9242C0EE-14A8-4041-AEEF-497868E9537C",
+        "type": "message",
+        "text": "養生テープとマジックは大河原が担当します",
+        "user": "UHFLB6JPR",
+        "ts": "1568113051.017500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6c84f1e7-5130-40f2-bcc4-6fec285ee27f",
+        "type": "message",
+        "text": "受付用のチーム表をアメフト部から",
+        "user": "UGQV9DXRC",
+        "ts": "1568113849.018200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568106683.009500",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "781541d5-8928-48b4-86a1-4c9df9108c0d",
+        "type": "message",
+        "text": "アイスの手順書",
+        "user": "UGQV9DXRC",
+        "ts": "1568113881.018400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568106683.009500",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e6b5e486-4fbe-4aac-83df-492ce7c6896d",
+        "type": "message",
+        "text": "アイスと佐藤研のタイムスケジュール表",
+        "user": "UGQV9DXRC",
+        "ts": "1568113909.018600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568106683.009500",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8041FE6F-3A4B-43C6-8528-A4905E8CB6A1",
+        "type": "message",
+        "text": "ウェットティッシュ\nアルコールスプレー手指用\n養生テープ\nマジックペン\n............↑は大河原負担\n水 2200円\nオーダー済み 大河原",
+        "user": "UHFLB6JPR",
+        "ts": "1568119983.002800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "BDDCCBFC-D62F-410B-A0B6-E2B07DECE729",
+        "type": "message",
+        "text": "承知しました",
+        "user": "UHEH8KZ7W",
+        "ts": "1568161289.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568112125.014000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "38290B03-2FF9-4920-9340-378C22E726C5",
+        "type": "message",
+        "text": "腹痛が凄く動けなかったため、今から大学に向かいます。昨日ガムを食べ過ぎました。\n牛乳は少し多めに見積もって3L(65人分)\n生クリームも3L(65人分)\n砂糖多めに見積もって2.0kg(65人分)\nです。SEIYUで一番安い種類を買おうと思っています。",
+        "user": "UHEH8KZ7W",
+        "ts": "1568167455.004600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHEH8KZ7W",
+            "ts": "1568167489.000000"
+        }
+    },
+    {
+        "client_msg_id": "9EE4163E-39DB-4629-A94D-AEC0528D9025",
+        "type": "message",
+        "text": "私たちが作ったのが4人分のレシピだったっけ？\nこども3人で一袋なら、その半分でいいんじゃないかと思うんだけどどうだろう？",
+        "user": "UGQV9DXRC",
+        "ts": "1568168001.006100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B84CBB3A-30C9-4589-9C5E-B84D5966A2E5",
+        "type": "message",
+        "text": "お腹大事にしてくださいー",
+        "user": "UGQV9DXRC",
+        "ts": "1568168027.006400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A52F9A5C-8C2A-46C0-A7D6-3A6450BFB2F8",
+        "type": "message",
+        "text": "承知しました。自分たちが作ったのが3人分の分量なので\n牛乳:2.5L\n生クリーム:2.5L\n砂糖1.5kg\nの3人分の従来の量でよろしいでしょうか",
+        "user": "UHEH8KZ7W",
+        "ts": "1568168175.009900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5088AF58-892B-41A4-91B9-81E4811E1DF9",
+        "type": "message",
+        "text": "そっか！\n私たちが作ったのが大人3人分なら、\nこども3人分は大人1.5人分でいいかなと思ったのー\n少ないかな、、",
+        "user": "UGQV9DXRC",
+        "ts": "1568168343.011500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "67912731-46C7-4B93-9ED0-3E577F19887F",
+        "type": "message",
+        "text": "流石にそれだと作った感がないかな",
+        "user": "UGQV9DXRC",
+        "ts": "1568168392.011900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "BE25C583-8839-4649-8CFC-7EBB3E3FF553",
+        "type": "message",
+        "text": "確かにこどもの量で考えると大人1.5人分の方が良いと思います。では一応大目に量を計算して\n牛乳1.5L\n生クリーム1.5L\n砂糖1kgで如何でしょうか。\nまた氷はSEIYUで買わず生協での購入でよろしかったでしょうか。",
+        "user": "UHEH8KZ7W",
+        "ts": "1568168852.015700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6C480875-56C0-4E56-B894-03B493CED1F7",
+        "type": "message",
+        "text": "うん、氷と塩は元の量で作ったら時間短縮になるし\nそうしましょう！",
+        "user": "UGQV9DXRC",
+        "ts": "1568168959.016800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "36BB2F8F-1FFA-43F8-AF68-64B4D9731B78",
+        "type": "message",
+        "text": "<@UHFLB6JPR> \n氷の購入先は生協でしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1568168998.017500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C387440E-A8C9-4723-8A53-A71648AFEF59",
+        "type": "message",
+        "text": "↑全部、西友で",
+        "user": "UHFLB6JPR",
+        "ts": "1568170067.018300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "972DA9BC-7BA8-4018-90DF-75378E1E1F38",
+        "type": "message",
+        "text": "承知しました。\n大人1.5人分をこども3人分と考え、少しだけ多めに購入を考えた結果、氷を12kg購入しようと考えているのですが、よろしいでしょうか？",
+        "user": "UHEH8KZ7W",
+        "ts": "1568171635.020900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "AB31E912-34BE-48A0-AE48-DC118281D4B9",
+        "type": "message",
+        "text": "氷の量も大人1.5人分にする？",
+        "user": "UGQV9DXRC",
+        "ts": "1568172032.021800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "175C2801-163E-43F8-900F-5B648D6F0E13",
+        "type": "message",
+        "text": "すいません。見るのを忘れていました。\n<https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1568168959016800>",
+        "user": "UHEH8KZ7W",
+        "ts": "1568172088.022400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1568168959016800",
+                "fallback": "[September 10th, 2019 7:29 PM] kmt.sd.ma: うん、氷と塩は元の量で作ったら時間短縮になるし\nそうしましょう！",
+                "ts": "1568168959.016800",
+                "author_id": "UGQV9DXRC",
+                "author_subname": "鈴木美穂",
+                "channel_id": "CJZ0QGKRB",
+                "channel_name": "project_こども食堂",
+                "is_msg_unfurl": true,
+                "text": "うん、氷と塩は元の量で作ったら時間短縮になるし\nそうしましょう！",
+                "author_name": "鈴木美穂",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1568168959016800",
+                "footer": "#project_こども食堂 に投稿"
+            }
+        ],
+        "thread_ts": "1568172088.022400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1568172324.025200",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568172324.025200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "F559FDE6-7AC9-4369-B8FC-D36F03C5A26D",
+        "type": "message",
+        "text": "牛乳は1Lと0.5Lを買うと考えているのですが、同じ品名の牛乳ではなくてもよろしいでしょうか",
+        "user": "UHEH8KZ7W",
+        "ts": "1568172195.024100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9280A9A5-61F7-4F31-BCCC-7CC520950DCA",
+        "type": "message",
+        "text": "どっちでもよいんだけど、多めに買った方が氷は子供に好きなだけ入れさせてもいいしな",
+        "user": "UGQV9DXRC",
+        "ts": "1568172324.025200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172088.022400",
+        "parent_user_id": "UHEH8KZ7W"
+    },
+    {
+        "client_msg_id": "DB5E6E8B-1C62-4EA6-A7B0-275C30CC4AB8",
+        "type": "message",
+        "text": "大丈夫と思う！",
+        "user": "UGQV9DXRC",
+        "ts": "1568172342.025500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E6DEBF69-C40D-4C02-A2B5-FFB3CC21AEBD",
+        "type": "message",
+        "text": "承知しました",
+        "user": "UHEH8KZ7W",
+        "ts": "1568172368.025800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2A58958C-C223-4E3A-BBA8-FDF705C9B660",
+        "type": "message",
+        "text": "ありがとう、よろしくお願いします！",
+        "user": "UGQV9DXRC",
+        "ts": "1568172449.026600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "reply_count": 20,
+        "reply_users_count": 2,
+        "latest_reply": "1568174764.042200",
+        "reply_users": [
+            "UHEH8KZ7W",
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1568173363.027800"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568173503.028000"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1568173683.028400"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1568173820.030000"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568173874.030700"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1568173880.031100"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568174039.031800"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1568174100.032700"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568174165.032900"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1568174259.033600"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568174276.033800"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568174316.034000"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1568174456.036600"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568174476.036900"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568174479.037100"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568174498.037300"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568174517.037700"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1568174553.039400"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568174590.039900"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568174764.042200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "44D6E35C-1FB7-4549-A780-A6EBE8786883",
+        "type": "message",
+        "text": "こどもは60人と想定してよろしかったでしょうか、それとも65人でしたでしょうか",
+        "user": "UHEH8KZ7W",
+        "ts": "1568173363.027800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "10cd1a96-7b16-4641-ac80-3588e6485fa0",
+        "type": "message",
+        "text": "60でいいかも\n6チーム10人を3人ずつに区切って作ればいいから",
+        "user": "UGQV9DXRC",
+        "ts": "1568173503.028000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "D8539B57-CD11-4CB7-A993-86FD70EDCBF7",
+        "type": "message",
+        "text": "承知しました",
+        "user": "UHEH8KZ7W",
+        "ts": "1568173683.028400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "B3A01AD8-4D8C-48D0-850E-4E3490194064",
+        "type": "message",
+        "text": "西友はご注文に10日以上頂いているそうです。そのため注文ができませんでした。",
+        "user": "UHEH8KZ7W",
+        "ts": "1568173820.030000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "18d94677-4be6-4a86-b092-8b850239a05f",
+        "type": "message",
+        "text": "おーのー！",
+        "user": "UGQV9DXRC",
+        "ts": "1568173874.030700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "BAE4F8DF-D15C-4018-AE02-739FE4FB4A5E",
+        "type": "message",
+        "text": "昼食を電通大で食べた後成城石井に行ってみます。",
+        "user": "UHEH8KZ7W",
+        "ts": "1568173880.031100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "71909771-3422-480e-b91f-488c10649b74",
+        "type": "message",
+        "text": "予約しなくても買える量だし、いいかもね",
+        "user": "UGQV9DXRC",
+        "ts": "1568174039.031800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "13018A75-E808-465F-A9B7-C11F5C7266E9",
+        "type": "message",
+        "text": "もう一度西友で買い置きが可能か聞いてみます。",
+        "user": "UHEH8KZ7W",
+        "ts": "1568174100.032700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "a3dede38-4148-4390-a133-13ce7c2264b1",
+        "type": "message",
+        "text": "こども3人分イコール大人1.5とすると\n・牛乳 50ml\n・生クリーム 50ml\n・砂糖 15g\nこれをこども60人分で×20して\n・牛乳 1000ml\n・生クリーム 1000ml\n・砂糖 300g\nよね？",
+        "user": "UGQV9DXRC",
+        "ts": "1568174165.032900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "D0DA81AC-8DFC-4E3B-B784-1F630B9C3ADB",
+        "type": "message",
+        "text": "はい、一応量を多めに買おうと思っています。",
+        "user": "UHEH8KZ7W",
+        "ts": "1568174259.033600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "4e8ab267-46be-4153-b322-e1544b00bf07",
+        "type": "message",
+        "text": "うんうん",
+        "user": "UGQV9DXRC",
+        "ts": "1568174276.033800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "f64919c0-2cf1-448f-a29c-a291e87e91f6",
+        "type": "message",
+        "text": "それなら十分だし、たいした量じゃないから前日買っても間に合うんじゃないかな",
+        "user": "UGQV9DXRC",
+        "ts": "1568174316.034000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "AE8D83E1-79BC-4721-8A99-6431C85200DB",
+        "type": "message",
+        "text": "確実に手に入る確証がないのが少し不安です。氷と生クリームが特に…",
+        "user": "UHEH8KZ7W",
+        "ts": "1568174456.036600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "67a54d31-b40f-4ff7-9bda-63eb248f00fc",
+        "type": "message",
+        "text": "うーむ",
+        "user": "UGQV9DXRC",
+        "ts": "1568174476.036900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "926552dd-39b1-4bd2-8184-890b29bbcb4e",
+        "type": "message",
+        "text": "氷はね",
+        "user": "UGQV9DXRC",
+        "ts": "1568174479.037100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "737b3124-5218-4975-a70f-7493343cbe08",
+        "type": "message",
+        "text": "24キロ？",
+        "user": "UGQV9DXRC",
+        "ts": "1568174498.037300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "e6c567a0-7825-4a77-b660-fd1662a3fa96",
+        "type": "message",
+        "text": "生クリーム、うーん",
+        "user": "UGQV9DXRC",
+        "ts": "1568174517.037700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "08A616EF-CC1D-4A3E-9964-18886A580471",
+        "type": "message",
+        "text": "60人分は20kgですが、大目を見積もって22kgにしようと考えています。2kgの氷が売ってあったので",
+        "user": "UHEH8KZ7W",
+        "ts": "1568174553.039400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "4d10d349-76bb-46fa-98f9-b6ef58621e8f",
+        "type": "message",
+        "text": "ふむふむ",
+        "user": "UGQV9DXRC",
+        "ts": "1568174590.039900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "c0132746-3ec0-4302-9701-23a5641fbb5b",
+        "type": "message",
+        "text": "<@UHFLB6JPR> \n西友が注文は10日前までとのことなので、砂糖1キロ、牛乳1.5リットルは前日に購入します。\n氷22キロ、生クリーム1.5リットルが不安です。",
+        "user": "UGQV9DXRC",
+        "ts": "1568174655.040400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4faf89e4-de58-4a62-984f-24a31af3ea86",
+        "type": "message",
+        "text": "生クリームは今日からあるものを買っておけば土曜までには1.5リットル集められると思うのですが、氷は保存場所もないですし、一度に買わないと厳しいですよね:sweat:",
+        "user": "UGQV9DXRC",
+        "ts": "1568174753.042100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "81345225-7ae6-4002-b88e-cc74ca8dde33",
+        "type": "message",
+        "text": "一旦先生に相談しう",
+        "user": "UGQV9DXRC",
+        "ts": "1568174764.042200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568172449.026600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "f560e143-1386-48f6-8ec7-66e4ba40362c",
+        "type": "message",
+        "text": "西友は買い置きはできないそうです",
+        "user": "UHEH8KZ7W",
+        "ts": "1568176073.042400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568085261.000200",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "c977ae13-1462-4b6c-a0e4-be9ccf218893",
+        "type": "message",
+        "text": "今東急ストアに電話しているのですが、もしかしたら生クリームと氷を注文できそうです",
+        "user": "UHEH8KZ7W",
+        "ts": "1568177022.044900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "60d4de65-b670-4dc9-958e-d0a9b57d0350",
+        "type": "message",
+        "text": "調布の東急ストアで氷22kg(1kgを22ケース、1ケース219円)、生クリーム1.6L（200mlを8つ、１つ318円)を注文しました。\n金額は合計7362円です。税抜か税込みかについては聞き忘れてしまいました。\n注文者：福田裕司\n連絡先電話番号：080-6896-5110\n14日午前中に来店予定で注文しました。",
+        "user": "UHEH8KZ7W",
+        "ts": "1568177314.047200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHEH8KZ7W",
+            "ts": "1568177392.000000"
+        }
+    },
+    {
+        "client_msg_id": "47D1243D-7EE0-40D1-88BD-6E8470ADC186",
+        "type": "message",
+        "text": "素晴らしすぎるじゃん、、、",
+        "user": "UGQV9DXRC",
+        "ts": "1568177338.047700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "FF25E213-597E-4DE0-A393-61F0ECE5DA25",
+        "type": "message",
+        "text": "砂糖と牛乳は別に買ったらよきね",
+        "user": "UGQV9DXRC",
+        "ts": "1568177390.048400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "91BBBB31-5923-4690-9813-612468E8680C",
+        "type": "message",
+        "text": "砂糖、あまりが500くらいあるよね",
+        "user": "UGQV9DXRC",
+        "ts": "1568177418.049600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "745d87d3-eab8-4820-b477-77c3f66b1a89",
+        "type": "message",
+        "text": "牛乳も一緒に注文しますか？今からなら間に合いそうなのですが・・・\n西友に砂糖500gが売ってあります",
+        "user": "UHEH8KZ7W",
+        "ts": "1568177454.050200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9AF49807-9FFA-44DA-9725-2C707EAA690E",
+        "type": "message",
+        "text": "西友の方が安ければ西友でいいかも",
+        "user": "UGQV9DXRC",
+        "ts": "1568177493.050700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cb7de924-fe70-4371-bc60-1916cc454957",
+        "type": "message",
+        "text": "承知しました",
+        "user": "UHEH8KZ7W",
+        "ts": "1568177526.051100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "80E70E3E-06E4-40F0-9995-54ABB339A8BD",
+        "type": "message",
+        "text": "<@UHEH8KZ7W>\n注文以外でやろうと思ってることある？\n福田くんは抄録の準備をした方が良いし、上にあげたことは私の方でやるので良いかな？",
+        "user": "UGQV9DXRC",
+        "ts": "1568179421.052700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "35965f87-688e-4189-a2a5-b4c22874ba58",
+        "type": "message",
+        "text": "今はないですが、自分の可能な限りは手伝っていきたいと思っています。",
+        "user": "UHEH8KZ7W",
+        "ts": "1568179476.053200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "68BA85EA-4DB4-4C39-8E2E-1056CD45CA9C",
+        "type": "message",
+        "text": "了解、ありがとう！\nまたやってほしいことがあれ連絡するね",
+        "user": "UGQV9DXRC",
+        "ts": "1568179695.053700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "735a9c92-af65-4b80-ae91-2fb89f56c9ba",
+        "type": "message",
+        "text": "生協での物品レンタルや保管について\n\n氷の保管、ホワイトボードとかは食堂の方に細かいことは伝えて欲しいとのこと。\n明日の昼付近の時間に食堂に行って林さんという方に対応して欲しいとのこと。ただ、明後日はいないので明日中には対応した方がいい。",
+        "user": "UGQV9DXRC",
+        "ts": "1568184034.054700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

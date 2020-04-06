@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "d0b021d8-e942-48d3-817e-9b87d8ee90f1",
+        "type": "message",
+        "text": "ToDoリスト\n・ジェラートの交渉、取材、撮影\n・佐藤研の企画決め、交渉\n・応援動画撮影、編集\n・ポスター、チラシ作り→大河原研\n・タイムスケジュール詳細→アメフト部\n・具体的な企画決め→アメフト部\n・フードバンク、フードドライブ→先生が確認\n・保険、募集→9月以降\n・リターン品決め\n・アメフト部、ボランティア部の役割決め",
+        "user": "UHEH8KZ7W",
+        "ts": "1563262338.007000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "d3a71880-7690-41b5-b1ef-376588f085f8",
+        "type": "message",
+        "text": "4\/8〜12 \n・就活(面接)ウィーク 来週からぼちぼち最終面接:sleepy: GW明けには落ち着きそう",
+        "user": "UHFLC6N4X",
+        "ts": "1555060179.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UGQV9DXRC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "crossed_fingers",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e29d8e6c-2d52-445c-8f03-bd18315a3146",
+        "type": "message",
+        "text": "今日は\n&gt;①論文レビュー\n&gt;　特徴量の紐づけほぼ終わり(あと一本請求中)\n&gt;　請求出来たら画像にまとめてイントロ書いて完成にしちゃいたい\n&gt;②titanicのpython決定木→python講習資料\n&gt;　解釈途中、講習資料で形にしながら考えてる\n&gt;③自分のデータでpython決定木\n&gt;データ整理をMTALABでやろうとして調べてる\n*来週不在が多いです*\n&gt;月午後\/水午前\/木\n&gt;就職関連で今後月木は不在かも(月1はとる)\n&gt;水曜の保育は今月午前のみで後は空きそうです",
+        "user": "UGQV9DXRC",
+        "ts": "1555061259.005400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1f07f6c6-eaae-417e-ae53-4560883c2159",
+        "type": "message",
+        "text": "今日は\n&gt;論文を読み始めた\n\n来週は\n&gt;論文紹介に向けた準備\n&gt;ECSSに向けた分析\n&gt;python勉強会に向けた準備",
+        "user": "UGPH97FDW",
+        "ts": "1555066478.007500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E9DB7D28-7C15-470B-8AA1-D878674BC6C5",
+        "type": "message",
+        "text": "2019\/04\/12\n幸福論 読解(75%完了)\nTOEICの勉強",
+        "user": "UHEH8KZ7W",
+        "ts": "1555068893.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

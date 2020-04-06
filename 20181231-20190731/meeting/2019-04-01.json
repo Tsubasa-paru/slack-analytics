@@ -1,0 +1,218 @@
+[
+    {
+        "client_msg_id": "4909bf19-4cb4-4377-bc34-67aa500c0ffb",
+        "type": "message",
+        "text": "<@UGQ2ENZD0>\npython勉強会用のパソコン台数チェック",
+        "user": "UGQV9DXRC",
+        "ts": "1554109426.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1554109621.000000"
+        },
+        "thread_ts": "1554109426.000500",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1554132178.000900",
+        "reply_users": [
+            "UGQV9DXRC",
+            "UHEH8KZ7W"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554109581.000600"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554109808.000900"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1554132178.000900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9ed21ca7-0a96-408f-86ee-0b54cea4ef0e",
+        "type": "message",
+        "text": "DELL\nvaio\nHP2台(大河原研究室1,2)\n計4台\n(surfaceはまだ故障中)",
+        "user": "UGQV9DXRC",
+        "ts": "1554109581.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554109426.000500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "b824a8b5-3a1b-4fd2-88bc-5e8bfa0e78ba",
+        "type": "message",
+        "text": "学生7人+先生1人=8人\nラボPC4台+個人(先生，清水，鈴木，福田)",
+        "user": "UGQV9DXRC",
+        "ts": "1554109808.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1554166815.000000"
+        },
+        "thread_ts": "1554109426.000500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "5DCBD2C7-4CB0-4013-875F-010C9AABC45C",
+        "type": "message",
+        "text": "自分も自前のLet‘s note持って行きます",
+        "user": "UHEH8KZ7W",
+        "ts": "1554132178.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554109426.000500",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1166480f-ef02-4901-952e-7320f8700021",
+        "type": "message",
+        "text": "<@UGQ2ENZD0> <@UGPH97FDW> \n学生ゼミ後にpython勉強会の話しよ\nぺちゃんは先生との話が終わったあとでok",
+        "user": "UGQV9DXRC",
+        "ts": "1554166911.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_ok",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UGPH97FDW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "論文整理用の簡単なテンプレを用意しました\n自分の流派を見つけるまでは使ってみたらよいかも",
+        "files": [
+            {
+                "id": "FHKK56FST",
+                "created": 1554183421,
+                "timestamp": 1554183421,
+                "name": "論文整理テンプレ.xlsx",
+                "title": "論文整理テンプレ.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 12412,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHKK56FST\/________________________.xlsx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHKK56FST\/download\/________________________.xlsx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHKK56FST-b56ff3eca8\/_________________________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHKK56FST-b56ff3eca8\/_________________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FHKK56FST\/________________________.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHKK56FST-e7aa4c7ffa",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1554183425.002200",
+        "client_msg_id": "179d8cbb-03eb-4399-98ce-0077dae0deff",
+        "reactions": [
+            {
+                "name": "the_boss",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UGQV9DXRC",
+                    "UGPH97FDW",
+                    "UHEH8KZ7W",
+                    "UHC5VBV5E",
+                    "UHG1M1NQ6"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

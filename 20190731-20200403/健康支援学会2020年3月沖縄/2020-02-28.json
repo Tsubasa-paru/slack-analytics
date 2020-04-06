@@ -1,0 +1,690 @@
+[
+    {
+        "client_msg_id": "6dd95da1-f603-4ade-ac78-480690d09602",
+        "type": "message",
+        "text": "先生はポスターの発注大丈夫でしょうか、、",
+        "user": "UGQV9DXRC",
+        "ts": "1582877499.015100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K2rGW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先生はポスターの発注大丈夫でしょうか、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb136466-fc5b-4e70-a030-fd4b07054046",
+        "type": "message",
+        "text": "うぅぅ…。",
+        "user": "UHEH8KZ7W",
+        "ts": "1582877734.015300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yl1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "うぅぅ…。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e6699d84-b9e8-4fc9-83a0-d87143c1239b",
+        "type": "message",
+        "text": "けど全額返ってくるならこのままいくのもありじゃないですか、鈴木先輩は",
+        "user": "UHEH8KZ7W",
+        "ts": "1582877773.015900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BB2rQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "けど全額返ってくるならこのままいくのもありじゃないですか、鈴木先輩は"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0acda292-b74f-4164-93fc-39f20d541b14",
+        "type": "message",
+        "text": "まそれはそれで改めてこちらで考えるのでおきになさらず！",
+        "user": "UGQV9DXRC",
+        "ts": "1582878011.017100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GjIiQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まそれはそれで改めてこちらで考えるのでおきになさらず！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f2995a1b-843a-4a38-888d-754f32ffa577",
+        "type": "message",
+        "text": "<!channel> \n今後の動きについてまとめます！\n現地中止+発表資料をpdfで提出する形になりました\n\n・ポスター発表の人\n　ポスター印刷用のpwp,pdfを出す\n　(料金支払い済の為印刷するそうです)\n・口頭の人\n　発表練習なし\n　学会提出用にpdfにしておく\n・旅費について\n　福田くん<@UHEH8KZ7W>全体キャンセルお願いします、キャンセル料は出ないはずなので料金は福田くんにまとめて返金、そこからバラバラ返すのでいいですか？",
+        "user": "UGQV9DXRC",
+        "ts": "1582878737.023100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bri",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n今後の動きについてまとめます！\n現地中止+発表資料をpdfで提出する形になりました\n\n・ポスター発表の人\n　ポスター印刷用のpwp,pdfを出す\n　(料金支払い済の為印刷するそうです)\n・口頭の人\n　発表練習なし\n　学会提出用にpdfにしておく\n・旅費について\n　福田くん"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "全体キャンセルお願いします、キャンセル料は出ないはずなので料金は福田くんにまとめて返金、そこからバラバラ返すのでいいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHC5VBV5E",
+                    "UHV3GN694"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b60754e-e50b-434b-b72d-c34d53247fd4",
+        "type": "message",
+        "text": "承知しました",
+        "user": "UHEH8KZ7W",
+        "ts": "1582878902.023800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z78k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@UHFLB6JPR> ポスターが完成しましたので上げさせていただきます。実施プログラムの特徴における小見出しなのですが、上手くまとめることができなかったため、入れませんでした。\nご確認お願いします。",
+        "files": [
+            {
+                "id": "FUMSUD8E4",
+                "created": 1582890581,
+                "timestamp": 1582890581,
+                "name": "健康支援学会2020_ポスターver04.pptx",
+                "title": "健康支援学会2020_ポスターver04.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 3788107,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUMSUD8E4\/__________________2020_____________ver04.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUMSUD8E4\/download\/__________________2020_____________ver04.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUMSUD8E4-29845386db\/__________________2020_____________ver04_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUMSUD8E4-29845386db\/__________________2020_____________ver04_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 3642,
+                "thumb_pdf_h": 5149,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FUMSUD8E4\/__________________2020_____________ver04.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FUMSUD8E4-0128c569ff",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ePCL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ポスターが完成しましたので上げさせていただきます。実施プログラムの特徴における小見出しなのですが、上手くまとめることができなかったため、入れませんでした。\nご確認お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1582890591.025600",
+        "client_msg_id": "349989e8-f077-41af-b60f-98296146424e"
+    },
+    {
+        "client_msg_id": "f8cb7369-583f-4ed9-9889-cd6e08ba28d4",
+        "type": "message",
+        "text": "旅費の返金についてなのですが、先程じゃらんに電話したところ全体のキャンセルもキャンセル料がかからないということです。\nですが、都竹君のと全体ので両方に対して手続きをしないといけないということでした。また手続きが終わり次第ご連絡させていただきます。",
+        "user": "UHEH8KZ7W",
+        "ts": "1582942275.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G2xt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "旅費の返金についてなのですが、先程じゃらんに電話したところ全体のキャンセルもキャンセル料がかからないということです。\nですが、都竹君のと全体ので両方に対して手続きをしないといけないということでした。また手続きが終わり次第ご連絡させていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f74b4943-d219-4707-9084-8cc75ab59f8b",
+        "type": "message",
+        "text": "たった今返金手続きが終わりましたので1週間以内にお金が返ってくると思います。\nややこしくなると思って自分の口座に都竹君と全体のお金を指定しました。\n金額も大きいので手渡しで返却させていただきます。",
+        "user": "UHEH8KZ7W",
+        "ts": "1582942870.003300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gHtG2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "たった今返金手続きが終わりましたので1週間以内にお金が返ってくると思います。\nややこしくなると思って自分の口座に都竹君と全体のお金を指定しました。\n金額も大きいので手渡しで返却させていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC",
+                    "UHV3GN694"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FUD3ZRYD7",
+                "created": 1582945923,
+                "timestamp": 1582945923,
+                "name": "健康支援学会ポスター2020_高柳最終.pdf",
+                "title": "健康支援学会ポスター2020_高柳最終.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 4789743,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUD3ZRYD7\/______________________________2020_____________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUD3ZRYD7\/download\/______________________________2020_____________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUD3ZRYD7-78abc11379\/______________________________2020______________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 3642,
+                "thumb_pdf_h": 5149,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FUD3ZRYD7\/______________________________2020_____________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FUD3ZRYD7-f671fccf63",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1582945931.003600",
+        "client_msg_id": "debd57ad-0f84-447c-9fa1-d331501a6528"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FUD3ZUL57",
+                "created": 1582945934,
+                "timestamp": 1582945934,
+                "name": "健康支援学会ポスター2020_高柳最終.pptx",
+                "title": "健康支援学会ポスター2020_高柳最終.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 8725878,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUD3ZUL57\/______________________________2020_____________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUD3ZUL57\/download\/______________________________2020_____________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUD3ZUL57-689f019ea0\/______________________________2020______________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUD3ZUL57-689f019ea0\/______________________________2020______________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 3642,
+                "thumb_pdf_h": 5149,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FUD3ZUL57\/______________________________2020_____________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FUD3ZUL57-255dbe5c9e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1582945952.003900",
+        "client_msg_id": "823bdb21-a19a-45b0-abb3-50b38dd94b0f"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FUP741YF2",
+                "created": 1582945952,
+                "timestamp": 1582945952,
+                "name": "健康支援学会2020ポスター_都竹最終.pptx",
+                "title": "健康支援学会2020ポスター_都竹最終.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 1982880,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUP741YF2\/__________________2020_________________________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUP741YF2\/download\/__________________2020_________________________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUP741YF2-e95346fdfc\/__________________2020__________________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUP741YF2-e95346fdfc\/__________________2020__________________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 3642,
+                "thumb_pdf_h": 5149,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FUP741YF2\/__________________2020_________________________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FUP741YF2-50ca11287b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1582945962.004200",
+        "client_msg_id": "b8d89205-c86f-4b82-8873-fd582c3fcfcb"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FUNP5ELSY",
+                "created": 1582945969,
+                "timestamp": 1582945969,
+                "name": "健康支援学会2020ポスター_都竹最終.pdf",
+                "title": "健康支援学会2020ポスター_都竹最終.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 851914,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUNP5ELSY\/__________________2020_________________________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUNP5ELSY\/download\/__________________2020_________________________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUNP5ELSY-a8daef6498\/__________________2020__________________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 3642,
+                "thumb_pdf_h": 5149,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FUNP5ELSY\/__________________2020_________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FUNP5ELSY-78461db510",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1582945975.004500",
+        "client_msg_id": "de7d4c62-d5c6-4e62-83f7-6e4be1575d41"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FUR31LMFH",
+                "created": 1582945982,
+                "timestamp": 1582945982,
+                "name": "健康支援学会2020ポスター_福田最終.pptx",
+                "title": "健康支援学会2020ポスター_福田最終.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 3786792,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUR31LMFH\/__________________2020_________________________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUR31LMFH\/download\/__________________2020_________________________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUR31LMFH-46b7a4f165\/__________________2020__________________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUR31LMFH-46b7a4f165\/__________________2020__________________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 3642,
+                "thumb_pdf_h": 5149,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FUR31LMFH\/__________________2020_________________________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FUR31LMFH-4c83e34821",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1582945991.004800",
+        "client_msg_id": "b458e5d0-b770-4ad3-9843-5656d148173a"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FUP7N6885",
+                "created": 1582945997,
+                "timestamp": 1582945997,
+                "name": "健康支援学会2020ポスター_福田最終.pdf",
+                "title": "健康支援学会2020ポスター_福田最終.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 2208379,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUP7N6885\/__________________2020_________________________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUP7N6885\/download\/__________________2020_________________________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUP7N6885-684e26291d\/__________________2020__________________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 3642,
+                "thumb_pdf_h": 5149,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FUP7N6885\/__________________2020_________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FUP7N6885-66a4d4feab",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1582946004.005100",
+        "client_msg_id": "40b2981e-b41d-4b45-b9c1-b8f2e14eecbd"
+    },
+    {
+        "client_msg_id": "8bb687a2-1ca7-40d4-8b8f-8a4f5daab05a",
+        "type": "message",
+        "text": "キャンセルできないので、印刷にまわしました。\nドライブにあげといてください。\nポスターの準備ご苦労様でした。",
+        "user": "UHFLB6JPR",
+        "ts": "1582946104.006600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ow=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "キャンセルできないので、印刷にまわしました。\nドライブにあげといてください。\nポスターの準備ご苦労様でした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

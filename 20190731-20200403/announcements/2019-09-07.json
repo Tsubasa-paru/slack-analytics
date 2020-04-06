@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "300DEEF7-8641-4318-BA31-6A1761CE0BA4",
+        "type": "message",
+        "text": "ぬおお、かっこいい感じになっとる！！",
+        "user": "UGQV9DXRC",
+        "ts": "1567853889.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "FB9266C8-C346-4F68-9648-23F1E4997948",
+        "type": "message",
+        "text": "Googlephotoのアルバム作ったので共有お願いしますー！\n今まであげてくれたのは入れてある！\n<https:\/\/photos.app.goo.gl\/sZ5RtFxUw5PsX2Rv6>",
+        "user": "UGQV9DXRC",
+        "ts": "1567854253.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Google Photos",
+                "title": "2019ゼミ合宿",
+                "title_link": "https:\/\/photos.app.goo.gl\/sZ5RtFxUw5PsX2Rv6",
+                "text": "New photo added to shared album",
+                "fallback": "Google Photos: 2019ゼミ合宿",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/eIErCAI-6a0tOQ7PcYy362Kp-hqF-xZWMsyQSQjbOk5Oo_HDwAhW3_eqLDjkFg3CnDx3GLVJjYrZ857d4rJ_d_CFQpd5VrXvhH7aB8PIo-mIUgRvvYfIuHSJfvFO-pWxGdUSCrqOgg",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/photos.app.goo.gl\/sZ5RtFxUw5PsX2Rv6",
+                "image_bytes": 36937,
+                "service_icon": "http:\/\/ssl.gstatic.com\/images\/branding\/product\/1x\/photos_512dp.png",
+                "id": 1,
+                "original_url": "https:\/\/photos.app.goo.gl\/sZ5RtFxUw5PsX2Rv6"
+            }
+        ]
+    }
+]

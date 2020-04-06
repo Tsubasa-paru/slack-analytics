@@ -1,0 +1,104 @@
+[
+    {
+        "type": "message",
+        "text": "先行研究との比較について\nEllisのものが4項目と8項目で実験室内、ランダムフォレストでかなり内容が近いので比較した。\nEllisは交差検証しておらずトレーニングとテストを7:3で割りつけてやってるので精度が高く出ていると思う。私のデータでも7:3で割りつけると14分類で99%と出るので、それも書き加えれば先行研究と比較したとき条件を揃えれば同等もしくはそれ以上が見込めそうだとかけるか？",
+        "files": [
+            {
+                "id": "FSW33J80J",
+                "created": 1580291182,
+                "timestamp": 1580291182,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 8334,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FSW33J80J\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FSW33J80J\/download\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSW33J80J-caebe58c93\/image_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSW33J80J-caebe58c93\/image_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSW33J80J-caebe58c93\/image_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 258,
+                "thumb_360_h": 105,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSW33J80J-caebe58c93\/image_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "image_exif_rotation": 1,
+                "original_w": 258,
+                "original_h": 105,
+                "thumb_tiny": "AwATADDQyuSPl4pRgnjb+VKxC9R+QoBBHFADPL57+tOK5GMCl\/i\/CgnA4oAj2cYwaeFwOgpMD0H504HIoAbk+tGT60lFABnnPegnPXmiigAoBx0oooA\/\/9k=",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FSW33J80J\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FSW33J80J-d50c7cd0a1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lYDq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先行研究との比較について\nEllisのものが4項目と8項目で実験室内、ランダムフォレストでかなり内容が近いので比較した。\nEllisは交差検証しておらずトレーニングとテストを7:3で割りつけてやってるので精度が高く出ていると思う。私のデータでも7:3で割りつけると14分類で99%と出るので、それも書き加えれば先行研究と比較したとき条件を揃えれば同等もしくはそれ以上が見込めそうだとかけるか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1580291185.001400",
+        "client_msg_id": "c17d7f0b-4e27-4e6b-a615-652f6e5ba081"
+    },
+    {
+        "client_msg_id": "1878289d-5cae-4318-b762-bfa3e21daf58",
+        "type": "message",
+        "text": "その上で、私の研究では将来的には構築した木によって、新しい対象者のデータの分類を行うことが目的だから、その視点で精度が上がるように頑張る、といった書き方？",
+        "user": "UGQV9DXRC",
+        "ts": "1580291246.002600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VGig",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "その上で、私の研究では将来的には構築した木によって、新しい対象者のデータの分類を行うことが目的だから、その視点で精度が上がるように頑張る、といった書き方？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

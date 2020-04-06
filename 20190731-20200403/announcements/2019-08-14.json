@@ -1,0 +1,56 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel> 　*全員一度は見てね*\n今日からこども食堂かくしょうじにて、こども食堂の参加申し込みが始まります。\n申込方法は主にネット・かくしょうじの申込用紙からだと思いますが、\n*電話での申し込みの場合は皆さんもご協力お願いします*\n\n申込受付手順は以下の通り\n&gt;①電話を受けたら「電気通信大学大河原研究室です」\n&gt;②申込の場合は、日時を確認し、扉に貼ってある申込要項に沿って必要事項を伺う\n&gt;③質問などは「担当者から折り返させていただきます」+電話番号を確認し、私に連絡",
+        "files": [
+            {
+                "id": "FMF1KP50F",
+                "created": 1565849533,
+                "timestamp": 1565849533,
+                "name": "こども食堂2019_申込要項.pdf",
+                "title": "こども食堂2019_申込要項.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 80538,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMF1KP50F\/_______________2019_____________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMF1KP50F\/download\/_______________2019_____________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMF1KP50F-4430a9605e\/_______________2019______________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 825,
+                "thumb_pdf_h": 1192,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMF1KP50F\/_______________2019_____________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMF1KP50F-82f04e9f18",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1565849534.000100",
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1565849612.000000"
+        },
+        "client_msg_id": "51f7c5fb-011d-407d-9866-48a4c41b971c",
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHC5VBV5E",
+                    "UHG1M1NQ6"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

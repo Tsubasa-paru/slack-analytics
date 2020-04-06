@@ -1,0 +1,78 @@
+[
+    {
+        "type": "message",
+        "text": "倫理申請の手順\nこの期にみんなに共有しておくね\n実験が必要な<@UHEH8KZ7W> <@UHC5VBV5E> <@UHG1M1NQ6> は7月あたりまで？には揃えることになると思うので、念頭に置いておいてください:hand:\n\n倫理申請の必要書類\n<https:\/\/drive.google.com\/file\/d\/1yW_lQJkWdccB9A8B9ZWYK7I1WJv1W80f\/view?usp=drivesdk>\n\n参考\n<https:\/\/drive.google.com\/folderview?id=1V_7Y2dBAHcD4RboW90AKeTxAMalWTkj7>",
+        "files": [
+            {
+                "id": "FJCBA143T",
+                "created": 1557399734,
+                "timestamp": 1557399734,
+                "name": "倫理申請書手順.pdf",
+                "title": "倫理申請書手順.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 653114,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/file\/d\/1yW_lQJkWdccB9A8B9ZWYK7I1WJv1W80f\/view?usp=drivesdk",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJCBA143T-3ace921fb4\/______________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FJCBA143T\/_____________________.pdf",
+                "is_starred": false,
+                "external_id": "1yW_lQJkWdccB9A8B9ZWYK7I1WJv1W80f",
+                "external_url": "https:\/\/drive.google.com\/file\/d\/1yW_lQJkWdccB9A8B9ZWYK7I1WJv1W80f\/view?usp=drivesdk",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FJCBA143T"
+        ],
+        "ts": "1557400161.003400",
+        "client_msg_id": "c3233e99-fd94-4e6e-9eb4-2fd0d2045021",
+        "reactions": [
+            {
+                "name": "custom_ok",
+                "users": [
+                    "UHC5VBV5E",
+                    "UHG1M1NQ6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A48164E1-7CD0-4B96-9E3A-EA67D36B1E71",
+        "type": "message",
+        "text": "了解です。",
+        "user": "UHEH8KZ7W",
+        "ts": "1557400189.004200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557201835.002800",
+        "parent_user_id": "UHEH8KZ7W"
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "client_msg_id": "0deabfe5-6ab7-405d-b531-35455270884c",
+        "type": "message",
+        "text": "*便利なSlack記法*\n\n文字列の両脇を * で囲うことで強調(ボールド)できます．\n*強調*\n\n文字列の両脇を ` (逆クォート)で囲うと引用文になります．\n`引用文1`\n\n逆クォート3つで囲うとボーダー付き引用段落になります．\n```\n引用1\n段落1\n```\n\n行頭に &gt; をつけることで引用文になります．\n&gt; 引用文2\n\nまた&gt;を3つ並べると改行含めた段落全体が引用表現となります．\n&gt;&gt;&gt;\n引用\n段落2",
+        "user": "UGQ2ENZD0",
+        "ts": "1553247893.004600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1553248793.000000"
+        },
+        "thread_ts": "1553247893.004600",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1553248836.005700",
+        "reply_users": [
+            "UGQV9DXRC",
+            "UGQ2ENZD0"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1553248560.005100"
+            },
+            {
+                "user": "UGQ2ENZD0",
+                "ts": "1553248754.005300"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1553248836.005700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "94775764-758d-44da-8826-1ceea41a49ce",
+        "type": "message",
+        "text": "引用になりますって下のようになりますって意味か笑\n逆クォートでかこうやつは色文字になるてこと？",
+        "user": "UGQV9DXRC",
+        "ts": "1553248560.005100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1553247893.004600",
+        "parent_user_id": "UGQ2ENZD0"
+    },
+    {
+        "client_msg_id": "60f5f7c3-aaee-4c86-b1b2-9395b042c3e0",
+        "type": "message",
+        "text": "そうですそうです！\n逆クォートのやつは主に `文中引用` で使います．\n逆クォート3連は主に\n```\n・長い文章を引用するとき\n・ブロックで囲われた引用をしたいとき\n・下のみたいなソースコードを引用したいとき\nimport numpy as np\nprint('Hello world')\n```\nなどに使うと便利です．",
+        "user": "UGQ2ENZD0",
+        "ts": "1553248754.005300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1553248768.000000"
+        },
+        "thread_ts": "1553247893.004600",
+        "parent_user_id": "UGQ2ENZD0"
+    },
+    {
+        "client_msg_id": "da90df19-aaf3-4907-9395-78b4d3e87954",
+        "type": "message",
+        "text": "ふむふむなるほど\nありがとう！",
+        "user": "UGQV9DXRC",
+        "ts": "1553248836.005700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1553247893.004600",
+        "parent_user_id": "UGQ2ENZD0"
+    },
+    {
+        "client_msg_id": "2ee58f41-58ba-4252-a60c-869864f9175c",
+        "type": "message",
+        "text": "カスタム絵文字をいくつか登録しましたのでご査収ください．\n:custom_kidoku:  :custom_shochi: :custom_ok:  :custom_ryokai:",
+        "user": "UGQ2ENZD0",
+        "ts": "1553250043.007800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_ok",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42b568aa-fd8a-4bb7-87f7-a47d3ecfa4fe",
+        "type": "message",
+        "text": "絵文字で返事するのは……というときや定型文で返信するのが面倒くさいときに便利です．",
+        "user": "UGQ2ENZD0",
+        "ts": "1553250092.008900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

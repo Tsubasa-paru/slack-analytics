@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "There are *3* events this week",
+        "ts": "1569744002.000100",
+        "username": "ohkawaralab@gmail.com",
+        "bot_id": "BH8BEDHKK",
+        "attachments": [
+            {
+                "fallback": "学生ゼミ: <!date^1569902400^{date_short_pretty} from {time}|September 30th, 2019 from 1:00 PM> to <!date^1569906000^{time}|2:00 PM GMT+0900>",
+                "text": "<!date^1569902400^{date_short_pretty} from {time}|September 30th, 2019 from 1:00 PM> to <!date^1569906000^{time}|2:00 PM GMT+0900>",
+                "title": "学生ゼミ",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=bDkxN2MzMTJqbWZvYmVxN2JzbjFpaDVldGdfMjAxOTEwMDFUMDQwMDAwWiBvaGthd2FyYWxhYkBt",
+                "color": "4986e7",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "ゼミ: <!date^1570161600^{date_short_pretty} from {time}|October 3rd, 2019 from 1:00 PM> to <!date^1570165200^{time}|2:00 PM GMT+0900>",
+                "text": "<!date^1570161600^{date_short_pretty} from {time}|October 3rd, 2019 from 1:00 PM> to <!date^1570165200^{time}|2:00 PM GMT+0900>",
+                "title": "ゼミ",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=ZmR2NTNwNnRwNjJqZmFoYmEycmYxYmwzZmNfMjAxOTEwMDRUMDQwMDAwWiBvaGthd2FyYWxhYkBt",
+                "color": "4986e7",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "修論中間発表: September 30th, 2019",
+                "text": "September 30th, 2019",
+                "title": "修論中間発表",
+                "id": 3,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NXJpdmpjanA2dGZtOG01c2NoN2ZoNW5wcGQgb2hrYXdhcmFsYWJAbQ",
+                "color": "4986e7",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    }
+]

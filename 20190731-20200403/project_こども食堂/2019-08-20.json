@@ -1,0 +1,271 @@
+[
+    {
+        "client_msg_id": "97c932ec-e651-4542-b05d-79ba83e03f39",
+        "type": "message",
+        "text": "<@UHEH8KZ7W>\n<https:\/\/faavo.jp\/tokyochofufuchu\/project\/2934\/report\/17791#pj-single-nav>\nこんな感じで、今日は参加者募集のチラシが出来ましたレポート、明日はこども食堂かくしょうじの応援レポートを投稿してください～\nレポートを投稿したら、ラボのツイッターと全体のライングループにレポート投稿しましたよって事をポストしてくれるとよき！",
+        "user": "UGQV9DXRC",
+        "ts": "1566285227.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1566286123.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "地域 × クラウドファンディング FAAVO",
+                "title": "クラウドファンディングのチラシが完成しました！ | FAAVO東京調布・府中",
+                "title_link": "https:\/\/faavo.jp\/tokyochofufuchu\/project\/2934\/report\/17791#pj-single-nav",
+                "text": "大河原研究室の鈴木です。クラウドファンディング開始からちょうど７日となりましたが、なんと達成率52%！皆様のお力添えで、まずこどもたちの食費分を賄うことができます。ご協力いただいた皆様、本当にありがとうございます！&amp;nbsp;",
+                "fallback": "地域 × クラウドファンディング FAAVO: クラウドファンディングのチラシが完成しました！ | FAAVO東京調布・府中",
+                "image_url": "https:\/\/faavo-images.s3-ap-northeast-1.amazonaws.com\/project\/2934.png?_=1551132246",
+                "from_url": "https:\/\/faavo.jp\/tokyochofufuchu\/project\/2934\/report\/17791#pj-single-nav",
+                "image_width": 374,
+                "image_height": 250,
+                "image_bytes": 408901,
+                "service_icon": "https:\/\/faavo.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/faavo.jp\/tokyochofufuchu\/project\/2934\/report\/17791#pj-single-nav"
+            }
+        ],
+        "thread_ts": "1566285227.001900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1566285968.006300",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1566285968.006300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "63a21022-8aa2-4e1e-bead-d7fbbac76bcc",
+        "type": "message",
+        "text": "・アメフト部にジェラート取材の詳細を詰めておいてほしいと連絡(<@UHEH8KZ7W>)\n　とりあえずスポルアップ様には以下のような感じでメールを出したいのですが大丈夫でしょうか？(<@UHFLB6JPR>)\n\n&gt;・日程候補\n&gt;　8\/27（火）\n&gt;　9\/5（木）\n&gt;　9\/6（金）(ゼミ合宿なので大河原研は不在)\n&gt;　9\/9（月）\n&gt;\n&gt;・撮影内容\n&gt;　①こども食堂に関する応援メッセージ(1分程度)\n&gt;　②ジェラートの作り方(過程)\n&gt;　③ジェラートを学生が食べる様子\n&gt;　動画で伝えたい事：実際にジェラートはどう作られているのかを動画や写真で見せることで、ただ食べるだけではなくそこに至る過程があること、その面白さを伝えたい",
+        "user": "UGQV9DXRC",
+        "ts": "1566285698.006100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1566285803.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FMH940EQL",
+                "created": 1566285965,
+                "timestamp": 1566285965,
+                "name": "こども食堂2019_参加者募集(A4)印刷完成版.jpg",
+                "title": "こども食堂2019_参加者募集(A4)印刷完成版.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 248141,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMH940EQL\/_______________2019_________________a4________________.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMH940EQL\/download\/_______________2019_________________a4________________.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMH940EQL-ff8a00cdd1\/_______________2019_________________a4_________________64.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMH940EQL-ff8a00cdd1\/_______________2019_________________a4_________________80.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMH940EQL-ff8a00cdd1\/_______________2019_________________a4_________________360.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMH940EQL-ff8a00cdd1\/_______________2019_________________a4_________________480.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMH940EQL-ff8a00cdd1\/_______________2019_________________a4_________________160.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMH940EQL-ff8a00cdd1\/_______________2019_________________a4_________________720.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMH940EQL-ff8a00cdd1\/_______________2019_________________a4_________________800.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 566,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMH940EQL-ff8a00cdd1\/_______________2019_________________a4_________________960.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMH940EQL-ff8a00cdd1\/_______________2019_________________a4_________________1024.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 794,
+                "original_h": 1123,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMH940EQL\/_______________2019_________________a4________________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMH940EQL-fa54d2289f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1566285968.006300",
+        "client_msg_id": "fbc32e60-e56d-4347-b991-c8217bb8b9c5",
+        "thread_ts": "1566285227.001900",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "dd5eb017-4c85-4009-8804-bd884a81a402",
+        "type": "message",
+        "text": "去年私が頑張った事\n・クラウドファンディングを支援してくださった方へのお礼\n　プロジェクトマイページの支援者のところにメッセージを送るボタンがあるので、そこから支援してくれた方にお礼のメッセージを送ってます。メッセージ自体は他の人のコピペでokですが、個別に名前を書いて送ってあげると丁寧。\n・ツイッターの拡散\n　アメフト部もやってくれてますが、レポート投稿したらツイートしたり、#こども食堂 #ボランティアみたいにタグをつけて投稿すると反応してくれる人がいます。去年はそのつてで何人か支援してくれた。\n<https:\/\/twitter.com\/ohkawaralab\/status\/1013409527721365504?s=20>\nラボのではこんな感じ\n・こども食堂のワードをつぶやいてる人にイイネを押しまくる",
+        "user": "UGQV9DXRC",
+        "ts": "1566286519.010800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "*【決める事】*\n・こども食堂当日の企画：アイスの説明、科学実験はやる？\n*【行動する事】*\n・食神に応援メッセージ貰いに行く(+去年のレポートを印刷して持っていくとよい)\n・ボランティア部に紹介用の写真と文章を請求\n・ジェラート取材の日程調整(鈴木)\n*【アクションがあればやる事】*\n・こども食堂のネット申込が来たら、ohkawaralabのアドレスから受付メールを返送する\n　<https:\/\/docs.google.com\/spreadsheets\/d\/1zSlAfq_KAFDH0qxrFDmhuKImaF3-kChKrlNJIzqFoAA\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "FM6A578R1",
+                "created": 1566286887,
+                "timestamp": 1566286887,
+                "name": "電気通信大学 こども食堂 2019申込（回答）",
+                "title": "電気通信大学 こども食堂 2019申込（回答）",
+                "mimetype": "application\/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 55627,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1zSlAfq_KAFDH0qxrFDmhuKImaF3-kChKrlNJIzqFoAA\/edit?usp=sharing",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FM6A578R1-16f879aef3\/___________________________________2019___________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FM6A578R1\/___________________________________2019__________________",
+                "is_starred": false,
+                "external_id": "1zSlAfq_KAFDH0qxrFDmhuKImaF3-kChKrlNJIzqFoAA",
+                "external_url": "https:\/\/docs.google.com\/spreadsheets\/d\/1zSlAfq_KAFDH0qxrFDmhuKImaF3-kChKrlNJIzqFoAA\/edit?usp=sharing",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FM6A578R1"
+        ],
+        "ts": "1566286885.011800",
+        "client_msg_id": "bc3f07a9-bd46-400c-a1d7-a1537a53ee50"
+    },
+    {
+        "type": "message",
+        "text": "参加受付メッセージ",
+        "files": [
+            {
+                "id": "FMHPF0LM6",
+                "created": 1566287429,
+                "timestamp": 1566287285,
+                "name": "Fwd: 電気通信大学こども食堂2019参加受付",
+                "title": "Fwd: 電気通信大学こども食堂2019参加受付",
+                "mimetype": "text\/html",
+                "filetype": "email",
+                "pretty_type": "Email",
+                "user": "UGQV9DXRC",
+                "editable": true,
+                "size": 10424,
+                "mode": "email",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMHPF0LM6\/fwd___________________________________2019____________?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMHPF0LM6\/download\/fwd___________________________________2019____________?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMHPF0LM6\/fwd___________________________________2019____________",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMHPF0LM6-76e386fc19",
+                "subject": "Fwd: 電気通信大学こども食堂2019参加受付",
+                "to": [
+                    {
+                        "address": "kmt.sd.ma@gmail.com",
+                        "name": "鈴木美穂",
+                        "original": "鈴木美穂  <kmt.sd.ma@gmail.com>"
+                    }
+                ],
+                "from": [
+                    {
+                        "address": "ohkawaralab@gmail.com",
+                        "name": "大河原研究室",
+                        "original": "大河原研究室 <ohkawaralab@gmail.com>"
+                    }
+                ],
+                "cc": [],
+                "attachments": [],
+                "plain_text": "---------- Forwarded message ---------\r\nFrom: 大河原研究室 <ohkawaralab@gmail.com>\r\nDate: 2019年8月20日(火) 16:47\r\nSubject: 電気通信大学こども食堂2019参加受付\r\nTo: <>\r\n\r\n\r\n\r\n~~~~ 様\r\n\r\nこんにちは！\r\n電気通信大学こども食堂プロジェクトチームです。\r\n\r\nこの度は私たちが開催するこども食堂に参加申し込みをしていただき、ありがとうございました！\r\nこのメールを持ちまして、受付完了とさせていただきます。\r\nもし万が一ご都合が悪くなってしまった場合は、\r\n早めにキャンセルのご連絡を頂けますという幸いです。キャンセル待ちの方にお声がけいたしますので、ご協力のほどよろしくお願いいたします。\r\n\r\n当日は様々な企画をご用意していますので、ぜひ楽しみにいらしてください。\r\nチーム一同、心からお待ちしております！\r\n\r\n電気通信大学こども食堂プロジェクトチーム\r\n代表：電気通信大学大河原研究室\r\n代表連絡先：042-443-5526(or 080-7940-5526)\r\nこども食堂ホームページ：http:\/\/www.sport.edu.uec.ac.jp\/shokudo2019\/",
+                "preview": "<div><br><br><div><div>---------- Forwarded message ---------<br>From: &#22823;&#27827;&#21407;&#30740;&#31350;&#23460; <span>&lt;<a href=\"mailto:ohkawaralab@gmail.com\">ohkawaralab@gmail.com<\/a>&gt;<\/span><br>Date: 2019&#24180;8&#26376;20&#26085;(&#28779;) 16:47<br>Subject: &#38651;&#27671;&#36890;&#20449;&#22823;&#23398;&#12371;&#12393;&#12418;&#39135;&#22530;2019&#21442;&#21152;&#21463;&#20184;<br>To:  &lt;&gt;<br><\/div><br><br><div><br><div>~~~~&#12288;&#27096;<\/div><div>&#12371;&#12435;&#12395;&#12385;&#12399;&#65281;<\/div><div>&#38651;&#27671;&#36890;&#20449;&#22823;&#23398;&#12371;&#12393;&#12418;&#39135;&#22530;&#12503;&#12525;&#12472;&#12455;&#12463;&#12488;&#12481;&#12540;&#12512;&#12391;&#12377;&#12290;<\/div><div>&#12371;&#12398;&#24230;&#12399;&#31169;&#12383;&#12385;&#12364;&#38283;&#20652;&#12377;&#12427;&#12371;&#12393;&#12418;&#39135;&#22530;&#12395;&#21442;&#21152;&#30003;&#12375;&#36796;&#12415;&#12434;&#12375;&#12390;&#12356;&#12383;&#12384;&#12365;&#12289;&#12354;&#12426;&#12364;&#12392;&#12358;&#12372;&#12374;&#12356;&#12414;&#12375;&#12383;&#65281;<\/div><div>&#12371;&#12398;&#12513;&#12540;&#12523;&#12434;&#25345;&#12385;&#12414;<\/div><\/div><\/div><\/div>",
+                "preview_plain_text": "---------- Forwarded message ---------\r\nFrom: 大河原研究室 <ohkawaralab@gmail.com>\r\nDate: 2019年8月20日(火) 16:47\r\nSubject: 電気通信大学こども食堂2019参加受付\r\nTo: <>\r\n\r\n\r\n\r\n~~~~ 様\r\n\r\nこんにちは！\r\n電気通信大学こども食堂プロジェクトチームです。\r\n\r\nこの度は私たちが開催するこども食堂に参加申し込みをしていただき、ありがとうございました！\r\nこのメールを持ちまして、受付完了とさせていただきます。\r\nもし万が一ご都合が悪くなってしまった場合は、\r\n早めにキャンセルのご連絡を頂けますという幸いです。キャンセル待ちの方にお声がけいたしますので、ご協力のほどよろしくお願いいたします。\r\n\r\n当日は様々な企画をご用意していますので、ぜひ楽しみにいらしてください。\r\nチーム一同、心からお待ちしております！\r\n\r\n電気通信大学こども食堂プロジェクトチーム\r\n代表：電気通信大学大河原研究室\r\n代表連絡先：042-443-5526(or 080-7940-5526)\r\n",
+                "headers": {
+                    "date": "Tue, 20 Aug 2019 16:48:05 +0900"
+                },
+                "has_more": true,
+                "sent_to_self": false,
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1566287447.012300"
+    }
+]

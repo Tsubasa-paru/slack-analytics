@@ -1,0 +1,171 @@
+[
+    {
+        "client_msg_id": "72927102-C37E-4EC3-A215-D7E7EECC0A01",
+        "type": "message",
+        "text": "フードドライブ\n８月８日（木）１０時～社協の団体室で開催します。",
+        "user": "UHFLB6JPR",
+        "ts": "1561940981.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561940981.000400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1561945547.001000",
+        "reply_users": [
+            "UHEH8KZ7W"
+        ],
+        "replies": [
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1561945547.001000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "688b9efb-dc01-4ff6-861f-72ad66fe40fe",
+        "type": "message",
+        "text": "竹中裕晃さん\n電話：０８０－５２５５－５５９４",
+        "user": "UHFLB6JPR",
+        "ts": "1561942540.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC",
+                    "UHEH8KZ7W"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BCFAB5C4-B375-45A9-97DD-C0E810ED1E3B",
+        "type": "message",
+        "text": "了解です！",
+        "user": "UHEH8KZ7W",
+        "ts": "1561945547.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561940981.000400",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "c8068328-9391-4bc1-aa04-56dcb101d358",
+        "type": "message",
+        "text": "食育×化学で個人的にいいなと思ったもの(代表者のLINEから選別)\n\n<https:\/\/www.manabinoba.com\/shokuiku\/10903.html>\n→時間が余った時などにやるといいかも(佐藤研の余った時間など)\n\n<https:\/\/vonds.jp\/12529\/>\n→こども=アイス好きという偏見ですが、家などでもやりたがるかも・・・(食育になっているかは分からない)\n\n<http:\/\/renbi.com\/blog\/entry-5375>\n→お金はかかるがインパクトはとても強いと思う\n\n<https:\/\/www.manabinoba.com\/shokuiku\/015495.html>\n→食育とも化学とも関連していていいかも",
+        "user": "UHEH8KZ7W",
+        "ts": "1561962334.004700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "学びの場.com",
+                "title": "私はだれでしょう - 食育と授業",
+                "title_link": "https:\/\/www.manabinoba.com\/shokuiku\/10903.html",
+                "text": "第三十二回目のテーマは「食と科学」。野菜の名前当てゲームを通して、楽しみながら野菜の特徴に関心を持たせます。",
+                "fallback": "学びの場.com: 私はだれでしょう - 食育と授業",
+                "image_url": "https:\/\/www.manabinoba.com\/common\/images\/ogp.png",
+                "from_url": "https:\/\/www.manabinoba.com\/shokuiku\/10903.html",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 42954,
+                "service_icon": "https:\/\/www.manabinoba.com\/common\/images\/apple-touch-icon-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/www.manabinoba.com\/shokuiku\/10903.html"
+            },
+            {
+                "service_name": "VONDS（ボンズ） 〜 親と子が成長するランドセル",
+                "title": "冷蔵庫を使わない手作りアイスに挑戦しよう（VONDSランドセルコラム） | VONDS（ボンズ） 〜 親と子が成長するランドセル",
+                "title_link": "https:\/\/vonds.jp\/12529\/",
+                "text": "冷蔵庫を使わない手作りアイスに挑戦しよう（VONDSランドセルコラム）夏といえばアイスが食べたくなる季節。アイスクリームは手作りするのが意外と簡単なデザートです。それも冷蔵庫・冷凍庫を使わずに、10分で作ることができます。この夏はお子さんと一緒に、手作りアイスに挑戦されてみてはいかがでしょうか。理科の自由研究にもぴったりですよ。今回ご紹介するのは、冷凍庫を一切使わないアイス作りです。使用するのは「",
+                "fallback": "VONDS（ボンズ） 〜 親と子が成長するランドセル: 冷蔵庫を使わない手作りアイスに挑戦しよう（VONDSランドセルコラム） | VONDS（ボンズ） 〜 親と子が成長するランドセル",
+                "image_url": "https:\/\/i2.wp.com\/vonds.jp\/wp-content\/uploads\/2016\/08\/1a60da272bc6ffd20a80bed6297aad46.jpg?fit=840%2C558&ssl=1",
+                "ts": 1470039868,
+                "from_url": "https:\/\/vonds.jp\/12529\/",
+                "image_width": 376,
+                "image_height": 250,
+                "image_bytes": 46601,
+                "service_icon": "https:\/\/i2.wp.com\/vonds.jp\/wp-content\/uploads\/2016\/02\/vonds.png?fit=52%2C42&#038;ssl=1",
+                "id": 2,
+                "original_url": "https:\/\/vonds.jp\/12529\/"
+            },
+            {
+                "title": "幼児クラス食育「紫キャベツの実験」 | 蓮美幼児学園もりのみやナーサリーブログ",
+                "title_link": "http:\/\/renbi.com\/blog\/entry-5375",
+                "text": "蓮美幼児学園もりのみやナーサリーの保育園ブログ「幼児クラス食育「紫キャベツの実験」」",
+                "fallback": "幼児クラス食育「紫キャベツの実験」 | 蓮美幼児学園もりのみやナーサリーブログ",
+                "from_url": "http:\/\/renbi.com\/blog\/entry-5375",
+                "service_icon": "http:\/\/renbi.com\/favicon.ico",
+                "service_name": "renbi.com",
+                "id": 3,
+                "original_url": "http:\/\/renbi.com\/blog\/entry-5375"
+            },
+            {
+                "service_name": "学びの場.com",
+                "title": "ビタミンCマジック！ - 食育と授業",
+                "title_link": "https:\/\/www.manabinoba.com\/shokuiku\/015495.html",
+                "text": "第118回目の単元は「ビタミンCマジック！」です。",
+                "fallback": "学びの場.com: ビタミンCマジック！ - 食育と授業",
+                "image_url": "https:\/\/www.manabinoba.com\/common\/images\/ogp.png",
+                "from_url": "https:\/\/www.manabinoba.com\/shokuiku\/015495.html",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 42954,
+                "service_icon": "https:\/\/www.manabinoba.com\/common\/images\/apple-touch-icon-precomposed.png",
+                "id": 4,
+                "original_url": "https:\/\/www.manabinoba.com\/shokuiku\/015495.html"
+            }
+        ]
+    }
+]

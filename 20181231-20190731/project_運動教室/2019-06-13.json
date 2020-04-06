@@ -1,0 +1,32 @@
+[
+    {
+        "client_msg_id": "dd3ba224-4c80-4f0a-8b98-7175836e2545",
+        "type": "message",
+        "text": "本日の西部地域福祉センターの運動教室には大河原先生のほか，岡田先輩，清水，福田くんが参加しました．\n高齢者の参加者は20名程度でした．\nステップを60分の後に，頭の体操と単語作りゲームをいたしました．\n\n来週の6\/20(木)も14:00-15:30で運動教室を実施するので，参加可能な学生は極力参加してください．\n集合は *13:00* に研究室です． *16:00* 頃に大学に戻ります．",
+        "user": "UGQ2ENZD0",
+        "ts": "1560426030.003800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "UHFLC6N4X"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

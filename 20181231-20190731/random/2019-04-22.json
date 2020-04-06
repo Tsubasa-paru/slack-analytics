@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "61aafbeb-cae0-4350-b1d7-35357c21ee63",
+        "type": "message",
+        "text": "<https:\/\/mobile.twitter.com\/WheeLog_App>",
+        "user": "UGQV9DXRC",
+        "ts": "1555985110.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5a981a57-153c-487e-b93e-369fab7608ac",
+        "type": "message",
+        "text": "Wheelogっていう車イスの方専用の地図アプリを作ってる会社だそうです。\n車イスの方が、車イスに関する情報や辿った道を記入してシェアすることが出来るらしい。\n脊椎損傷の方で使ってらっしゃる方を見かけたので共有しておきます:hand:",
+        "user": "UGQV9DXRC",
+        "ts": "1555985246.003300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6096d6af-ddda-4b92-96cf-479e257ba931",
+        "type": "message",
+        "text": "社長さん\n<https:\/\/mobile.twitter.com\/yurik00da>",
+        "user": "UGQV9DXRC",
+        "ts": "1555985340.003900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "de3d3ee6-17c9-4759-bd16-7d57019803fe",
+        "type": "message",
+        "text": "車椅子でもなんでも、先人がいるというのは安心材料になる。「この先にはバリアフリーな飲食店やトイレがあるよ」という情報も。\n\n自分が車椅子で走行した道をシェアし、みんなで大きくできるアプリ「WheeLog！」、完全無料だし便利だから是非使ってくださいね\n\n<https:\/\/t.co\/cfEVDsIsEX>\n#wheelog <https:\/\/t.co\/bQ3vY6bZpX>\n\n<https:\/\/twitter.com\/origamicat\/status\/1105484583175282689>",
+        "user": "UGQV9DXRC",
+        "ts": "1555985442.004000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "WheeLog!",
+                "title": "ホーム - WheeLog!",
+                "title_link": "https:\/\/www.wheelog.com\/hp\/",
+                "text": "車いすでもあきらめない世界に みんなでつくるバリアフリーマップ 詳しく見る イベント募集 WheeLog!オフ会 in 関東 日時：2019年4月27日（土）・昼の部（11時～14時）・夜の部（17時～20時）場所：和食… 続きを読む »ホーム",
+                "fallback": "WheeLog!: ホーム - WheeLog!",
+                "image_url": "https:\/\/i1.wp.com\/www.wheelog.com\/hp\/wp-content\/uploads\/2018\/10\/logo_background.jpg?fit=1280%2C867&ssl=1",
+                "image_width": 369,
+                "image_height": 250,
+                "from_url": "https:\/\/www.wheelog.com\/hp\/",
+                "image_bytes": 133616,
+                "service_icon": "https:\/\/i1.wp.com\/www.wheelog.com\/hp\/wp-content\/uploads\/2017\/04\/cropped-3.png?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/www.wheelog.com\/hp\/"
+            }
+        ]
+    }
+]

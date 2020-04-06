@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "4AB10AA3-BEC8-4FE7-A68C-F3D7F9E885DC",
+        "type": "message",
+        "text": "ポスター発表の原稿は19日までに一度出してください。修正や印刷発注期間を想定して準備をお願いします。",
+        "user": "UHFLB6JPR",
+        "ts": "1581667458.005100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1e18707e-aff5-44b9-89ca-e782e24ece3b",
+        "type": "message",
+        "text": "健康支援学会のリンクです\nドライブの共有フォルダ→学会からいけます\n先輩がたのがはいってないので、後でついかしたらまた報告します～\n<https:\/\/drive.google.com\/folderview?id=1uZrIa__Cz-fCem_yPhznk8AFmp-53Ced|https:\/\/drive.google.com\/folderview?id=1uZrIa__Cz-fCem_yPhznk8AFmp-53Ced>",
+        "user": "UGQV9DXRC",
+        "ts": "1581669628.007200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V31f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "健康支援学会のリンクです\nドライブの共有フォルダ→学会からいけます\n先輩がたのがはいってないので、後でついかしたらまた報告します～\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/folderview?id=1uZrIa__Cz-fCem_yPhznk8AFmp-53Ced",
+                                "text": "https:\/\/drive.google.com\/folderview?id=1uZrIa__Cz-fCem_yPhznk8AFmp-53Ced"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06CD18F2-6758-4D9B-835D-19A03BA14D02",
+        "type": "message",
+        "text": "昨年分は全員まとめましたー",
+        "user": "UGQV9DXRC",
+        "ts": "1581670581.007700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rcYQ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "昨年分は全員まとめましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

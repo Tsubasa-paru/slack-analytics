@@ -1,0 +1,450 @@
+[
+    {
+        "client_msg_id": "56f6105f-1686-4c21-9a36-2172fea6f885",
+        "type": "message",
+        "text": "<@UHFLB6JPR> \n西の体重計が電池切れしてたので単３電池を生協で購入します:bow:",
+        "user": "UGQV9DXRC",
+        "ts": "1578446725.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "glA\/Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n西の体重計が電池切れしてたので単３電池を生協で購入します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5CDF7ED9-3176-4C06-AC07-E3AB36FDA481",
+        "type": "message",
+        "text": "実験実施済み報告書1枚持ってきていただけますか？",
+        "user": "UHEH8KZ7W",
+        "ts": "1578448723.002800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dpj=5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "実験実施済み報告書"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "枚持ってきていただけますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AAB6F8D8-37CD-443C-9FC1-57E7DE5B6783",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> 福田\n今日やってみた報告、次回への改善点を教えて",
+        "user": "UHFLB6JPR",
+        "ts": "1578453062.004300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7538D19A-866F-46CC-934A-4EDFD43EA5D5",
+        "type": "message",
+        "text": "事務的な部分は漏れなく、簡潔に\nアンケートをやってもらう部分は慌てず、ちゃんと回答もらうように\nコーディネートする必要があります\nそれを30分以内にどうにか",
+        "user": "UHFLB6JPR",
+        "ts": "1578453220.007500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "94f06b42-31b4-453a-84de-16f06fac9fb1",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n承知しました。午後にも実験があるのでその実験が終了後に報告させていただきます。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578453878.008300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rDWN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n承知しました。午後にも実験があるのでその実験が終了後に報告させていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7196c945-7915-4094-9964-b12953f36be2",
+        "type": "message",
+        "text": "全員分の卒論が提出されましたので報告いたします\n<https:\/\/drive.google.com\/open?id=1R-RKk7cX2hs7VWGiUlLNdae4XdMBRjFr>",
+        "user": "UGQV9DXRC",
+        "ts": "1578455980.008700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WTCqr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全員分の卒論が提出されましたので報告いたします\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1R-RKk7cX2hs7VWGiUlLNdae4XdMBRjFr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c5f236f0-4aa3-41bf-9f15-95abcbf5d467",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n今日の実験の報告をさせていただきます。\n根本君と鈴木先輩の手伝いのおかげもあり、実験では大きなミスはなく、実験を終了することが出来ました。男性7名、女性3名分の実験を行いました。所要時間は午前の7名では約30分、3名では約20分かかりました。\n最初の実験の説明時に”「身体活動が主観的幸福度に及ぼす影響」に関する説明と同意のお願い”は実験目的、測定方法、測定項目、個人情報の管理の4つをお伝えし、「それに同意していただける方のみサインをしていただきます」で締めようと思っています。\n\n次回への改善点\n・アンケート用紙配布前に必ず表紙のID欄にIDを記入する。\n・役割分担を事前に明確化しておく。（誰がどの項目を記入するかなど\n・朱肉を持っていく。（印鑑を持っていた人用)\n・実験実施済報告書の書き方が少し難しいのでお手本を用意しておくとよいと思った(同意書、委任状、領収書もお手本があった方が早く済むと思いました)。\n・事前に印鑑を押すところを鉛筆などで〇で囲っておく\n\n質問\n・体重、身長は2回測った方がよろしいでしょうか？とりあえず今日の実験では全員2回測ったのですが、運動教室での実験では時間が限られているため、2回計測が厳しいかもしれないのですが、どうしたらよろしいでしょうか？\n・倫理審査書に書かれている人数以上の人数を被験者としていいのかが分からなかったです。もし多めにデータを取れるなら取った方がいいと思ったのですが、どうしたらよろしいでしょうか。\n・オムロンの本体が合計36個(40個ありませんでした)あるのですが、腰に付けるためのアタッチメントが32個しかありませんでした。ただし明日の20個分は確保してあります。\n\n明日に向けてやること\n・午前のかくしょうじの担当の方に電話をして実験の確認\n・明日に向けての準備(書類、身体活動量計、謝金、封筒を22部、3部分は予備として)\n・当日の流れを書いたWordファイルを鈴木先輩と根本君に送る",
+        "user": "UHEH8KZ7W",
+        "ts": "1578463551.026200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHEH8KZ7W",
+            "ts": "1578463816.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gVq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今日の実験の報告をさせていただきます。\n根本君と鈴木先輩の手伝いのおかげもあり、実験では大きなミスはなく、実験を終了することが出来ました。男性7名、女性3名分の実験を行いました。所要時間は午前の7名では約30分、3名では約20分かかりました。\n最初の実験の説明時に”「身体活動が主観的幸福度に及ぼす影響」に関する説明と同意のお願い”は実験目的、測定方法、測定項目、個人情報の管理の4つをお伝えし、「それに同意していただける方のみサインをしていただきます」で締めようと思っています。\n\n次回への改善点\n・アンケート用紙配布前に必ず表紙のID欄にIDを記入する。\n・役割分担を事前に明確化しておく。（誰がどの項目を記入するかなど\n・朱肉を持っていく。（印鑑を持っていた人用)\n・実験実施済報告書の書き方が少し難しいのでお手本を用意しておくとよいと思った(同意書、委任状、領収書もお手本があった方が早く済むと思いました)。\n・事前に印鑑を押すところを鉛筆などで〇で囲っておく\n\n質問\n・体重、身長は2回測った方がよろしいでしょうか？とりあえず今日の実験では全員2回測ったのですが、運動教室での実験では時間が限られているため、2回計測が厳しいかもしれないのですが、どうしたらよろしいでしょうか？\n・倫理審査書に書かれている人数以上の人数を被験者としていいのかが分からなかったです。もし多めにデータを取れるなら取った方がいいと思ったのですが、どうしたらよろしいでしょうか。\n・オムロンの本体が合計36個(40個ありませんでした)あるのですが、腰に付けるためのアタッチメントが32個しかありませんでした。ただし明日の20個分は確保してあります。\n\n明日に向けてやること\n・午前のかくしょうじの担当の方に電話をして実験の確認\n・明日に向けての準備(書類、身体活動量計、謝金、封筒を22部、3部分は予備として)\n・当日の流れを書いたWordファイルを鈴木先輩と根本君に送る"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "また郵送時の注意に鈴木先輩からのアドバイスを頂いて変更しました。以下が変更した内容です。\n・各書類、印鑑を押す数を記入\n・重要なところに赤文字赤線\n・18日に郵送してくださいというメッセージを追加\n・問題が起きた時の電話番号を追加",
+        "files": [
+            {
+                "id": "FS1UXDMEX",
+                "created": 1578464289,
+                "timestamp": 1578464289,
+                "name": "郵送時の注意.docx",
+                "title": "郵送時の注意.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 16610,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FS1UXDMEX\/__________________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FS1UXDMEX\/download\/__________________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FS1UXDMEX-b9be78a967\/___________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FS1UXDMEX-b9be78a967\/___________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FS1UXDMEX\/__________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FS1UXDMEX-c4b8e8f277",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sJy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "また郵送時の注意に鈴木先輩からのアドバイスを頂いて変更しました。以下が変更した内容です。\n・各書類、印鑑を押す数を記入\n・重要なところに赤文字赤線\n・18日に郵送してくださいというメッセージを追加\n・問題が起きた時の電話番号を追加"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1578464294.026500",
+        "client_msg_id": "c9d8c208-a1db-48a2-b1c6-54632bce6107"
+    },
+    {
+        "client_msg_id": "AF7C3E88-3BE1-4E45-B1D1-281A7E9FAC51",
+        "type": "message",
+        "text": "連絡先は所属と担当者を加えてください",
+        "user": "UHFLB6JPR",
+        "ts": "1578468045.027600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bcdd980b-6cf7-42e2-86ac-24027bd0c19b",
+        "type": "message",
+        "text": "承知しました。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578468729.027800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZWsWL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "修正しました。\n山崎先輩の修論に載っている対象者募集用ポスターに書かれている連絡先を参考にしました。",
+        "files": [
+            {
+                "id": "FS0MRM7M0",
+                "created": 1578470068,
+                "timestamp": 1578470068,
+                "name": "郵送時の注意.docx",
+                "title": "郵送時の注意.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 16726,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FS0MRM7M0\/__________________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FS0MRM7M0\/download\/__________________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FS0MRM7M0-c77934326a\/___________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FS0MRM7M0-c77934326a\/___________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FS0MRM7M0\/__________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FS0MRM7M0-e6aee56e78",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FsB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "修正しました。\n山崎先輩の修論に載っている対象者募集用ポスターに書かれている連絡先を参考にしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1578470069.027900",
+        "client_msg_id": "1d7ed468-269b-4119-aafc-6c863a434549"
+    }
+]

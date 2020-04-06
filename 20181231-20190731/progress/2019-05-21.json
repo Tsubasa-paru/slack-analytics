@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "c33e4ce9-3dab-455c-b48c-851f02302032",
+        "type": "message",
+        "text": "活動分類つづき\n&gt;手首と腰合わせたデータセットを組めるようにした\n&gt;被験者一人増やした(5人、トレーニング4人、テスト1人)\n&gt;f値は14種類：不安定20％～80%、4種類：安定90％over\n今後\n&gt;データ10人まで増やす(あと5人～プルル)\nめちゃくちゃケーキが食べたくなってコージーコーナーで買いました。作ったわけじゃなくてごめん。\n*明日不在です:cry:*",
+        "user": "UGQV9DXRC",
+        "ts": "1558432167.003500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1558432228.000000"
+        }
+    },
+    {
+        "client_msg_id": "8651e964-d822-4541-8fee-3a65dc43f200",
+        "type": "message",
+        "text": "朝9時から頑張った。\nプロジェクトの方にまとめた。\n\n\nケーキ美味しかった。\nさっそくケトルを使いカップ麺を食べた。",
+        "user": "UGPH97FDW",
+        "ts": "1558451832.005400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

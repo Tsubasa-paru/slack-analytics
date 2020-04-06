@@ -1,0 +1,130 @@
+[
+    {
+        "type": "message",
+        "text": "論文ざっと読みました。\n分析してるのは加速度ですが、結果としてエネルギー消費の推定は出来てるようです。結果の図を添付します。",
+        "user": "UGQV9DXRC",
+        "ts": "1566967196.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1566970342.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "[August 26th, 2019 5:50 PM] kmt.sd.ma: 加速度計使ってますがエネルギー消費をランダムフォレストで推定してる論文はありそうです？\n<https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC4374571\/>",
+                "ts": "1566809431.003700",
+                "author_id": "UGQV9DXRC",
+                "author_subname": "鈴木美穂",
+                "channel_id": "CH7LZJZ89",
+                "channel_name": "project_b4根本",
+                "is_msg_unfurl": true,
+                "text": "加速度計使ってますがエネルギー消費をランダムフォレストで推定してる論文はありそうです？\n<https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC4374571\/>",
+                "author_name": "鈴木美穂",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CH7LZJZ89\/p1566809431003700",
+                "is_share": true,
+                "footer": "#project_b4根本 に投稿"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FMSGSMS0Y",
+                "created": 1566967206,
+                "timestamp": 1566967206,
+                "name": "nihms638314f2.jpg",
+                "title": "nihms638314f2.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 147738,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMSGSMS0Y\/nihms638314f2.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMSGSMS0Y\/download\/nihms638314f2.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMSGSMS0Y-f1ca24e6f6\/nihms638314f2_64.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMSGSMS0Y-f1ca24e6f6\/nihms638314f2_80.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMSGSMS0Y-f1ca24e6f6\/nihms638314f2_360.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 358,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMSGSMS0Y-f1ca24e6f6\/nihms638314f2_480.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 478,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMSGSMS0Y-f1ca24e6f6\/nihms638314f2_160.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMSGSMS0Y-f1ca24e6f6\/nihms638314f2_720.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 717,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMSGSMS0Y-f1ca24e6f6\/nihms638314f2_800.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 804,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMSGSMS0Y-f1ca24e6f6\/nihms638314f2_960.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 955,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMSGSMS0Y-f1ca24e6f6\/nihms638314f2_1024.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 1019,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1045,
+                "original_h": 1050,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMSGSMS0Y\/nihms638314f2.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMSGSMS0Y-0ee00a6a00",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1566967210.000600",
+        "client_msg_id": "a6086a9d-0280-4082-97a5-6ae7f759a099"
+    },
+    {
+        "client_msg_id": "2f33729c-9862-4f01-a3fc-ee90425dd854",
+        "type": "message",
+        "text": "Bland–Altman plot showing the differences between measured and predicted METs per activity bout for the (a) right hip accelerometer and (b) wrist accelerometer.",
+        "user": "UGQV9DXRC",
+        "ts": "1566967278.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

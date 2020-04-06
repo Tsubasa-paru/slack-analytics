@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "83F26926-CD61-49AA-B64A-476C9317E0CE",
+        "type": "message",
+        "text": "学生全員分のプロジェクトチャンネルを作りました。\n自分のプロジェクトに関しては通知を付けて、それ以外はミュートもしくは@のついたものだけ通知に設定を変えておくと今後便利かも",
+        "user": "UGQV9DXRC",
+        "ts": "1554010829.002100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UHEH8KZ7W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

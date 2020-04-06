@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "E6195928-72BB-4549-A7BB-7B1AE8C22FAD",
+        "type": "message",
+        "text": "ボランティア部とのMTGなのですが明日の昼なら集まれるとのことなので行ってきます",
+        "user": "UHEH8KZ7W",
+        "ts": "1560329222.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "618d7d0f-7c47-4755-93ad-8835655b9783",
+        "type": "message",
+        "text": "ボランティア部MTG用メモ\n・まずこども食堂が何なのかを説明する。\n・こども食堂9\/14に開催、子供50人親50人学生50人を予想している、できればかくしょうじのこども食堂にも参加をお願いする。\n・アクティビティの中にプログラミングを20分入れようと考えている（出来たらプログラミングと食育を一緒にできる何かが欲しい）→ボランティア部に協力できるか、できる場合は絶対に来れる人数を聞く\n・こども食堂の代表者MTGに1人（代表者として）でも来れる人がいないか聞く\n・去年こども食堂の資料を見せる→<https:\/\/faavo.jp\/tokyochofufuchu\/project\/2934>",
+        "user": "UHEH8KZ7W",
+        "ts": "1560394194.004400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "地域 × クラウドファンディング FAAVO",
+                "title": "食・運動からこども達に笑顔を！「電気通信大学 こども食堂」を開催したい！ | FAAVO東京調布・府中",
+                "title_link": "https:\/\/faavo.jp\/tokyochofufuchu\/project\/2934",
+                "text": "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;「電気通信大学 こども食堂」はこどもたちと大学生を結ぶイベントです。できるだけ多くのこどもたちが参加できるように無料のイベントにしたいのですが、食事の提供やこどもたちのイベント保険の費用すべて",
+                "fallback": "地域 × クラウドファンディング FAAVO: 食・運動からこども達に笑顔を！「電気通信大学 こども食堂」を開催したい！ | FAAVO東京調布・府中",
+                "image_url": "https:\/\/faavo-images.s3-ap-northeast-1.amazonaws.com\/project\/2934.png?_=1551132246",
+                "from_url": "https:\/\/faavo.jp\/tokyochofufuchu\/project\/2934",
+                "image_width": 374,
+                "image_height": 250,
+                "image_bytes": 408901,
+                "service_icon": "https:\/\/faavo.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/faavo.jp\/tokyochofufuchu\/project\/2934"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

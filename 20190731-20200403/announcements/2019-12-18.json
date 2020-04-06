@@ -1,0 +1,340 @@
+[
+    {
+        "client_msg_id": "BBAC3022-E0B3-4B1F-8DCF-4A93188ADE70",
+        "type": "message",
+        "text": "体育館の正面玄関開けてます",
+        "user": "UHFLB6JPR",
+        "ts": "1576709415.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DED57B38-CC4E-4225-8CE2-EA46674B3C7C",
+        "type": "message",
+        "text": "ありがとうございます",
+        "user": "UHC5VBV5E",
+        "ts": "1576709514.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3f147dd9-a741-4c2d-bbd4-aaab3ee0e4a7",
+        "type": "message",
+        "text": "かくしょうじでの挨拶なのですが\n”この度は電気通信大学こども食堂2019にご協力してくださり、ありがとうございました！\n今年で3回目となりさらに規模が大きくなったにも関わらず、小学校へのチラシ配布やかくしょうじ子ども食堂での宣伝、クラウドファンディングサイトでの応援動画など様々な形でお世話になりました。\nそのおかげもあって今年のこども食堂は例年に引き続き大反響となり、また子ども達からは「また来たい」という声を多く聞くことが出来ました。自分としては子供がアイス作りを家でやりたいという声があったことがとてもうれしかったです。また学生たちも子供たちと接することで地域とのつながりの必要性、大切さを実感できました。このイベントを通して少しでも大学生として地域の方々に感謝の気持ちが伝わったらと思っています。\n来年以降も子ども達が楽しめ、大学という場所を知ってもらえるようなイベントにしていきますので、今度ともよろしくお願いします。\n再三にはなりますが、電気通信大学子ども食堂2019にご協力してくださり、本当にありがとうございました！”\nでよろしいでしょうか？",
+        "user": "UHEH8KZ7W",
+        "ts": "1576730306.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHEH8KZ7W",
+            "ts": "1576732513.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q=42",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かくしょうじでの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "挨拶なのですが"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n”"
+                            },
+                            {
+                                "type": "text",
+                                "text": "この度は電気通信大学こども食堂"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2019"
+                            },
+                            {
+                                "type": "text",
+                                "text": "にご協力してくださり、ありがとうございました！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今年で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "回目となりさらに規模が大きくなったにも関わらず、小学校へのチラシ配布やかくしょうじ子ども食堂での宣伝、クラウドファンディングサイトでの応援動画など様々な形でお世話になりました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そのおかげもあって今年のこども食堂は例年に引き続き大反響となり、また子ども達からは「また来たい」という声を多く聞くことが出来ました。自分としては子供がアイス作りを家でやりたいという声があったことがとてもうれしかったです。また学生たちも子供たちと接することで地域とのつながりの必要性、大切さを実感できました。このイベントを通して少しでも大学生として地域の方々に感謝の気持ちが伝わったらと思っています。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "来年以降も子ども達が楽しめ、大学という場所を知ってもらえるようなイベントにしていきますので、今度ともよろしくお願いします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "再三にはなりますが、電気通信大学子ども食堂"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2019"
+                            },
+                            {
+                                "type": "text",
+                                "text": "にご協力してくださり、本当にありがとうございました！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "”\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "でよろしいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "4回学生部屋の掃除にて安藤研でも岡田研でもないので大河原研のではないかと言われた品々です。\nカメラとケーブル類なのですが、ウチの研究室ので合ってますでしょうか？",
+        "files": [
+            {
+                "id": "FRVPN3XDW",
+                "created": 1576730407,
+                "timestamp": 1576730407,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 898764,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRVPN3XDW\/image_from_ios.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRVPN3XDW\/download\/image_from_ios.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XDW-4e9552d2d1\/image_from_ios_64.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XDW-4e9552d2d1\/image_from_ios_80.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XDW-4e9552d2d1\/image_from_ios_360.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XDW-4e9552d2d1\/image_from_ios_480.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XDW-4e9552d2d1\/image_from_ios_160.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XDW-4e9552d2d1\/image_from_ios_720.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XDW-4e9552d2d1\/image_from_ios_800.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XDW-4e9552d2d1\/image_from_ios_960.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XDW-4e9552d2d1\/image_from_ios_1024.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 6,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAwACSMxIG+YDHseacqIVyVGegOf6UYBUZYNzyM0jCNRkH0yKSGyKfMbBdoyaYoLAkuoouSGcYOeKaQAue9MQFjnrRuPrTc0ZoAshZm5aIk+uKfHE5A8xWGOeVq0yAORz+ZpVAXpn8TmpKM6eNy+QjAepGKYY5XABRgB321ozRqzZYZ4ot0ZYsH14ouKxQEMuOn\/jp\/wo8mX0\/8dP8AhWnR+NO4CbTnnNOC89TU7IG603y1Hr+dDArXMmxQBjJ9aqmSQgjea0JLaOTGSePQ037HHnqc0gIYj8nzyc+5p+5P+eg\/Op1gRVAxn3pfJT0pBc\/\/2Q==",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FRVPN3XDW\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FRVPN3XDW-7fe4130b3b",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FRVPN3XEU",
+                "created": 1576730407,
+                "timestamp": 1576730407,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 1080348,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRVPN3XEU\/image_from_ios.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRVPN3XEU\/download\/image_from_ios.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XEU-41005e2d10\/image_from_ios_64.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XEU-41005e2d10\/image_from_ios_80.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XEU-41005e2d10\/image_from_ios_360.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XEU-41005e2d10\/image_from_ios_480.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XEU-41005e2d10\/image_from_ios_160.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XEU-41005e2d10\/image_from_ios_720.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XEU-41005e2d10\/image_from_ios_800.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XEU-41005e2d10\/image_from_ios_960.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRVPN3XEU-41005e2d10\/image_from_ios_1024.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 6,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAwACSuLWQ\/3ePegWhZtpdc9qmMjSgnLADoB3qOZVVCVDA+pJpDJI9PBHLfpStZxpxkk1WjndGBLEgHkE1LNJIhVkkbYw4oAn+xoOqk\/jR9kT+6fzqp9pm\/56NR9pm\/56NQO5bifEQQ4Vl4IP8AOnXQH2YjcAevJ61G3zIGPLL0NRTxEfOOVYcZ60hEQt3YAjbyMjJqWJSVMEgI7rT4FU43jp0pxXF1FjOSSfoKYFcW8hz8vSj7PJ6VqFivApPNb2ouFhSBgccCqcw+fIJ2+gPerf50kgzjA596lDKSCRHH7vJ7Z4qzbwNvMshBY+napVjB5IwaewPCjvTAaUEnzEkemKPJX1apAMClxQB\/\/9k=",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FRVPN3XEU\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FRVPN3XEU-181ce0362a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "01Rh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "回学生部屋の掃除にて安"
+                            },
+                            {
+                                "type": "text",
+                                "text": "藤"
+                            },
+                            {
+                                "type": "text",
+                                "text": "研でも"
+                            },
+                            {
+                                "type": "text",
+                                "text": "岡"
+                            },
+                            {
+                                "type": "text",
+                                "text": "田研でもないので大河原研のではないかと言われた品々です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "カメラとケーブル類なのですが、ウチの研究室ので合ってますでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHEH8KZ7W",
+        "ts": "1576730407.003000",
+        "client_msg_id": "6C29C81F-B737-4BCE-9ED1-FAD4B1A90628"
+    },
+    {
+        "client_msg_id": "2E7C7A5E-D03D-4AFA-B133-407583227587",
+        "type": "message",
+        "text": "あってます\nというか、安藤研に貸したやつ",
+        "user": "UHFLB6JPR",
+        "ts": "1576731694.004200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "client_msg_id": "63bf51c8-0f55-44a0-9bcd-ce74fa748af0",
+        "type": "message",
+        "text": "<https:\/\/www.askul.co.jp\/p\/802116\/>\nアスクル プラス のオフィスデスク，生協のカタログのKAGUKUROの机よりも1台あたり4864円安くなります",
+        "user": "UGQ2ENZD0",
+        "ts": "1555989493.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1555989595.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "ASKUL",
+                "title": "プラス フラットライン 平机 引出し付き ホワイト\/ホワイト 幅1000×奥行700×高さ700ｍｍ 1台",
+                "title_link": "https:\/\/www.askul.co.jp\/p\/802116\/",
+                "text": "プラス フラットライン 平机 引出し付き ホワイト\/ホワイト 幅1000×奥行700×高さ700ｍｍ 1台の通販ならアスクル。最短当日または翌日以降お届け。【1000円以上で送料無料】【カード決済可】【返品OK】-法人も個人事業主さまも、はたらくすべての方に便利でお得な商品やサービスをお届けする通販サイト、ASKULです。",
+                "fallback": "ASKUL: プラス フラットライン 平机 引出し付き ホワイト\/ホワイト 幅1000×奥行700×高さ700ｍｍ 1台",
+                "thumb_url": "https:\/\/askul.c.yimg.jp\/img\/product\/L1\/802116_l1.jpg",
+                "from_url": "https:\/\/www.askul.co.jp\/p\/802116\/",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.askul.co.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.askul.co.jp\/p\/802116\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "71180004-79e4-44ba-81b0-03d50105fb1a",
+        "type": "message",
+        "text": "```\n## 電通大のカタログと同系列の商品\n- エアロメッシュ チェア\n    - <https:\/\/www.kagukuro.com\/chair\/design\/aeromesh\/>\n    - \\ 6,912 (肘付き)\n    - \\ 8,200 (肘付き，生協)\n    - \\ 5,832 (肘なし)\n    - \\ 6,900 (肘なし，生協)\n\n- 事務用ホワイト平机（W1000×D700×H700）\n    - <https:\/\/www.kagukuro.com\/desk\/flat\/white_w1000\/>\n    - \\ 11,826\n    - \\ 14,800 (生協)\n\n- どちらも直販したほうが安い\n    - 1セットあたり4000円くらいは安くなる(送料とかで多少の変動あり)\n\n- アームレストのトップが700mmを超える\n    - そのままでは椅子を机に入れることはできない\n\n- もしかしたら生協のものは組み立て代行の費用も含まれている……かもしれない\n    - 自分たちで組み立てるなら要らない\n    - 大体のオフィスデスクは，男2人いれば十分に組み立てられる\n        - 所要時間は30分，慣れれば20分くらいで組める\n\n- どうやらカグクロは現在「期間限定！スプリングセール（2019）」をやっている模様\n    - <https:\/\/www.kagukuro.com\/notice\/sale_20190329\/>\n    - 全品10％オフ（*） 2019年03月29日（金）17時00分 ～ 2019年04月26日（金）17時00分\n    - 生協で買うよりも1セット5，6千円くらい安くなるかもしれない\n\n\n## 他の椅子\n- フリーアーム\n    - <https:\/\/www.kagukuro.com\/chair\/design\/freearm\/>\n    - \\ 10,746\n    - キャスターフレームが金属ではないので耐久性に若干の不安\n\n- フィールメッシュ ミドルバックタイプ\n    - <https:\/\/www.kagukuro.com\/chair\/design\/feelmesh\/>\n    - \\ 11,232\n    - スタイリッシュだが，肘掛けの耐久性に不安がありそうな形状\n\n- コバルト\n    - <https:\/\/www.kagukuro.com\/chair\/design\/cobalt\/>\n    - \\ 9,666\n    - ロータリーアーム機能付きの中では最安値\n    - 若干古臭いデザインがマイナスか？\n\n- ロータリーアーム採用により，収納時にアームレストを跳ね上げることが可能なものをピックアップ\n\n- 多少割高ではあるが，カタログで購入する分が浮くなら一考の余地アリ\n\n\n## 他の机\n- プラス フラットライン 平机 引出し付き\n    - <https:\/\/www.askul.co.jp\/p\/802116\/>\n    - \\ 9,936 (6台まとめ買い時，1台あたり)\n    - L字脚のオフィスデスクでは高いコスパ\n\n- オフィスデスク 平机 事務机 幅1000×奥行700×高さ700mm\n    - <https:\/\/www.office-com.jp\/products\/detail.php?product_id=110489>\n    - \\ 8,618\n    - さらに安いが，構造的に揺れそう\n        - 幕板が小さく，薄いうえに木製なので耐久性に難アリ\n    - 天板の角が処理されていなさそうなので，もしかしたら角が尖ってるかもしれない\n        - ぶつかると痛い……\n```",
+        "user": "UGQ2ENZD0",
+        "ts": "1555995790.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "af757f46-cf43-4580-a07c-f090f62b7172",
+        "type": "message",
+        "text": "生協かアスクルで購入します。",
+        "user": "UHFLB6JPR",
+        "ts": "1555996353.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7c601c83-2763-4dc8-9ae0-498a1e2f9396",
+        "type": "message",
+        "text": "机の色と椅子の型番と色を決めて",
+        "user": "UHFLB6JPR",
+        "ts": "1555996371.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ef31d197-0c53-48a6-b990-cc9836dc1a65",
+        "type": "message",
+        "text": "<@UHFLB6JPR> \n椅子と机の購入希望品です",
+        "user": "UGQV9DXRC",
+        "ts": "1555998042.003900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555998042.003900",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1555998196.004700",
+        "reply_users": [
+            "UGQV9DXRC",
+            "UGPH97FDW"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1555998055.004000"
+            },
+            {
+                "user": "UGPH97FDW",
+                "ts": "1555998121.004400"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1555998196.004700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0e713bc1-2b01-4c35-bf14-d4390726599d",
+        "type": "message",
+        "text": "椅子の型番 SNC-NET14ABK\n色 ブラック\n値段税込\n25,876円(4脚1セット)×2セット=51752円\n<https:\/\/www.askul.co.jp\/p\/1982153\/>",
+        "user": "UGQV9DXRC",
+        "ts": "1555998055.004000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1555998535.000000"
+        },
+        "thread_ts": "1555998042.003900",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "8a14edb4-fe07-4a4b-a839-52ba5f7e8914",
+        "type": "message",
+        "text": "机の型番 SP-107H WH\n色 ホワイト\n値段税込 9936×6=59616円\n<https:\/\/www.askul.co.jp\/p\/802116\/>",
+        "user": "UGPH97FDW",
+        "ts": "1555998121.004400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGPH97FDW",
+            "ts": "1555998384.000000"
+        },
+        "thread_ts": "1555998042.003900",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "aff74132-bc7e-4a51-8df1-0dd05592fa58",
+        "type": "message",
+        "text": "両者ともアスクルです",
+        "user": "UGQV9DXRC",
+        "ts": "1555998196.004700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555998042.003900",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

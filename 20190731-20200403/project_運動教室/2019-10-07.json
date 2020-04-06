@@ -1,0 +1,113 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel> 今月から運動教室を再開します。添付のエクセルに当番をいれていきますので、返信欄で行ける日、行けない日を書いてください。\n1人1回だけ休めます（有給者）。休んだ月以外の月は木曜日あるいは金曜日に参加をお願いします。\n期限は一週間後の10\/15　13:00までとします。それまでに返信がない方は勝手に入れますので必ず返信して下さい。",
+        "files": [
+            {
+                "id": "FNSCEH0CS",
+                "created": 1570507038,
+                "timestamp": 1570507038,
+                "name": "運動教室.xlsx",
+                "title": "運動教室.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 10045,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNSCEH0CS\/____________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNSCEH0CS\/download\/____________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNSCEH0CS-c62a555242\/_____________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNSCEH0CS-c62a555242\/_____________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FNSCEH0CS\/____________.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FNSCEH0CS-e6bfc7ac24",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1570507041.000300",
+        "client_msg_id": "ffd16d3d-19f1-4448-aa0f-61b00699f216",
+        "thread_ts": "1570507041.000300",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1570672562.002100",
+        "reply_users": [
+            "UHEH8KZ7W",
+            "UGQV9DXRC",
+            "UHFLC6N4X"
+        ],
+        "replies": [
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1570507178.000600"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1570515739.001400"
+            },
+            {
+                "user": "UHFLC6N4X",
+                "ts": "1570672562.002100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "88b55ada-a614-4665-b682-4520ef090975",
+        "type": "message",
+        "text": "福田　いつでもおｋ",
+        "user": "UHEH8KZ7W",
+        "ts": "1570507178.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570507041.000300",
+        "parent_user_id": "UHEH8KZ7W"
+    },
+    {
+        "client_msg_id": "8C6F8490-F75C-46B7-886A-14DF697CC96A",
+        "type": "message",
+        "text": "1、2月の木曜日と12月の金曜日が希望",
+        "user": "UGQV9DXRC",
+        "ts": "1570515739.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570507041.000300",
+        "parent_user_id": "UHEH8KZ7W"
+    }
+]

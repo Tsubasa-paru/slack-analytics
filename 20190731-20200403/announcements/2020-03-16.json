@@ -1,0 +1,41 @@
+[
+    {
+        "client_msg_id": "E8067BA2-29DE-486D-9FE5-B2F95679FCDB",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> <@UHG1M1NQ6> <@UHC5VBV5E> <@UGQV9DXRC> <@UUZ15MZT4> \n明日ですが、せっかく鈴木さん来るので引き継ぎをみんなでしてもらいたいです。主たる研究だけでなく研究室に関する諸々のことについて、誰か一人がわかっているのではなく、みんな知っていた方がよりよいです。実質的にこの一年は最上級生としてひとりで仕切ってきてくれたので今後のアドバイスももらえると思うし。",
+        "user": "UHFLB6JPR",
+        "ts": "1584355002.007700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UUZ15MZT4",
+                    "UHC5VBV5E",
+                    "UV0AL2ZNX"
+                ],
+                "count": 3
+            },
+            {
+                "name": "innocent",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

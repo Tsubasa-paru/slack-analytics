@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "8A780BC2-A7F2-414D-84C7-3412B649A99C",
+        "type": "message",
+        "text": "<https:\/\/www.optim.cloud\/blog\/ai\/ai-deeplearning\/>",
+        "user": "UHEH8KZ7W",
+        "ts": "1558070973.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "OPTiM Cloud IoT OS",
+                "title": "AIとは？AI（人工知能）とDeep Learning（深層学習）を簡単に説明",
+                "title_link": "https:\/\/www.optim.cloud\/blog\/ai\/ai-deeplearning\/",
+                "text": "最初に「AI（人工知能）」と「Deep Learning（深層学習）」の基本的な概念をご紹介します。まず押さえておくべきことは、「AI（人工知能）」は総合的な概念と技術であり、「Deep Learning（深層学習）」はAI（人工知能）を支える手法のひとつだということです。",
+                "fallback": "OPTiM Cloud IoT OS: AIとは？AI（人工知能）とDeep Learning（深層学習）を簡単に説明",
+                "thumb_url": "https:\/\/www.optim.cloud\/wp-content\/uploads\/1712_blog_sns.png",
+                "ts": 1513837302,
+                "from_url": "https:\/\/www.optim.cloud\/blog\/ai\/ai-deeplearning\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/www.optim.cloud\/wp-content\/uploads\/2017\/07\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.optim.cloud\/blog\/ai\/ai-deeplearning\/"
+            }
+        ]
+    }
+]

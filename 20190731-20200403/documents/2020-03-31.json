@@ -1,0 +1,392 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585642187.000700",
+        "user": "U010TCMJNHX",
+        "text": "<@U010TCMJNHX>さんがチャンネルに参加しました",
+        "inviter": "UUZ15MZT4"
+    },
+    {
+        "client_msg_id": "f7b7e87c-30c3-4640-9ca1-40671dd831dc",
+        "type": "message",
+        "text": "ここにアップロードされたファイルは\n<https:\/\/drive.google.com\/open?id=1s5p7VwJXuq5esDKOq-3rgeD9pF1dZy8v>\nこのフォルダの送信者別のファイルに自動的に送られるようにしました。\nただし、サービス同士の連携が上手くいっていない為、同じファイルが複数アップロードされてしまいます。\n他の人の投稿でも動作するのかまだわからないので、よかったら試しに使ってみてください。",
+        "user": "UUZ15MZT4",
+        "ts": "1585642565.003900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "7dfa25c9925c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1006784279335_7dfa25c9925c232a45ec_72.jpg",
+            "first_name": "中田翼",
+            "real_name": "中田翼",
+            "display_name": "Tsubasa NAKADA",
+            "team": "TGNPXK07J",
+            "name": "tubasa.12345.67890",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0D\/v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ここにアップロードされたファイルは\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1s5p7VwJXuq5esDKOq-3rgeD9pF1dZy8v"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこのフォルダの送信者別のファイルに自動的に送られるようにしました。\nただし、サービス同士の連携が上手くいっていない為、同じファイルが複数アップロードされてしまいます。\n他の人の投稿でも動作するのかまだわからないので、よかったら試しに使ってみてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custom_ryokai",
+                "users": [
+                    "UHEH8KZ7W",
+                    "UV0AL2ZNX"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1585642973.004800",
+        "thread_ts": "1585642973.004800",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1585643646.008900",
+        "reply_users": [
+            "UHEH8KZ7W",
+            "UHC5VBV5E",
+            "UUZ15MZT4"
+        ],
+        "replies": [
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1585643157.005900"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1585643209.006100"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1585643262.006400"
+            },
+            {
+                "user": "UUZ15MZT4",
+                "ts": "1585643444.006600"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1585643470.006800"
+            },
+            {
+                "user": "UUZ15MZT4",
+                "ts": "1585643646.008900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "BA8F80CA-A277-40B2-AAAB-4E9E7F0C2373",
+        "type": "message",
+        "text": "Thanks,tsubasa\nって書かれてるけど？",
+        "user": "UHEH8KZ7W",
+        "ts": "1585643157.005900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jFd4w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks,tsubasa\nって書かれてるけど？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585642973.004800",
+        "parent_user_id": "UHC5VBV5E"
+    },
+    {
+        "client_msg_id": "0be6e69a-5092-49e3-931a-4e00269d97d6",
+        "type": "message",
+        "text": "ドライブのフォルダに入ってないでしょ",
+        "user": "UHC5VBV5E",
+        "ts": "1585643209.006100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jN9V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ドライブのフォルダに入ってないでしょ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585642973.004800",
+        "parent_user_id": "UHC5VBV5E"
+    },
+    {
+        "client_msg_id": "CC4BA736-84C3-4978-8DF3-62137A30A60A",
+        "type": "message",
+        "text": "入ってないわ",
+        "user": "UHEH8KZ7W",
+        "ts": "1585643262.006400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cn\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "入ってないわ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585642973.004800",
+        "parent_user_id": "UHC5VBV5E"
+    },
+    {
+        "client_msg_id": "331b33f7-ffd2-476f-a544-db0359015cd3",
+        "type": "message",
+        "text": "ごめんなさい。テキストファイルは対応してないかもしれません。少し調べます。\npdfファイルはできるの確認したんですが・・・",
+        "user": "UUZ15MZT4",
+        "ts": "1585643444.006600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "7dfa25c9925c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1006784279335_7dfa25c9925c232a45ec_72.jpg",
+            "first_name": "中田翼",
+            "real_name": "中田翼",
+            "display_name": "Tsubasa NAKADA",
+            "team": "TGNPXK07J",
+            "name": "tubasa.12345.67890",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F9N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさい。テキストファイルは対応してないかもしれません。少し調べます。\npdfファイルはできるの確認したんですが・・・"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585642973.004800",
+        "parent_user_id": "UHC5VBV5E"
+    },
+    {
+        "client_msg_id": "37ff34c2-35bb-4ad4-be08-67c51005c616",
+        "type": "message",
+        "text": "すまぬ",
+        "user": "UHC5VBV5E",
+        "ts": "1585643470.006800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "210",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すまぬ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585642973.004800",
+        "parent_user_id": "UHC5VBV5E"
+    },
+    {
+        "client_msg_id": "81cf5ca4-de82-463b-89a1-5b2f689eaaf6",
+        "type": "message",
+        "text": "すごい\npptファイルは２つアップロードされたけどうまくドライブの中にファイルが作られた",
+        "user": "UHC5VBV5E",
+        "ts": "1585643534.008000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHC5VBV5E",
+            "ts": "1585643635.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ezo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すごい\npptファイルは２つアップロードされたけどうまくドライブの中にファイルが作られた"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "994398a3-49ba-4ea7-9ab0-ce145acb0c53",
+        "type": "message",
+        "text": "現状、テキストファイルとc言語のコードは弾くようになってました。",
+        "user": "UUZ15MZT4",
+        "ts": "1585643646.008900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "7dfa25c9925c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1006784279335_7dfa25c9925c232a45ec_72.jpg",
+            "first_name": "中田翼",
+            "real_name": "中田翼",
+            "display_name": "Tsubasa NAKADA",
+            "team": "TGNPXK07J",
+            "name": "tubasa.12345.67890",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AQRD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "現状、テキストファイルとc言語のコードは弾くようになってました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585642973.004800",
+        "parent_user_id": "USLACKBOT"
+    }
+]

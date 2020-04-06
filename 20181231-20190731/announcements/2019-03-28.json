@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "7737303B-0990-4CC1-AB8A-2BAA2B597DF4",
+        "type": "message",
+        "text": "岡田、面白いこと言って",
+        "user": "UHFLB6JPR",
+        "ts": "1553842609.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1553842609.002400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1553842674.002900",
+        "reply_users": [
+            "UGPH97FDW"
+        ],
+        "replies": [
+            {
+                "user": "UGPH97FDW",
+                "ts": "1553842674.002900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UHEH8KZ7W",
+                    "UHG1M1NQ6",
+                    "UGQ2ENZD0"
+                ],
+                "count": 3
+            },
+            {
+                "name": "hugging_face",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "custom_ok",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "727b2abf-d951-4e70-89c4-6db01c4ef25d",
+        "type": "message",
+        "text": "面白いこと",
+        "user": "UGPH97FDW",
+        "ts": "1553842674.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1553842609.002400",
+        "parent_user_id": "UHFLB6JPR",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UGQV9DXRC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "主に変更した点は赤字で",
+        "files": [
+            {
+                "id": "FN7JDG822",
+                "created": 1568029477,
+                "timestamp": 1568029477,
+                "name": "中間抄録_根本_1.0.docx",
+                "title": "中間抄録_根本_1.0.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 240025,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN7JDG822\/____________________1.0.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN7JDG822\/download\/____________________1.0.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FN7JDG822-1fb6afaa0a\/____________________1.0_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FN7JDG822-1fb6afaa0a\/____________________1.0_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FN7JDG822\/____________________1.0.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FN7JDG822-8fe3084d83",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1568029502.000500",
+        "client_msg_id": "b5995050-94df-4f8e-809c-8cfbdc0b1e5b"
+    }
+]

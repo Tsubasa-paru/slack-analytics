@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "dd38a24e-936f-4229-a8e4-c324f3818f9c",
+        "type": "message",
+        "text": "<https:\/\/qiita.com\/conjugate_box\/items\/e568909df734cf0b200d>",
+        "user": "UGQ2ENZD0",
+        "ts": "1560487403.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "F値に関するメモ - Qiita",
+                "title_link": "https:\/\/qiita.com\/conjugate_box\/items\/e568909df734cf0b200d",
+                "text": "F値は$2\\frac{P*R}{P+R}$で定義される値である． このF値，機械学習や統計で広く用いられる指標であり，情報処理を専門にされない方でも目にされることも多いと思う．しかし例えば次のような疑問が浮かぶ． - 何故2倍する...",
+                "fallback": "Qiita: F値に関するメモ - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/conjugate_box\/items\/e568909df734cf0b200d",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/conjugate_box\/items\/e568909df734cf0b200d"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7c54adad-b3ab-4d0e-b184-74224cbcc9f1",
+        "type": "message",
+        "text": "<https:\/\/www.hellocybernetics.tech\/entry\/2017\/02\/25\/015340>\n&gt;&gt;&gt;\n精度と再現率のトレードオフ\n再現率は「クラスCiのすべてデータに対して実際にクラスCiと判断できる割合」で、精度は「クラスCiと判断したすべてのデータのうち、実際にCiであった割合」でした。\n\nもしも分類器が、少しでもCiっぽいなと感じればCiと判定してしまうようになっていれば、再現率は向上します。一方で、Ciでないものも混じってくるため精度は落ちます。\n\n逆に、かなりCiである確信を持った時のみCiと判定するようにした場合は、Ciに属するはずのデータも弾く場合があるため再現率は低下する一方で、Ciでないようなデータをかなりの確率で弾けるために精度は向上します。",
+        "user": "UGQ2ENZD0",
+        "ts": "1560487793.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1560487807.000000"
+        }
+    }
+]

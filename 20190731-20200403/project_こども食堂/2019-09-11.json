@@ -1,0 +1,635 @@
+[
+    {
+        "client_msg_id": "3f2c2544-29b2-4159-b11f-b14ff4d9a540",
+        "type": "message",
+        "text": "先程電話がございました。\nとみながかずき君が手を骨折してしまったそうです。母親が運動などのアクティビティに支障がないか電話してくださいました。問題ないとお伝えしたのですが、よろしかったでしょうか？",
+        "user": "UHEH8KZ7W",
+        "ts": "1568186385.056500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3aef2fb1-38ea-42b3-b45f-ce375e4fe208",
+        "type": "message",
+        "text": "「運動に関して支障がでる可能性はありますが、保護者の方に見守っていただきながら、参加できる範囲で参加してくだされば結構です」",
+        "user": "UHFLB6JPR",
+        "ts": "1568186859.058800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "eb924413-a21e-4484-b7bb-774f2443803e",
+        "type": "message",
+        "text": "ジュース、おかしを居室に運ぶ？",
+        "user": "UGQV9DXRC",
+        "ts": "1568244535.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568106683.009500",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3c66c0e2-5a56-4749-b1c2-679a0d8054a5",
+        "type": "message",
+        "text": "塩タブレットは体育館で使う？\n×　数が少なかったので、非常の備えとしてストックさせとく",
+        "user": "UGQV9DXRC",
+        "ts": "1568244554.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1568269351.000000"
+        },
+        "thread_ts": "1568106683.009500",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3705cd7-280d-40f5-b851-a52c6c1043e8",
+        "type": "message",
+        "text": "<@UHFLB6JPR> \nスポルアップ様からなにかご連絡をいただいているでしょうか？\nジェラート説明について意見があればいただきたいです。",
+        "user": "UGQV9DXRC",
+        "ts": "1568244654.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2948d388-d1e9-4806-b540-d064d2dbbd6b",
+        "type": "message",
+        "text": "また、アイスとジェラートの差ですが、ジェラートの方が脂肪分が少なく、ジェラートはイタリア語でアイスのことだとジェラート協会的なところが言ってます。\nクイズにするにはいまいちだなと思うので、するならサックリ説明するくらいでしょうか。",
+        "user": "UGQV9DXRC",
+        "ts": "1568244807.005200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "36B6E90B-5DD4-477F-940D-6EFABDA99F6B",
+        "type": "message",
+        "text": "<tel:042-426-7821|042-426-7821>",
+        "user": "UHFLB6JPR",
+        "ts": "1568245914.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E749AA50-D6D1-44D1-AA3F-A9C7A39A92A2",
+        "type": "message",
+        "text": "鈴木さん、電話で相談してくれる？",
+        "user": "UHFLB6JPR",
+        "ts": "1568245932.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cec06216-bece-4a14-b74e-9fc18e32a0c4",
+        "type": "message",
+        "text": "一度かけてみましたが出ませんでした。10時ごろまたかけます。",
+        "user": "UGQV9DXRC",
+        "ts": "1568248854.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4DFEC519-9F19-4BE7-A630-BDA84BC3BC4F",
+        "type": "message",
+        "text": "電話出ましたが加藤さんは不在\n加藤さんに聞かないとわからないとのことでしたので、メールで伺いますがよろしいでしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1568250522.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0F7D3EB6-30F2-461A-84E7-9F42DCBA9A96",
+        "type": "message",
+        "text": "加藤さんの携帯教えてもらって電話するのが早いかな\nメールだと明日になるかも",
+        "user": "UHFLB6JPR",
+        "ts": "1568250844.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3CDE46A7-1309-4F45-BE83-12ADFB3B7BD4",
+        "type": "message",
+        "text": "再度電話しましたが、電話番号わからないと言われました",
+        "user": "UGQV9DXRC",
+        "ts": "1568250950.003000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "とりあえずメール出しました",
+        "files": [
+            {
+                "id": "FMXSSS5DH",
+                "created": 1568251731,
+                "timestamp": 1568251717,
+                "name": "【ご相談】電通大こども食堂2019　ジェラート紹介について",
+                "title": "【ご相談】電通大こども食堂2019　ジェラート紹介について",
+                "mimetype": "text\/html",
+                "filetype": "email",
+                "pretty_type": "Email",
+                "user": "UGQV9DXRC",
+                "editable": true,
+                "size": 13765,
+                "mode": "email",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMXSSS5DH\/_______________________________________2019____________________________________?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMXSSS5DH\/download\/_______________________________________2019____________________________________?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMXSSS5DH\/_______________________________________2019____________________________________",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMXSSS5DH-0962748f94",
+                "subject": "【ご相談】電通大こども食堂2019　ジェラート紹介について",
+                "to": [
+                    {
+                        "address": "yamamoto-2@spollup.jp",
+                        "name": "山本慎二郎",
+                        "original": "山本慎二郎 <yamamoto-2@spollup.jp>"
+                    }
+                ],
+                "from": [
+                    {
+                        "address": "ohkawaralab@gmail.com",
+                        "name": "大河原研究室",
+                        "original": "大河原研究室 <ohkawaralab@gmail.com>"
+                    }
+                ],
+                "cc": [
+                    {
+                        "address": "ohkawara_kazunori@e-one.uec.ac.jp",
+                        "name": "大河原 一憲",
+                        "original": "大河原 一憲 <ohkawara_kazunori@e-one.uec.ac.jp>"
+                    },
+                    {
+                        "address": "kato-33@spollup.jp",
+                        "name": "加藤尚文",
+                        "original": "加藤尚文 <kato-33@spollup.jp>"
+                    },
+                    {
+                        "address": "oshima-21@spollup.jp",
+                        "name": "大島由佳",
+                        "original": "大島由佳 <oshima-21@spollup.jp>"
+                    },
+                    {
+                        "address": "edo-346@spollup.jp",
+                        "name": "江戸香織",
+                        "original": "江戸香織 <edo-346@spollup.jp>"
+                    },
+                    {
+                        "address": "yuppy938@gmail.com",
+                        "name": "yuma nakahara",
+                        "original": "yuma nakahara <yuppy938@gmail.com>"
+                    },
+                    {
+                        "address": "hmh531xp@gmail.com",
+                        "name": "廣瀬はるか",
+                        "original": "廣瀬はるか <hmh531xp@gmail.com>"
+                    },
+                    {
+                        "address": "kogepanakira@gmail.com",
+                        "name": "漆畑輝",
+                        "original": "漆畑輝 <kogepanakira@gmail.com>"
+                    },
+                    {
+                        "address": "sousuke.soccer@gmail.com",
+                        "name": "sousuke k",
+                        "original": "sousuke k <sousuke.soccer@gmail.com>"
+                    },
+                    {
+                        "address": "i0l6p5v5r0v0t8l2@ohkawaralab.slack.com",
+                        "name": "Slack へ送信する",
+                        "original": "Slack へ送信する <i0l6p5v5r0v0t8l2@ohkawaralab.slack.com>"
+                    },
+                    {
+                        "address": "mimiho.bell@gmail.com",
+                        "name": "鈴木美穂",
+                        "original": "鈴木美穂 <mimiho.bell@gmail.com>"
+                    }
+                ],
+                "attachments": [],
+                "plain_text": ">\r\n>\r\nスポルアップ 加藤様\r\n\r\nお世話になっております。\r\n9\/14土曜日の電気通信大学こども食堂におけるジェラート紹介についてご連絡させていただきました。\r\n\r\n当日は、スポルアップ様に10分間のお時間をとらせていただきました。\r\nそこで、説明内容として予定されるものがありましたら教えていただきたいです。\r\n\r\n【当日スケジュール】\r\n15時 児童集合、アクティビティ\r\n17時 夕食\r\n17時40分 スポルアップ様ご説明\r\n17時50分 ジェラート配布\r\n18時10分 解散\r\n\r\n学生からはジェラート配布後、以前撮影させていただいたジェラートの製作過程の動画を紹介させていただく予定です。その時間を使って、こどもたちにアイスクリームとジェラートの違いや、ジェラートの良さや特徴を説明できればと考えております。\r\n\r\nそういった中で気を付けるべき事や伝えるべき事がありましたら教えていただければ幸いです。\r\nスポルアップ様のご説明と被らない範囲でと考えております。\r\n\r\nお忙しい中恐縮ですが、ご検討よろしくお願い致します。\r\n\r\n電気通信大学大河原研究室\r\n鈴木美穂\r\n\r\n\r\n\r\n>>",
+                "preview": "<div><div><div><blockquote><div><div><div><blockquote><div><div><div><\/div><\/div><\/div><\/blockquote><\/div><\/div><\/div><\/blockquote><\/div><\/div><div><div><blockquote><div><div><div><blockquote><div><div><div><\/div><\/div><\/div><\/blockquote><\/div><\/div><\/div><\/blockquote><\/div><\/div><div>&#12473;&#12509;&#12523;&#12450;&#12483;&#12503;&#12288;&#21152;&#34276;&#27096;<\/div><div>&#12362;&#19990;&#35441;&#12395;&#12394;&#12387;&#12390;&#12362;&#12426;&#12414;&#12377;&#12290;<\/div><div>9\/14&#22303;&#26332;&#26085;&#12398;&#38651;&#27671;&#36890;&#20449;&#22823;&#23398;&#12371;&#12393;&#12418;&#39135;&#22530;&#12395;&#12362;&#12369;&#12427;&#12472;&#12455;&#12521;&#12540;&#12488;&#32057;&#20171;&#12395;&#12388;&#12356;&#12390;&#12372;&#36899;&#32097;&#12373;&#12379;&#12390;&#12356;&#12383;&#12384;&#12365;&#12414;&#12375;&#12383;&#12290;<\/div><div>&#24403;&#26085;&#12399;&#12289;&#12473;&#12509;&#12523;&#12450;&#12483;&#12503;&#27096;&#12395;10&#20998;&#38291;&#12398;&#12362;&#26178;&#38291;&#12434;&#12392;&#12425;&#12379;&#12390;&#12356;&#12383;&#12384;&#12365;&#12414;&#12375;&#12383;&#12290;<\/div><div>&#12381;&#12371;&#12391;&#12289;&#35500;&#26126;&#20869;&#23481;&#12392;&#12375;&#12390;&#20104;&#23450;&#12373;&#12428;&#12427;&#12418;&#12398;&#12364;&#12354;&#12426;&#12414;&#12375;&#12383;&#12425;&#25945;&#12360;<\/div><\/div>",
+                "preview_plain_text": ">\r\n>\r\nスポルアップ 加藤様\r\n\r\nお世話になっております。\r\n9\/14土曜日の電気通信大学こども食堂におけるジェラート紹介についてご連絡させていただきました。\r\n\r\n当日は、スポルアップ様に10分間のお時間をとらせていただきました。\r\nそこで、説明内容として予定されるものがありましたら教えていただきたいです。\r\n\r\n【当日スケジュール】\r\n15時 児童集合、アクティビティ\r\n17時 夕食\r\n17時40分 スポルアップ様ご説明\r\n17時50分 ジェラート配布\r\n18時10分 解散\r\n\r\n学生からはジェラート配布後、以前撮影させていただいたジェラートの製作過程の動画を紹介させていただく予定です。その時間を使って、こどもたちにアイスクリームとジェラートの違いや、ジェラートの良さや特徴を説明できればと考えております。\r\n\r\nそういった中で気を付けるべき事や伝えるべき事がありましたら教えていただければ幸いです。\r\nスポルアップ様のご説明と被らない範囲でと考えております。\r\n\r\nお忙しい中恐縮ですが、ご検討よろしくお願い致します。\r\n\r\n電気通信大学大河原研究室\r\n鈴木美穂\r\n\r\n\r\n\r\n>",
+                "headers": {
+                    "date": "Thu, 12 Sep 2019 10:28:37 +0900"
+                },
+                "has_more": true,
+                "sent_to_self": false,
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1568251797.000100"
+    },
+    {
+        "client_msg_id": "D9096451-4CE4-432A-9FD8-B3B8939D8ADD",
+        "type": "message",
+        "text": "<@UHEH8KZ7W>\n当日、ジュースやおかしを食堂に運ぶ際、アメフト部に手伝ってもらおうと考えてます。\n17時に間に合うように東1から運んでもらう予定です。\n体育事務室の鍵は先生だけなので、取り敢えず学生部屋へ移動しておきたいです。\n今日他の人も動員してお願いできる？",
+        "user": "UGQV9DXRC",
+        "ts": "1568252180.006000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92e93bda-0f68-44a1-8bf8-3a148fa57f6c",
+        "type": "message",
+        "text": "大学いくときに100均寄っていきますー",
+        "user": "UGQV9DXRC",
+        "ts": "1568253599.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "27e33aab-3b0f-47ea-94ce-996d5d547201",
+        "type": "message",
+        "text": "<@UHFLB6JPR> \nお戻りの際ご連絡くださいー\n相談させていただきたいです",
+        "user": "UGQV9DXRC",
+        "ts": "1568268415.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a62eb0cf-af9a-453b-bbc9-b12356862012",
+        "type": "message",
+        "text": "相談内容以下に書きます",
+        "user": "UGQV9DXRC",
+        "ts": "1568268498.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "11a0846b-f30d-4374-af82-4dad9850ceba",
+        "type": "message",
+        "text": "生協林さんとお話しましたが、\n・明日と土曜の15:00までは不在の為、土曜15:00まで氷や牛乳の搬入は不可\n・ホワイトボードは生協にないとのことで借りられず\n・マイクは借りられる。15:00~17:00の間に声掛け\nとのことでした。\n\n氷は土曜午前に引き取りになっているのですが、22キロをしまう冷蔵庫がなさそうです。\n*現状*\n・東急ストアに土曜午前にピックで予約してある\n・大学まで15分弱(？)徒歩で運搬\n*解決策*\n①東急ストアに連絡、ピックの時間を14時半に変更\n②クーラーボックス、東1-4Fの冷凍庫、体育館管理人室の冷凍庫に分割してしまう(入るかは不明、確認が必要)",
+        "user": "UGQV9DXRC",
+        "ts": "1568268975.007400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "76a506a0-1803-4140-ba40-c364d8deebb6",
+        "type": "message",
+        "text": "上記の解決策以外に何か適切な案がありましたらご連絡ください",
+        "user": "UGQV9DXRC",
+        "ts": "1568269046.008000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B48E2893-926C-418A-B024-28721B7F6C20",
+        "type": "message",
+        "text": "２２キロは何Ｌのクーラーボックスなら？",
+        "user": "UHFLB6JPR",
+        "ts": "1568269409.009500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568269409.009500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1568269657.009900",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568269657.009900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FN9FW93RB",
+                "created": 1568269407,
+                "timestamp": 1568269407,
+                "name": "211447_2019こども食堂（4）.xlsx",
+                "title": "当日スケジュール",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 31746,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN9FW93RB\/211447_2019_____________________4___.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN9FW93RB\/download\/211447_2019_____________________4___.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FN9FW93RB-25fc7d4d50\/211447_2019_____________________4____converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FN9FW93RB-25fc7d4d50\/211447_2019_____________________4____thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FN9FW93RB\/211447_2019_____________________4___.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FN9FW93RB-2a0c06742f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1568269410.009600",
+        "client_msg_id": "cb77f17f-68f5-46e2-9060-55c06efe1a09"
+    },
+    {
+        "client_msg_id": "943e4fc1-435d-4ac9-be03-86b48a09a96d",
+        "type": "message",
+        "text": "12キロの氷を送ってくる会社の梱包サイズを見ると、29リットルくらいみたいです。\nこれに合わせると、24キロは60Lくらいでしょうか。",
+        "user": "UGQV9DXRC",
+        "ts": "1568269657.009900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568269409.009500",
+        "parent_user_id": "UHFLB6JPR"
+    }
+]

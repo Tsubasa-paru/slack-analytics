@@ -1,0 +1,224 @@
+[
+    {
+        "client_msg_id": "FC462F6C-2F51-4C72-9F2F-57EBE3AC656D",
+        "type": "message",
+        "text": "木曜日の測定メンバーは確保できた？",
+        "user": "UHFLB6JPR",
+        "ts": "1576466231.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1576466231.000900",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1576483105.003500",
+        "reply_users": [
+            "UHC5VBV5E",
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1576467269.001000"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1576468323.001600"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1576469497.001800"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1576469608.002000"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1576483105.003500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "dd48e2f0-8a9e-4346-bdd7-6ade7f09cd9b",
+        "type": "message",
+        "text": "福田くん、高柳さんでいくつもりです",
+        "user": "UHC5VBV5E",
+        "ts": "1576467269.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UHKM5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "福田くん、高柳さんでいくつもりです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576466231.000900",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "D3C6CF4A-DDC6-4AF9-ADF2-9C56CEBCE76E",
+        "type": "message",
+        "text": "1人足りないじゃん",
+        "user": "UHFLB6JPR",
+        "ts": "1576468323.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1576466231.000900",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "192a0d7e-1cdb-434d-a9ea-500228fb0ae3",
+        "type": "message",
+        "text": "一応この人数でもできなくはないのですが、体育館での走行に関しては少し不安なのでもう一人募ることにします",
+        "user": "UHC5VBV5E",
+        "ts": "1576469497.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xt2R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応この人数でもできなくはないのですが、体育館での走行に関しては少し不安なのでもう一人募ることにします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576466231.000900",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "3f87cd2c-e4e4-4e7c-bfb2-72b01815b33b",
+        "type": "message",
+        "text": "↑11:00 ~ 12:00でもう一人",
+        "user": "UHC5VBV5E",
+        "ts": "1576469608.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHC5VBV5E",
+            "ts": "1576469629.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DaW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑11:00 ~ 12:00でもう一人"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576466231.000900",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "7DD7FF79-1EDD-4EEA-9159-E786E5AFF9AB",
+        "type": "message",
+        "text": "つたけに再度確認\n来年の配属メンバーに確認\nしたら？",
+        "user": "UHFLB6JPR",
+        "ts": "1576483105.003500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1576466231.000900",
+        "parent_user_id": "UHFLB6JPR"
+    }
+]

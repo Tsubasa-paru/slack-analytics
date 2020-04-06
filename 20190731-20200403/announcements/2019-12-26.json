@@ -1,0 +1,224 @@
+[
+    {
+        "client_msg_id": "30c0f34d-7d7f-44c4-8a5e-f0ee113ab74b",
+        "type": "message",
+        "text": "電気通信大学\n大河原先生\n\n平素は大変お世話になっております。\n大変ご無沙汰しておりますが、先生のご協力により作成した入出庫管理ソフトの現状につき、ご報告いたします。\n\n当ソフトは全国フードバンク推進協議会を通して、他のフードバンクへ紹介しているのはご存知のとおりです。先日FB協議会より連絡があり、九州地区のフードバンク団体向けにトレーサビリティーに関する研修を行い、その中で当ソフトを紹介したそうです。\n実際に入庫や出庫入力を体験して効率的にトレースが取れることをご理解いただき、とても好評だったとのこと。参加した4団体全てが運用を希望されたので、今後ソフトを提供する方向だそうです。\n提供予定団体は以下のとおりです。\n \n・NPO法人フードバンク奄美（FB協議会加盟団体）\n・フードバンク佐賀（加盟申請中の団体）\n・つなぐバンク（一般社団法人ひとり親家庭福祉会ながさき）（加盟申請中の団体）\n・フードバンク熊本（加盟団体）\n \n弊会からは重ねて、読込パスワードの設定、動作不良等への対応や問題が生じた際の責任は持たないことを提供先へ周知していただくことをお願いいたしました。来月は関東地区でも説明会を開催して下さるそうで、さらに使用団体が広がっていくと思われます。\n \nおかげさまで、弊会でも問題なく順調に使わせていただいております。取扱食品量も増えフル稼働状態です。先生のご指導とご協力にあらためて御礼申し上げます。\n \nでは、また進展がありましたら報告させていただきます。今後ともどうぞよろしくお願い致します。\n \nフードバンク調布\n事務局　小田",
+        "user": "UHFLB6JPR",
+        "ts": "1577413624.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2DIE+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電気通信大学\n大河原先生\n\n平素は大変お世話になっております。\n大変ご無沙汰しておりますが、先生のご協力により作成した入出庫管理ソフトの現状につき、ご報告いたします。\n\n当ソフトは全国フードバンク推進協議会を通して、他のフードバンクへ紹介しているのはご存知のとおりです。先日FB協議会より連絡があり、九州地区のフードバンク団体向けにトレーサビリティーに関する研修を行い、その中で当ソフトを紹介したそうです。\n実際に入庫や出庫入力を体験して効率的にトレースが取れることをご理解いただき、とても好評だったとのこと。参加した4団体全てが運用を希望されたので、今後ソフトを提供する方向だそうです。\n提供予定団体は以下のとおりです。\n \n・NPO法人フードバンク奄美（FB協議会加盟団体）\n・フードバンク佐賀（加盟申請中の団体）\n・つなぐバンク（一般社団法人ひとり親家庭福祉会ながさき）（加盟申請中の団体）\n・フードバンク熊本（加盟団体）\n \n弊会からは重ねて、読込パスワードの設定、動作不良等への対応や問題が生じた際の責任は持たないことを提供先へ周知していただくことをお願いいたしました。来月は関東地区でも説明会を開催して下さるそうで、さらに使用団体が広がっていくと思われます。\n \nおかげさまで、弊会でも問題なく順調に使わせていただいております。取扱食品量も増えフル稼働状態です。先生のご指導とご協力にあらためて御礼申し上げます。\n \nでは、また進展がありましたら報告させていただきます。今後ともどうぞよろしくお願い致します。\n \nフードバンク調布\n事務局　小田"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "UHC5VBV5E",
+                    "UGQV9DXRC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01ee06ab-268f-4cfc-8606-d629b3d9f9fc",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> <@UGQV9DXRC> <@UHG1M1NQ6> <@UHC5VBV5E> <@UHFLC6N4X>\n卒論は30ページ以上で作成してください。\n方法論と結果（図表）でそれなりのページ数は稼げるからちゃんと取り組めば問題ない範囲です。\n恐れる必要はないよ。",
+        "user": "UHFLB6JPR",
+        "ts": "1577427757.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wdg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UGQV9DXRC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHG1M1NQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHC5VBV5E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHFLC6N4X"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n卒論は30ページ以上で作成してください。\n方法論と結果（図表）でそれなりのページ数は稼げるからちゃんと取り組めば問題ない範囲です。\n恐れる必要はないよ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHC5VBV5E",
+                    "UGQV9DXRC",
+                    "UHFLC6N4X",
+                    "UHG1M1NQ6"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0cf8190f-4040-4e6a-b659-57bfff1808d4",
+        "type": "message",
+        "text": "<@UHEH8KZ7W>\n福田\nミニプチプチは今日届かなかったから、来年の1月6日になります。よろしく。",
+        "user": "UHFLB6JPR",
+        "ts": "1577432254.003700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xwr7j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n福田\nミニプチプチは今日届かなかったから、来年の1月6日になります。よろしく。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "526E14B0-21B7-437F-80A9-74E34FAAC41B",
+        "type": "message",
+        "text": "承知しました。\n本日先生から言われたことをやります。",
+        "user": "UHEH8KZ7W",
+        "ts": "1577432977.004600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mykl\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "本日先生から言われたことをやります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

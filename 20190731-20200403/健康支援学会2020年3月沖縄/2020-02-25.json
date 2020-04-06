@@ -1,0 +1,1020 @@
+[
+    {
+        "client_msg_id": "47fc2832-e5b4-48a9-ac51-62247c4f402f",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> <@UGQV9DXRC> <@UHG1M1NQ6> <@UHC5VBV5E> <@UHV3GN694>\nスキー実習なくなったので今週金曜日12:30~健康支援学会関係でゼミできる？",
+        "user": "UHFLB6JPR",
+        "ts": "1582681619.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z\/s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UGQV9DXRC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHG1M1NQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHC5VBV5E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHV3GN694"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nスキー実習なくなったので今週金曜日12:30~健康支援学会関係でゼミできる？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582681619.001100",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1582685222.003700",
+        "reply_users": [
+            "UHV3GN694",
+            "UGQV9DXRC",
+            "UHEH8KZ7W",
+            "UHC5VBV5E",
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UHV3GN694",
+                "ts": "1582681679.001200"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1582682602.002000"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1582682633.002500"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1582683661.002900"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1582684282.003100"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1582684296.003500"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1582685222.003700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1582685222.003700"
+    },
+    {
+        "client_msg_id": "06cf8c28-f35e-4f06-bc8c-7e081353a953",
+        "type": "message",
+        "text": "大丈夫です。",
+        "user": "UHV3GN694",
+        "ts": "1582681679.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g09c71d9cc54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b09c71d9cc541041ebfe419872e7fc9c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "高柳里紗",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "rxrxree609",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QefQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582681619.001100",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "40a80d6b-080b-4271-ba7c-30923d641b6b",
+        "type": "message",
+        "text": "ポスターを修正しました。ご確認のほどよろしくお願い致します。\n<https:\/\/drive.google.com\/file\/d\/1tZ8RrJpfq4JIEEa8G_2cfZWq5PP0_fqa\/view?usp=sharing>",
+        "user": "UHV3GN694",
+        "ts": "1582681794.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g09c71d9cc54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b09c71d9cc541041ebfe419872e7fc9c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "高柳里紗",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "rxrxree609",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lD9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ポスターを修正しました。ご確認のほどよろしくお願い致します。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1tZ8RrJpfq4JIEEa8G_2cfZWq5PP0_fqa\/view?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1616F5E5-E422-4F3D-9A6A-9FFFBD3D5531",
+        "type": "message",
+        "text": "大丈夫です",
+        "user": "UGQV9DXRC",
+        "ts": "1582682602.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TFt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582681619.001100",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "91C24E00-8808-4E11-8C24-6E037877C238",
+        "type": "message",
+        "text": "自分も大丈夫です",
+        "user": "UHEH8KZ7W",
+        "ts": "1582682633.002500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b\/ku",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分も大丈夫です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582681619.001100",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "640FB39A-F008-4CA8-A0C7-F177E590A584",
+        "type": "message",
+        "text": "28日までいないのでできません",
+        "user": "UHC5VBV5E",
+        "ts": "1582683661.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DISTF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "28日までいないのでできません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582681619.001100",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "cfe245fc-30cd-4be2-af4e-81a80d72c411",
+        "type": "message",
+        "text": "根本、共同研究者にスライドを送って",
+        "user": "UHFLB6JPR",
+        "ts": "1582684282.003100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "au\/V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "根本、共同研究者にスライドを送って"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582681619.001100",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "1D7D01C7-C388-49F6-813D-CF99D8D66E08",
+        "type": "message",
+        "text": "了解です",
+        "user": "UHC5VBV5E",
+        "ts": "1582684296.003500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bwUq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582681619.001100",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "e766d363-0a2c-4a77-98fa-47c7de3cddae",
+        "type": "message",
+        "text": "昨日の時点では開催予定とのことでした。\n状況は状況なので、急遽変更になる可能性はあります。\nパック旅行のキャンセル料について、改めて確認しておいてください。\nそうなった場合にみんなには負担がかからないように努力します。",
+        "user": "UHFLB6JPR",
+        "ts": "1582685222.003700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A4r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "昨日の時点では開催予定とのことでした。\n状況は状況なので、急遽変更になる可能性はあります。\nパック旅行のキャンセル料について、改めて確認しておいてください。\nそうなった場合にみんなには負担がかからないように努力します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582681619.001100",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "type": "message",
+        "text": "キャンセル料について再確認です\n<https:\/\/www.jalan.net\/jalan\/doc\/ajp\/howto\/ryoukin.html|https:\/\/www.jalan.net\/jalan\/doc\/ajp\/howto\/ryoukin.html>\n福田くんには1人頭54600円渡しているので\n8日前(今週金曜)までならキャンセル料20% で10920円\n2日前(来週木曜)までならキャンセル料30%で16380円\nで大丈夫かな？<@UHEH8KZ7W> ",
+        "files": [
+            {
+                "id": "FU4EQD0H0",
+                "created": 1582686164,
+                "timestamp": 1582686164,
+                "name": "iOS の画像.png",
+                "title": "iOS の画像",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 281926,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FU4EQD0H0\/ios__________.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FU4EQD0H0\/download\/ios__________.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU4EQD0H0-9009ca151c\/ios___________64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU4EQD0H0-9009ca151c\/ios___________80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU4EQD0H0-9009ca151c\/ios___________360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU4EQD0H0-9009ca151c\/ios___________480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU4EQD0H0-9009ca151c\/ios___________160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU4EQD0H0-9009ca151c\/ios___________720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU4EQD0H0-9009ca151c\/ios___________800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU4EQD0H0-9009ca151c\/ios___________960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU4EQD0H0-9009ca151c\/ios___________1024.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "image_exif_rotation": 1,
+                "original_w": 2048,
+                "original_h": 1536,
+                "thumb_tiny": "AwAkADDRIweB+lAPsaDkHgGjn3\/KgBevaj8KOfejP1oAKMZ6ijOOxNLmgBDQMUtFABSYpaKAEPWloooATaM5pcUUUAFFFFABRRRQB\/\/Z",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FU4EQD0H0\/ios__________.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FU4EQD0H0-88c4b8188c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kY8bb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "キャンセル料について再確認です\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.jalan.net\/jalan\/doc\/ajp\/howto\/ryoukin.html",
+                                "text": "https:\/\/www.jalan.net\/jalan\/doc\/ajp\/howto\/ryoukin.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "福田くんには1人頭54600円渡しているので\n8日前(今週金曜)までならキャンセル料20% で10920円\n2日前(来週木曜)までならキャンセル料30%で16380円\nで大丈夫かな？"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1582686749.006600",
+        "client_msg_id": "1622D18B-CF48-49D1-AC84-AB1D75376834"
+    },
+    {
+        "client_msg_id": "8D3D597B-4496-4D81-879C-8D675C616C85",
+        "type": "message",
+        "text": "今調べます！",
+        "user": "UHEH8KZ7W",
+        "ts": "1582687913.007100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CR55",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今調べます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d03b52f9-8723-4365-a248-d98eb043b00b",
+        "type": "message",
+        "text": "<https:\/\/www.jalan.net\/jalan\/doc\/howto\/03yoyaku_ana.html>\n鈴木先輩が貼って下さった画像の通りです！",
+        "user": "UHEH8KZ7W",
+        "ts": "1582688173.007900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHEH8KZ7W",
+            "ts": "1582688250.000000"
+        },
+        "attachments": [
+            {
+                "title": "�峨▽  - h+q?迢ｽ��NApbN",
+                "title_link": "https:\/\/www.jalan.net\/jalan\/doc\/ajp\/howto\/ryoukin.html#content2",
+                "text": "ANA",
+                "fallback": "ﾉつ  - h+q?狽ﾈ?NApbN",
+                "from_url": "https:\/\/www.jalan.net\/jalan\/doc\/ajp\/howto\/ryoukin.html#content2",
+                "service_icon": "https:\/\/www.jalan.net\/favicon.ico",
+                "service_name": "jalan.net",
+                "id": 1,
+                "original_url": "https:\/\/www.jalan.net\/jalan\/doc\/ajp\/howto\/ryoukin.html#content2"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ACipm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.jalan.net\/jalan\/doc\/howto\/03yoyaku_ana.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n鈴木先輩が貼って下さった画像の通りです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582688173.007900",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1582692628.010400",
+        "reply_users": [
+            "UGQV9DXRC",
+            "UHEH8KZ7W"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1582688338.008300"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1582688890.008500"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1582688979.008700"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1582689079.009200"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1582692628.010400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "414ae5e1-8123-4afc-b9f5-c7b012f9a8e1",
+        "type": "message",
+        "text": "予約紹介のページはログインしないと見れないからスクショを貼ってくれるといい！",
+        "user": "UGQV9DXRC",
+        "ts": "1582688338.008300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lSlJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予約紹介のページはログインしないと見れないからスクショを貼ってくれるといい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582688173.007900",
+        "parent_user_id": "UHEH8KZ7W"
+    },
+    {
+        "client_msg_id": "34ae2963-e10d-4bf3-aed6-bd8c24677785",
+        "type": "message",
+        "text": "すいません！",
+        "user": "UHEH8KZ7W",
+        "ts": "1582688890.008500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PRxT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいません！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582688173.007900",
+        "parent_user_id": "UHEH8KZ7W"
+    },
+    {
+        "client_msg_id": "dea82f08-3176-44d3-b96d-244c4b19724a",
+        "type": "message",
+        "text": "鈴木先輩が貼って下さった画像と同じです。",
+        "user": "UHEH8KZ7W",
+        "ts": "1582688979.008700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A0T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "鈴木先輩が貼って下さった画像と同じです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582688173.007900",
+        "parent_user_id": "UHEH8KZ7W"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FU76AFQHF",
+                "created": 1582688989,
+                "timestamp": 1582688989,
+                "name": "bandicam 2020-02-26 12-49-07-836.jpg",
+                "title": "bandicam 2020-02-26 12-49-07-836.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 366302,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FU76AFQHF\/bandicam_2020-02-26_12-49-07-836.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FU76AFQHF\/download\/bandicam_2020-02-26_12-49-07-836.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU76AFQHF-b63952c62d\/bandicam_2020-02-26_12-49-07-836_64.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU76AFQHF-b63952c62d\/bandicam_2020-02-26_12-49-07-836_80.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU76AFQHF-b63952c62d\/bandicam_2020-02-26_12-49-07-836_360.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 347,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU76AFQHF-b63952c62d\/bandicam_2020-02-26_12-49-07-836_480.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 463,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU76AFQHF-b63952c62d\/bandicam_2020-02-26_12-49-07-836_160.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU76AFQHF-b63952c62d\/bandicam_2020-02-26_12-49-07-836_720.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 720,
+                "thumb_720_h": 694,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU76AFQHF-b63952c62d\/bandicam_2020-02-26_12-49-07-836_800.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 771,
+                "image_exif_rotation": 1,
+                "original_w": 919,
+                "original_h": 886,
+                "thumb_tiny": "AwAuADDQPXr+ppwPvQc5pPmxxQAuff8ASj8f0o59aOfWgAz7\/pQD7\/pRg+tHPrQA3byelKAR0xSZAJ5pQc9DQAYb1ow3rR+NLx6mgAAPc0Y9zSEgdzQCD0JoAUn3FHPrQQaBnvQAtJg5paKAENA5FB5pRQB\/\/9k=",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FU76AFQHF\/bandicam_2020-02-26_12-49-07-836.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FU76AFQHF-a77446cfe5",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1582688992.008900",
+        "client_msg_id": "a04853de-7218-44fe-835a-7ef5acd08dd3"
+    },
+    {
+        "client_msg_id": "3660581e-a06c-47a0-adfc-77328bb7d36e",
+        "type": "message",
+        "text": "54600円の金額は大丈夫？",
+        "user": "UGQV9DXRC",
+        "ts": "1582689079.009200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xTeT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "54600円の金額は大丈夫？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582688173.007900",
+        "parent_user_id": "UHEH8KZ7W"
+    },
+    {
+        "client_msg_id": "7804276f-581f-46b7-8f9f-5da04f72e9e1",
+        "type": "message",
+        "text": "5人で8.2万円ね( ；∀；)",
+        "user": "UHFLB6JPR",
+        "ts": "1582689203.009700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PY2T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5人で8.2万円ね( ；∀；)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "241be34e-0ed1-475e-ad53-f44212d2608e",
+        "type": "message",
+        "text": "そのくらいならどうにかなるから心配しないで",
+        "user": "UHFLB6JPR",
+        "ts": "1582689249.010200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zRJR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そのくらいならどうにかなるから心配しないで"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "UGQV9DXRC",
+                    "UHC5VBV5E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88a51d98-128e-4773-b048-46b9601857d1",
+        "type": "message",
+        "text": "はい、1人当たり54600円であってます",
+        "user": "UHEH8KZ7W",
+        "ts": "1582692628.010400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YiV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい、1人当たり54600円であってます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582688173.007900",
+        "parent_user_id": "UHEH8KZ7W",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

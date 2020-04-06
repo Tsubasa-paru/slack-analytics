@@ -1,0 +1,138 @@
+[
+    {
+        "client_msg_id": "be095a8e-1e15-4bdf-b08e-0513fed5606b",
+        "type": "message",
+        "text": "11日(土)にやったこと\n• 開発に用いるクラウドサービスの厳選→ニフクラ mobile backend の mBaaSを使用することにした\n• サンプルコードの中身確認、試しの動作確認\n• 自分のアプリ用だと仕様が異なるため変更、エラー修正\n• 高画質のままで画像のアップロード、およびダウンロード後の表示機能の実装",
+        "user": "UHG1M1NQ6",
+        "ts": "1578756704.004300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sfr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11日(土)にやったこと\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "開発に用いるクラウドサービスの厳選→ニフクラ mobile backend の mBaaSを使用することにした"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "サンプルコードの中身確認、試しの動作確認"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "自分のアプリ用だと仕様が異なるため変更、エラー修正"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "高画質のままで画像のアップロード、およびダウンロード後の表示機能の実装"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18a87bcf-44c4-4a9d-914f-b96df9c9ea1d",
+        "type": "message",
+        "text": "<https:\/\/mbaas.nifcloud.com\/>",
+        "user": "UHG1M1NQ6",
+        "ts": "1578756744.004500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "ニフクラ mobile backend",
+                "title_link": "https:\/\/mbaas.nifcloud.com\/",
+                "text": "スマホアプリ開発に必要な機能をクラウド上で提供するので、面倒なサーバー開発が一切不要。アプリ開発をよりスマートにスピーディに。",
+                "fallback": "ニフクラ mobile backend",
+                "image_url": "https:\/\/mbaas.nifcloud.com\/images\/logo_ll.png",
+                "from_url": "https:\/\/mbaas.nifcloud.com\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 16486,
+                "service_icon": "https:\/\/mbaas.nifcloud.com\/images\/favicon.ico",
+                "service_name": "mbaas.nifcloud.com",
+                "id": 1,
+                "original_url": "https:\/\/mbaas.nifcloud.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ss",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mbaas.nifcloud.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

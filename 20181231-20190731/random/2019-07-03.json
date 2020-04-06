@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "AED97A4D-DAF0-476C-932E-4B2752A35624",
+        "type": "message",
+        "text": "プラハの写真を毎日たくさん撮っているので共有しておきます！！\n\n1日目！\n<https:\/\/photos.app.goo.gl\/hWHd8PQDkW9W4BNM8>\n\n2日目！\n<https:\/\/photos.app.goo.gl\/fXehYY4a7VYTyXSN7>\n\n3日目\n<https:\/\/photos.app.goo.gl\/Tuunfn2a85zErGY88>\n\n4日目\n<https:\/\/photos.app.goo.gl\/6Rss72FFXt4vp33h8>\n",
+        "user": "UGPH97FDW",
+        "ts": "1562220643.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGPH97FDW",
+            "ts": "1562423105.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Google Photos",
+                "title": "プラハ1日目+α",
+                "title_link": "https:\/\/photos.app.goo.gl\/hWHd8PQDkW9W4BNM8",
+                "text": "185 new photos · Album by KOKI OKADA",
+                "fallback": "Google Photos: プラハ1日目+α",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/rALLWpspJ5agxfoj5UAk-zlU3SmiysdfHkhJqE999brxgsnFNvDXk3BVOqK_C-OF6nIGNHZ8EuP3bAAkYl5BVmovizvsGnGs3t0iS7nP96UEdQzfJ_Bk4BKy6F4MhokUqyvwLJHLiQ",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https:\/\/photos.app.goo.gl\/hWHd8PQDkW9W4BNM8",
+                "image_bytes": 94788,
+                "service_icon": "http:\/\/ssl.gstatic.com\/images\/branding\/product\/1x\/photos_512dp.png",
+                "id": 1,
+                "original_url": "https:\/\/photos.app.goo.gl\/hWHd8PQDkW9W4BNM8"
+            },
+            {
+                "service_name": "Google Photos",
+                "title": "プラハ2日目",
+                "title_link": "https:\/\/photos.app.goo.gl\/fXehYY4a7VYTyXSN7",
+                "text": "135 new photos added to shared album",
+                "fallback": "Google Photos: プラハ2日目",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/zSAODpgWQUGUyYJWMA2Uhc0DnDkf5McRi_xguaiJwJXmSEQAyBzGnwonzu-D9ty2b41_lRrWFj38MWsEvWn4o7UyRUwm4H_hidw6RgBFz4fTJIIdYJAjHjTHPHCgy8OPGHYXpquvIQ",
+                "image_width": 188,
+                "image_height": 250,
+                "from_url": "https:\/\/photos.app.goo.gl\/fXehYY4a7VYTyXSN7",
+                "image_bytes": 71414,
+                "service_icon": "http:\/\/ssl.gstatic.com\/images\/branding\/product\/1x\/photos_512dp.png",
+                "id": 2,
+                "original_url": "https:\/\/photos.app.goo.gl\/fXehYY4a7VYTyXSN7"
+            }
+        ]
+    }
+]

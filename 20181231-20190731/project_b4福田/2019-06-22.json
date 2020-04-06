@@ -1,0 +1,37 @@
+[
+    {
+        "client_msg_id": "DB38E0A8-2FBE-4839-AE79-CE4881376C18",
+        "type": "message",
+        "text": "<https:\/\/www.city.kusatsu.shiga.jp\/shisei\/kenkyu\/chousakenkyu\/24nendohokoku.files\/51b675f2011.pdf>",
+        "user": "UHFLB6JPR",
+        "ts": "1561191898.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561191898.000200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1561431300.000100",
+        "reply_users": [
+            "UHEH8KZ7W"
+        ],
+        "replies": [
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1561431300.000100"
+            }
+        ],
+        "subscribed": false
+    }
+]

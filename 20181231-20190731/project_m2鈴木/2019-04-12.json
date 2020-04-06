@@ -1,0 +1,153 @@
+[
+    {
+        "type": "message",
+        "text": "特徴量の紐づけができた～～わーいわーい",
+        "files": [
+            {
+                "id": "FHU7SML3X",
+                "created": 1555054273,
+                "timestamp": 1555054273,
+                "name": "論文レビュー詳細_0412.xlsx",
+                "title": "論文レビュー詳細_0412.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 58963,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHU7SML3X\/_________________________0412.xlsx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHU7SML3X\/download\/_________________________0412.xlsx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHU7SML3X-18dad7278a\/_________________________0412_converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHU7SML3X-18dad7278a\/_________________________0412_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FHU7SML3X\/_________________________0412.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHU7SML3X-e56ffd509c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1555054284.003600",
+        "client_msg_id": "238b486d-7d36-474e-a6be-b9a40cf0025e"
+    },
+    {
+        "client_msg_id": "0ec7499c-cc39-4587-916c-5ac7a3ac8cb0",
+        "type": "message",
+        "text": "<https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/20302417>",
+        "user": "UGQV9DXRC",
+        "ts": "1555058097.004100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Real-time elderly activity monitoring system based on a tri-axial accelerometer.  - PubMed - NCBI ",
+                "title_link": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/20302417",
+                "text": "Disabil Rehabil Assist Technol. 2010 Jul;5(4):247-53. doi: 10.3109\/17483101003718112. Research Support, Non-U.S. Gov't",
+                "fallback": "Real-time elderly activity monitoring system based on a tri-axial accelerometer.  - PubMed - NCBI ",
+                "image_url": "http:\/\/www.ncbi.nlm.nih.gov\/coreutils\/img\/pubmed256blue.png",
+                "from_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/20302417",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 13298,
+                "service_icon": "http:\/\/www.ncbi.nlm.nih.gov\/favicon.ico",
+                "service_name": "ncbi.nlm.nih.gov",
+                "id": 1,
+                "original_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/20302417"
+            }
+        ],
+        "thread_ts": "1553587662.002300",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "33425e3c-7626-44ef-ba24-bc5647762e94",
+        "type": "message",
+        "text": "<https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/27372275>",
+        "user": "UGQV9DXRC",
+        "ts": "1555058116.004400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Field evaluation of a random forest activity classifier for wrist-worn accelerometer data.  - PubMed - NCBI ",
+                "title_link": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/27372275",
+                "text": "J Sci Med Sport. 2017 Jan;20(1):75-80. doi: 10.1016\/j.jsams.2016.06.003. Epub 2016 Jun 23. Validation Studies",
+                "fallback": "Field evaluation of a random forest activity classifier for wrist-worn accelerometer data.  - PubMed - NCBI ",
+                "image_url": "http:\/\/www.ncbi.nlm.nih.gov\/coreutils\/img\/pubmed256blue.png",
+                "from_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/27372275",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 13298,
+                "service_icon": "http:\/\/www.ncbi.nlm.nih.gov\/favicon.ico",
+                "service_name": "ncbi.nlm.nih.gov",
+                "id": 1,
+                "original_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/27372275"
+            }
+        ],
+        "thread_ts": "1553587662.002300",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "31a9e5bf-55d9-4961-a422-8d3b501fa6a4",
+        "type": "message",
+        "text": "Todo\n&gt;①論文レビュー\n&gt;　特徴量の紐づけほぼ終わり(あと一本請求中)\n&gt;　請求出来たら画像にまとめてイントロ書いて完成にしちゃいたい\n&gt;②titanicのpython決定木→python講習資料\n&gt;　解釈途中、講習資料で形にしながら考えてる\n&gt;③自分のデータでpython決定木\n&gt;データ整理をMTALABでやろうとして調べてる",
+        "user": "UGQV9DXRC",
+        "ts": "1555061035.006700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

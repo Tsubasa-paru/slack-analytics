@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FQV35NZME",
+                "created": 1574406698,
+                "timestamp": 1574406698,
+                "name": "permj19_4p0084.pdf",
+                "title": "permj19_4p0084.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 5704148,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQV35NZME\/permj19_4p0084.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQV35NZME\/download\/permj19_4p0084.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQV35NZME-5fd3d32306\/permj19_4p0084_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 921,
+                "thumb_pdf_h": 1183,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FQV35NZME\/permj19_4p0084.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FQV35NZME-6511cd696d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1574406699.000400",
+        "client_msg_id": "ce4bd48a-8a98-413a-bb07-49097464a59d"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FQX9987V4",
+                "created": 1574406711,
+                "timestamp": 1574406711,
+                "name": "EFFECTIVE_STRATEGIES_TO_INCREASE_PHYSICAL_ACTIVITY.9.pdf",
+                "title": "EFFECTIVE_STRATEGIES_TO_INCREASE_PHYSICAL_ACTIVITY.9.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 1507840,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQX9987V4\/effective_strategies_to_increase_physical_activity.9.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQX9987V4\/download\/effective_strategies_to_increase_physical_activity.9.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQX9987V4-3c350c367b\/effective_strategies_to_increase_physical_activity.9_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 894,
+                "thumb_pdf_h": 1197,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FQX9987V4\/effective_strategies_to_increase_physical_activity.9.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FQX9987V4-ba9e6d2cf7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1574406712.000700",
+        "client_msg_id": "ccae9fa7-6820-4216-b501-938a9eecc107"
+    }
+]

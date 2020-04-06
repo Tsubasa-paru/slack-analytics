@@ -1,0 +1,527 @@
+[
+    {
+        "client_msg_id": "9328a863-457c-4794-8cb8-4970d07a3133",
+        "type": "message",
+        "text": "金曜日　13:00からゼミをやります\n3年生の研究についてと研究室全体の今後の予定・方針についての話をします。",
+        "user": "UHC5VBV5E",
+        "ts": "1585120715.010600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ef",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "金曜日　13:00からゼミをやります\n3年生の研究についてと研究室全体の今後の予定・方針についての話をします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UUZ15MZT4",
+                    "UHEH8KZ7W"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf631ac9-ea0b-4a90-8f2d-e47ff9ba2004",
+        "type": "message",
+        "text": "あと学生部屋の掃除をします。",
+        "user": "UHC5VBV5E",
+        "ts": "1585120865.011100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UIb\/m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あと学生部屋の掃除をします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FD7B35E6-DA09-42D1-A69E-184233AD31E8",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> <@UHG1M1NQ6> <@UHC5VBV5E> <@UUZ15MZT4> <@UGPH97FDW> <@UVBQW1MAR> <@UV0AL2ZNX> <@UUZ15LS10> \n先ほど都知事からコメントありましたが、明日、明後日の仕事は自宅で、週末は外出自粛要請がでました。\n金曜日のゼミはビデオ会議にしたいです。\nグーグルのmeetかzoomが良いかと思います。\nつたけ、準備してくれる？\n",
+        "user": "UHFLB6JPR",
+        "ts": "1585137228.004300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585137228.004300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585140633.006500",
+        "reply_users": [
+            "UHG1M1NQ6"
+        ],
+        "replies": [
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1585140633.006500"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1585140633.006500"
+    },
+    {
+        "client_msg_id": "85D15130-B576-4B78-A8D9-34F63E3720E3",
+        "type": "message",
+        "text": "<@UVBQW1MAR>\n小西は大河原研ライングループを明日中につくってください\nメンバーやアドレスについては根本に相談してください",
+        "user": "UHFLB6JPR",
+        "ts": "1585140466.006300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585140466.006300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585149480.000800",
+        "reply_users": [
+            "UVBQW1MAR"
+        ],
+        "replies": [
+            {
+                "user": "UVBQW1MAR",
+                "ts": "1585149480.000800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b543ea26-0f39-49d8-846e-35779ec73c37",
+        "type": "message",
+        "text": "承知しました。調べて準備しておきます。",
+        "user": "UHG1M1NQ6",
+        "ts": "1585140633.006500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rkVbI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。調べて準備しておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585137228.004300",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "37F92CFD-F084-4DF1-9574-C294B8ADB626",
+        "type": "message",
+        "text": "承知しました。\n根本さんに相談しつつ、作成したいと思います。",
+        "user": "UVBQW1MAR",
+        "ts": "1585149480.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gf9dc172696f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f9dc172696ffb9e8a0cbd0faceacaed3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "小西長門",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "k1710235",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sFA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。\n根本さんに相談しつつ、作成したいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585140466.006300",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "b7bdf258-c5dd-470b-bb56-4cb5c7998806",
+        "type": "message",
+        "text": "<https:\/\/douga-tec.com\/?p=22621>\nmeetは会議を開く人のみビジネス用であるG Suiteアカウントへの登録が必要なようです。\nG Suiteは有料で、最低で680円\/月となっています。",
+        "user": "UHG1M1NQ6",
+        "ts": "1585195555.003900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "GoogleMeetの使い方ビデオウェブ会議サービスアプリ | カンタン動画入門 撮影・編集・webにアップする方法まで",
+                "title_link": "https:\/\/douga-tec.com\/?p=22621",
+                "text": "ビデオウェブ会議サービスGoogle Meet(グーグルミート)の基本操作の方法を解説。同時参加人数、会員登録の必要、画面共有機能、レコード機能、チャット、ホワイトボード、ファイル送信の有無についても詳しく紹介。",
+                "fallback": "GoogleMeetの使い方ビデオウェブ会議サービスアプリ | カンタン動画入門 撮影・編集・webにアップする方法まで",
+                "from_url": "https:\/\/douga-tec.com\/?p=22621",
+                "service_icon": "https:\/\/douga-tec.com\/apple-touch-icon.png",
+                "service_name": "douga-tec.com",
+                "id": 1,
+                "original_url": "https:\/\/douga-tec.com\/?p=22621"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a9Fz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/douga-tec.com\/?p=22621"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nmeetは会議を開く人のみビジネス用であるG Suiteアカウントへの登録が必要なようです。\nG Suiteは有料で、最低で680円\/月となっています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "edbabf83-097d-48c9-92d1-7b1c44ab6598",
+        "type": "message",
+        "text": "<https:\/\/kigyolog.com\/tool.php?id=63>\nzoomは全員無料でビデオ会議を行うことが可能でした。\n3人以上のグループ会議においては1度の会議で40分間までという時間制限が設けられています。",
+        "user": "UHG1M1NQ6",
+        "ts": "1585195567.004200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "起業ログ",
+                "title": "無料のWeb会議ツールZoom（ズーム）の使い方・評判・比較を徹底解説！ - 起業ログ",
+                "title_link": "https:\/\/kigyolog.com\/tool.php?id=63",
+                "text": "Zoom（ズーム）は世界で75万もの企業が導入しているWeb会議ツールです。無料版でも最大100人が同時に接続できるのが最大の特徴です。",
+                "fallback": "起業ログ: 無料のWeb会議ツールZoom（ズーム）の使い方・評判・比較を徹底解説！ - 起業ログ",
+                "image_url": "https:\/\/kigyolog.com\/contents\/tool\/05b46292eea0919e918b11b9286cf732.png",
+                "from_url": "https:\/\/kigyolog.com\/tool.php?id=63",
+                "image_width": 220,
+                "image_height": 220,
+                "image_bytes": 1341,
+                "service_icon": "https:\/\/kigyolog.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/kigyolog.com\/tool.php?id=63"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ua+4v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kigyolog.com\/tool.php?id=63"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nzoomは全員無料でビデオ会議を行うことが可能でした。\n3人以上のグループ会議においては1度の会議で40分間までという時間制限が設けられています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585195567.004200",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1585224933.000100",
+        "reply_users": [
+            "UUZ15MZT4",
+            "UHG1M1NQ6",
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UUZ15MZT4",
+                "ts": "1585196272.005600"
+            },
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1585198511.005900"
+            },
+            {
+                "user": "UUZ15MZT4",
+                "ts": "1585198591.006100"
+            },
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1585206812.006300"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1585207597.007000"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1585207645.008000"
+            },
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1585224933.000100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1585224933.000100"
+    },
+    {
+        "client_msg_id": "363acc47-e2d2-4f80-8ce6-84392ef4dcfe",
+        "type": "message",
+        "text": "ありがとうございます！\n40分で切れるのは少し使い勝手が悪そうですね…\n明日のゼミまでに一度テストで使ってみますか？",
+        "user": "UUZ15MZT4",
+        "ts": "1585196272.005600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "7dfa25c9925c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1006784279335_7dfa25c9925c232a45ec_72.jpg",
+            "first_name": "中田翼",
+            "real_name": "中田翼",
+            "display_name": "Tsubasa NAKADA",
+            "team": "TGNPXK07J",
+            "name": "tubasa.12345.67890",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUZ15MZT4",
+            "ts": "1585196330.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U5ihO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！\n40分で切れるのは少し使い勝手が悪そうですね…\n明日のゼミまでに一度テストで使ってみますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585195567.004200",
+        "parent_user_id": "UHG1M1NQ6"
+    },
+    {
+        "client_msg_id": "f395a57e-60ca-4082-89ed-4e88e349a18d",
+        "type": "message",
+        "text": "1:1でもいいのでとりあえず繋がるかどうかテストはしてみたいですね。これから21時頃までバイトが入っているのでそれ以降にはなってしまいますが…",
+        "user": "UHG1M1NQ6",
+        "ts": "1585198511.005900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TXvtX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1:1でもいいのでとりあえず繋がるかどうかテストはしてみたいですね。これから21時頃までバイトが入っているのでそれ以降にはなってしまいますが…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585195567.004200",
+        "parent_user_id": "UHG1M1NQ6"
+    },
+    {
+        "client_msg_id": "9ea0bf81-f589-40e3-b157-0239da66f0fc",
+        "type": "message",
+        "text": "僕でよければお手伝いしますよ！\n夜でも大丈夫です。",
+        "user": "UUZ15MZT4",
+        "ts": "1585198591.006100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "7dfa25c9925c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1006784279335_7dfa25c9925c232a45ec_72.jpg",
+            "first_name": "中田翼",
+            "real_name": "中田翼",
+            "display_name": "Tsubasa NAKADA",
+            "team": "TGNPXK07J",
+            "name": "tubasa.12345.67890",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hi7IQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "僕でよければお手伝いしますよ！\n夜でも大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585195567.004200",
+        "parent_user_id": "UHG1M1NQ6"
+    }
+]

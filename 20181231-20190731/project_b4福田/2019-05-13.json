@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "34ccb168-c1ef-44a4-a87c-1b76780e7a5b",
+        "type": "message",
+        "text": "幸福の習慣　トム・ラス、ジム・ハーター（<https:\/\/www.amazon.co.jp\/%E5%B9%B8%E7%A6%8F%E3%81%AE%E7%BF%92%E6%85%A3-%E3%83%88%E3%83%A0%E3%83%BB%E3%83%A9%E3%82%B9\/dp\/4799310658）>\n幸福度指標試案　内閣府（<https:\/\/www5.cao.go.jp\/keizai2\/koufukudo\/koufukudo.html）>",
+        "user": "UHEH8KZ7W",
+        "ts": "1557815923.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

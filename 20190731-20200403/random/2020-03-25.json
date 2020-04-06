@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "3c689bbf-aa0d-4be0-9e11-10162eb6da43",
+        "type": "message",
+        "text": "皆さん改めてご卒業おめでとうございます！\n引き続き大学に残る方はよろしくお願いします。",
+        "user": "UUZ15MZT4",
+        "ts": "1585135047.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "7dfa25c9925c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1006784279335_7dfa25c9925c232a45ec_72.jpg",
+            "first_name": "中田翼",
+            "real_name": "中田翼",
+            "display_name": "Tsubasa NAKADA",
+            "team": "TGNPXK07J",
+            "name": "tubasa.12345.67890",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "huLY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "皆さん改めてご卒業おめでとうございます！\n引き続き大学に残る方はよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "UHG1M1NQ6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "214A95CA-365A-491E-ACE0-F40A079F0CA7",
+        "type": "message",
+        "text": "皆さん改めてご卒業おめでとうございます。\n引き続き学年が変わらない方はよろしくお願いします。",
+        "user": "UHEH8KZ7W",
+        "ts": "1585141580.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHEH8KZ7W",
+            "ts": "1585141597.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hbeMV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "皆さん改めてご卒業おめでとうございます。\n引き続き学年が変わらない方はよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,295 @@
+[
+    {
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n抄録更新しました\n<https:\/\/drive.google.com\/open?id=1hU6ZfObGqgU4gRgZxETOL9IotFntxmQG>\n\n行動変容の件、以前もいただいたご指摘でした。申し訳ありません:man-bowing:",
+        "files": [
+            {
+                "id": "FNR4UH1LN",
+                "created": 1569313650,
+                "timestamp": 1569313650,
+                "name": "修論中間報告抄録_鈴木0924.docx",
+                "title": "修論中間報告抄録_鈴木0924.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 39607,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1hU6ZfObGqgU4gRgZxETOL9IotFntxmQG",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNR4UH1LN-5bedbdf6a9\/_______________________________0924_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNR4UH1LN-5bedbdf6a9\/_______________________________0924_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNR4UH1LN-5bedbdf6a9\/_______________________________0924_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNR4UH1LN-5bedbdf6a9\/_______________________________0924_480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNR4UH1LN-5bedbdf6a9\/_______________________________0924_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNR4UH1LN-5bedbdf6a9\/_______________________________0924_720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNR4UH1LN-5bedbdf6a9\/_______________________________0924_800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1132,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNR4UH1LN-5bedbdf6a9\/_______________________________0924_960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 678,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNR4UH1LN-5bedbdf6a9\/_______________________________0924_1024.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 1449,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FNR4UH1LN\/_______________________________0924.docx",
+                "is_starred": false,
+                "external_id": "1hU6ZfObGqgU4gRgZxETOL9IotFntxmQG",
+                "external_url": "https:\/\/drive.google.com\/open?id=1hU6ZfObGqgU4gRgZxETOL9IotFntxmQG",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FNR4UH1LN"
+        ],
+        "ts": "1569313648.002000",
+        "client_msg_id": "52754763-a63f-48e8-97f4-b7479d581c27"
+    },
+    {
+        "type": "message",
+        "text": "Regression calibration method for correcting measurement-error bias in nutritional epidemiology. - PubMed - NCBI\n<https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/9094918\/>",
+        "user": "UGQV9DXRC",
+        "ts": "1569370797.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Regression calibration method for correcting measurement-error bias in nutritional epidemiology.  - PubMed - NCBI ",
+                "title_link": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/9094918\/",
+                "text": "Am J Clin Nutr. 1997 Apr;65(4 Suppl):1179S-1186S. doi: 10.1093\/ajcn\/65.4.1179S. Research Support, U.S. Gov't, P.H.S.; Review",
+                "fallback": "Regression calibration method for correcting measurement-error bias in nutritional epidemiology.  - PubMed - NCBI ",
+                "image_url": "http:\/\/www.ncbi.nlm.nih.gov\/coreutils\/img\/pubmed256blue.png",
+                "from_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/9094918\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 13298,
+                "service_icon": "http:\/\/www.ncbi.nlm.nih.gov\/favicon.ico",
+                "service_name": "ncbi.nlm.nih.gov",
+                "id": 1,
+                "original_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/9094918\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3802AD9E-B2DD-4DE3-A043-4F85DF3A521E",
+        "type": "message",
+        "text": "中間のスライドを送れる？",
+        "user": "UHFLB6JPR",
+        "ts": "1569372103.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "027CB7DB-21A6-4A84-9778-0AA7C874EED3",
+        "type": "message",
+        "text": "今日の夕方に一度発表練習できれば",
+        "user": "UHFLB6JPR",
+        "ts": "1569372146.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DDDAF583-C133-46C4-9515-2AF81C671AA9",
+        "type": "message",
+        "text": "何時頃でしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1569372855.004100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7f73528e-ffda-4cd7-9e27-bbf78a6fb76a",
+        "type": "message",
+        "text": "明日の午前でもよいでしょうか、\nそれまでには完成できると思います",
+        "user": "UGQV9DXRC",
+        "ts": "1569373251.008200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9D4B9131-0F3A-4237-AB14-FAF37673F1B2",
+        "type": "message",
+        "text": "10時は？",
+        "user": "UHFLB6JPR",
+        "ts": "1569373578.008500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bb33d09c-40d6-42f0-a730-6b5117a0a5bb",
+        "type": "message",
+        "text": "大丈夫です、よろしくお願いします",
+        "user": "UGQV9DXRC",
+        "ts": "1569373599.009000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A52E630C-F562-4B1E-A005-693673DD1A5B",
+        "type": "message",
+        "text": "英語の抄録も",
+        "user": "UHFLB6JPR",
+        "ts": "1569373628.009500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "But how many people died? Health outcomes in perspective | Cleveland Clinic Journal of Medicine\n<https:\/\/www.mdedge.com\/ccjm\/article\/97265\/cardiology\/how-many-people-died-health-outcomes-perspective>",
+        "user": "UGQV9DXRC",
+        "ts": "1569377294.010100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "But how many people died? Health outcomes in perspective",
+                "title_link": "https:\/\/www.mdedge.com\/ccjm\/article\/97265\/cardiology\/how-many-people-died-health-outcomes-perspective",
+                "text": "Before dispensing advice, we should know the effect of whatever we are recommending on all meaningful outcomes.",
+                "fallback": "But how many people died? Health outcomes in perspective",
+                "thumb_url": "https:\/\/mdedge-files-live.s3.us-east-2.amazonaws.com\/files\/s3fs-public\/styles\/teaser_opengraph\/public\/images\/article_teasers\/Prasad_OutcomeMeasure_carousel.gif",
+                "from_url": "https:\/\/www.mdedge.com\/ccjm\/article\/97265\/cardiology\/how-many-people-died-health-outcomes-perspective",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/www.mdedge.com\/sites\/all\/themes\/custom\/medstat_aurora\/img\/default-icons\/apple-touch-icon.png",
+                "service_name": "mdedge.com",
+                "id": 1,
+                "original_url": "https:\/\/www.mdedge.com\/ccjm\/article\/97265\/cardiology\/how-many-people-died-health-outcomes-perspective"
+            }
+        ]
+    }
+]

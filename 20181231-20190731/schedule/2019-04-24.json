@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "14131750-a576-4115-9ec8-40c6db3cab10",
+        "type": "message",
+        "text": "スマホからExcelに書き込めなかったのでここに書きます。基本土日は埋まってます。授業は前期後期共に1つも履修しない為、大丈夫です。バイトも固定ではなく不定期なので曜日によっての記載は出来ません。よろしくお願いしますm",
+        "user": "UHFLC6N4X",
+        "ts": "1556153617.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556066410.000100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "9100a71a-8ff4-46a1-aac3-178e98a419df",
+        "type": "message",
+        "text": "<@UHFLC6N4X> \n火曜金曜のゼミ時間はあけられる？",
+        "user": "UGQV9DXRC",
+        "ts": "1556154226.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1556066410.000100",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

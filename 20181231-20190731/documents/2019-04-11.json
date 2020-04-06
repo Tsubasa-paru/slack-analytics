@@ -1,0 +1,74 @@
+[
+    {
+        "type": "message",
+        "text": "0412ゼミ資料",
+        "user": "UGQV9DXRC",
+        "ts": "1555042117.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[April 12th, 2019 12:42 PM] something.my.revoluti:  ゼミ資料20190412.pdf",
+                "ts": "1555040521.000100",
+                "author_id": "UGQ2ENZD0",
+                "author_subname": "Shumpei Shimizu",
+                "channel_id": "CGSKZQ63H",
+                "channel_name": "project_m1清水",
+                "is_msg_unfurl": true,
+                "author_name": "Shumpei Shimizu",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQ2ENZD0",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/a2c1eb36c06ff6709cbc9533ed9d2551.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0008-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "FHY2W01LN",
+                        "created": 1555040521,
+                        "timestamp": 1555040521,
+                        "name": "ゼミ資料20190412.pdf",
+                        "title": "ゼミ資料20190412.pdf",
+                        "mimetype": "application\/pdf",
+                        "filetype": "pdf",
+                        "pretty_type": "PDF",
+                        "user": "UGQ2ENZD0",
+                        "editable": false,
+                        "size": 324277,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHY2W01LN\/____________20190412.pdf",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHY2W01LN\/download\/____________20190412.pdf",
+                        "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHY2W01LN-301df23cd0\/____________20190412_thumb_pdf.png",
+                        "thumb_pdf_w": 1467,
+                        "thumb_pdf_h": 825,
+                        "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FHY2W01LN\/____________20190412.pdf",
+                        "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHY2W01LN-34189f043d",
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGSKZQ63H\/p1555040521000100",
+                "is_share": true,
+                "footer": "#project_m1清水 に投稿"
+            }
+        ]
+    }
+]

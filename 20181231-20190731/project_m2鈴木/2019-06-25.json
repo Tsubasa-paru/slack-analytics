@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FKQ5LJM8R",
+                "created": 1561527546,
+                "timestamp": 1561527546,
+                "name": "電通大こども食堂CF2019_0626.docx",
+                "title": "電通大こども食堂CF2019_0626.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 16460,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKQ5LJM8R\/________________________cf2019_0626.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKQ5LJM8R\/download\/________________________cf2019_0626.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKQ5LJM8R-3faa462567\/________________________cf2019_0626_converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKQ5LJM8R-3faa462567\/________________________cf2019_0626_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FKQ5LJM8R\/________________________cf2019_0626.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FKQ5LJM8R-23f869e26c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1561527548.000100",
+        "client_msg_id": "6711bbd2-d91d-4dd3-a94e-0aa07eb0f264"
+    }
+]

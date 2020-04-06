@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FKS0CJHTJ",
+                "created": 1561089321,
+                "timestamp": 1561089321,
+                "name": "補足資料0621.pptx",
+                "title": "補足資料0621.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGPH97FDW",
+                "editable": false,
+                "size": 320439,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKS0CJHTJ\/____________0621.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKS0CJHTJ\/download\/____________0621.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKS0CJHTJ-01cd12e817\/____________0621_converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKS0CJHTJ-01cd12e817\/____________0621_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGPH97FDW\/FKS0CJHTJ\/____________0621.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FKS0CJHTJ-9b05313577",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGPH97FDW",
+        "display_as_bot": false,
+        "ts": "1561089325.000100",
+        "client_msg_id": "4ef6d53d-f682-4657-b8e6-89003b25ddb6"
+    },
+    {
+        "client_msg_id": "e30a7b92-3ea5-4c96-9a68-0fa160ecb988",
+        "type": "message",
+        "text": "<https:\/\/aotamasaki.hatenablog.com\/entry\/2019\/02\/10\/130647#%E9%96%A2%E4%BF%82%E6%80%A7%E3%82%92%E4%B8%8A%E3%81%92%E3%81%A6%E5%86%97%E9%95%B7%E6%80%A7%E3%82%92%E4%B8%8B%E3%81%92%E3%82%8B>",
+        "user": "UGQV9DXRC",
+        "ts": "1561092538.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "学習する天然ニューラルネット",
+                "title": "特徴量選択の今と新展開 - 学習する天然ニューラルネット",
+                "title_link": "https:\/\/aotamasaki.hatenablog.com\/entry\/2019\/02\/10\/130647#%E9%96%A2%E4%BF%82%E6%80%A7%E3%82%92%E4%B8%8A%E3%81%92%E3%81%A6%E5%86%97%E9%95%B7%E6%80%A7%E3%82%92%E4%B8%8B%E3%81%92%E3%82%8B",
+                "text": "特徴量選択とは 特徴量選択の難しさ 特徴量選択の手法の大別 教師ありの特徴量選択 filter method 単変量とクラスラベルの関連性を上げる 関係性を上げて冗長性を下げる 関係性を上げて多様性を上げる wrapper method Forward SelectionとBackward Elimination 遺伝的アルゴリズムと粒子群最適化 その他のwrapper method embedding method L1正則化 Regularized tree 特徴量選択の新展開 超高次元データと特徴量選択のアンサンブル 不均衡データにおける特徴量 オンライン特徴量選択 深層学習を用いた特徴…",
+                "fallback": "学習する天然ニューラルネット: 特徴量選択の今と新展開 - 学習する天然ニューラルネット",
+                "image_url": "https:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/a\/aotamasaki\/20190210\/20190210131125.png",
+                "ts": 1549771607,
+                "from_url": "https:\/\/aotamasaki.hatenablog.com\/entry\/2019\/02\/10\/130647#%E9%96%A2%E4%BF%82%E6%80%A7%E3%82%92%E4%B8%8A%E3%81%92%E3%81%A6%E5%86%97%E9%95%B7%E6%80%A7%E3%82%92%E4%B8%8B%E3%81%92%E3%82%8B",
+                "image_width": 663,
+                "image_height": 130,
+                "image_bytes": 8571,
+                "service_icon": "https:\/\/cdn.blog.st-hatena.com\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/aotamasaki.hatenablog.com\/entry\/2019\/02\/10\/130647#%E9%96%A2%E4%BF%82%E6%80%A7%E3%82%92%E4%B8%8A%E3%81%92%E3%81%A6%E5%86%97%E9%95%B7%E6%80%A7%E3%82%92%E4%B8%8B%E3%81%92%E3%82%8B"
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "745DA5E4-C5F9-4238-9E4F-F8823B4683A3",
+        "type": "message",
+        "text": "OECD databaseに資料あり\n幸福度の算出はされておらず、国ごとの過去と比較、横の比較は平均を出してその上か下かで判断",
+        "user": "UHEH8KZ7W",
+        "ts": "1559538656.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

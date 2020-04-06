@@ -1,0 +1,337 @@
+[
+    {
+        "client_msg_id": "a4d957d8-1b9f-4e5d-98c6-6b83c5950732",
+        "type": "message",
+        "text": "明日の学生ゼミは13時からです。\n内容は以下を予定しています。\n&gt;・先行研究(まず先輩の卒論)を読む(次週までの課題予定)\n&gt;・pubmedの使い方",
+        "user": "UGQV9DXRC",
+        "ts": "1554120392.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1554120409.000000"
+        }
+    },
+    {
+        "client_msg_id": "266E4040-EFEE-40E9-B6F0-0780766DF565",
+        "type": "message",
+        "text": "福島、山崎、伊藤が残していった電子ファイル資料をすべて外付けハードディスクに移してください\n\"全て\"をお願いします\n論文に関するものだけじゃなくて、実験に使った告知ポスターとか学会発表資料とか、諸々すべてね\n",
+        "user": "UHFLB6JPR",
+        "ts": "1554155233.005100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554155233.005100",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1554164058.000100",
+        "reply_users": [
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1554155375.006000"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1554164058.000100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3A879852-66A5-4186-919F-F1BEB802C885",
+        "type": "message",
+        "text": "根本は伊藤の引き継ぎ資料がなくて困ってます",
+        "user": "UHFLB6JPR",
+        "ts": "1554155375.006000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554155233.005100",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "ドライブに保管してあるものも外付けHHDにいれておいてください",
+        "user": "UHFLB6JPR",
+        "ts": "1554164058.000100",
+        "thread_ts": "1554155233.005100",
+        "root": {
+            "client_msg_id": "266E4040-EFEE-40E9-B6F0-0780766DF565",
+            "type": "message",
+            "text": "福島、山崎、伊藤が残していった電子ファイル資料をすべて外付けハードディスクに移してください\n\"全て\"をお願いします\n論文に関するものだけじゃなくて、実験に使った告知ポスターとか学会発表資料とか、諸々すべてね\n",
+            "user": "UHFLB6JPR",
+            "ts": "1554155233.005100",
+            "team": "TGNPXK07J",
+            "thread_ts": "1554155233.005100",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1554164058.000100",
+            "reply_users": [
+                "UHFLB6JPR"
+            ],
+            "subscribed": false
+        },
+        "client_msg_id": "ea485e55-e67c-4119-b63b-493e6151071b"
+    },
+    {
+        "client_msg_id": "9f435c7d-c28c-4a25-bddd-6969651f08e7",
+        "type": "message",
+        "text": "清水の副指導教官は柳井先生にご快諾いただきました",
+        "user": "UHFLB6JPR",
+        "ts": "1554165368.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AB4A0C34-6B33-4CE1-B9E5-217C710D9963",
+        "type": "message",
+        "text": "根本、都竹みたいにファイルそのまんま貼って\nURLじゃなくて",
+        "user": "UHFLB6JPR",
+        "ts": "1554168983.002500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554168983.002500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1554169325.002600",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554169325.002600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0895398f-1ce1-4912-9a10-41a9295d1f6b",
+        "type": "message",
+        "text": "インポートができていなかったようなので、あげなおしました\nSlackの使用上、ドライブのURLを貼るとファイルを自動でインポートしてくれる形になっています",
+        "user": "UGQV9DXRC",
+        "ts": "1554169325.002600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554168983.002500",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "c1a071f0-0c3b-4028-94e9-ea37617c8954",
+        "type": "message",
+        "text": "個人のプロジェクトチャンネルに今日のゼミで使う予定の卒論をアップしてます。<@UHEH8KZ7W>くんは既に先行研究を調べ始めているとのことですので、そこからスタートしたいと思います。論文の印刷等は不要です。紙媒体がほしければ学生部屋にあるので声かけてください。",
+        "user": "UGQV9DXRC",
+        "ts": "1554170035.008500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1554170068.000000"
+        },
+        "thread_ts": "1554170035.008500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1554170855.009000",
+        "reply_users": [
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1554170855.009000"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "custom_ryokai",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba203b4f-f692-44e8-86c8-605c0050bb0e",
+        "type": "message",
+        "text": "読みたい論文があって、無料でみれない場合、大河原が論文PDFを取れることがあるので依頼してください。\n1件400円とられることは理解してほしいですが、だからと言って制限するつもりは一切ないので、遠慮なく。\nもしそれでも取れない場合は、図書館で公費依頼をしてください。\n院生がやり方を知っています。",
+        "user": "UHFLB6JPR",
+        "ts": "1554170855.009000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554170035.008500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "F7994EA9-53C1-4938-B4E4-EA1A84242E55",
+        "type": "message",
+        "text": "4／7学生ゼミ課題\n先輩の卒論から背景、目的、方法、結果をまとめてスライドに(1、2枚で良い)\n今日欠席の人は分からなければ個別で聞いてください",
+        "user": "UGQV9DXRC",
+        "ts": "1554177928.011500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1554177947.000000"
+        }
+    },
+    {
+        "client_msg_id": "8a84b86d-7f2b-4aac-b30c-98e9da5c75c7",
+        "type": "message",
+        "text": "健康支援学会　2020年3月7（土）、8日（日）＠沖縄\n全員発表します\n・学会入会費（学生1500円）\n・学会年会費（学生2500円）\n・大会参加費（事前学生2500円）\n→5000円～6500円\n・3月6日～9日の範囲であれば滞在可能（学会開催日の前日から後日）\nそれ以上の範囲で滞在する場合は一切補助できません\n・飛行機の半券を後日提出する必要があります\n・1人につき総額6.5万円を補助する予定です\n・ハイシーズンなので、売り出しが始まったら、みんなで相談して、旅行パックで購入をしてください。",
+        "user": "UHFLB6JPR",
+        "ts": "1554180367.018500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

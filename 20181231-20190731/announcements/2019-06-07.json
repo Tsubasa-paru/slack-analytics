@@ -1,0 +1,338 @@
+[
+    {
+        "client_msg_id": "BC19BBCE-CB4B-4D06-8405-44A9F9126891",
+        "type": "message",
+        "text": "運動教室の参加者は\n１３日は２２名\n２０日は１０名\nだということです",
+        "user": "UHFLB6JPR",
+        "ts": "1559907004.008600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e07c5590-4398-4dee-9dca-397279916197",
+        "type": "message",
+        "text": "ありがとうございます．名札，タブレットに関しては上記の人数と予備を含めて準備いたします．\nマットに関しては，現在5枚持ち出して良いか安藤先生にメールで確認をとっている段階です．\nキャリーバッグについては，次の申し込み書にて購入をするようです．ただ，納期については不明です．",
+        "user": "UGQ2ENZD0",
+        "ts": "1559908151.010500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FK101L4SE",
+                "created": 1559908170,
+                "timestamp": 1559908170,
+                "name": "sse_mat_carrybag_frier2016.pdf",
+                "title": "sse_mat_carrybag_frier2016.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 379196,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK101L4SE\/sse_mat_carrybag_frier2016.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK101L4SE\/download\/sse_mat_carrybag_frier2016.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FK101L4SE-973c8241c7\/sse_mat_carrybag_frier2016_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FK101L4SE\/sse_mat_carrybag_frier2016.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FK101L4SE-16df5fb664",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1559908171.010600",
+        "client_msg_id": "d9f2b04d-2b9e-495d-91a7-6523a7305a38"
+    },
+    {
+        "client_msg_id": "B82B33A5-7D77-45B2-82A4-BFEA401FBF47",
+        "type": "message",
+        "text": "大河原の名前で依頼してください",
+        "user": "UHFLB6JPR",
+        "ts": "1559909556.011400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A174298D-5D6B-4728-883D-62234C89DC18",
+        "type": "message",
+        "text": "鈴木さん、\n共同研究者として、岡田と清水のポスターの修正をしてください\n可能なら明日中に",
+        "user": "UHFLB6JPR",
+        "ts": "1559909657.013600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1527b257-0e49-4a9e-897b-bd47e7aada72",
+        "type": "message",
+        "text": "ECSSのポスターの修正版をアップロードしました．ご確認ください．\n<https:\/\/ohkawaralab.slack.com\/archives\/CGSKZQ63H\/p1559911851000500>",
+        "user": "UGQ2ENZD0",
+        "ts": "1559911961.014600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGSKZQ63H\/p1559911851000500",
+                "fallback": "[June 7th, 2019 5:50 AM] something.my.revoluti:  ECSS_Poster_Shimizu_v6.pptx ECSS_Poster_Shimizu_v6.pdf",
+                "ts": "1559911851.000500",
+                "author_id": "UGQ2ENZD0",
+                "author_subname": "清水 俊平",
+                "channel_id": "CGSKZQ63H",
+                "channel_name": "project_m1清水",
+                "is_msg_unfurl": true,
+                "author_name": "清水 俊平",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQ2ENZD0",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "FKCE2KFJ4",
+                        "created": 1559911828,
+                        "timestamp": 1559911828,
+                        "name": "ECSS_Poster_Shimizu_v6.pptx",
+                        "title": "ECSS_Poster_Shimizu_v6.pptx",
+                        "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "filetype": "pptx",
+                        "pretty_type": "PowerPoint Presentation",
+                        "user": "UGQ2ENZD0",
+                        "editable": false,
+                        "size": 3179022,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKCE2KFJ4\/ecss_poster_shimizu_v6.pptx",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKCE2KFJ4\/download\/ecss_poster_shimizu_v6.pptx",
+                        "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKCE2KFJ4-dcbf6fc699\/ecss_poster_shimizu_v6_converted.pdf",
+                        "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKCE2KFJ4-dcbf6fc699\/ecss_poster_shimizu_v6_thumb_pdf.png",
+                        "thumb_pdf_w": 6064,
+                        "thumb_pdf_h": 3421,
+                        "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FKCE2KFJ4\/ecss_poster_shimizu_v6.pptx",
+                        "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FKCE2KFJ4-b62caee8e9",
+                        "has_rich_preview": false
+                    },
+                    {
+                        "id": "FKE99PSKH",
+                        "created": 1559911828,
+                        "timestamp": 1559911828,
+                        "name": "ECSS_Poster_Shimizu_v6.pdf",
+                        "title": "ECSS_Poster_Shimizu_v6.pdf",
+                        "mimetype": "application\/pdf",
+                        "filetype": "pdf",
+                        "pretty_type": "PDF",
+                        "user": "UGQ2ENZD0",
+                        "editable": false,
+                        "size": 707985,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKE99PSKH\/ecss_poster_shimizu_v6.pdf",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKE99PSKH\/download\/ecss_poster_shimizu_v6.pdf",
+                        "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKE99PSKH-0a21ac8710\/ecss_poster_shimizu_v6_thumb_pdf.png",
+                        "thumb_pdf_w": 6063,
+                        "thumb_pdf_h": 3421,
+                        "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FKE99PSKH\/ecss_poster_shimizu_v6.pdf",
+                        "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FKE99PSKH-f74fc6eb4b",
+                        "has_rich_preview": false
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGSKZQ63H\/p1559911851000500",
+                "footer": "#project_m1清水 に投稿"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "efdfd926-f42b-400c-8de6-a416f381f8ce",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\nマットのキャリーバッグについて，販売店に電話で問い合わせましたところ，今日中に注文をして6月10日までに振込がなされれば12日は届くそうです．\n注文内容に関しまして，下記の通り注文しようと考えているのですがよろしいでしょうか．\nまた注文にあたりまして，先生のスクエアステップの認定番号も必要になるとのことなので，お教えいただきたいです．\n```\n名前:\n清水 俊平 (注文)\n大河原 一憲 (認定者)\n\n連絡先:\n清水 俊平 : <mailto:s1930063@edu.cc.uec.ac.jp|s1930063@edu.cc.uec.ac.jp>\n大河原 一憲 : <mailto:ohkawara_kazunori@e-one.uec.ac.jp|ohkawara_kazunori@e-one.uec.ac.jp>\n\n電話番号:\n清水俊平 : <tel:080-5976-7308|080-5976-7308>\n\n注文内容 : スクエアステップ・マット専用キャリーバッグ グリーン 5個\n\n金額 : ¥ 22,500\n\n住所 : 〒182-8585 東京都 調布市 調布ヶ丘 1-5-1 電気通信大学 東1号館402号室\n```",
+        "user": "UGQ2ENZD0",
+        "ts": "1559970590.003500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "18b8fb67-2502-49f7-b97d-3ccb1459beb2",
+        "type": "message",
+        "text": "また安藤先生からは，13，20日の持ち出しについて許可をいただいております",
+        "user": "UGQ2ENZD0",
+        "ts": "1559970611.003900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DF6FCBFD-57EB-43BB-8132-C027764E811B",
+        "type": "message",
+        "text": "何回も注目してるから、業者の方で確認してもらって",
+        "user": "UHFLB6JPR",
+        "ts": "1559972432.005100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0296fb51-4092-4065-8a11-97f46c749885",
+        "type": "message",
+        "text": "注文いたしました",
+        "user": "UGQ2ENZD0",
+        "ts": "1559972846.005400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

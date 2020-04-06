@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "7f4f862f-64df-49de-9ecb-33a8e769320d",
+        "type": "message",
+        "text": "使えるオムロンとストラップの数を数えました。\nオムロン　64個\nストラップ　57個\nでした。",
+        "user": "UHEH8KZ7W",
+        "ts": "1583211687.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c1Kl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "使えるオムロンとストラップの数を数えました。\nオムロン　64個\nストラップ　57個\nでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,220 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHTL5JDRA",
+                "created": 1555046991,
+                "timestamp": 1555046991,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 858908,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHTL5JDRA\/image_from_ios.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHTL5JDRA\/download\/image_from_ios.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTL5JDRA-f9424e494b\/image_from_ios_64.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTL5JDRA-f9424e494b\/image_from_ios_80.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTL5JDRA-f9424e494b\/image_from_ios_360.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTL5JDRA-f9424e494b\/image_from_ios_480.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTL5JDRA-f9424e494b\/image_from_ios_160.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTL5JDRA-f9424e494b\/image_from_ios_720.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTL5JDRA-f9424e494b\/image_from_ios_800.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTL5JDRA-f9424e494b\/image_from_ios_960.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTL5JDRA-f9424e494b\/image_from_ios_1024.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "image_exif_rotation": 1,
+                "original_w": 4032,
+                "original_h": 3024,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FHTL5JDRA\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHTL5JDRA-e2e0f284e0",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1555046995.000200",
+        "client_msg_id": "5D9EA784-F13D-4A1E-857F-A4CE7DB400F4"
+    },
+    {
+        "client_msg_id": "AA5D4E7A-B962-4551-83BF-FCB933A392C5",
+        "type": "message",
+        "text": "5階に元からある机は4階で使わなければ処分して良いそうです。",
+        "user": "UHEH8KZ7W",
+        "ts": "1555047018.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3b2c6f5c-b093-4a51-b782-19a03520f657",
+        "type": "message",
+        "text": "17:00〜体育館管理人なので、PCについてチェックに来れる人は来てほしいです。（特に岡田さん）",
+        "user": "UGQ2ENZD0",
+        "ts": "1555047085.002500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "見にくかったので…",
+        "files": [
+            {
+                "id": "FHTLA9KNG",
+                "created": 1555047666,
+                "timestamp": 1555047666,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 671406,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHTLA9KNG\/image_from_ios.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHTLA9KNG\/download\/image_from_ios.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTLA9KNG-ff1eec69d9\/image_from_ios_64.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTLA9KNG-ff1eec69d9\/image_from_ios_80.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTLA9KNG-ff1eec69d9\/image_from_ios_360.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTLA9KNG-ff1eec69d9\/image_from_ios_480.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTLA9KNG-ff1eec69d9\/image_from_ios_160.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTLA9KNG-ff1eec69d9\/image_from_ios_720.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTLA9KNG-ff1eec69d9\/image_from_ios_800.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTLA9KNG-ff1eec69d9\/image_from_ios_960.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHTLA9KNG-ff1eec69d9\/image_from_ios_1024.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "image_exif_rotation": 1,
+                "original_w": 4032,
+                "original_h": 3024,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FHTLA9KNG\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHTLA9KNG-57244f161a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1555047667.002600",
+        "client_msg_id": "DB2669A6-2260-43E3-B3BE-C097DF848107",
+        "thread_ts": "1555047667.002600",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1555075179.000600",
+        "reply_users": [
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1555061300.013100"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1555075179.000600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c33f0be6-d1ec-46f4-9f6e-28ca1837e28b",
+        "type": "message",
+        "text": "*引っ越し関連すること*\n~<@UGPH97FDW>床清掃器具のレンタルと日程決め~\n<@UGQ2ENZD0> プリンターとルーター見繕う\n他メンバー 来週木曜日に収集所で机チェック",
+        "user": "UGQV9DXRC",
+        "ts": "1555050126.005400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1555059873.000000"
+        },
+        "reactions": [
+            {
+                "name": "the_fatal_smile",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UHC5VBV5E",
+                    "UGPH97FDW"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

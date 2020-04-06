@@ -1,0 +1,152 @@
+[
+    {
+        "client_msg_id": "d06f38fc-99f8-4643-98f7-9f3baeab1fdc",
+        "type": "message",
+        "text": "各要因への評価とフィードバックについて\n身体活動\n&gt; ・これまでの(山崎先輩が使ってきたような)フィードバックシートをベースに作成\n&gt;     ・+東海道五十三次などを実装する\n&gt; ・1週間の目標歩数は56000歩をベースに\n&gt;     ・1日あたり8000歩(中之条研究)\n\n栄養状態\n&gt; ・食品摂取多様性得点で評価\n&gt; ・4段階の詳細なスクリーニングは時間がかかるので，摂った摂らなかったで評価\n&gt;    ・ 運動教室は隔週開催なので，「この1週間で食べたものはなにか」の方が良いと思われる\n&gt;    ・ 清野さんや遠峰さんはYes\/Noで作っている(いろいろ食べポ)\n&gt; ・簡易版と詳細版はどちらも用意するべき\n\n認知機能\n&gt; ・おもにトレイルメイキングテストを元に評価\n&gt;     ・実際のTMTのプロトコルに従って機能を実装する\n&gt;     ・TypeA説明 -&gt; 実施 -&gt; TypeB説明 -&gt; 実施\n&gt;     ・タブレットはA4用紙サイズではないため，縮小版を実装する\n&gt; ・記憶力ゲーム(頭の体操システム)も同一設定なら評価可能か？\n&gt;     ・先生方と要相談\n&gt; ・Mattixは評価に使えないと思われるため，認知力トレーニングツールとしてのみ運用する\n\n コミュニケーション支援\n&gt; ・ 共想法は時間がないとできない\n&gt;    ・ 10人いたとして，一人2分でも20分かかる\n&gt;    ・ 説明を挟むともっとかかる\n&gt;・ 座談会が目的ではないので，休憩時間でもできる手法が必要\n&gt;     ・下條さんは休憩時間内で頭の体操をしたりしている\n&gt;     ・ 発想のベースに使えるか？\n&gt;・ 評価にはコミュニケーション能力の評価尺度を用いる\n&gt;    ・ JICS\n&gt;        ・<https:\/\/www.jstage.jst.go.jp\/article\/jjesp1971\/33\/3\/33_3_224\/_pdf\/-char\/ja>\n&gt;    ・CCS\n&gt;        ・ <http:\/\/facweb.northseattle.edu\/jreis\/cmn165\/communication_competence_scale.htm>",
+        "user": "UGQ2ENZD0",
+        "ts": "1554620615.009500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bde55896-73e9-46d7-87ec-34dfd2bf6a86",
+        "type": "message",
+        "text": "社会参加に関する指標についてはシステマティックレビューがありましたが，リハビリテーション分野の研究なので応用可能か不明です．\nICF（国際生活機能分類）による社会参加の評価もあるようなのですが，具体的な手法については文献が一切ないので実用は無理そうです．",
+        "user": "UGQ2ENZD0",
+        "ts": "1554622433.011700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHAPNBTAP",
+                "created": 1554622474,
+                "timestamp": 1554622474,
+                "name": "リハビリテーション分野における社会参加の定義と評価指標.pdf",
+                "title": "リハビリテーション分野における社会参加の定義と評価指標.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 682629,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHAPNBTAP\/_________________________________________________________________________________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHAPNBTAP\/download\/_________________________________________________________________________________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHAPNBTAP-f31f784dc0\/__________________________________________________________________________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FHAPNBTAP\/_________________________________________________________________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHAPNBTAP-4592fd525f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1554622475.011800",
+        "client_msg_id": "7bc334fc-c5d9-4c5a-ba6c-0dc72c37f99f"
+    },
+    {
+        "client_msg_id": "43964bff-6277-4480-ba02-ab9478686a85",
+        "type": "message",
+        "text": "買いたいやつ\nキーボード\n&gt; 3kくらいで超安い青軸メカニカル．Nキーロールオーバーと書かれていないので少し不安．\n&gt; &gt; <https:\/\/www.amazon.co.jp\/Qtuo-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-USB%E6%9C%89%E7%B7%9A%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%97%E3%83%97%E3%83%BC%E3%83%A9%E3%83%BC%E4%BB%98%E3%81%8D-Windows10%E3%80%81Windows\/dp\/B01D65GGJO>\n&gt; 7kくらいのメカニカル．赤軸だけなぜか納期が長い．買うなら茶軸か．\n&gt; &gt; <https:\/\/www.amazon.co.jp\/DREVO-Tyrfing-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%96%E3%83%AB-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-USB%E6%9C%89%E7%B7%9A\/dp\/B079FPFS35>\nマウス\n&gt; 反応が良くて左右対称なら何でもOK\n&gt; ジャンクに良いのがあったら持ってくるかも\nモニタ\n&gt; ピボット(縦横切替機能)がほしい(コーディングに便利)\n&gt; 21インチ程度で良い(それ以上だとむしろでかすぎて机に収まらないかも)\n&gt; &gt; <https:\/\/www.amazon.co.jp\/21-5%E3%82%A4%E3%83%B3%E3%83%81-B227Qbmiprzx-%E3%83%9F%E3%83%8BD-Sub-15%E3%83%94%E3%83%B3%E3%83%BBHDMI%E3%83%BBDisplayPort-%E3%83%8F%E3%82%A4%E3%83%88%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%99%E3%83%AB%E3%83%BB%E3%83%94%E3%83%9C%E3%83%83%E3%83%88%E6%A9%9F%E8%83%BD\/dp\/B07JFH3MX9>",
+        "user": "UGQ2ENZD0",
+        "ts": "1554699024.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Qtuo 87キー メカニカル式 ゲーミングキーボード 青軸 USB有線キーボード 防水機能付き キーキャププーラー付き 日本語取扱書付き Windows10、Windows 8、Mac OS 対応 ブラック",
+                "title_link": "https:\/\/www.amazon.co.jp\/Qtuo-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-USB%E6%9C%89%E7%B7%9A%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%97%E3%83%97%E3%83%BC%E3%83%A9%E3%83%BC%E4%BB%98%E3%81%8D-Windows10%E3%80%81Windows\/dp\/B01D65GGJO",
+                "text": "仕様: 入力:USBインタフェース 寸法:35.6x13.6x3.9cm カラー:ブラック キーの数量:87 スイッチタイプ:青軸 使用寿命:約5000万回 パッケージの内容: 1x87キーメカニカル式ゲーミングキーボード(USBケーブル付き) 1x日本語取扱書 1xキープーラー",
+                "fallback": "Qtuo 87キー メカニカル式 ゲーミングキーボード 青軸 USB有線キーボード 防水機能付き キーキャププーラー付き 日本語取扱書付き Windows10、Windows 8、Mac OS 対応 ブラック",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/51CIMPT8seL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(164%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/Qtuo-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-USB%E6%9C%89%E7%B7%9A%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%97%E3%83%97%E3%83%BC%E3%83%A9%E3%83%BC%E4%BB%98%E3%81%8D-Windows10%E3%80%81Windows\/dp\/B01D65GGJO",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 14430,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.co.jp\/Qtuo-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-USB%E6%9C%89%E7%B7%9A%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%97%E3%83%97%E3%83%BC%E3%83%A9%E3%83%BC%E4%BB%98%E3%81%8D-Windows10%E3%80%81Windows\/dp\/B01D65GGJO"
+            },
+            {
+                "title": "DREVO ゲーミングキーボード Tyrfing V2 87 Key 英語配列 茶軸 メカニカルキー RGB対応 Nキーロールオーバー DR87V2KB-3-US 【国内正規品】",
+                "title_link": "https:\/\/www.amazon.co.jp\/DREVO-Tyrfing-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%96%E3%83%AB-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-USB%E6%9C%89%E7%B7%9A\/dp\/B079FPFS35",
+                "text": "DREVO ゲーミングキーボード Tyrfing V2 87 Key 英語配列 茶軸 メカニカルキー RGB対応 Nキーロールオーバー DR87V2KB-3-US 【国内正規品】",
+                "fallback": "DREVO ゲーミングキーボード Tyrfing V2 87 Key 英語配列 茶軸 メカニカルキー RGB対応 Nキーロールオーバー DR87V2KB-3-US 【国内正規品】",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/41zazDfqjZL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(19%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/DREVO-Tyrfing-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%96%E3%83%AB-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-USB%E6%9C%89%E7%B7%9A\/dp\/B079FPFS35",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 27402,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 2,
+                "original_url": "https:\/\/www.amazon.co.jp\/DREVO-Tyrfing-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%96%E3%83%AB-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-USB%E6%9C%89%E7%B7%9A\/dp\/B079FPFS35"
+            },
+            {
+                "title": "Acer モニター ディスプレイ 21.5インチ B227Qbmiprzx\/IPS\/非光沢\/フルHD\/250cd\/4ms\/ミニD-Sub 15ピン・HDMI・DisplayPort\/ハイト・スイベル・ピボット機能",
+                "title_link": "https:\/\/www.amazon.co.jp\/21-5%E3%82%A4%E3%83%B3%E3%83%81-B227Qbmiprzx-%E3%83%9F%E3%83%8BD-Sub-15%E3%83%94%E3%83%B3%E3%83%BBHDMI%E3%83%BBDisplayPort-%E3%83%8F%E3%82%A4%E3%83%88%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%99%E3%83%AB%E3%83%BB%E3%83%94%E3%83%9C%E3%83%83%E3%83%88%E6%A9%9F%E8%83%BD\/dp\/B07JFH3MX9",
+                "text": "Acer モニター ディスプレイ 21.5インチ B227Qbmiprzx\/IPS\/非光沢\/フルHD\/250cd\/4ms\/ミニD-Sub 15ピン・HDMI・DisplayPort\/ハイト・スイベル・ピボット機能",
+                "fallback": "Acer モニター ディスプレイ 21.5インチ B227Qbmiprzx\/IPS\/非光沢\/フルHD\/250cd\/4ms\/ミニD-Sub 15ピン・HDMI・DisplayPort\/ハイト・スイベル・ピボット機能",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/51P-S172H-L._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFIVE%2cBottomLeft%2c360%2c-6_SR600%2c315_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/21-5%E3%82%A4%E3%83%B3%E3%83%81-B227Qbmiprzx-%E3%83%9F%E3%83%8BD-Sub-15%E3%83%94%E3%83%B3%E3%83%BBHDMI%E3%83%BBDisplayPort-%E3%83%8F%E3%82%A4%E3%83%88%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%99%E3%83%AB%E3%83%BB%E3%83%94%E3%83%9C%E3%83%83%E3%83%88%E6%A9%9F%E8%83%BD\/dp\/B07JFH3MX9",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 25485,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 3,
+                "original_url": "https:\/\/www.amazon.co.jp\/21-5%E3%82%A4%E3%83%B3%E3%83%81-B227Qbmiprzx-%E3%83%9F%E3%83%8BD-Sub-15%E3%83%94%E3%83%B3%E3%83%BBHDMI%E3%83%BBDisplayPort-%E3%83%8F%E3%82%A4%E3%83%88%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%99%E3%83%AB%E3%83%BB%E3%83%94%E3%83%9C%E3%83%83%E3%83%88%E6%A9%9F%E8%83%BD\/dp\/B07JFH3MX9"
+            }
+        ]
+    }
+]

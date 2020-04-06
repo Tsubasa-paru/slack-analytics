@@ -1,0 +1,149 @@
+[
+    {
+        "client_msg_id": "D165293A-AEC1-457F-A7C8-7EB3F0067F5C",
+        "type": "message",
+        "text": "明日金曜日の午前6時ごろに台風が東京に上陸するそうですが、予備実験が出来るかが不安です……",
+        "user": "UHEH8KZ7W",
+        "ts": "1561586298.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AE63C1A5-60C6-44C3-840B-0982E303DF63",
+        "type": "message",
+        "text": "皆さんが集まれないレベルだと考え直さないとですね",
+        "user": "UHC5VBV5E",
+        "ts": "1561594355.006800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4530CA22-0245-4E19-9B6E-65EE19A00025",
+        "type": "message",
+        "text": "先日の方は条件に該当しなかったので、追加の被験者が見つかってないから、明日は中止でもいいよ\nみんなの判断に任せます\n集合を送らせて、大事なところを確認するでもいいし\n明日の朝の台風のレベルが確認できないんだけど、どこ見たらいいかな？\n天気予報見ると、7時頃には小雨で、風もそれほど強い予報になってない一方で、騒いでる感じの情報もあるし",
+        "user": "UHFLB6JPR",
+        "ts": "1561603821.007500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0b958779-f709-45a9-8780-b3580d898f04",
+        "type": "message",
+        "text": "注意報がでそうな感じはないですね\n<https:\/\/www.jma.go.jp\/jp\/warn\/f_1320800.html>",
+        "user": "UGQV9DXRC",
+        "ts": "1561604974.008000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E66272BF-B1F0-46D8-A8B2-08C28D7B5C2F",
+        "type": "message",
+        "text": "明日は10時から予備実験を開始します。\nいくつか測定項目、段取りを省きます",
+        "user": "UHC5VBV5E",
+        "ts": "1561613616.009700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7A90AF33-CB2C-4E69-AA2C-244B922700CC",
+        "type": "message",
+        "text": "よろしくお願いします",
+        "user": "UHC5VBV5E",
+        "ts": "1561613626.010000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC",
+                    "UGPH97FDW",
+                    "UHEH8KZ7W",
+                    "UHG1M1NQ6"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

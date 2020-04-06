@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1559188858.000200",
+        "user": "UGQ2ENZD0",
+        "text": "<@UGQ2ENZD0>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "67ee9ec6-8621-4465-a300-dcba8fba26cf",
+        "type": "message",
+        "text": "2019\/05\/30\n昼時間12:10-13:00に代表者だけでMTGしました。\n今年は自分の意思もあり、リスクを負うのを覚悟で新しい挑戦をしてみることをテーマにしたいと思っています。\n今回の話し合いは鈴木先輩もいなかったので学生側から先生に「こういう企画はどうでしょうか？」という提案を考えました。\n\nテーマ：宝探し、スタンプラリー\nいくつかのアトラクションを回って宝を探していくというコンセプト\nそのアトラクションに迷路、プログラミング、縁日（輪投げなど）、アメフト部との触れ合い、クイズ、パズルなどが含まれており、それらをクリアすることで宝のヒントを得られるというものです。こうすることで1つのジャンルが苦手、不得意な子供でも楽しく遊べると考えました。そして宝を見つけることが出来れば子供に成功体験をさせることができ、楽しく帰ってもらえると思います。\nこちらで考え付いた問題点としては\n・規模の問題（2時間で満足できるか否か）\n・広い面積が必要になったら、管理が大変になる、こちらで考えないといけないことが多い\n\n今年改善するべき事柄\n・ご飯の量の調整→去年は多すぎた気がする\n・役割決めをしっかりする。\n\n次回は\n役割決め（去年は誰が何をやるのかが曖昧だった）",
+        "user": "UHEH8KZ7W",
+        "ts": "1559189847.010700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3f2cea59-a8d5-4c30-9caa-5f18d4e59018",
+        "type": "message",
+        "text": "先生からのフィードバックは\n・やるとしたらやっぱり西地区だけでやった方が良さそうである\n・もし雨が降った時にどうするのか\n・佐藤先生の水耕栽培については許可が下りたが、入れるかを検討してほしい\n　→必ず入れる必要はない。入れる場合は見るだけではつまらないから何か＋αが欲しい\n・テーマに「食育」を入れてほしい\nとのこと",
+        "user": "UHEH8KZ7W",
+        "ts": "1559193215.013800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

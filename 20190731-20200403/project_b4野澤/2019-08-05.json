@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "(参考)岡田卒論抄録",
+        "files": [
+            {
+                "id": "FLRQ9B3A6",
+                "created": 1565069126,
+                "timestamp": 1565069126,
+                "name": "卒論抄録提出版_okada.docx",
+                "title": "卒論抄録提出版_okada.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGPH97FDW",
+                "editable": false,
+                "size": 1096917,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLRQ9B3A6\/______________________okada.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLRQ9B3A6\/download\/______________________okada.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLRQ9B3A6-b0433f2f8a\/______________________okada_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLRQ9B3A6-b0433f2f8a\/______________________okada_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGPH97FDW\/FLRQ9B3A6\/______________________okada.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FLRQ9B3A6-06e1b8f240",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGPH97FDW",
+        "display_as_bot": false,
+        "ts": "1565069128.000100",
+        "client_msg_id": "6fef0888-befd-414b-9321-37e4c1e46faf"
+    }
+]

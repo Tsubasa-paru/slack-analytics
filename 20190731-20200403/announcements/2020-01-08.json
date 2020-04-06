@@ -1,0 +1,301 @@
+[
+    {
+        "client_msg_id": "9b80f5f1-69e6-4628-a8e0-d71edddfe86c",
+        "type": "message",
+        "text": "明日の午前のかくしょうじでの運動教室についてですが、\n工藤さんと電話で確認が取れ、9：00にかくしょうじに集合していただいて、運動教室前に実験をやらせていただきます。\nですので明日早いのですが、9:00にかくしょうじに集合をよろしくお願いします。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578478507.031900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ouGCZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日の午前のかくしょうじでの運動教室についてですが、\n工藤さんと電話で確認が取れ、9：00にかくしょうじに集合していただいて、運動教室前に実験をやらせていただきます。\nですので明日早いのですが、9:00にかくしょうじに集合をよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F571FB97-FC0F-4F5E-B776-CF07B9BDCE7A",
+        "type": "message",
+        "text": "それってリーダーさんだけってことなのかな？参加者さん全員9時にきてくれるの？",
+        "user": "UGQV9DXRC",
+        "ts": "1578478541.032600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X5Sb9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それってリーダーさんだけってことなのかな？参加者さん全員"
+                            },
+                            {
+                                "type": "text",
+                                "text": "9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "時にきてくれるの？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c977fd8-5729-4d76-a829-061b1dfa0f67",
+        "type": "message",
+        "text": "たったいま寺井さんから電話がありまして集合が9:30になりました。参加者は45分ごろからぞろぞろ来るそうなので、寺井さんと話し合った結果9:50ごろから実験を開始して、実験が終わり次第残りの時間で運動教室をされるということです。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578478900.034700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MC6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "たったいま寺井さんから電話がありまして集合が9:30になりました。参加者は45分ごろからぞろぞろ来るそうなので、寺井さんと話し合った結果9:50ごろから実験を開始して、実験が終わり次第残りの時間で運動教室をされるということです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "66D51796-6DFC-4329-98C5-AD6FAE0B066C",
+        "type": "message",
+        "text": "身長計を持っていけばいいですか？",
+        "user": "UHFLB6JPR",
+        "ts": "1578479011.035500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "358d2bc9-c1a1-4259-ae18-e914df5bbcf8",
+        "type": "message",
+        "text": "はい身長計と体重計(2つ)を持って行っていただきたいです。両方とも研究室に置いてあります。",
+        "user": "UHEH8KZ7W",
+        "ts": "1578479110.037000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jlUYl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい身長計と体重計(2つ)を持って行っていただきたいです。両方とも研究室に置いてあります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "明日、紙媒体でお渡ししますが、Word形式の実験当日の流れを上げておきます。",
+        "files": [
+            {
+                "id": "FSDM3HVDK",
+                "created": 1578480085,
+                "timestamp": 1578480085,
+                "name": "実験当日の流れ.docx",
+                "title": "実験当日の流れ.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 16401,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FSDM3HVDK\/_____________________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FSDM3HVDK\/download\/_____________________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSDM3HVDK-6b5a410a14\/______________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSDM3HVDK-6b5a410a14\/______________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FSDM3HVDK\/_____________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FSDM3HVDK-6877047adb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RJiU5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日、紙媒体でお渡ししますが、Word形式の実験当日の流れを上げておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1578480088.037200",
+        "client_msg_id": "7c939611-e07d-4e3c-91bf-8886a862deb0",
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc5bb549-e404-4815-b25e-5870052f4162",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n午後の運動教室についてなんですが、何時ごろに大河原先生の研究室に伺えばよろしいでしょうか？",
+        "user": "UHEH8KZ7W",
+        "ts": "1578542164.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PAt6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n午後の運動教室についてなんですが、何時ごろに大河原先生の研究室に伺えばよろしいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "client_msg_id": "112b1f63-71a5-4473-869d-1e1dbb425480",
+        "type": "message",
+        "text": "<https:\/\/forbesjapan.com\/articles\/detail\/23766\/1\/1\/1>",
+        "user": "UHFLB6JPR",
+        "ts": "1556171525.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Forbes JAPAN（フォーブス ジャパン）",
+                "title": "素粒子物理学者 村山 斉「人々はアイデアを生み出すために食事をする」#Forbes2050 | Forbes JAPAN（フォーブス ジャパン）",
+                "title_link": "https:\/\/forbesjapan.com\/articles\/detail\/23766\/1\/1\/1",
+                "text": "2050年、私たちの生活はどうなっているのだろう。そんな疑問から、Forbes JAPANは各分野のビジョナリーリーダー、学者、アーティストと「未来を見通すメソッド」を考える特集「BEST VISIONARY STORY」を実施。「暮らす」",
+                "fallback": "Forbes JAPAN（フォーブス ジャパン）: 素粒子物理学者 村山 斉「人々はアイデアを生み出すために食事をする」#Forbes2050 | Forbes JAPAN（フォーブス ジャパン）",
+                "image_url": "https:\/\/d1kls9wq53whe1.cloudfront.net\/articles\/23766\/410x618\/b85855e53898f85faff768b13b2060dc.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1541606400,
+                "from_url": "https:\/\/forbesjapan.com\/articles\/detail\/23766\/1\/1\/1",
+                "image_bytes": 59661,
+                "service_icon": "https:\/\/forbesjapan.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/forbesjapan.com\/articles\/detail\/23766\/1\/1\/1"
+            }
+        ]
+    }
+]

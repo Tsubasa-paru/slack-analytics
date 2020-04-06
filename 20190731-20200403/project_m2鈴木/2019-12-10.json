@@ -1,0 +1,189 @@
+[
+    {
+        "type": "message",
+        "text": "階段のデータを抜いて木を作り直した\n青：階段ぬき\n赤：階段あり",
+        "files": [
+            {
+                "id": "FR3V5SHJN",
+                "created": 1575967139,
+                "timestamp": 1575967139,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 29335,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR3V5SHJN\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR3V5SHJN\/download\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR3V5SHJN-bd39d12dee\/image_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR3V5SHJN-bd39d12dee\/image_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR3V5SHJN-bd39d12dee\/image_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 244,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR3V5SHJN-bd39d12dee\/image_480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 326,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR3V5SHJN-bd39d12dee\/image_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "image_exif_rotation": 1,
+                "original_w": 672,
+                "original_h": 456,
+                "thumb_tiny": "AwAgADDTopKWgBDQOKWigAooooASloooAKKKKACiiigD\/9k=",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FR3V5SHJN\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FR3V5SHJN-19411200b6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=RjLl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "階段のデータを抜いて木を作り直した\n青：階段ぬき\n赤：階段あり"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1575967140.000200",
+        "client_msg_id": "cf8bbf0f-3d1a-4a5d-8f38-639674312ff2"
+    },
+    {
+        "client_msg_id": "df45095f-a852-4125-9f82-592eadf8c3ff",
+        "type": "message",
+        "text": "階段を歩行に紐づけて分類したら精度どうなるのか確認して、抄録は上のデータで出す",
+        "user": "UGQV9DXRC",
+        "ts": "1575968932.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+bpvx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "階段を歩行に紐づけて分類したら精度どうなるのか確認して、抄録は上のデータで出す"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/open?id=1-RTddar9WceMmD5WwRGleInlt8AYvAio>",
+        "files": [
+            {
+                "id": "FRJ2TL7AQ",
+                "created": 1576046542,
+                "timestamp": 1576046542,
+                "name": "健康支援学会2020抄録_鈴木1211.docx",
+                "title": "健康支援学会2020抄録_鈴木1211.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 19946,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1-RTddar9WceMmD5WwRGleInlt8AYvAio",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRJ2TL7AQ-61af660fa9\/__________________2020_____________1211_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRJ2TL7AQ-61af660fa9\/__________________2020_____________1211_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRJ2TL7AQ-61af660fa9\/__________________2020_____________1211_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRJ2TL7AQ-61af660fa9\/__________________2020_____________1211_480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRJ2TL7AQ-61af660fa9\/__________________2020_____________1211_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRJ2TL7AQ-61af660fa9\/__________________2020_____________1211_720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRJ2TL7AQ-61af660fa9\/__________________2020_____________1211_800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1131,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRJ2TL7AQ-61af660fa9\/__________________2020_____________1211_960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRJ2TL7AQ-61af660fa9\/__________________2020_____________1211_1024.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 1448,
+                "thumb_tiny": "AwAwACHSJGcd6TJ9VpG+9SUAOyfUflSg+p5o2jNAAFAC0UUUAMb71A+gpWGWpNp9KAH0UUUAFFFFADGPzUgPTj9aeVyc0bRQAtFFFABRRRQB\/9k=",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FRJ2TL7AQ\/__________________2020_____________1211.docx",
+                "is_starred": false,
+                "external_id": "1-RTddar9WceMmD5WwRGleInlt8AYvAio",
+                "external_url": "https:\/\/drive.google.com\/open?id=1-RTddar9WceMmD5WwRGleInlt8AYvAio",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F\/rb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1-RTddar9WceMmD5WwRGleInlt8AYvAio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FRJ2TL7AQ"
+        ],
+        "ts": "1576049630.001800",
+        "client_msg_id": "4d9b162d-1535-4d04-a3b0-a4e60044cd9b"
+    }
+]

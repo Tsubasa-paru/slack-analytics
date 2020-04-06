@@ -1,0 +1,367 @@
+[
+    {
+        "client_msg_id": "153a8b8e-8562-4832-a63c-92837959c341",
+        "type": "message",
+        "text": "<https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566558455000100>\n<https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566615370002400>\n\nここがやっぱり納得できてない",
+        "user": "UGQV9DXRC",
+        "ts": "1573802095.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566558455000100",
+                "fallback": "[August 23rd, 2019 4:07 AM] kmt.sd.ma: PSD計算結果\n参考(<https:\/\/docs.scipy.org\/doc\/scipy-1.2.1\/reference\/generated\/scipy.signal.welch.html>)\n時間関数をフーリエ変換して出してるものだから時間領域の特徴量とやっぱり合わせられない\n時間領域の特徴量と周波数領域の特徴量をどうやって合わせて分析かけてるのかここから読み取れない\n(<https:\/\/drive.google.com\/file\/d\/1okCRwiOPMknOI2LgzQG3pufnxhyxb5U4\/view>)\n\n&gt;コード\n&gt;import pandas as pd\n&gt;import numpy as np\n&gt;from scipy import signal\n&gt;r_d=pd.read_csv('\/Users\/ohkawara\/desktop\/actigraph\/2_drop\/r10_d.csv', header=0)\n&gt;f,psd=signal.welch(r_d['x'])\n&gt;\n&gt;import numpy as np\n&gt;import matplotlib.pyplot as plt\n&gt;plt.xlabel(\"frequency\")\n&gt;plt.ylabel(\"PSD\")\n&gt;plt.plot(f,psd)",
+                "ts": "1566558455.000100",
+                "author_id": "UGQV9DXRC",
+                "author_subname": "鈴木美穂",
+                "channel_id": "CGNQF4DTJ",
+                "channel_name": "project_m2鈴木",
+                "is_msg_unfurl": true,
+                "text": "PSD計算結果\n参考(<https:\/\/docs.scipy.org\/doc\/scipy-1.2.1\/reference\/generated\/scipy.signal.welch.html>)\n時間関数をフーリエ変換して出してるものだから時間領域の特徴量とやっぱり合わせられない\n時間領域の特徴量と周波数領域の特徴量をどうやって合わせて分析かけてるのかここから読み取れない\n(<https:\/\/drive.google.com\/file\/d\/1okCRwiOPMknOI2LgzQG3pufnxhyxb5U4\/view>)\n\n&gt;コード\n&gt;import pandas as pd\n&gt;import numpy as np\n&gt;from scipy import signal\n&gt;r_d=pd.read_csv('\/Users\/ohkawara\/desktop\/actigraph\/2_drop\/r10_d.csv', header=0)\n&gt;f,psd=signal.welch(r_d['x'])\n&gt;\n&gt;import numpy as np\n&gt;import matplotlib.pyplot as plt\n&gt;plt.xlabel(\"frequency\")\n&gt;plt.ylabel(\"PSD\")\n&gt;plt.plot(f,psd)",
+                "author_name": "鈴木美穂",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "FMMJUJKV2",
+                        "created": 1566558454,
+                        "timestamp": 1566558454,
+                        "name": "image.png",
+                        "title": "image.png",
+                        "mimetype": "image\/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "UGQV9DXRC",
+                        "editable": false,
+                        "size": 19116,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMMJUJKV2\/image.png",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMMJUJKV2\/download\/image.png",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMMJUJKV2-c9ef881c69\/image_64.png",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMMJUJKV2-c9ef881c69\/image_80.png",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMMJUJKV2-c9ef881c69\/image_360.png",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 242,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMMJUJKV2-c9ef881c69\/image_160.png",
+                        "image_exif_rotation": 1,
+                        "original_w": 395,
+                        "original_h": 266,
+                        "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMMJUJKV2\/image.png",
+                        "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMMJUJKV2-9317dc6354",
+                        "has_rich_preview": false
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566558455000100",
+                "footer": "#project_m2鈴木 に投稿"
+            },
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566615370002400",
+                "fallback": "[August 23rd, 2019 7:56 PM] kmt.sd.ma: データ数が足りないのはFFTによってスムージングがかけられたみたいなものだから？\nということは、FFTをかけたこと=フィルタリングみたいなものと考えられるので、時間軸とも比較可能では？",
+                "ts": "1566615370.002400",
+                "author_id": "UGQV9DXRC",
+                "author_subname": "鈴木美穂",
+                "channel_id": "CGNQF4DTJ",
+                "channel_name": "project_m2鈴木",
+                "is_msg_unfurl": true,
+                "text": "データ数が足りないのはFFTによってスムージングがかけられたみたいなものだから？\nということは、FFTをかけたこと=フィルタリングみたいなものと考えられるので、時間軸とも比較可能では？",
+                "author_name": "鈴木美穂",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 2,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566615370002400",
+                "footer": "#project_m2鈴木 に投稿"
+            }
+        ],
+        "thread_ts": "1573802095.000300",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1573802492.003600",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1573802410.003200"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1573802492.003600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "同じデータセットに入れる必要がなくて、周波数域の特徴量としてデータセットを別に作ればいいだけでは？？\nそれに対して周波数成分に対する回答を作り直せばいい\nacceleration feature と time domain feature とわざわざ分けてるのはそうゆうことか\n(detection of type~~ \/ westerterp )\n<https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/19657292>",
+        "user": "UGQV9DXRC",
+        "ts": "1573802410.003200",
+        "thread_ts": "1573802095.000300",
+        "root": {
+            "client_msg_id": "153a8b8e-8562-4832-a63c-92837959c341",
+            "type": "message",
+            "text": "<https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566558455000100>\n<https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566615370002400>\n\nここがやっぱり納得できてない",
+            "user": "UGQV9DXRC",
+            "ts": "1573802095.000300",
+            "team": "TGNPXK07J",
+            "attachments": [
+                {
+                    "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566558455000100",
+                    "fallback": "[August 23rd, 2019 4:07 AM] kmt.sd.ma: PSD計算結果\n参考(<https:\/\/docs.scipy.org\/doc\/scipy-1.2.1\/reference\/generated\/scipy.signal.welch.html>)\n時間関数をフーリエ変換して出してるものだから時間領域の特徴量とやっぱり合わせられない\n時間領域の特徴量と周波数領域の特徴量をどうやって合わせて分析かけてるのかここから読み取れない\n(<https:\/\/drive.google.com\/file\/d\/1okCRwiOPMknOI2LgzQG3pufnxhyxb5U4\/view>)\n\n&gt;コード\n&gt;import pandas as pd\n&gt;import numpy as np\n&gt;from scipy import signal\n&gt;r_d=pd.read_csv('\/Users\/ohkawara\/desktop\/actigraph\/2_drop\/r10_d.csv', header=0)\n&gt;f,psd=signal.welch(r_d['x'])\n&gt;\n&gt;import numpy as np\n&gt;import matplotlib.pyplot as plt\n&gt;plt.xlabel(\"frequency\")\n&gt;plt.ylabel(\"PSD\")\n&gt;plt.plot(f,psd)",
+                    "ts": "1566558455.000100",
+                    "author_id": "UGQV9DXRC",
+                    "author_subname": "鈴木美穂",
+                    "channel_id": "CGNQF4DTJ",
+                    "channel_name": "project_m2鈴木",
+                    "is_msg_unfurl": true,
+                    "text": "PSD計算結果\n参考(<https:\/\/docs.scipy.org\/doc\/scipy-1.2.1\/reference\/generated\/scipy.signal.welch.html>)\n時間関数をフーリエ変換して出してるものだから時間領域の特徴量とやっぱり合わせられない\n時間領域の特徴量と周波数領域の特徴量をどうやって合わせて分析かけてるのかここから読み取れない\n(<https:\/\/drive.google.com\/file\/d\/1okCRwiOPMknOI2LgzQG3pufnxhyxb5U4\/view>)\n\n&gt;コード\n&gt;import pandas as pd\n&gt;import numpy as np\n&gt;from scipy import signal\n&gt;r_d=pd.read_csv('\/Users\/ohkawara\/desktop\/actigraph\/2_drop\/r10_d.csv', header=0)\n&gt;f,psd=signal.welch(r_d['x'])\n&gt;\n&gt;import numpy as np\n&gt;import matplotlib.pyplot as plt\n&gt;plt.xlabel(\"frequency\")\n&gt;plt.ylabel(\"PSD\")\n&gt;plt.plot(f,psd)",
+                    "author_name": "鈴木美穂",
+                    "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                    "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "files": [
+                        {
+                            "id": "FMMJUJKV2",
+                            "created": 1566558454,
+                            "timestamp": 1566558454,
+                            "name": "image.png",
+                            "title": "image.png",
+                            "mimetype": "image\/png",
+                            "filetype": "png",
+                            "pretty_type": "PNG",
+                            "user": "UGQV9DXRC",
+                            "editable": false,
+                            "size": 19116,
+                            "mode": "hosted",
+                            "is_external": false,
+                            "external_type": "",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMMJUJKV2\/image.png",
+                            "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMMJUJKV2\/download\/image.png",
+                            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMMJUJKV2-c9ef881c69\/image_64.png",
+                            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMMJUJKV2-c9ef881c69\/image_80.png",
+                            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMMJUJKV2-c9ef881c69\/image_360.png",
+                            "thumb_360_w": 360,
+                            "thumb_360_h": 242,
+                            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMMJUJKV2-c9ef881c69\/image_160.png",
+                            "image_exif_rotation": 1,
+                            "original_w": 395,
+                            "original_h": 266,
+                            "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMMJUJKV2\/image.png",
+                            "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMMJUJKV2-9317dc6354",
+                            "has_rich_preview": false
+                        }
+                    ],
+                    "id": 1,
+                    "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566558455000100",
+                    "footer": "#project_m2鈴木 に投稿"
+                },
+                {
+                    "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566615370002400",
+                    "fallback": "[August 23rd, 2019 7:56 PM] kmt.sd.ma: データ数が足りないのはFFTによってスムージングがかけられたみたいなものだから？\nということは、FFTをかけたこと=フィルタリングみたいなものと考えられるので、時間軸とも比較可能では？",
+                    "ts": "1566615370.002400",
+                    "author_id": "UGQV9DXRC",
+                    "author_subname": "鈴木美穂",
+                    "channel_id": "CGNQF4DTJ",
+                    "channel_name": "project_m2鈴木",
+                    "is_msg_unfurl": true,
+                    "text": "データ数が足りないのはFFTによってスムージングがかけられたみたいなものだから？\nということは、FFTをかけたこと=フィルタリングみたいなものと考えられるので、時間軸とも比較可能では？",
+                    "author_name": "鈴木美穂",
+                    "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                    "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "id": 2,
+                    "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566615370002400",
+                    "footer": "#project_m2鈴木 に投稿"
+                }
+            ],
+            "thread_ts": "1573802095.000300",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1573802492.003600",
+            "reply_users": [
+                "UGQV9DXRC"
+            ],
+            "subscribed": false
+        },
+        "attachments": [
+            {
+                "title": "Detection of type, duration, and intensity of physical activity using an accelerometer.  - PubMed - NCBI ",
+                "title_link": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/19657292",
+                "text": "Med Sci Sports Exerc. 2009 Sep;41(9):1770-7. doi: 10.1249\/MSS.0b013e3181a24536. Research Support, Non-U.S. Gov't",
+                "fallback": "Detection of type, duration, and intensity of physical activity using an accelerometer.  - PubMed - NCBI ",
+                "image_url": "http:\/\/www.ncbi.nlm.nih.gov\/coreutils\/img\/pubmed256blue.png",
+                "from_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/19657292",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 13298,
+                "service_icon": "http:\/\/www.ncbi.nlm.nih.gov\/favicon.ico",
+                "service_name": "ncbi.nlm.nih.gov",
+                "id": 1,
+                "original_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/19657292"
+            }
+        ],
+        "client_msg_id": "9fa11486-1ffa-4ad7-98e7-162dedfa8760"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "FFTかけるとして、ラベルが違う値同士の切れ目の扱い方をどうするか\nやっぱりラベル別に分けてそれぞれに対して計算してから統合するしかない？",
+        "user": "UGQV9DXRC",
+        "ts": "1573802492.003600",
+        "thread_ts": "1573802095.000300",
+        "root": {
+            "client_msg_id": "153a8b8e-8562-4832-a63c-92837959c341",
+            "type": "message",
+            "text": "<https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566558455000100>\n<https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566615370002400>\n\nここがやっぱり納得できてない",
+            "user": "UGQV9DXRC",
+            "ts": "1573802095.000300",
+            "team": "TGNPXK07J",
+            "attachments": [
+                {
+                    "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566558455000100",
+                    "fallback": "[August 23rd, 2019 4:07 AM] kmt.sd.ma: PSD計算結果\n参考(<https:\/\/docs.scipy.org\/doc\/scipy-1.2.1\/reference\/generated\/scipy.signal.welch.html>)\n時間関数をフーリエ変換して出してるものだから時間領域の特徴量とやっぱり合わせられない\n時間領域の特徴量と周波数領域の特徴量をどうやって合わせて分析かけてるのかここから読み取れない\n(<https:\/\/drive.google.com\/file\/d\/1okCRwiOPMknOI2LgzQG3pufnxhyxb5U4\/view>)\n\n&gt;コード\n&gt;import pandas as pd\n&gt;import numpy as np\n&gt;from scipy import signal\n&gt;r_d=pd.read_csv('\/Users\/ohkawara\/desktop\/actigraph\/2_drop\/r10_d.csv', header=0)\n&gt;f,psd=signal.welch(r_d['x'])\n&gt;\n&gt;import numpy as np\n&gt;import matplotlib.pyplot as plt\n&gt;plt.xlabel(\"frequency\")\n&gt;plt.ylabel(\"PSD\")\n&gt;plt.plot(f,psd)",
+                    "ts": "1566558455.000100",
+                    "author_id": "UGQV9DXRC",
+                    "author_subname": "鈴木美穂",
+                    "channel_id": "CGNQF4DTJ",
+                    "channel_name": "project_m2鈴木",
+                    "is_msg_unfurl": true,
+                    "text": "PSD計算結果\n参考(<https:\/\/docs.scipy.org\/doc\/scipy-1.2.1\/reference\/generated\/scipy.signal.welch.html>)\n時間関数をフーリエ変換して出してるものだから時間領域の特徴量とやっぱり合わせられない\n時間領域の特徴量と周波数領域の特徴量をどうやって合わせて分析かけてるのかここから読み取れない\n(<https:\/\/drive.google.com\/file\/d\/1okCRwiOPMknOI2LgzQG3pufnxhyxb5U4\/view>)\n\n&gt;コード\n&gt;import pandas as pd\n&gt;import numpy as np\n&gt;from scipy import signal\n&gt;r_d=pd.read_csv('\/Users\/ohkawara\/desktop\/actigraph\/2_drop\/r10_d.csv', header=0)\n&gt;f,psd=signal.welch(r_d['x'])\n&gt;\n&gt;import numpy as np\n&gt;import matplotlib.pyplot as plt\n&gt;plt.xlabel(\"frequency\")\n&gt;plt.ylabel(\"PSD\")\n&gt;plt.plot(f,psd)",
+                    "author_name": "鈴木美穂",
+                    "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                    "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "files": [
+                        {
+                            "id": "FMMJUJKV2",
+                            "created": 1566558454,
+                            "timestamp": 1566558454,
+                            "name": "image.png",
+                            "title": "image.png",
+                            "mimetype": "image\/png",
+                            "filetype": "png",
+                            "pretty_type": "PNG",
+                            "user": "UGQV9DXRC",
+                            "editable": false,
+                            "size": 19116,
+                            "mode": "hosted",
+                            "is_external": false,
+                            "external_type": "",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMMJUJKV2\/image.png",
+                            "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMMJUJKV2\/download\/image.png",
+                            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMMJUJKV2-c9ef881c69\/image_64.png",
+                            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMMJUJKV2-c9ef881c69\/image_80.png",
+                            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMMJUJKV2-c9ef881c69\/image_360.png",
+                            "thumb_360_w": 360,
+                            "thumb_360_h": 242,
+                            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMMJUJKV2-c9ef881c69\/image_160.png",
+                            "image_exif_rotation": 1,
+                            "original_w": 395,
+                            "original_h": 266,
+                            "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMMJUJKV2\/image.png",
+                            "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMMJUJKV2-9317dc6354",
+                            "has_rich_preview": false
+                        }
+                    ],
+                    "id": 1,
+                    "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566558455000100",
+                    "footer": "#project_m2鈴木 に投稿"
+                },
+                {
+                    "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566615370002400",
+                    "fallback": "[August 23rd, 2019 7:56 PM] kmt.sd.ma: データ数が足りないのはFFTによってスムージングがかけられたみたいなものだから？\nということは、FFTをかけたこと=フィルタリングみたいなものと考えられるので、時間軸とも比較可能では？",
+                    "ts": "1566615370.002400",
+                    "author_id": "UGQV9DXRC",
+                    "author_subname": "鈴木美穂",
+                    "channel_id": "CGNQF4DTJ",
+                    "channel_name": "project_m2鈴木",
+                    "is_msg_unfurl": true,
+                    "text": "データ数が足りないのはFFTによってスムージングがかけられたみたいなものだから？\nということは、FFTをかけたこと=フィルタリングみたいなものと考えられるので、時間軸とも比較可能では？",
+                    "author_name": "鈴木美穂",
+                    "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                    "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "id": 2,
+                    "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1566615370002400",
+                    "footer": "#project_m2鈴木 に投稿"
+                }
+            ],
+            "thread_ts": "1573802095.000300",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1573802492.003600",
+            "reply_users": [
+                "UGQV9DXRC"
+            ],
+            "subscribed": false
+        },
+        "client_msg_id": "5a46615c-23b3-4782-8be6-cf7e1101e9a8"
+    },
+    {
+        "client_msg_id": "21bffd35-671d-4f18-961b-01ef4d6545c0",
+        "type": "message",
+        "text": "*[課題]*  psdの計算法を理解しなおしてaccelerometry to time domainの回答をどう紐づければいいか考える\n<https:\/\/org-technology.com\/posts\/power-spectral-density.html>",
+        "user": "UGQV9DXRC",
+        "ts": "1573803311.004900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1573803324.000000"
+        }
+    }
+]

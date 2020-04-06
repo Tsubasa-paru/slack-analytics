@@ -1,0 +1,131 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/file\/d\/1b3JIwWJ5zePovA-HqGUFkKfBo6p-H_wm\/view?usp=drivesdk>",
+        "files": [
+            {
+                "id": "FL7R4V7QC",
+                "created": 1562635756,
+                "timestamp": 1562635756,
+                "name": "ハンバーガー統計.xlsx",
+                "title": "ハンバーガー統計.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 40172,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/file\/d\/1b3JIwWJ5zePovA-HqGUFkKfBo6p-H_wm\/view?usp=drivesdk",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FL7R4V7QC-695b4bed60\/_________________________64.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FL7R4V7QC-695b4bed60\/_________________________80.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FL7R4V7QC-695b4bed60\/_________________________360.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 360,
+                "thumb_360_h": 255,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FL7R4V7QC-695b4bed60\/_________________________480.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_480_w": 480,
+                "thumb_480_h": 339,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FL7R4V7QC-695b4bed60\/_________________________160.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FL7R4V7QC-695b4bed60\/_________________________720.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720_w": 720,
+                "thumb_720_h": 509,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FL7R4V7QC-695b4bed60\/_________________________800.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_800_w": 800,
+                "thumb_800_h": 566,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FL7R4V7QC-695b4bed60\/_________________________960.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_960_w": 960,
+                "thumb_960_h": 679,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 724,
+                "thumb_tiny": "AwAhADDTpCcClpKAFpM0A5pPWgBcn8KAc0UL3oAWkpaKAEU5pPWnUmOtABgUuMUUUAFFFFABRRRQAUUUUAf\/2Q==",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FL7R4V7QC\/________________________.xlsx",
+                "is_starred": false,
+                "external_id": "1b3JIwWJ5zePovA-HqGUFkKfBo6p-H_wm",
+                "external_url": "https:\/\/drive.google.com\/file\/d\/1b3JIwWJ5zePovA-HqGUFkKfBo6p-H_wm\/view?usp=drivesdk",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FL7R4V7QC"
+        ],
+        "ts": "1564114035.000100",
+        "client_msg_id": "4d5304a3-4aab-447c-a284-64894103053a",
+        "thread_ts": "1563250868.005500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "113e8f62-9ad0-42ac-b3b0-2e8a96b388bb",
+        "type": "message",
+        "text": "忘れてた！\n次は7\/30までに<http:\/\/kogolab.chillout.jp\/elearn\/hamburger\/chap5\/sec0.html> の通過テストまで\n通過テストをクリアした人はファイルをリプライ形式でアップ",
+        "user": "UGQV9DXRC",
+        "ts": "1564114096.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1564114109.000000"
+        },
+        "thread_ts": "1564114096.001700",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1564457480.000500",
+        "reply_users": [
+            "UHC5VBV5E",
+            "UHEH8KZ7W",
+            "UHFLC6N4X",
+            "UGQV9DXRC",
+            "UHG1M1NQ6",
+            "UGPH97FDW"
+        ],
+        "replies": [
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1564322047.000100"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1564385647.000200"
+            },
+            {
+                "user": "UHFLC6N4X",
+                "ts": "1564389357.000600"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1564445412.000400"
+            },
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1564456280.000100"
+            },
+            {
+                "user": "UGPH97FDW",
+                "ts": "1564457480.000500"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1564457480.000500"
+    }
+]

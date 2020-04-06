@@ -1,0 +1,183 @@
+[
+    {
+        "client_msg_id": "0df2aa07-ae11-405e-949f-a59918967436",
+        "type": "message",
+        "text": "*至急*\nこども食堂のボランティア保険を払いたいのでB4は各自\n名前・住所・電話番号\nを私のDMに送ってください",
+        "user": "UGQV9DXRC",
+        "ts": "1560822456.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1560822605.000000"
+        }
+    },
+    {
+        "client_msg_id": "e25687ac-613f-4885-ae01-a6d9217f3c83",
+        "type": "message",
+        "text": "こども食堂参考資料",
+        "user": "UGQV9DXRC",
+        "ts": "1560823911.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560823911.001700",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1560823996.002400",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1560823932.001800"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1560823962.002200"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1560823996.002400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "こども食堂心得",
+        "files": [
+            {
+                "id": "FKPSV2E9M",
+                "created": 1560823929,
+                "timestamp": 1560823929,
+                "name": "20190618110829.jpg",
+                "title": "20190618110829.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 88276,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKPSV2E9M\/20190618110829.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKPSV2E9M\/download\/20190618110829.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKPSV2E9M-a6a2ebdaa8\/20190618110829_64.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKPSV2E9M-a6a2ebdaa8\/20190618110829_80.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKPSV2E9M-a6a2ebdaa8\/20190618110829_360.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKPSV2E9M-a6a2ebdaa8\/20190618110829_480.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKPSV2E9M-a6a2ebdaa8\/20190618110829_160.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKPSV2E9M-a6a2ebdaa8\/20190618110829_720.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKPSV2E9M-a6a2ebdaa8\/20190618110829_800.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKPSV2E9M-a6a2ebdaa8\/20190618110829_960.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKPSV2E9M-a6a2ebdaa8\/20190618110829_1024.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FKPSV2E9M\/20190618110829.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FKPSV2E9M-6a8377dd98",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1560823932.001800",
+        "client_msg_id": "87b165c7-5811-4df0-afee-32b3b944502e",
+        "thread_ts": "1560823911.001700",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "ef858a40-d23e-44c6-bdc4-5394f03f6e65",
+        "type": "message",
+        "text": "(子ども食堂の流れ)\n\n①4時半前かそれくらいに到着！\nその前に準備をしていたのでもっと早く行っても良いと思う。\n\n②手を洗って\nエプロン（私達が使ったのを引き継ぎ）、三角巾（持参）をつける\n\n③エプロンに名前を書いたガムテープ貼る。\n\n④子供食堂の方と住職さんから説明されたことを引き継ぎます。\n\n⑤子供が時間になってどんどんやってくる親と子供合わせて百人くらい。\n\n⑥受付をした子供に名前のガムテープを作って貼ってあげる\nアルコール除菌をさせる。\n\n⑦一階は食堂になっていてご飯を食べるところと小さいおもちゃスペースあって2階が宿題とかをやる部屋と保護者の休憩スペース（保護者は一階にいてそこの部屋は鬼ごっことかの部屋になってた）\n\n⑧食事を取るところが30人分しかないので子どもたちはチケット制で交代にたべていく！\n食べている間は特に何もしなかった。食べていない子は基本的に二階にいなくてはいけないので2階から一階に子供が降りないように相手をする。でもいっぱい一階にいたのでスタッフも一階と2階に散らばっていた。\n\n⑨あと、ある時間までは外に出て良く隣の墓地とかはいっても良いがそれ以外は行っちゃいけない。\n子どもが外に出るときはできるだけスタッフ一人はついていく。\n\n⑩七時くらいに子どもたちが帰り始める、七時半にはほとんど帰った。\n\n⑪片付けをして、余ったご飯少しもらって帰宅。",
+        "user": "UGQV9DXRC",
+        "ts": "1560823962.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560823911.001700",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "df07437b-7bd0-4724-934e-454064e7e017",
+        "type": "message",
+        "text": "持ち物:バンダナor三角巾\n服装:指定なし　動きやすい服、靴下\n\n自転車で電通から5〜10分\n場所:かくしょうじ\n\n4時半到着できるように！\n終わりは8時くらい",
+        "user": "UGQV9DXRC",
+        "ts": "1560823996.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1560840930.000000"
+        },
+        "thread_ts": "1560823911.001700",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

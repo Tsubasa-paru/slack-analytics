@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "6757cf61-eaa1-41cd-bd04-7c2cce76d894",
+        "type": "message",
+        "text": "発送不要のご連絡が3件あり、それ以外の15件について発送手続きを行ったとのことです。",
+        "user": "UGQV9DXRC",
+        "ts": "1570410299.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

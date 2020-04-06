@@ -1,0 +1,185 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1554375816.001600",
+        "user": "UHDCWB95X",
+        "text": "<@UHDCWB95X>さんがチャンネルに参加しました",
+        "inviter": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "f473b35f-c2d3-4682-b296-fdacbbb6ff20",
+        "type": "message",
+        "text": "趣旨と合うかわかりませんが、Pollyというアプリを追加しました。\n\/poll と始めにつけるとアンケートや投票のような形式がとれます",
+        "user": "UGQV9DXRC",
+        "ts": "1554375896.002500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554345896.001300",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@UGQV9DXRC> has a poll for you!",
+        "ts": "1554376067.002800",
+        "username": "Polly",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-04-04\/600134185620_48.png"
+        },
+        "bot_id": "BHDCWB90R",
+        "attachments": [
+            {
+                "callback_id": "FudBvJEF2bQyTnDxL",
+                "fallback": "サンプルアンケートです。好きな数字を選んでね",
+                "title": "サンプルアンケートです。好きな数字を選んでね",
+                "id": 1,
+                "color": "35A8E0",
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "one",
+                        "text": "1",
+                        "type": "button",
+                        "value": "0",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "two",
+                        "text": "2",
+                        "type": "button",
+                        "value": "1",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "three",
+                        "text": "3",
+                        "type": "button",
+                        "value": "2",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "four",
+                        "text": "4",
+                        "type": "button",
+                        "value": "3",
+                        "style": ""
+                    },
+                    {
+                        "id": "5",
+                        "name": "five",
+                        "text": "5",
+                        "type": "button",
+                        "value": "4",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "callback_id": "FudBvJEF2bQyTnDxL",
+                "fallback": "サンプルアンケートです。好きな数字を選んでね",
+                "id": 2,
+                "fields": [
+                    {
+                        "title": "",
+                        "value": ":one: `▇▇▇▇▇` 20% (1)\n<@UGQV9DXRC>",
+                        "short": true
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: `▇▇▇▇▇` 20% (1)\n<@UGPH97FDW>",
+                        "short": true
+                    },
+                    {
+                        "title": "",
+                        "value": ":three: `▇▇▇▇▇` 20% (1)\n<@UHFLB6JPR>",
+                        "short": true
+                    },
+                    {
+                        "title": "",
+                        "value": ":four: `⁢` 0%",
+                        "short": true
+                    },
+                    {
+                        "title": "",
+                        "value": ":five: `▇▇▇▇▇▇▇▇▇▇` 40% (2)\n<@UHEH8KZ7W>, <@UGQ2ENZD0>",
+                        "short": true
+                    },
+                    {
+                        "title": "",
+                        "value": "",
+                        "short": true
+                    },
+                    {
+                        "title": "Total votes",
+                        "value": "5",
+                        "short": true
+                    },
+                    {
+                        "title": "Comments (1 total)",
+                        "value": ":speech_balloon: <@UGQV9DXRC>: こんな感じで使えます",
+                        "short": false
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "6",
+                        "name": "add_comments",
+                        "text": "Add a Comment",
+                        "type": "button",
+                        "value": "fQYr2eGpjqyryfr4t",
+                        "style": ""
+                    }
+                ],
+                "mrkdwn_in": [
+                    "fields"
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "308a1fa1-c46c-4c01-88f6-abffb477e258",
+        "type": "message",
+        "text": "利用したいチャンネルにpollyをメンバーとして招待しておく必要があるようです。#meeting と#randomには招待しておきます",
+        "user": "UGQV9DXRC",
+        "ts": "1554377002.005700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

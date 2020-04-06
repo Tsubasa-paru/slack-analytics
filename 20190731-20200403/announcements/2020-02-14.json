@@ -1,0 +1,117 @@
+[
+    {
+        "client_msg_id": "CA464391-602A-486C-91DC-E3AF40297F06",
+        "type": "message",
+        "text": "修論、卒論、お疲れ様でした。\nみんな頑張ってくれました。\n健康支援学会の準備もありますが、今週末はゆっくり休んでください。",
+        "user": "UHFLB6JPR",
+        "ts": "1581667981.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C1DAE8B1-3EAA-4775-BBE5-A1F80CCB2814",
+        "type": "message",
+        "text": "皆さんお疲れ様でした！\n後輩のために、卒論、抄録、発表スライドの提出をお願いします\n\n<https:\/\/drive.google.com\/drive\/folders\/1Auh60aiDg8HKA1J69k2GGjMH761rfOjT|https:\/\/drive.google.com\/drive\/folders\/1Auh60aiDg8HKA1J69k2GGjMH761rfOjT>",
+        "user": "UGQV9DXRC",
+        "ts": "1581670676.002300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j+M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "皆さんお疲れ様でした！\n後輩のために、卒論、抄録、発表スライドの提出をお願いします\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1Auh60aiDg8HKA1J69k2GGjMH761rfOjT",
+                                "text": "https:\/\/drive.google.com\/drive\/folders\/1Auh60aiDg8HKA1J69k2GGjMH761rfOjT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D151B8A6-A0F0-469B-BC12-8801959AE2C1",
+        "type": "message",
+        "text": "お疲れ様でした！",
+        "user": "UGPH97FDW",
+        "ts": "1581675787.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qP2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様でした！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

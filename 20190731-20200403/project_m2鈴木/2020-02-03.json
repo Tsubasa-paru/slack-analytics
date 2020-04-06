@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "d0bef234-3c83-4afe-a8c5-4ec8fe30e68d",
+        "type": "message",
+        "text": "<https:\/\/ohke.hateblo.jp\/entry\/2017\/08\/04\/230000>",
+        "user": "UGQV9DXRC",
+        "ts": "1580731805.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "け日記",
+                "title": "Python scikit-learnのランダムフォレストで受診予約のNo-Showを予測する - け日記",
+                "title_link": "https:\/\/ohke.hateblo.jp\/entry\/2017\/08\/04\/230000",
+                "text": "Kaggleのデータセットを使って、ランダムフォレストで受診予約のNo-Showを予測します。 データセットのロード 今回はKaggleで公開されているMedical Appointment No Showsを使っていきます。 このデータは、受診予約で1レコードとなっており、患者の情報(年齢・性別やかかっている病気など)や予約どおりに現れたか・現れなかったか、などが15の含まれています。 全体では30万レコードになります。 このデータをcsvとしてダウンロードし、DataFrameに読み込ませます。 # ライブラリのインポート import pandas as pd import matplo…",
+                "fallback": "け日記: Python scikit-learnのランダムフォレストで受診予約のNo-Showを予測する - け日記",
+                "image_url": "https:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/o\/ohke\/20170730\/20170730095235.png",
+                "ts": 1501855200,
+                "from_url": "https:\/\/ohke.hateblo.jp\/entry\/2017\/08\/04\/230000",
+                "image_width": 749,
+                "image_height": 250,
+                "image_bytes": 104666,
+                "service_icon": "https:\/\/cdn.blog.st-hatena.com\/images\/touch-icon-iphone-retina.png",
+                "id": 1,
+                "original_url": "https:\/\/ohke.hateblo.jp\/entry\/2017\/08\/04\/230000"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sOua",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ohke.hateblo.jp\/entry\/2017\/08\/04\/230000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

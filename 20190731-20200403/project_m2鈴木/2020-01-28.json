@@ -1,0 +1,178 @@
+[
+    {
+        "type": "message",
+        "text": "特徴量に関する一元配置の分散分析の結果\n4項目",
+        "files": [
+            {
+                "id": "FT8UH9PJB",
+                "created": 1580210660,
+                "timestamp": 1580210660,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 28513,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FT8UH9PJB\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FT8UH9PJB\/download\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FT8UH9PJB-b39309bdda\/image_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FT8UH9PJB-b39309bdda\/image_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FT8UH9PJB-b39309bdda\/image_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 253,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FT8UH9PJB-b39309bdda\/image_480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 337,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FT8UH9PJB-b39309bdda\/image_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "image_exif_rotation": 1,
+                "original_w": 524,
+                "original_h": 368,
+                "thumb_tiny": "AwAhADDQAI6ZFLhs9aAeOhozyODQAnPqaMnHU5\/Cg5yeDRzjoaAHDpS0i9KWgBm856Uu72owDQAAeoz9KADd7UbvalIyaQKAMdfwoAN3tRu9jS7R6CjA9KAIhR3oFHegAooooAKKKKAP\/9k=",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FT8UH9PJB\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FT8UH9PJB-5a0bd5c479",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0eki",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "特徴量に関する一元配置の分散分析の結果\n4項目"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1580210665.002100",
+        "client_msg_id": "574e976f-ebef-4eea-927a-c586d13d2de5"
+    },
+    {
+        "type": "message",
+        "text": "14項目",
+        "files": [
+            {
+                "id": "FT99CQPK8",
+                "created": 1580210687,
+                "timestamp": 1580210687,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 34732,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FT99CQPK8\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FT99CQPK8\/download\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FT99CQPK8-43841db726\/image_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FT99CQPK8-43841db726\/image_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FT99CQPK8-43841db726\/image_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 283,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FT99CQPK8-43841db726\/image_480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 378,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FT99CQPK8-43841db726\/image_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "image_exif_rotation": 1,
+                "original_w": 600,
+                "original_h": 472,
+                "thumb_tiny": "AwAlADDQBHoRRlfT9KcAMUcZNABke\/5UZBOOaZ6Uo+9QA+iiigBgZScY\/SlyvXjH0owMdqFA9jQAZX0\/SjK9v5Ubc0u0ZzQAm4UoORkUbRQBgUAGB6UYHpS0UAJgelGB6UtFACYHpS0UUAf\/2Q==",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FT99CQPK8\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FT99CQPK8-0f40476d8a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1KICM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "14項目"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1580210689.002500",
+        "client_msg_id": "51748ef7-5c25-44d0-921f-a875e75e286a"
+    },
+    {
+        "client_msg_id": "c6f39850-6e3a-47b6-bafb-2e138d2bbbcd",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n特徴量の組み合わせ別精度の分散分析の結果でました\n14項目では5%水準でどこかに差があるとは言える、という解釈であっているでしょうか、、？",
+        "user": "UGQV9DXRC",
+        "ts": "1580210759.003900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TR=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n特徴量の組み合わせ別精度の分散分析の結果でました\n14項目では5%水準でどこかに差があるとは言える、という解釈であっているでしょうか、、？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "client_msg_id": "67b8f3d2-3fe1-40a3-bff6-cf8789b7d709",
+        "type": "message",
+        "text": "エラーと解決の共有についてですが，Git(とGithub)を使った方が良いと思います．(コードが共有できればリモートでも作業できる)\n<https:\/\/adtech.cyberagent.io\/techblog\/archives\/2317>\nこのサイトの「.ipynb を .py ファイルに保存したい」で.pyを自動生成すれば，.ipynbと違って直接pythonのコードを管理できるので，.py出力をわざわざしなくても済みそうです(もちろんjupyter上で.pyにエクスポートしてGitに突っ込んでもOKです)\nPyCharmであれば.pyベースでコーディングするのでそのままGitに流し込めると思います．",
+        "user": "UGQ2ENZD0",
+        "ts": "1554623014.003900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Tech Blog",
+                "title": "Jupyter Notebook の Tips をまとめてみた | Tech Blog",
+                "title_link": "https:\/\/adtech.cyberagent.io\/techblog\/archives\/2317",
+                "text": "こんにちは、AI Lab の馬場です。 このブログは CyberAgent Developers Advent Calendar 2016 の11日目の記事です。 昨日は sitotkfm さんの「ログを集める時に気をつけたいポイント」という記事でした。 この記事では、僕が仕事でデータ分析をやっていく上で大変お世話になっている Jupyter Notebook の Tips をまとめてみます。Jupyter Notebook では便利な機能がたくさんあるので、ちゃんと使うと無駄作業の削減になります。僕もこれまで分析途中で「あーこれができたらなあ」と検索しては時間をつぶしてきたので、ここでまとめて記憶にとどめておきたいと思います。 図表・可視化系 notebook 内に図を表示したい 単純に jupyter notebook を起動して、pyplot などでグラフを描画しようとしても、図は notebook 内に表示されず別ウィンドウが開きそちらに表示されてしまいます。そういう場合は、 というマジックコマンドを利用すると、notebook 内に図が書き出されるようになります。 for 文で DataFrame を HTML 表示したい 単純に DataFrame の中身を表示するには以下のように変数呼び出しをすればいいのですが、 機械学習をやっていると、学習 → 予測結果をdataframe で表示 → 次の学習 → 結果をdataframeで表示 → 以下ループ、みたいなことをやりたくなります。例えば for 文の中で、上記と同様に表示しようとしてもうまくいきません（表示されない、または、HTML表示にならない） そんなときは、 モジュールを利用すると HTML 表示ができます。 おすすめマジックコマンド Jupyter Notebook を利用する上で、いくつかの便利な機能が「マジックコマンド」として標準で用意されています。とても簡単な記述で様々なことができるのでよく使います。マジックコマンドは のような形で宣言でき、その次に記述されるコードに何らかの機能を適用できます。ここではお気に入りのマジックコマンドを勝手に紹介したいと思います。 ※ ちなみに、 の場合は、同じ行のコードのみにマジックコマンドが適用される。",
+                "fallback": "Tech Blog: Jupyter Notebook の Tips をまとめてみた | Tech Blog",
+                "image_url": "https:\/\/d3olv7e20qcj9e.cloudfront.net\/techblog\/wp-content\/uploads\/sites\/6\/2016\/12\/header-1024x662.png",
+                "ts": 1481454568,
+                "from_url": "https:\/\/adtech.cyberagent.io\/techblog\/archives\/2317",
+                "image_width": 387,
+                "image_height": 250,
+                "image_bytes": 103967,
+                "service_icon": "https:\/\/adtech.cyberagent.io\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/adtech.cyberagent.io\/techblog\/archives\/2317"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d0d227d-cb56-46f0-b059-59f99bcd42dc",
+        "type": "message",
+        "text": "うひー全然何がなんだかなので明日教えてもらえると助かります",
+        "user": "UGQV9DXRC",
+        "ts": "1554683816.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70b85bec-9f58-45f9-ae3e-c1f9e20b4f00",
+        "type": "message",
+        "text": "ちなみに↑のapplyとlambdaの使い方はぺーちゃんわかる？",
+        "user": "UGQV9DXRC",
+        "ts": "1554683881.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554683881.001600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1554683973.001900",
+        "reply_users": [
+            "UGQ2ENZD0",
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQ2ENZD0",
+                "ts": "1554683960.001700"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554683973.001900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fcc0451b-d7cf-4323-b513-afac964a395f",
+        "type": "message",
+        "text": "わかんないです。実際に動かせればわかるかもですが",
+        "user": "UGQ2ENZD0",
+        "ts": "1554683960.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554683881.001600",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "c5b85e0d-bb64-46b2-a657-b174f3bf4591",
+        "type": "message",
+        "text": "ありがとー",
+        "user": "UGQV9DXRC",
+        "ts": "1554683973.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554683881.001600",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

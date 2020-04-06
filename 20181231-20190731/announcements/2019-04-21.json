@@ -1,0 +1,367 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "明日から始まります",
+        "user": "UHFLB6JPR",
+        "ts": "1555843845.000400",
+        "thread_ts": "1555560795.000100",
+        "root": {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FHNKEP1H8",
+                    "created": 1555560795,
+                    "timestamp": 1555560795,
+                    "name": "iOS の画像.jpg",
+                    "title": "iOS の画像",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "UHFLB6JPR",
+                    "editable": false,
+                    "size": 91055,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHNKEP1H8\/ios__________.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHNKEP1H8\/download\/ios__________.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHNKEP1H8-8cfe29c373\/ios___________64.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHNKEP1H8-8cfe29c373\/ios___________80.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHNKEP1H8-8cfe29c373\/ios___________360.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                    "thumb_360_w": 293,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHNKEP1H8-8cfe29c373\/ios___________480.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                    "thumb_480_w": 390,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHNKEP1H8-8cfe29c373\/ios___________160.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHNKEP1H8-8cfe29c373\/ios___________720.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                    "thumb_720_w": 585,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHNKEP1H8-8cfe29c373\/ios___________800.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                    "thumb_800_w": 650,
+                    "thumb_800_h": 800,
+                    "image_exif_rotation": 1,
+                    "original_w": 750,
+                    "original_h": 923,
+                    "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FHNKEP1H8\/ios__________.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHNKEP1H8-add457ac6f",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "user": "UHFLB6JPR",
+            "display_as_bot": false,
+            "ts": "1555560795.000100",
+            "client_msg_id": "9A3D6405-FEF1-49AB-8A80-84F0B431DC9C",
+            "thread_ts": "1555560795.000100",
+            "reply_count": 6,
+            "reply_users_count": 6,
+            "latest_reply": "1555843845.000400",
+            "reply_users": [
+                "UGQV9DXRC",
+                "UGPH97FDW",
+                "UGQ2ENZD0",
+                "UHC5VBV5E",
+                "UHG1M1NQ6",
+                "UHFLB6JPR"
+            ],
+            "subscribed": true,
+            "last_read": "1555843845.000400"
+        },
+        "client_msg_id": "40450B65-2F03-4DE9-9866-E20377244168",
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC",
+                    "UGQ2ENZD0",
+                    "UHC5VBV5E"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d6c62e76-0f79-4b3b-a98c-ecd4ce7a0571",
+        "type": "message",
+        "text": "清水、405の鍵は余ってる？",
+        "user": "UHFLB6JPR",
+        "ts": "1555895951.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555895951.000300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1555898865.001900",
+        "reply_users": [
+            "UGQ2ENZD0",
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UGQ2ENZD0",
+                "ts": "1555895986.000800"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1555898865.001900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2ec9b62a-64f2-4a71-9f12-51304ec3f637",
+        "type": "message",
+        "text": "余っていたと思います",
+        "user": "UGQ2ENZD0",
+        "ts": "1555895986.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555895951.000300",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "23F87FE4-09D3-436D-A4D4-6A34DF42856C",
+        "type": "message",
+        "text": "岡田に渡してください\n岡田は鵜川に渡して",
+        "user": "UHFLB6JPR",
+        "ts": "1555898865.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555895951.000300",
+        "parent_user_id": "UHFLB6JPR",
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UGPH97FDW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1F0A6B8D-39E2-49D3-9813-AC7ACC33922C",
+        "type": "message",
+        "text": "清水、市役所のマッピングの回答はどうなってる？",
+        "user": "UHFLB6JPR",
+        "ts": "1555901085.003000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555901085.003000",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1555904761.006100",
+        "reply_users": [
+            "UGQ2ENZD0",
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UGQ2ENZD0",
+                "ts": "1555901629.003100"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1555902192.004600"
+            },
+            {
+                "user": "UGQ2ENZD0",
+                "ts": "1555903358.004800"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1555903592.005800"
+            },
+            {
+                "user": "UGQ2ENZD0",
+                "ts": "1555904761.006100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2f4cd752-de9c-4518-8033-5e96e13aa9d7",
+        "type": "message",
+        "text": "連絡は特に何もいただいてないです",
+        "user": "UGQ2ENZD0",
+        "ts": "1555901629.003100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555901085.003000",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "BC630C02-ED51-4EE2-BAA2-20C7E5B0472C",
+        "type": "message",
+        "text": "連絡するので、最後に何を話したか、連絡先を教えてください",
+        "user": "UHFLB6JPR",
+        "ts": "1555902192.004600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555901085.003000",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "566c2200-7aba-4921-ab0e-4ee91343cf1d",
+        "type": "message",
+        "text": "3\/19日に調布市役所でした協働推進課とのお話が最後です．内容は以下のとおりです．\n```\n- アンケートの目的について，マップがサークルを探す人向けのツールであることを明確にしたい\n- 今ある情報はサークルガイドブックに載っているものを掲載している\n    - 協働推進課が把握していない団体さんもいる可能性が高い\n- 正式に登録されていないサークルでも，要望があれば積極的に載せていくべきか\n- 登録団体じゃない団体などは協働推進課さんにチェックしてもらう\n- 3月から4月の間でサークルや団体の代表者が変わる\n    - 運動教室をやってる施設も年度末でいろいろ変わる\n- 年度末までには都合が付きそうである\n```\n話ながらメモを取っていたので曖昧なところが多いです．\n連絡先はわからないです．(山崎先輩からの引き継ぎはありませんでした)",
+        "user": "UGQ2ENZD0",
+        "ts": "1555903358.004800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555901085.003000",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "62A0E84D-5A42-43A9-9FB4-165DD85DE098",
+        "type": "message",
+        "text": "連絡先や追加情報を山崎から聞いてください",
+        "user": "UHFLB6JPR",
+        "ts": "1555903592.005800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555901085.003000",
+        "parent_user_id": "UHFLB6JPR",
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "322e474a-99ce-4e17-82c3-6ec4885bf55c",
+        "type": "message",
+        "text": "山崎先輩からお返事をいただきました\n```\nあーすまん、すっかり連絡してなかったわ。\nとりあえず協働推進課と清水くんと大河原先生あてにそれ(=運動教室マッピング)関連のメールを今日の夜に送るわ。\nちなみにあっちからの連絡は無いよ〜。\n```",
+        "user": "UGQ2ENZD0",
+        "ts": "1555904761.006100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1555904795.000000"
+        },
+        "thread_ts": "1555901085.003000",
+        "parent_user_id": "UHFLB6JPR"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "5d357844-1dee-42d0-918b-d6edc5a4cc07",
+        "type": "message",
+        "text": "若干今迷子だが、今やっているもの。TensorFlowで不動産価格を推定するもの\n\n<https:\/\/www.codexa.net\/tensorflow-for-begginer\/>",
+        "user": "UGPH97FDW",
+        "ts": "1554275090.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "機械学習 入門コースの決定版!機械学習エンジニアを目指すならcodexa（コデクサ）",
+                "title": "TensorFlowとは？不動産の価格をTensorFlowを使って予測してみよう（入門編）",
+                "title_link": "https:\/\/www.codexa.net\/tensorflow-for-begginer\/",
+                "text": "Googleが提供する機械学習フレームワークである「TensorFlow」を使って、不動産価格を予測する流れをまとめました。TensorFlowの基礎的な使い方や機械学習の基礎が学べます。",
+                "fallback": "機械学習 入門コースの決定版!機械学習エンジニアを目指すならcodexa（コデクサ）: TensorFlowとは？不動産の価格をTensorFlowを使って予測してみよう（入門編）",
+                "image_url": "https:\/\/www.codexa.net\/wp-content\/uploads\/2018\/08\/tensorflow_main.png",
+                "from_url": "https:\/\/www.codexa.net\/tensorflow-for-begginer\/",
+                "image_width": 429,
+                "image_height": 250,
+                "image_bytes": 99787,
+                "service_icon": "https:\/\/www.codexa.net\/wp-content\/uploads\/2017\/11\/cropped-favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.codexa.net\/tensorflow-for-begginer\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1430147f-8ee1-4ea5-ba07-44274e075516",
+        "type": "message",
+        "text": "scikit learnには他にもサンプルデータが最初から入っているのでいいかも\n\n<https:\/\/pythondatascience.plavox.info\/scikit-learn\/scikit-learn%E3%81%AB%E4%BB%98%E5%B1%9E%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%83%E3%83%88>",
+        "user": "UGPH97FDW",
+        "ts": "1554285877.002800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGPH97FDW",
+            "ts": "1554285909.000000"
+        }
+    }
+]

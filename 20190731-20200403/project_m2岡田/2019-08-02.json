@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "D80FAD11-2BC6-46B3-9CFD-4A97FA00D563",
+        "type": "message",
+        "text": "今日調子が良くなくて出来なかったので、明日大学に行って資料作成取り組みます。すみません。",
+        "user": "UGPH97FDW",
+        "ts": "1564736243.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

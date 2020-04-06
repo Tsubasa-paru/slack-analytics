@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "作成途中",
+        "files": [
+            {
+                "id": "FKV55HC3X",
+                "created": 1561435771,
+                "timestamp": 1561435771,
+                "name": "企画表まとめ.pptx",
+                "title": "企画表まとめ.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 53451,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKV55HC3X\/__________________.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKV55HC3X\/download\/__________________.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKV55HC3X-4b1e8ad507\/___________________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKV55HC3X-4b1e8ad507\/___________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FKV55HC3X\/__________________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FKV55HC3X-696425800e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHG1M1NQ6",
+        "display_as_bot": false,
+        "ts": "1561435772.000100",
+        "client_msg_id": "26cb5b91-c066-4520-978d-016442ffe6fb"
+    }
+]

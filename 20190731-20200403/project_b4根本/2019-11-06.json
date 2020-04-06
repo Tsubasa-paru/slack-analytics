@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "97e54e11-9ee3-46ba-a6f2-10a931ea61b3",
+        "type": "message",
+        "text": "仮想環境でpythonを動かすことについて\npipでインストールする際プロキシとか考えなくてよかった\nそれか自分で前にプロキシ関連の設定をしてたのかも\n<https:\/\/cod-sushi.com\/python-venv\/>",
+        "user": "UHC5VBV5E",
+        "ts": "1573106595.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "[Python] venvとは？どんなときに便利？使う必要はある？",
+                "title_link": "https:\/\/cod-sushi.com\/python-venv\/",
+                "text": "venvの必要性 Pythonバージョンの問題 問題 現在、Pythonは主に2系、3系が使われています。 プロジェクトによって、Pythonのバージョンを細か",
+                "fallback": "[Python] venvとは？どんなときに便利？使う必要はある？",
+                "image_url": "https:\/\/cod-sushi.com\/wp-content\/uploads\/python-venv.png",
+                "from_url": "https:\/\/cod-sushi.com\/python-venv\/",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 206223,
+                "service_icon": "https:\/\/cod-sushi.com\/favicon.ico",
+                "service_name": "cod-sushi.com",
+                "id": 1,
+                "original_url": "https:\/\/cod-sushi.com\/python-venv\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

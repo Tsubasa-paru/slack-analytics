@@ -1,0 +1,164 @@
+[
+    {
+        "client_msg_id": "e516b3b2-47f7-494b-aef6-5b969dd0b590",
+        "type": "message",
+        "text": "<@UHG1M1NQ6> <@UGQV9DXRC> <@UHEH8KZ7W> <@UHC5VBV5E> <@UHV3GN694>\nゼミまでに以下をチェックしておいて\n<http:\/\/jshp.umin.jp\/meeting21\/info.html>\n<http:\/\/jshp.umin.jp\/meeting21\/award.html>",
+        "user": "UHFLB6JPR",
+        "ts": "1584061938.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "第21回 日本健康支援学会年次学術大会",
+                "title_link": "http:\/\/jshp.umin.jp\/meeting21\/info.html",
+                "text": "第21回 日本健康支援学会年次学術大会 Official website",
+                "fallback": "第21回 日本健康支援学会年次学術大会",
+                "from_url": "http:\/\/jshp.umin.jp\/meeting21\/info.html",
+                "service_icon": "http:\/\/jshp.umin.jp\/favicon.ico",
+                "service_name": "jshp.umin.jp",
+                "id": 1,
+                "original_url": "http:\/\/jshp.umin.jp\/meeting21\/info.html"
+            },
+            {
+                "title": "第21回 日本健康支援学会年次学術大会",
+                "title_link": "http:\/\/jshp.umin.jp\/meeting21\/award.html",
+                "text": "第21回 日本健康支援学会年次学術大会 Official website",
+                "fallback": "第21回 日本健康支援学会年次学術大会",
+                "from_url": "http:\/\/jshp.umin.jp\/meeting21\/award.html",
+                "service_icon": "http:\/\/jshp.umin.jp\/favicon.ico",
+                "service_name": "jshp.umin.jp",
+                "id": 2,
+                "original_url": "http:\/\/jshp.umin.jp\/meeting21\/award.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j0+G+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHG1M1NQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UGQV9DXRC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHC5VBV5E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHV3GN694"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nゼミまでに以下をチェックしておいて\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/jshp.umin.jp\/meeting21\/info.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/jshp.umin.jp\/meeting21\/award.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHC5VBV5E",
+                    "UHEH8KZ7W"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8979c9ff-3032-48a9-b8a0-28065fa998bb",
+        "type": "message",
+        "text": "健康支援学会のpdfデータここにあげてね(今日中)\n<https:\/\/drive.google.com\/open?id=1FKXJ6Xgo2-NXR3JdHaCEYERK0hr_vEZB>",
+        "user": "UGQV9DXRC",
+        "ts": "1584076851.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pX\/l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "健康支援学会のpdfデータここにあげてね(今日中)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1FKXJ6Xgo2-NXR3JdHaCEYERK0hr_vEZB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

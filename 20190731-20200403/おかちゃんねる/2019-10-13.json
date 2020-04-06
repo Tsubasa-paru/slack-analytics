@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "C0A57B81-BC83-4E6B-B340-5DC7FA54F77A",
+        "type": "message",
+        "text": "外国の料理って漢字ですね！",
+        "user": "UHEH8KZ7W",
+        "ts": "1570972657.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

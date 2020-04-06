@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "6485C46A-A347-4C6D-A701-71443742C666",
+        "type": "message",
+        "text": "電気通信大学\n大河原 先生\nCc: 中田 先生\nいつもお世話になっております．\n\n閲覧情報の取り扱いについて，お問い合わせおよび情報提供，ありがとうございます．\nこの件につきまして大会事務局で協議致しました．\n\n\n１）発表資料は大会参加者のみが閲覧できるようにパスワードなどによってセキュリティー設定をする\n\nパスワードは設定は行わないこととします．\n理由は，HP記述を自前でやっているおり，年度末の他の業務があるため，設定作業にかける時間的余裕がないため，\nまた，配布を大会参加者（参加費支払者）とすると，当日支払予定の参加者から参加費の徴収，\n参加証の配布などの事務手続きを別途行うことは困難であるからです．\nなお，発表資料が載せてあるページの右クリックはできないようにしました．\nしかし，ブラウザがPDFファイルを読みに行くというスタイルをとっているので，ページに移動後に保存は可能です．\n\n\n２）閲覧期間は3月●日から〇日までと公開期間の設定をする\n\nこちらに関しては，発表資料は3月31日までの公開で予定しています．\nその後はpdfファイルを削除，Web上の閲覧は抄録のみとする予定です．\n\n以上，ご希望にそう対応ができなく，誠に申し訳なく思っておりますが，\nご容赦の程どうぞよろしくお願い申し上げます．\n\n\n-------------------------------------------------------------------------------------------------------\n第21回日本健康支援学会年次学術大会事務局\n〒903-0213　沖縄県中頭郡西原町千原1番地 保健体育教官棟106\nE-mail：kenkoushien21@gmail.com\n-------------------------------------------------------------------------------------------------------\n",
+        "user": "UHFLB6JPR",
+        "ts": "1584094415.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0805404B-5372-4652-A86A-E1F0374A5BD2",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> <@UHG1M1NQ6> <@UGQV9DXRC> <@UHC5VBV5E> <@UHV3GN694> \n福田の発表資料は公開します\nつたけ、高柳の発表資料は今後の発展性を考え非公開にします\n鈴木さん、根本は優秀賞にノミネートされてるから公開するつもりですが、今後を考えると非公開がいいんだけどね",
+        "user": "UHFLB6JPR",
+        "ts": "1584096072.004600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_ok",
+                "users": [
+                    "UHC5VBV5E",
+                    "UHEH8KZ7W",
+                    "UHG1M1NQ6",
+                    "UGQV9DXRC",
+                    "UHV3GN694"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "type": "message",
+        "text": "PSD計算結果\n参考(<https:\/\/docs.scipy.org\/doc\/scipy-1.2.1\/reference\/generated\/scipy.signal.welch.html>)\n時間関数をフーリエ変換して出してるものだから時間領域の特徴量とやっぱり合わせられない\n時間領域の特徴量と周波数領域の特徴量をどうやって合わせて分析かけてるのかここから読み取れない\n(<https:\/\/drive.google.com\/file\/d\/1okCRwiOPMknOI2LgzQG3pufnxhyxb5U4\/view>)\n\n&gt;コード\n&gt;import pandas as pd\n&gt;import numpy as np\n&gt;from scipy import signal\n&gt;r_d=pd.read_csv('\/Users\/ohkawara\/desktop\/actigraph\/2_drop\/r10_d.csv', header=0)\n&gt;f,psd=signal.welch(r_d['x'])\n&gt;\n&gt;import numpy as np\n&gt;import matplotlib.pyplot as plt\n&gt;plt.xlabel(\"frequency\")\n&gt;plt.ylabel(\"PSD\")\n&gt;plt.plot(f,psd)",
+        "files": [
+            {
+                "id": "FMMJUJKV2",
+                "created": 1566558454,
+                "timestamp": 1566558454,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 19116,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMMJUJKV2\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMMJUJKV2\/download\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMMJUJKV2-c9ef881c69\/image_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMMJUJKV2-c9ef881c69\/image_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMMJUJKV2-c9ef881c69\/image_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 242,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMMJUJKV2-c9ef881c69\/image_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "image_exif_rotation": 1,
+                "original_w": 395,
+                "original_h": 266,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMMJUJKV2\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMMJUJKV2-9317dc6354",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1566558455.000100",
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1566558486.000000"
+        },
+        "client_msg_id": "8738cea9-a111-48c0-98ed-1bc9e1daff8a"
+    },
+    {
+        "client_msg_id": "99c6bf4c-59ef-4d66-94e8-f6aba35ca857",
+        "type": "message",
+        "text": "データ数が足りないのはFFTによってスムージングがかけられたみたいなものだから？\nということは、FFTをかけたこと=フィルタリングみたいなものと考えられるので、時間軸とも比較可能では？",
+        "user": "UGQV9DXRC",
+        "ts": "1566615370.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6edd9b66-1fa2-4a45-bfca-bb037058dc1b",
+        "type": "message",
+        "text": "10個のデータが2個のデータにスムージングされたと考えると、そのデータをどう5こずつに分けるかって話で、\nそれはフィルタリングやスムージングにおける始点と終点？の議論をみたらわかる",
+        "user": "UGQV9DXRC",
+        "ts": "1566615510.004800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

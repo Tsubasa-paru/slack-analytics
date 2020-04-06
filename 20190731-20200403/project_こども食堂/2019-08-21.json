@@ -1,0 +1,439 @@
+[
+    {
+        "client_msg_id": "e105fb7b-ad65-4dd3-a62a-e2fd1e8c4ea7",
+        "type": "message",
+        "text": "レポートを更新しました！かくしょうじ住職の細川様から応援メッセージを頂きました！\n<https:\/\/faavo.jp\/tokyochofufuchu\/project\/3989\/report\/24761#pj-single-nav>",
+        "user": "UHEH8KZ7W",
+        "ts": "1566383251.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "地域 × クラウドファンディング FAAVO",
+                "title": "かくしょうじの住職様から応援メッセージを頂きました！ | FAAVO東京調布・府中",
+                "title_link": "https:\/\/faavo.jp\/tokyochofufuchu\/project\/3989\/report\/24761#pj-single-nav",
+                "text": "大河原研究室の福田です。&amp;nbsp;今日(2019\/08\/21)にクラウドファンディングを確認したら達成率が10％上がった19％になっていました。ありがとうございます。頂いた支援金の多くは参加してくださるこどもの食費と保険費に使わせ",
+                "fallback": "地域 × クラウドファンディング FAAVO: かくしょうじの住職様から応援メッセージを頂きました！ | FAAVO東京調布・府中",
+                "image_url": "https:\/\/faavo-images.s3-ap-northeast-1.amazonaws.com\/project\/3989.png?_=1564583128",
+                "from_url": "https:\/\/faavo.jp\/tokyochofufuchu\/project\/3989\/report\/24761#pj-single-nav",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 308182,
+                "service_icon": "https:\/\/faavo.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/faavo.jp\/tokyochofufuchu\/project\/3989\/report\/24761#pj-single-nav"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "こちらです",
+        "user": "UGQV9DXRC",
+        "ts": "1566430650.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[August 20th, 2019 4:21 PM] kmt.sd.ma: ・アメフト部にジェラート取材の詳細を詰めておいてほしいと連絡(<@UHEH8KZ7W>)\n　とりあえずスポルアップ様には以下のような感じでメールを出したいのですが大丈夫でしょうか？(<@UHFLB6JPR>)\n\n&gt;・日程候補\n&gt;　8\/27（火）\n&gt;　9\/5（木）\n&gt;　9\/6（金）(ゼミ合宿なので大河原研は不在)\n&gt;　9\/9（月）\n&gt;\n&gt;・撮影内容\n&gt;　①こども食堂に関する応援メッセージ(1分程度)\n&gt;　②ジェラートの作り方(過程)\n&gt;　③ジェラートを学生が食べる様子\n&gt;　動画で伝えたい事：実際にジェラートはどう作られているのかを動画や写真で見せることで、ただ食べるだけではなくそこに至る過程があること、その面白さを伝えたい",
+                "ts": "1566285698.006100",
+                "author_id": "UGQV9DXRC",
+                "author_subname": "鈴木美穂",
+                "channel_id": "CJZ0QGKRB",
+                "channel_name": "project_こども食堂",
+                "is_msg_unfurl": true,
+                "text": "・アメフト部にジェラート取材の詳細を詰めておいてほしいと連絡(<@UHEH8KZ7W>)\n　とりあえずスポルアップ様には以下のような感じでメールを出したいのですが大丈夫でしょうか？(<@UHFLB6JPR>)\n\n&gt;・日程候補\n&gt;　8\/27（火）\n&gt;　9\/5（木）\n&gt;　9\/6（金）(ゼミ合宿なので大河原研は不在)\n&gt;　9\/9（月）\n&gt;\n&gt;・撮影内容\n&gt;　①こども食堂に関する応援メッセージ(1分程度)\n&gt;　②ジェラートの作り方(過程)\n&gt;　③ジェラートを学生が食べる様子\n&gt;　動画で伝えたい事：実際にジェラートはどう作られているのかを動画や写真で見せることで、ただ食べるだけではなくそこに至る過程があること、その面白さを伝えたい",
+                "author_name": "鈴木美穂",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1566285698006100",
+                "is_share": true,
+                "footer": "#project_こども食堂 に投稿"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "スポルアップ様へのジェラート取材メールです",
+        "files": [
+            {
+                "id": "FMNE6SMGW",
+                "created": 1566431893,
+                "timestamp": 1566431879,
+                "name": "電通大こども食堂2019　ジェラート取材について",
+                "title": "電通大こども食堂2019　ジェラート取材について",
+                "mimetype": "text\/html",
+                "filetype": "email",
+                "pretty_type": "Email",
+                "user": "UGQV9DXRC",
+                "editable": true,
+                "size": 14214,
+                "mode": "email",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMNE6SMGW\/________________________2019____________________________________?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMNE6SMGW\/download\/________________________2019____________________________________?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMNE6SMGW\/________________________2019____________________________________",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMNE6SMGW-7ecfcb1312",
+                "subject": "電通大こども食堂2019　ジェラート取材について",
+                "to": [
+                    {
+                        "address": "yamamoto-2@spollup.jp",
+                        "name": "山本慎二郎",
+                        "original": "山本慎二郎 <yamamoto-2@spollup.jp>"
+                    }
+                ],
+                "from": [
+                    {
+                        "address": "mimiho.bell@gmail.com",
+                        "name": "鈴木美穂",
+                        "original": "鈴木美穂 <mimiho.bell@gmail.com>"
+                    }
+                ],
+                "cc": [
+                    {
+                        "address": "ohkawara_kazunori@e-one.uec.ac.jp",
+                        "name": "大河原 一憲",
+                        "original": "大河原 一憲 <ohkawara_kazunori@e-one.uec.ac.jp>"
+                    },
+                    {
+                        "address": "kato-33@spollup.jp",
+                        "name": "加藤尚文",
+                        "original": "加藤尚文 <kato-33@spollup.jp>"
+                    },
+                    {
+                        "address": "oshima-21@spollup.jp",
+                        "name": "大島由佳",
+                        "original": "大島由佳 <oshima-21@spollup.jp>"
+                    },
+                    {
+                        "address": "edo-346@spollup.jp",
+                        "name": "江戸香織",
+                        "original": "江戸香織 <edo-346@spollup.jp>"
+                    },
+                    {
+                        "address": "yuppy938@gmail.com",
+                        "name": "yuma nakahara",
+                        "original": "yuma nakahara <yuppy938@gmail.com>"
+                    },
+                    {
+                        "address": "hmh531xp@gmail.com",
+                        "name": "廣瀬はるか",
+                        "original": "廣瀬はるか <hmh531xp@gmail.com>"
+                    },
+                    {
+                        "address": "kogepanakira@gmail.com",
+                        "name": "漆畑輝",
+                        "original": "漆畑輝 <kogepanakira@gmail.com>"
+                    },
+                    {
+                        "address": "sousuke.soccer@gmail.com",
+                        "name": "sousuke k",
+                        "original": "sousuke k <sousuke.soccer@gmail.com>"
+                    },
+                    {
+                        "address": "i0l6p5v5r0v0t8l2@ohkawaralab.slack.com",
+                        "name": "Slack へ送信する",
+                        "original": "Slack へ送信する <i0l6p5v5r0v0t8l2@ohkawaralab.slack.com>"
+                    },
+                    {
+                        "address": "ohkawaralab@gmail.com",
+                        "name": "",
+                        "original": "ohkawaralab@gmail.com"
+                    }
+                ],
+                "attachments": [],
+                "plain_text": ">\r\n> スポルアップ 加藤様\r\n\r\nお世話になっております。\r\n電気通信大学大河原研究室の鈴木と申します。\r\n\r\n本日は、電気通信大学こども食堂に関するクアトロパンキーネ様への取材についてご連絡させていただきました。\r\n\r\n取材希望日時及び内容は以下の通りです。\r\n\r\n\r\n・日程候補(時間帯はお任せします)\r\n8\/27（火）\r\n9\/5（木）\r\n9\/6（金）\r\n9\/9（月）\r\n\r\n・撮影内容\r\n①動画:こども食堂に関する応援メッセージ(1分程度)\r\n②写真:ジェラートの作り方(工程)\r\n③写真:ジェラートを学生が食べる様子\r\n伝えたい事：実際にジェラートはどう作られているのかを動画や写真で見せることで、ただ食べるだけではなくそこに至る過程があること、その面白さを伝えたい\r\n動画は非公開でユーチューブにアップし、クラウドファンディングのHP内で応援メッセージ、見学報告として公開する形になります。\r\n\r\n・クラウドファンディングHP\r\nhttps:\/\/faavo.jp\/tokyochofufuchu\/project\/3989\r\n・応援メッセージ例\r\nhttps:\/\/youtu.be\/7fJ-0TJPWyY\r\n\r\n以上の内容にて、ご検討いただけますと幸いです。\r\nお忙しいところ大変恐縮ですが、よろしくお願い致します。\r\n\r\n電気通信大学大河原研究室修士2年\r\n鈴木美穂\r\n電話 09072816191\r\nメール mimiho.bell@gmail.com\r\n\r\n\r\n\r\n\r\n\r\n>",
+                "preview": "<div><div><div><blockquote><div><div><div><\/div><\/div><\/div><\/blockquote><\/div><\/div><div><div><blockquote><div><div><div><\/div><\/div><\/div><\/blockquote><\/div><\/div><div>&#12473;&#12509;&#12523;&#12450;&#12483;&#12503;&#12288;&#21152;&#34276;&#27096;<br><br>  &#12362;&#19990;&#35441;&#12395;&#12394;&#12387;&#12390;&#12362;&#12426;&#12414;&#12377;&#12290;<br>  &#38651;&#27671;&#36890;&#20449;&#22823;&#23398;&#22823;&#27827;&#21407;&#30740;&#31350;&#23460;&#12398;&#37428;&#26408;&#12392;&#30003;&#12375;&#12414;&#12377;&#12290;<br><br>  &#26412;&#26085;&#12399;&#12289;&#38651;&#27671;&#36890;&#20449;&#22823;&#23398;&#12371;&#12393;&#12418;&#39135;&#22530;&#12395;&#38306;&#12377;&#12427;&#12463;&#12450;&#12488;&#12525;&#12497;&#12531;&#12461;&#12540;&#12493;&#27096;&#12408;&#12398;&#21462;&#26448;&#12395;&#12388;&#12356;&#12390;&#12372;&#36899;&#32097;&#12373;&#12379;&#12390;&#12356;&#12383;&#12384;&#12365;&#12414;&#12375;&#12383;&#12290;<br><br>  &#21462;&#26448;&#24076;&#26395;&#26085;&#26178;&#21450;&#12403;&#20869;&#23481;&#12399;&#20197;&#19979;&#12398;&#36890;&#12426;&#12391;&#12377;&#12290;<br><br>  &#12539;&#26085;&#31243;&#20505;&#35036;(&#26178;&#38291;&#24111;&#12399;&#12362;&Ecirc;<\/div><\/div>",
+                "preview_plain_text": ">\r\n> スポルアップ 加藤様\r\n\r\nお世話になっております。\r\n電気通信大学大河原研究室の鈴木と申します。\r\n\r\n本日は、電気通信大学こども食堂に関するクアトロパンキーネ様への取材についてご連絡させていただきました。\r\n\r\n取材希望日時及び内容は以下の通りです。\r\n\r\n\r\n・日程候補(時間帯はお任せします)\r\n8\/27（火）\r\n9\/5（木）\r\n9\/6（金）\r\n9\/9（月）\r\n\r\n・撮影内容\r\n①動画:こども食堂に関する応援メッセージ(1分程度)\r\n②写真:ジェラートの作り方(工程)\r\n③写真:ジェラートを学生が食べる様子\r\n伝えたい事：実際にジェラートはどう作られているのかを動画や写真で見せることで、ただ食べるだけではなくそこに至る過程があること、その面白さを伝えたい\r\n動画は非公開でユーチューブにアップし、クラウドファンディングのHP内で応援メッセージ、見学報告として公開する形になります。\r\n\r\n・クラウドファンディングHP\r\nhttps:\/\/faavo.jp\/tokyochofufuchu\/project\/3989\r\n・応援メッセージ例\r\nhttps:\/\/youtu.be\/7fJ",
+                "headers": {
+                    "date": "Thu, 22 Aug 2019 08:57:59 +0900"
+                },
+                "has_more": true,
+                "sent_to_self": false,
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1566431929.000100"
+    },
+    {
+        "client_msg_id": "1d0c2449-6bdb-4344-94dc-4d80275c4648",
+        "type": "message",
+        "text": "<@UHFLB6JPR> \n*以下の内容で良いか確認お願いします*\n\n【拡散または支援の呼びかけ】\n\n〜完了済〜\n\n・アメフト部保護者メール\n（8\/20）\n・アメフト部OBメール\n（8\/20）\n\n〜今後予定〜\n\n・調布周辺の飲食店\n:arrow_right:食神、笑顔、そら豆、カレンド、アグニ、麒麟飯店\n\n・学校関係者\n:arrow_right:トレ場、多摩グラ管理人、図書館、ハルモニア、生協\n\n・大河原研究室の近くの研究室\n\n・研究被験者にお願い\n:arrow_right:主に大河原研究室\n\n・協賛してくれている会社\n\n・高齢者ウォーキングサークル（調布市健康づくり始める会）\n:arrow_right:ネットでの振り込みができない場合の対処必要\n\n・調和SHC倶楽部\n\n・各自バイト先\n\n・まゆみさん\n:arrow_right:いつもアメフト部のtwitterに反応してくれる方、リクシルの広報（？）\n\n・かくしょうじボランティアの方々\n\n〜検討〜\n\n・グランマサラー\n:arrow_right:当初はこちらからは何も呼びかけをしないつもりでしたが、その必要も考え直す\nDMでの拡散協力送る\n\n・ACA\n\n・合宿の取引している会社",
+        "user": "UGQV9DXRC",
+        "ts": "1566432056.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f1517eb2-c0f9-4dd3-bac1-b83c0e059f7e",
+        "type": "message",
+        "text": "予定や検討の部分についてokでしたら、日程の検討にうつりたいとのことです",
+        "user": "UGQV9DXRC",
+        "ts": "1566432112.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9432956E-876B-4ED4-B8AF-2B5BA80024CA",
+        "type": "message",
+        "text": "進めてください",
+        "user": "UHFLB6JPR",
+        "ts": "1566439509.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45586dc0-9375-486f-b086-ae52186b67c5",
+        "type": "message",
+        "text": "支援してくださった方々へのメッセージ送信完了しました",
+        "user": "UHEH8KZ7W",
+        "ts": "1566439875.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5ea1cb3f-fb14-4c8e-b20b-9c55e4480263",
+        "type": "message",
+        "text": "ありがとう！",
+        "user": "UGQV9DXRC",
+        "ts": "1566439902.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "de212a39-2a78-488a-befa-3aae1ade740a",
+        "type": "message",
+        "text": "<@UHEH8KZ7W>\nお願いしていたかくしょうじの動画レポートなんだけど、埋め込みって言うのは下ページのiframeタグを使って動画自体がページでみれるようにするやつなのー\nまだ試してみてなかったらやってみてもらえる？\n\n<https:\/\/itlogs.net\/youtube-embed\/>",
+        "user": "UGQV9DXRC",
+        "ts": "1566440063.003200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "俺の開発研究所",
+                "title": "ブログ記事へのYouTube動画の埋め込み方法と、URLパラメータまとめ",
+                "title_link": "https:\/\/itlogs.net\/youtube-embed\/",
+                "text": "ブログ記事へのYouTube動画の埋め込み方法と、主なURLパラメータをまとめました。実際にパラメータを設定したサンプル埋め込み動画も掲載しております。",
+                "fallback": "俺の開発研究所: ブログ記事へのYouTube動画の埋め込み方法と、URLパラメータまとめ",
+                "thumb_url": "https:\/\/itlogs.net\/wp-content\/uploads\/eyecatch-Web.jpg",
+                "ts": 1432222723,
+                "from_url": "https:\/\/itlogs.net\/youtube-embed\/",
+                "thumb_width": 800,
+                "thumb_height": 533,
+                "service_icon": "https:\/\/itlogs.net\/wp-content\/uploads\/cropped-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/itlogs.net\/youtube-embed\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba344356-a60a-44e5-9557-9d5074ddba73",
+        "type": "message",
+        "text": "了解です。取り掛かります。",
+        "user": "UHEH8KZ7W",
+        "ts": "1566440176.003600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "aedf3eee-2356-4ae0-bb6d-1d78d6d1cca3",
+        "type": "message",
+        "text": "完了しました。",
+        "user": "UHEH8KZ7W",
+        "ts": "1566440413.003800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3FF563BF-8969-412F-A1DC-2FBD3605574F",
+        "type": "message",
+        "text": "確認しました、ありがとうー！",
+        "user": "UGQV9DXRC",
+        "ts": "1566443325.004500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C0ADE807-97DA-49B6-82F3-9237E9F96514",
+        "type": "message",
+        "text": "そっちの方が見やすいと思うので、今後も更新の時はお願いします！",
+        "user": "UGQV9DXRC",
+        "ts": "1566443362.005200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_ryokai",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

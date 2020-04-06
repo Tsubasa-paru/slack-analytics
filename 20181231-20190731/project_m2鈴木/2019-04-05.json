@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "cf9ba0b6-a008-4053-accd-8730661400b4",
+        "type": "message",
+        "text": "slackでゼミ通知をうまくできないかなと思って色々始めた\n<https:\/\/qiita.com\/Quikky\/items\/9de56c049304885a4f4f>\n<https:\/\/drive.google.com\/open?id=1y-A3QvI0dIh8AZ1j7YqmroS1obi1zSPZAje3GBZ4rAv9DWC79ctbDMTH>",
+        "user": "UGQV9DXRC",
+        "ts": "1554456965.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "Google Apps Script で Slack Botを作ってみた。(お勉強編) - Qiita",
+                "title_link": "https:\/\/qiita.com\/Quikky\/items\/9de56c049304885a4f4f",
+                "text": "# まず、この記事の経緯とやる事 Qiitaは良くお世話になってるが、見る専で書く機会は有る様で今まで何もしていなかったが、「社内で自ら何かを発表をする」というイベント処理があったので、Qiitaに軽く記事を書いてみた。 (Markd...",
+                "fallback": "Qiita: Google Apps Script で Slack Botを作ってみた。(お勉強編) - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/Quikky\/items\/9de56c049304885a4f4f",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/Quikky\/items\/9de56c049304885a4f4f"
+            }
+        ]
+    }
+]

@@ -1,0 +1,388 @@
+[
+    {
+        "client_msg_id": "b5b995f2-c0f8-4c3f-adb2-1ec8c283415f",
+        "type": "message",
+        "text": "<@UHG1M1NQ6>\nつたけへ\n文献を統一した表にすること\n大雑把には修正しました\nまだ余白があると思うので、画像を記載してください。",
+        "user": "UHFLB6JPR",
+        "ts": "1581326595.003700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Ci",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHG1M1NQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nつたけへ\n文献を統一した表にすること\n大雑把には修正しました\nまだ余白があると思うので、画像を記載してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581326595.003700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1581333188.000100",
+        "reply_users": [
+            "UHG1M1NQ6"
+        ],
+        "replies": [
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1581333188.000100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1581333188.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FTDMP7YUA",
+                "created": 1581326613,
+                "timestamp": 1581326613,
+                "name": "卒業論文発表_抄録_都竹KO.docx",
+                "title": "卒業論文発表_抄録_都竹KO.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 43653,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTDMP7YUA\/________________________________ko.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTDMP7YUA\/download\/________________________________ko.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTDMP7YUA-c6487dfe84\/________________________________ko_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTDMP7YUA-c6487dfe84\/________________________________ko_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FTDMP7YUA\/________________________________ko.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FTDMP7YUA-3e94f93fe6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1581326617.003800",
+        "client_msg_id": "59ad0cda-9ce8-4e54-9fc7-2184565acd17"
+    },
+    {
+        "type": "message",
+        "text": "大河原先生\n大変遅くなってしまい申し訳ございません。抄録が完成しましたので上げさせていただきます。",
+        "files": [
+            {
+                "id": "FTSK6R1DE",
+                "created": 1581332320,
+                "timestamp": 1581332320,
+                "name": "2019卒業論文抄録.docx",
+                "title": "2019卒業論文抄録.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 655437,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTSK6R1DE\/2019__________________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTSK6R1DE\/download\/2019__________________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTSK6R1DE-b5bb58418e\/2019___________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTSK6R1DE-b5bb58418e\/2019___________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FTSK6R1DE\/2019__________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FTSK6R1DE-4eed026899",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mk+iK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大河原先生\n大変遅くなってしまい申し訳ございません。抄録が完成しましたので上げさせていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1581332325.009700",
+        "client_msg_id": "b1303afb-01fa-46a1-b3ff-f855e240a951"
+    },
+    {
+        "client_msg_id": "d79c87c4-38f3-4461-8689-c9b0d56da26d",
+        "type": "message",
+        "text": "承知しました。確認と修正ありがとうございます。\n修正したものも後ほどアップロードします。",
+        "user": "UHG1M1NQ6",
+        "ts": "1581333188.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dUb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。確認と修正ありがとうございます。\n修正したものも後ほどアップロードします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581326595.003700",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "997F1BE3-EF0E-41AF-A334-DDCF4144BD38",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> 電話してください",
+        "user": "UHFLB6JPR",
+        "ts": "1581336891.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7b8400df-7277-40a5-90ce-ba18bf4d3cdf",
+        "type": "message",
+        "text": "<@UHFLC6N4X>\n野澤へ\nいくつか修正をしています。\nもともと記述していた４の部分は結果ではなく方法です。\n簡潔に結果を記載してください。\nいろいろ削ったので、５行ぐらいはかけると思います。\nまた、結論の部分も修正してください。",
+        "user": "UHFLB6JPR",
+        "ts": "1581339093.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Th",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLC6N4X"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n野澤へ\nいくつか修正をしています。\nもともと記述していた４の部分は結果ではなく方法です。\n簡潔に結果を記載してください。\nいろいろ削ったので、５行ぐらいはかけると思います。\nまた、結論の部分も修正してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FTF9FBY3V",
+                "created": 1581339098,
+                "timestamp": 1581339098,
+                "name": "卒論抄録野澤KO.docx",
+                "title": "卒論抄録野澤KO.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 35287,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTF9FBY3V\/__________________ko.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTF9FBY3V\/download\/__________________ko.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTF9FBY3V-af795c11be\/__________________ko_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTF9FBY3V-af795c11be\/__________________ko_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FTF9FBY3V\/__________________ko.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FTF9FBY3V-0dbeead842",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1581339102.002500",
+        "client_msg_id": "6b391fa5-98d9-4764-a1f8-9fda101e9c93"
+    },
+    {
+        "type": "message",
+        "text": "大河原先生\n抄録が修正が出来ましたのでご確認をお願いします。",
+        "files": [
+            {
+                "id": "FTJ3ZFRMF",
+                "created": 1581403682,
+                "timestamp": 1581403682,
+                "name": "2019卒業論文抄録 ver02.docx",
+                "title": "2019卒業論文抄録 ver02.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 188450,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTJ3ZFRMF\/2019___________________ver02.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTJ3ZFRMF\/download\/2019___________________ver02.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTJ3ZFRMF-154d22d45c\/2019___________________ver02_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTJ3ZFRMF-154d22d45c\/2019___________________ver02_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FTJ3ZFRMF\/2019___________________ver02.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FTJ3ZFRMF-ee9b50c217",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FTJ3ZFS49",
+                "created": 1581403683,
+                "timestamp": 1581403683,
+                "name": "2019卒業論文抄録 ver02.pdf",
+                "title": "2019卒業論文抄録 ver02.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 630827,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTJ3ZFS49\/2019___________________ver02.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTJ3ZFS49\/download\/2019___________________ver02.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTJ3ZFS49-0e28cea45a\/2019___________________ver02_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FTJ3ZFS49\/2019___________________ver02.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FTJ3ZFS49-dee7fe4d59",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zH41",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大河原先生\n抄録が修正が出来ましたのでご確認をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHEH8KZ7W",
+        "ts": "1581403688.000100",
+        "client_msg_id": "075cd14c-55e0-4d41-b9b6-0455d6877bef"
+    }
+]

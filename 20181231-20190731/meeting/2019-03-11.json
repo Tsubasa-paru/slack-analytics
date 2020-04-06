@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "91d2ae20-c9da-424a-bc58-d2af5b44c9e4",
+        "type": "message",
+        "text": "Slackの使い方をある程度決めてからプレゼンしようと思う\n\n<@UGQ2ENZD0> \n流れを送るので、気になるところや追記があれば赤字で書き加えてくれるとたすかる",
+        "user": "UGQV9DXRC",
+        "ts": "1552365276.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1kqIA0L9OaxC2wAvEpfkDg3F_WPAJRlAPWS8oAjIjJZY\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "FGVGB4UHG",
+                "created": 1552366670,
+                "timestamp": 1552366670,
+                "name": "Slackプレゼン",
+                "title": "Slackプレゼン",
+                "mimetype": "application\/vnd.google-apps.document",
+                "filetype": "gdoc",
+                "pretty_type": "GSuite Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 1609,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/document\/d\/1kqIA0L9OaxC2wAvEpfkDg3F_WPAJRlAPWS8oAjIjJZY\/edit?usp=sharing",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FGVGB4UHG-41acf6a9eb\/slack_____________64.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FGVGB4UHG-41acf6a9eb\/slack_____________80.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FGVGB4UHG-41acf6a9eb\/slack_____________360.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FGVGB4UHG-41acf6a9eb\/slack_____________480.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_480_w": 340,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FGVGB4UHG-41acf6a9eb\/slack_____________160.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FGVGB4UHG-41acf6a9eb\/slack_____________720.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FGVGB4UHG-41acf6a9eb\/slack_____________800.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1131,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FGVGB4UHG-41acf6a9eb\/slack_____________960.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FGVGB4UHG-41acf6a9eb\/slack_____________1024.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 1131,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FGVGB4UHG\/slack____________",
+                "is_starred": false,
+                "external_id": "1kqIA0L9OaxC2wAvEpfkDg3F_WPAJRlAPWS8oAjIjJZY",
+                "external_url": "https:\/\/docs.google.com\/document\/d\/1kqIA0L9OaxC2wAvEpfkDg3F_WPAJRlAPWS8oAjIjJZY\/edit?usp=sharing",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FGVGB4UHG"
+        ],
+        "ts": "1552366655.002800",
+        "client_msg_id": "3d0f9780-0541-4ca8-8802-85fd0ce78e79"
+    }
+]

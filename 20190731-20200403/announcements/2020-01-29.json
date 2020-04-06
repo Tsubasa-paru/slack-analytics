@@ -1,0 +1,179 @@
+[
+    {
+        "client_msg_id": "D225B860-05AF-4AE8-A086-5E10D4EE8D71",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> <@UGQV9DXRC> <@UHC5VBV5E> <@UHG1M1NQ6> つたけ、今日どうだったか報告してください",
+        "user": "UHFLB6JPR",
+        "ts": "1580290693.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2fd5e1f3-671d-4228-820f-a9f82b8e85df",
+        "type": "message",
+        "text": "8人揃ってラボ内で実験はできました。\n知っている仲ということもあり会話はできていたように感じますが、その分アプリの依存度は低かったかもしれません。",
+        "user": "UGQV9DXRC",
+        "ts": "1580290871.002500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MFGeu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "8人揃ってラボ内で実験はできました。\n知っている仲ということもあり会話はできていたように感じますが、その分アプリの依存度は低かったかもしれません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C353D539-5481-4D04-B1F8-9B11600A8076",
+        "type": "message",
+        "text": "個人的には知っている仲でやるのではなく、なるべくお互いが初見の状況などの時に本領が発揮するアプリだと思うので、そういった意味では良くなかったのかもしれません。\n\nただしつたけくん曰く、初めて研究室外で使ってもらって、操作説明(これが高齢者になったらさらに大変)の大変さ、研究室外の人に使ってもらって見えた不便な点などがあったそうなので、そういった意味では有益だったと思います。",
+        "user": "UHEH8KZ7W",
+        "ts": "1580291400.007900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tJS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "個人的には知っている仲でやるのではなく、なるべくお互いが初見の状況などの時に本領が発揮するアプリだと思うので、そういった意味では良くなかったのかもしれません。\n\nただしつたけくん曰く、初めて研究室外で使ってもらって、操作説明(これが高齢者になったらさらに大変)の大変さ、研究室外の人に使ってもらって見えた不便な点などがあったそうなので、そういった意味では有益だったと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4cdada0d-69ce-4674-a1f1-413300f5b20e",
+        "type": "message",
+        "text": "バイトに行っていたため遅れました。\n\n本日の実験の報告をさせて頂きます。\n実験開始予定時刻の16時に8人の実験参加者(内訳：大河原研3名、岡田研2名、安藤研3名)に学生部屋にお越しいただき実験を始めることが出来ました。\nはじめに僕自身の研究の目的と今回の実験の流れを説明し、次に2つのグループで各自アプリを用いて写真を3枚分用意してもらいました。その後 1)タブレットを直接見せて内容を紹介するやり方 と、2)クラウドサービスを用いて内容を紹介するやり方 の2つの手法で実際に会話を行ってもらいました。どちらとも終了した後にアンケートに答えて頂き17時前に終了という流れでした。\n\n鈴木さんと福田くんが仰るように今回の実験はもともと知っている者同士で、仲が構築されている状態でした。なので会話はできてるように見えましたが、実際の運動教室では初めましての方同士でのコミュニケーションを想定しているので、そのような場でこのアプリがしっかり役に立つことが出来るのかは今の時点では正直わからないです。\nまた、僕自身が想定している操作方法とは異なった方法で参加者の方が操作している点にも気がつきました。これには参加者に対しての僕自身の説明力不足と、アプリ自体の機能構成の不十分さが問題であると感じました。\n1)の手法と2)の手法の比較なのですが、アンケート上の結果としては2)の手法の方が会話がしやすかったとなっています。\n\n明日アンケートの内容を結果として詳しくまとめて卒論に記していきたいと思います。",
+        "user": "UHG1M1NQ6",
+        "ts": "1580312823.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Dp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイトに行っていたため遅れました。\n\n本日の実験の報告をさせて頂きます。\n実験開始予定時刻の16時に8人の実験参加者(内訳：大河原研3名、岡田研2名、安藤研3名)に学生部屋にお越しいただき実験を始めることが出来ました。\nはじめに僕自身の研究の目的と今回の実験の流れを説明し、次に2つのグループで各自アプリを用いて写真を3枚分用意してもらいました。その後 1)タブレットを直接見せて内容を紹介するやり方 と、2)クラウドサービスを用いて内容を紹介するやり方 の2つの手法で実際に会話を行ってもらいました。どちらとも終了した後にアンケートに答えて頂き17時前に終了という流れでした。\n\n鈴木さんと福田くんが仰るように今回の実験はもともと知っている者同士で、仲が構築されている状態でした。なので会話はできてるように見えましたが、実際の運動教室では初めましての方同士でのコミュニケーションを想定しているので、そのような場でこのアプリがしっかり役に立つことが出来るのかは今の時点では正直わからないです。\nまた、僕自身が想定している操作方法とは異なった方法で参加者の方が操作している点にも気がつきました。これには参加者に対しての僕自身の説明力不足と、アプリ自体の機能構成の不十分さが問題であると感じました。\n1)の手法と2)の手法の比較なのですが、アンケート上の結果としては2)の手法の方が会話がしやすかったとなっています。\n\n明日アンケートの内容を結果として詳しくまとめて卒論に記していきたいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7047b67-254e-4333-a41a-cd17fec55069",
+        "type": "message",
+        "text": "<https:\/\/www.c1.uec.ac.jp\/gakunai\/b4\/684\/>\n卒業研究審査願を教務課でもらわなくてはいけないようです。\n1\/31までしか配布してない書かれ方してるので明日までにもらった方が良さそうです。\n一枚もらったので万が一の時に印刷できるよう書かずに保管しておきます。",
+        "user": "UHC5VBV5E",
+        "ts": "1580370988.002800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ELoQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.c1.uec.ac.jp\/gakunai\/b4\/684\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n卒業研究審査願を教務課でもらわなくてはいけないようです。\n1\/31までしか配布してない書かれ方してるので明日までにもらった方が良さそうです。\n一枚もらったので万が一の時に印刷できるよう書かずに保管しておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

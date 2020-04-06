@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "165f2fbb-1e3d-4f9e-a30d-e395c2ef7305",
+        "type": "message",
+        "text": "先生に質問させていただきたいのですが、\nプログラミング学習はPCを使うようなものを想定されているのでしょうか？\n&gt;学生間では、PCを使った講座は時間も人数も余裕がないので厳しいと考えています。\n&gt;もし盛り込むのであれば、プログラミング思考を育てるようなゲーム(命令して対象を動かす、パズル等)をやる案がでてます。\n&gt;\n&gt;ボランティアサークルのプログラミング講座では、小学生対象で2時間個別に対応する形のようですし、向こうにノウハウがあるかどうかも怪しいです。",
+        "user": "UGQV9DXRC",
+        "ts": "1559633214.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1559633230.000000"
+        }
+    },
+    {
+        "client_msg_id": "233afdd9-800b-4a09-ba36-db5a5dfc5abc",
+        "type": "message",
+        "text": "こちらの実施のイメージとしては、こどもたちを何チームかに分け、\n\n・水耕栽培の見学\n・体を動かして遊べる食育ゲーム\n・プログラミング思考を育てるゲーム\n\nを30分ずつのローテーションで行いたいと考えています。\n\n今後はそういった方向性の上で、時間的な厳しさを解消するためにそれぞれを組み合わせたものを考えていくという形でよろしいでしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1559633505.005600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1559633543.000000"
+        }
+    }
+]

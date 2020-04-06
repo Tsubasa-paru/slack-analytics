@@ -1,0 +1,187 @@
+[
+    {
+        "client_msg_id": "3c968462-9aaa-4e45-b866-7b0e16e78188",
+        "type": "message",
+        "text": "<@UHFLB6JPR>図書館で良さげな本があったのですが、貸し出し禁止図書でしたので、購入をお願いしたいです。\n\n<https:\/\/www.amazon.co.jp\/dp\/B07GWHP9YM\/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1>",
+        "user": "UGPH97FDW",
+        "ts": "1554192027.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "はじめてのディープラーニング Pythonで学ぶニューラルネットワークとバックプロパゲーション",
+                "title_link": "https:\/\/www.amazon.co.jp\/dp\/B07GWHP9YM\/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+                "text": "知識ゼロからはじめるディープラーニング※この電子書籍は、「固定レイアウト型&amp;...",
+                "fallback": "はじめてのディープラーニング Pythonで学ぶニューラルネットワークとバックプロパゲーション",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/41rdIpmxJ7L._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(22%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/dp\/B07GWHP9YM\/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 14767,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.co.jp\/dp\/B07GWHP9YM\/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "66fc369a-2160-40d1-baeb-e8b2abd54156",
+        "type": "message",
+        "text": "図書館で読めばいいじゃん",
+        "user": "UHFLB6JPR",
+        "ts": "1554192147.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "645a589c-63fa-4799-8cd5-e74e1d0a1e19",
+        "type": "message",
+        "text": "本当にいいものなら購入します",
+        "user": "UHFLB6JPR",
+        "ts": "1554192172.002300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "07488489-edae-48bf-bffb-ecced2d4039f",
+        "type": "message",
+        "text": "読みながらコードを書いたり試したりしてみたいです。",
+        "user": "UGPH97FDW",
+        "ts": "1554192239.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "16770746-38b9-440e-9ac0-9c10e14653d8",
+        "type": "message",
+        "text": "パソコン持ってけばいいでしょ",
+        "user": "UHFLB6JPR",
+        "ts": "1554192256.003100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e3f1b47c-6e7c-490c-a78b-b06141c1cd46",
+        "type": "message",
+        "text": "平日は9:00〜21:30　アゴラは飲食OK\nUEC wirelessも使えるし\n大河原研ノートPCも3台はあるし",
+        "user": "UHFLB6JPR",
+        "ts": "1554192370.004300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dfd83b35-2739-4a5c-825f-bd4bcdbe50ea",
+        "type": "message",
+        "text": "パソコンに入れてみます",
+        "user": "UGPH97FDW",
+        "ts": "1554192503.004600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "807837B5-C4CB-4269-87D9-752F4D9A97AD",
+        "type": "message",
+        "text": "この本はみんなが必要としてる？",
+        "user": "UHFLB6JPR",
+        "ts": "1554210453.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

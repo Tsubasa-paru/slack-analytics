@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "E1357184-1544-4624-BFEC-CF841ADCEAA3",
+        "type": "message",
+        "text": "<@UHG1M1NQ6> つたけ、\n今週木曜日の15時ー19時＠大学を開けておいてください\n大丈夫？\n坂本先生来てくれると思う",
+        "user": "UHFLB6JPR",
+        "ts": "1572224586.005400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572224586.005400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1572232036.005500",
+        "reply_users": [
+            "UHG1M1NQ6"
+        ],
+        "replies": [
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1572232036.005500"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1572232036.005500"
+    },
+    {
+        "client_msg_id": "d522864b-2fb3-451d-8e2d-ce77d709bd53",
+        "type": "message",
+        "text": "承知しました。大丈夫です。\nよろしくお願いします。",
+        "user": "UHG1M1NQ6",
+        "ts": "1572232036.005500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572224586.005400",
+        "parent_user_id": "UHFLB6JPR"
+    }
+]

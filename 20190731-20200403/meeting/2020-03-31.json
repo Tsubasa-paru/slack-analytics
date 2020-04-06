@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "f3a6fd92-af77-4be6-95fb-e0e37d47407d",
+        "type": "message",
+        "text": "それとこちらにzoomを追加しておきました。\n```\/zoom```\nのコマンドで会議を開始することができます。\nslackにも通話機能があるみたいなのですが、無料プランは１対１のみ可能な様です。\nこれも僕以外の人が動かせるのかわからないので、お手すきの方やってみてください。",
+        "user": "UUZ15MZT4",
+        "ts": "1585645061.005900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "7dfa25c9925c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1006784279335_7dfa25c9925c232a45ec_72.jpg",
+            "first_name": "中田翼",
+            "real_name": "中田翼",
+            "display_name": "Tsubasa NAKADA",
+            "team": "TGNPXK07J",
+            "name": "tubasa.12345.67890",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hgVC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それとこちらにzoomを追加しておきました。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\/zoom"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "のコマンドで会議を開始することができます。\nslackにも通話機能があるみたいなのですが、無料プランは１対１のみ可能な様です。\nこれも僕以外の人が動かせるのかわからないので、お手すきの方やってみてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "koki_good",
+                "users": [
+                    "UHEH8KZ7W",
+                    "UHFLB6JPR",
+                    "UHG1M1NQ6",
+                    "UHC5VBV5E"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

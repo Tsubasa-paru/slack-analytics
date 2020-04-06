@@ -1,0 +1,36 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "There are *2* events this week",
+        "ts": "1573977601.000100",
+        "username": "ohkawaralab@gmail.com",
+        "bot_id": "BH8BEDHKK",
+        "attachments": [
+            {
+                "fallback": "学生ゼミ: <!date^1574136000^{date_short_pretty} from {time}|November 18th, 2019 from 1:00 PM> to <!date^1574139600^{time}|2:00 PM GMT+0900>",
+                "text": "<!date^1574136000^{date_short_pretty} from {time}|November 18th, 2019 from 1:00 PM> to <!date^1574139600^{time}|2:00 PM GMT+0900>",
+                "title": "学生ゼミ",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=bDkxN2MzMTJqbWZvYmVxN2JzbjFpaDVldGdfMjAxOTExMTlUMDQwMDAwWiBvaGthd2FyYWxhYkBt",
+                "color": "4986e7",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "ゼミ: <!date^1574395200^{date_short_pretty} from {time}|November 21st, 2019 from 1:00 PM> to <!date^1574398800^{time}|2:00 PM GMT+0900>",
+                "text": "<!date^1574395200^{date_short_pretty} from {time}|November 21st, 2019 from 1:00 PM> to <!date^1574398800^{time}|2:00 PM GMT+0900>",
+                "title": "ゼミ",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=ZmR2NTNwNnRwNjJqZmFoYmEycmYxYmwzZmNfMjAxOTExMjJUMDQwMDAwWiBvaGthd2FyYWxhYkBt",
+                "color": "4986e7",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    }
+]

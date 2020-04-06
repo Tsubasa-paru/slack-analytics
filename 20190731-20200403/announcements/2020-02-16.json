@@ -1,0 +1,261 @@
+[
+    {
+        "client_msg_id": "e2af1218-6c91-41e6-bf8d-055ea703078a",
+        "type": "message",
+        "text": "<@UHFLB6JPR> <@UHEH8KZ7W> <@UGQV9DXRC> <@UHG1M1NQ6>\nB3との顔合わせの時間を決めたいのですが、\n2\/19 14:30~17:00 (13:00~なんかのガイダンスがあるらしいので)\n2\/20 13:00~17:00\n2\/21 13:00~17:00\nの中からまずは決めたいです。\n場所は5階の学生部屋で始まりから終わりまでずっといなくてもよいという風にすれば全員集まりやすいと思います。\nメンションしているメンバーは絶対B3にあって欲しいので来れない日があれば伝えてください。",
+        "user": "UHC5VBV5E",
+        "ts": "1581917280.003700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHC5VBV5E",
+            "ts": "1581917466.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "taw0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UGQV9DXRC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHG1M1NQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nB3との顔合わせの時間を決めたいのですが、\n2\/19 14:30~17:00 (13:00~なんかのガイダンスがあるらしいので)\n2\/20 13:00~17:00\n2\/21 13:00~17:00\nの中からまずは決めたいです。\n場所は5階の学生部屋で始まりから終わりまでずっといなくてもよいという風にすれば全員集まりやすいと思います。\nメンションしているメンバーは絶対B3にあって欲しいので来れない日があれば伝えてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581917280.003700",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1582075597.000100",
+        "reply_users": [
+            "UGQV9DXRC",
+            "UHEH8KZ7W",
+            "UHG1M1NQ6",
+            "UHC5VBV5E",
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1581917457.004000"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1581931593.001300"
+            },
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1581936905.000100"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1581938998.000300"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1582075597.000100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1582075597.000100"
+    },
+    {
+        "client_msg_id": "3aed753c-9b3e-4001-ab24-d85a346067d8",
+        "type": "message",
+        "text": "21は終日空いてます\n19.20は13時～16時ぐらいで四ッ谷でお花があります:bow:",
+        "user": "UGQV9DXRC",
+        "ts": "1581917457.004000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5jAU+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "21は終日空いてます\n19.20は13時～16時ぐらいで四ッ谷でお花があります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581917280.003700",
+        "parent_user_id": "UHC5VBV5E"
+    },
+    {
+        "client_msg_id": "d4e3c360-1a51-4214-b02f-524088f53dc0",
+        "type": "message",
+        "text": "上記の予定が無理な場合は~2\/25~ 、3\/2~5　等になります。(25日は入学試験なのでやめましょう)\n\nちなみにすみませんが僕は*2\/26~28*は大学にこれません。",
+        "user": "UHC5VBV5E",
+        "ts": "1581924367.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHC5VBV5E",
+            "ts": "1581927221.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8+FH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "上記の予定が無理な場合は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2\/25 ",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "、3\/2~5　等になります。(25日は入学試験なのでやめましょう)\n\nちなみにすみませんが僕は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2\/26~28",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "は大学にこれません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38e63884-a431-4e76-9eb4-5e4bffd5cce4",
+        "type": "message",
+        "text": "明日学生ゼミあります。13時～\n上の日程調整とポスター作りの進捗:ballot_box_with_check:\nよろしくお願いします",
+        "user": "UGQV9DXRC",
+        "ts": "1581924649.002600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wbM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日学生ゼミあります。13時～\n上の日程調整とポスター作りの進捗"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ballot_box_with_check"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nよろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

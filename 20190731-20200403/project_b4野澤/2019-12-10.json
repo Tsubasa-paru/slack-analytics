@@ -1,0 +1,158 @@
+[
+    {
+        "type": "message",
+        "text": "SVM結果(10×10回)\n特徴量の組み合わせ方→NN同様に単独の特徴量の精度の高い順に1~10",
+        "files": [
+            {
+                "id": "FRJRWMLHM",
+                "created": 1575980325,
+                "timestamp": 1575980325,
+                "name": "SVM.xlsx",
+                "title": "SVM.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHFLC6N4X",
+                "editable": false,
+                "size": 15996,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRJRWMLHM\/svm.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRJRWMLHM\/download\/svm.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRJRWMLHM-c427d28f63\/svm_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRJRWMLHM-c427d28f63\/svm_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLC6N4X\/FRJRWMLHM\/svm.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FRJRWMLHM-d67a57c891",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ne6B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SVM結果(10×10回)\n特徴量の組み合わせ方→NN同様に単独の特徴量の精度の高い順に1~10"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHFLC6N4X",
+        "display_as_bot": false,
+        "ts": "1575980326.000200",
+        "client_msg_id": "e0fcccbd-e74d-4352-837f-7260dfd22d20"
+    },
+    {
+        "type": "message",
+        "text": "Bayes結果(10×10回)\n特徴量の組み合わせ方→SVM同様",
+        "files": [
+            {
+                "id": "FRGGMB8R2",
+                "created": 1575980384,
+                "timestamp": 1575980384,
+                "name": "BYZ.xlsx",
+                "title": "BYZ.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHFLC6N4X",
+                "editable": false,
+                "size": 14000,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRGGMB8R2\/byz.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRGGMB8R2\/download\/byz.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRGGMB8R2-01b678c18f\/byz_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRGGMB8R2-01b678c18f\/byz_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLC6N4X\/FRGGMB8R2\/byz.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FRGGMB8R2-b2ca72eee5",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p9Ef4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bayes結果(10×10回)\n特徴量の組み合わせ方→SVM同様"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHFLC6N4X",
+        "display_as_bot": false,
+        "ts": "1575980390.000500",
+        "client_msg_id": "781aebae-6a9b-4f57-8a98-a9770595a9b8"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FR47SU9A6",
+                "created": 1575981825,
+                "timestamp": 1575981825,
+                "name": "最終結果表.pdf",
+                "title": "最終結果表.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHFLC6N4X",
+                "editable": false,
+                "size": 323500,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR47SU9A6\/_______________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR47SU9A6\/download\/_______________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR47SU9A6-47930713b8\/________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLC6N4X\/FR47SU9A6\/_______________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FR47SU9A6-2c31d45e02",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLC6N4X",
+        "display_as_bot": false,
+        "ts": "1575981827.000800",
+        "client_msg_id": "33b5136d-3a25-48b0-993f-1b886b38137f"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "4380e405-e913-4590-874a-1ad084c29660",
+        "type": "message",
+        "text": "<https:\/\/www.tokyo-np.co.jp\/article\/national\/list\/201904\/CK2019041002000269.html>",
+        "user": "UGQV9DXRC",
+        "ts": "1557308636.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "東京新聞 TOKYO Web",
+                "title": "車いすのまま筋トレ　江東にジムオープン　専用マシン５種",
+                "title_link": "https:\/\/www.tokyo-np.co.jp\/article\/national\/list\/201904\/CK2019041002000269.html",
+                "text": "　車いす利用者のためのトレーニングジム「アイセルフ・ワークアウト・フォー・ウィルチェア」が、東京都江東区にオープンした。",
+                "fallback": "東京新聞 TOKYO Web: 車いすのまま筋トレ　江東にジムオープン　専用マシン５種",
+                "thumb_url": "http:\/\/www.tokyo-np.co.jp\/img\/logo_social.png",
+                "from_url": "https:\/\/www.tokyo-np.co.jp\/article\/national\/list\/201904\/CK2019041002000269.html",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/www.tokyo-np.co.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.tokyo-np.co.jp\/article\/national\/list\/201904\/CK2019041002000269.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7c6f3dba-c2c3-4fb3-ae0c-fbe31ca6d5c2",
+        "type": "message",
+        "text": "今ニュースで見た！\n車イスダンスの団体が団体トレーニング場所として登録してるとか、ジムを立ち上げた方も車イスの方だとか",
+        "user": "UGQV9DXRC",
+        "ts": "1557308820.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "60b1633c-66e4-46a1-8ea9-c1c61d7c4d8d",
+        "type": "message",
+        "text": "<https:\/\/ameblo.jp\/j-workout\/entry-12450024401.html>",
+        "user": "UGQV9DXRC",
+        "ts": "1557308932.002100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Know no Limit  ～回復に限界はない～",
+                "title": "『車椅子ユーザー用セルフ型ジム『i-Self Workout』オープン！』",
+                "title_link": "https:\/\/ameblo.jp\/j-workout\/entry-12450024401.html",
+                "text": "皆さん、こんにちは！今回は管理本部の吉田が担当させていただきます。 先週から日本のあちらこちらで桜が開花し、すっかり春らしくなりましたね。春は始まりの季節。入…",
+                "fallback": "Know no Limit  ～回復に限界はない～: 『車椅子ユーザー用セルフ型ジム『i-Self Workout』オープン！』",
+                "image_url": "https:\/\/stat.ameba.jp\/user_images\/20190327\/19\/j-workout\/53\/75\/j\/o6000400014379891767.jpg",
+                "from_url": "https:\/\/ameblo.jp\/j-workout\/entry-12450024401.html",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 3447164,
+                "service_icon": "https:\/\/stat100.ameba.jp\/common_style\/img\/sp\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/ameblo.jp\/j-workout\/entry-12450024401.html"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "writing_hand",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "75502D1A-39A1-4C39-ADA6-235ECEEE8C99",
+        "type": "message",
+        "text": "お話伺いたいですね",
+        "user": "UHC5VBV5E",
+        "ts": "1557309994.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

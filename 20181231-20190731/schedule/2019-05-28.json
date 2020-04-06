@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "4435b1ad-5c98-4317-bd7c-521c830fadfc",
+        "type": "message",
+        "text": "今日は参加できずすみませんでした:bow:\nそして明日と明後日も就活で不在の予定:bow:\n金曜日は終日いれます、がんばる",
+        "user": "UGQV9DXRC",
+        "ts": "1559052821.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

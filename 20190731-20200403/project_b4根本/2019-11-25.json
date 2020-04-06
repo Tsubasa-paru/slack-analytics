@@ -1,0 +1,59 @@
+[
+    {
+        "type": "message",
+        "text": "加速度のみ(?)で分類",
+        "files": [
+            {
+                "id": "FR12G3PRV",
+                "created": 1574746161,
+                "timestamp": 1574746161,
+                "name": "加速度計のみを用いた移動手段分類.pdf",
+                "title": "加速度計のみを用いた移動手段分類.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 401696,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR12G3PRV\/_________________________________________________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR12G3PRV\/download\/_________________________________________________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR12G3PRV-9a6abf5376\/__________________________________________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FR12G3PRV\/_________________________________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FR12G3PRV-d898f03787",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xZKN0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "加速度のみ(?)で分類"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1574746163.000100",
+        "client_msg_id": "d8c8f57d-a5ea-4220-a7e4-2a4e2f58969e"
+    }
+]

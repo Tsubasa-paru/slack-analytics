@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "5C8823E1-280E-49F8-8C62-0A3C740016E5",
+        "type": "message",
+        "text": "<https:\/\/jamanetwork.com\/journals\/jamainternalmedicine\/fullarticle\/2749761?guestAccessKey=1abe3dbb-3c4e-4f42-9272-d0f588590931&amp;utm_source=fbpage&amp;utm_medium=social_jamaim&amp;utm_term=2625032259&amp;utm_content=followers-article_engagement-tfl-text&amp;utm_campaign=article_alert&amp;linkId=73404433>",
+        "user": "UHFLB6JPR",
+        "ts": "1568158496.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FN7FYHXN0",
+                "created": 1568177503,
+                "timestamp": 1568177503,
+                "name": "jamainternal_patel_2019_oi_190066.pdf",
+                "title": "jamainternal_patel_2019_oi_190066.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 320189,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN7FYHXN0\/jamainternal_patel_2019_oi_190066.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN7FYHXN0\/download\/jamainternal_patel_2019_oi_190066.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FN7FYHXN0-fbf7d251c6\/jamainternal_patel_2019_oi_190066_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FN7FYHXN0\/jamainternal_patel_2019_oi_190066.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FN7FYHXN0-7f70678caf",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1568177505.000100",
+        "client_msg_id": "ee7eb683-639f-402c-a09a-0af458237c5b"
+    }
+]

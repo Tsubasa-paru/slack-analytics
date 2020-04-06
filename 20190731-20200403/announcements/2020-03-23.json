@@ -1,0 +1,123 @@
+[
+    {
+        "client_msg_id": "07b080ec-5832-4cba-b76b-97fa87d12743",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> <@UHG1M1NQ6> <@UGQV9DXRC> <@UHC5VBV5E> <@UHFLC6N4X>\n明日の研究室内卒業証書授与ですが、12:30から大河原の部屋で実施します。\n新4年生の参加も歓迎します。",
+        "user": "UHFLB6JPR",
+        "ts": "1585026376.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gI33",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHG1M1NQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UGQV9DXRC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHC5VBV5E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHFLC6N4X"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n明日の研究室内卒業証書授与ですが、12:30から大河原の部屋で実施します。\n新4年生の参加も歓迎します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "366a0169-5d39-4978-868d-d1b5aee1765f",
+        "type": "message",
+        "text": "先生方から卒業生にお渡しいただきたいものは以下となります。\n \n1.学位記\n2.成績通知書\n3.生涯メールアドレスＩＤ\n4.本人が申請していた証明書類（該当者のみ）\n5.教員免許状（該当者のみ）\n6.英文学位記（該当者のみ）\n7.就職支援室からの卒業後の状況調査\n8.情報基盤センターからのマイクロソフト学生仕様許諾証明書\n9.目黒会からの卒業生調査記入用紙\nホームカミングデー案内\n電通大基金趣意書\n \nそのうち、学生に記入してもらい回収するものが上記7～9になります。\n25日に学生へ渡せなかった場合は、3月31日まで研究室で保管いただき、本人へお\n渡しいただくようお願いします。\n \n卒業生から回収した書類および本人へ渡せなかった書類は4月1～3日に建物事務室\nへご返却いただきます。\n \n以上、よろしくお願いします。",
+        "user": "UHFLB6JPR",
+        "ts": "1585026449.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8JKZJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先生方から卒業生にお渡しいただきたいものは以下となります。\n \n1.学位記\n2.成績通知書\n3.生涯メールアドレスＩＤ\n4.本人が申請していた証明書類（該当者のみ）\n5.教員免許状（該当者のみ）\n6.英文学位記（該当者のみ）\n7.就職支援室からの卒業後の状況調査\n8.情報基盤センターからのマイクロソフト学生仕様許諾証明書\n9.目黒会からの卒業生調査記入用紙\nホームカミングデー案内\n電通大基金趣意書\n \nそのうち、学生に記入してもらい回収するものが上記7～9になります。\n25日に学生へ渡せなかった場合は、3月31日まで研究室で保管いただき、本人へお\n渡しいただくようお願いします。\n \n卒業生から回収した書類および本人へ渡せなかった書類は4月1～3日に建物事務室\nへご返却いただきます。\n \n以上、よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

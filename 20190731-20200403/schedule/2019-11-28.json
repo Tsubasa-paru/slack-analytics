@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "fa5a504d-19c0-457e-bff9-8df00ac72d9e",
+        "type": "message",
+        "text": "すみません、大学に来たのですが体調がまだ悪いので帰ります。申し訳ございません。",
+        "user": "UHG1M1NQ6",
+        "ts": "1574998275.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XYTW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません、大学に来たのですが体調がまだ悪いので帰ります。申し訳ございません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

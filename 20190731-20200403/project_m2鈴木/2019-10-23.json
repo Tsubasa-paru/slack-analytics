@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "c657e3a5-3d28-4f86-8e37-7220ee8f8aec",
+        "type": "message",
+        "text": "マトラボかけ終わり\n高玉研コメントまとめ直し\n\n-テーマ\n・手段的ADLと研究テーマを連携させられないか\n<https:\/\/www.tyojyu.or.jp\/net\/kenkou-tyoju\/kenkou-undou\/jiritu.html>\n・14項目の中で従来高精度で検出できなかった部位はないか？その点を解決したという報告にできないか？\n・知ることができれば行動変容を促せるファクターとして行動を特定する\n\n-分析\n・FFT等をつかって周波数分析を行う\n・現状は大きさだけで比較、それでも分類できるかどうか波形を見る\n:heavy_check_mark:木の数を10、深さを3ほどにして、実際に理論的に分類出来ているのかどうか見る\n・すべてのデータを使うのではなく、1秒ごとに平均をとって使う\n・特徴量の追加(参考画像)\n・掃除vs掃除以外など、各活動について細かく見てみる\n　似ているものは区別できているのか？\n・どこを間違えていたのかマトリックス表を示す\n・男性か女性か、年齢などを含められないか検討する\n・x,y,zで相関係数を出し、いらないデータがないか検討\n・TS-FRESHやpandas.profileを使って　特徴量を追加、寄与度をチェックしていらないものを削減する\n・過学習していないか？",
+        "user": "UGQV9DXRC",
+        "ts": "1571819437.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1571819631.000000"
+        },
+        "attachments": [
+            {
+                "title": "自立生活の指標：日常生活動作（ADL)とは | 健康長寿ネット",
+                "title_link": "https:\/\/www.tyojyu.or.jp\/net\/kenkou-tyoju\/kenkou-undou\/jiritu.html",
+                "text": "日常生活動作（ADL)とは、日常生活を送るために最低限必要な日常的な動作で「起居動作・移乗・移動・食事・更衣・排泄・入浴・整容」動作のことです。高齢者や障害者の方の身体能力や日常生活レベルを図るための指標として用いられています。本稿ではADLの種類、ADLの評価方法（Barthel Index、Katz Index、DASC-21)、手段的日常生活動作（IADL)の評価(Lawtonの尺度、老研式活動能力指標、DASC-21）について解説します。",
+                "fallback": "自立生活の指標：日常生活動作（ADL)とは | 健康長寿ネット",
+                "from_url": "https:\/\/www.tyojyu.or.jp\/net\/kenkou-tyoju\/kenkou-undou\/jiritu.html",
+                "service_name": "tyojyu.or.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.tyojyu.or.jp\/net\/kenkou-tyoju\/kenkou-undou\/jiritu.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "251bb6f0-dee3-4dfa-a6e3-312c6ace80fc",
+        "type": "message",
+        "text": "データ数が増えてきて書き換えが大変なので一気に処理したい\n<https:\/\/teratail.com\/questions\/15486>\n今まではわざわざ回答を紐づけ↠元ファイルから回答を分解して分類にしていたので、回答を別ファイルに作って保存しておき、特徴量の作成をpathlibでまとめてやっちゃう？",
+        "user": "UGQV9DXRC",
+        "ts": "1571820635.003300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1571820661.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "teratail[テラテイル]",
+                "title": "python;複数ファイルを次々に処理｜teratail",
+                "title_link": "https:\/\/teratail.com\/questions\/15486",
+                "text": "python3.4を用いて処理を行おうと考えています．環境はwindowsです．かなり初歩的な質問かと思いますが，ご容赦ください．複数のファイルが同じディレクトリに存在し，そのひとつひとつに同様の処理を行います．処理としては，replaceを行い，文字列置換された結果を別ファイルとして出力(書き出し",
+                "fallback": "teratail[テラテイル]: python;複数ファイルを次々に処理｜teratail",
+                "thumb_url": "https:\/\/teratail.com\/img\/imgFacebookShare.png",
+                "from_url": "https:\/\/teratail.com\/questions\/15486",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/teratail.com\/img\/ios\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/teratail.com\/questions\/15486"
+            }
+        ]
+    }
+]

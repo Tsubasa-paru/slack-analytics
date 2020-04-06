@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "2f5d8611-47f1-4050-a501-f852d8abf57a",
+        "type": "message",
+        "text": "<https:\/\/marvin.news\/7371\/amp?__twitter_impression=true>",
+        "user": "UGQV9DXRC",
+        "ts": "1569848927.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "糖尿病性腎症の悪化予測モデル：藤田医科大学、第一生命、日本IBMが共同研究成果を発表 | Marvin（マーヴィン）人工知能・AIと機械学習の事例メディア",
+                "title_link": "https:\/\/marvin.news\/7371\/amp?__twitter_impression=true",
+                "text": "課題 糖尿病の合併症のなかでも…",
+                "fallback": "糖尿病性腎症の悪化予測モデル：藤田医科大学、第一生命、日本IBMが共同研究成果を発表 | Marvin（マーヴィン）人工知能・AIと機械学習の事例メディア",
+                "from_url": "https:\/\/marvin.news\/7371\/amp?__twitter_impression=true",
+                "service_name": "marvin.news",
+                "id": 1,
+                "original_url": "https:\/\/marvin.news\/7371\/amp?__twitter_impression=true"
+            }
+        ],
+        "thread_ts": "1569848927.000200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1569933246.000300",
+        "reply_users": [
+            "UGPH97FDW"
+        ],
+        "replies": [
+            {
+                "user": "UGPH97FDW",
+                "ts": "1569933246.000300"
+            }
+        ],
+        "subscribed": false
+    }
+]

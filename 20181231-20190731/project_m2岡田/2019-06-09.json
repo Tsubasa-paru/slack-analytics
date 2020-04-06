@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "text": "鈴木さんにもらったアドバイスを参考に微修正しました。勝川先生に送ります。",
+        "files": [
+            {
+                "id": "FKDUL67DW",
+                "created": 1560144675,
+                "timestamp": 1560144675,
+                "name": "ECSS2019発表ポスター_電通大岡田.pdf",
+                "title": "ECSS2019発表ポスター_電通大岡田.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGPH97FDW",
+                "editable": false,
+                "size": 309541,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKDUL67DW\/ecss2019__________________________________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKDUL67DW\/download\/ecss2019__________________________________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKDUL67DW-422334b551\/ecss2019___________________________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 6063,
+                "thumb_pdf_h": 3421,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGPH97FDW\/FKDUL67DW\/ecss2019__________________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FKDUL67DW-1676051702",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGPH97FDW",
+        "display_as_bot": false,
+        "ts": "1560144679.000200",
+        "client_msg_id": "c2f87571-84ed-4440-ab19-af8d3c4d153f"
+    }
+]

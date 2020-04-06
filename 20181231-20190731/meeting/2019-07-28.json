@@ -1,0 +1,148 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FLH623MQA",
+                "created": 1564373807,
+                "timestamp": 1564373807,
+                "name": "204070_こども食堂 トップ.pdf",
+                "title": "こども食堂CFトップ画像",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 2307182,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLH623MQA\/204070_____________________________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLH623MQA\/download\/204070_____________________________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLH623MQA-86dac9e6fb\/204070______________________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FLH623MQA\/204070_____________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FLH623MQA-f5de029237",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1564373808.000100",
+        "client_msg_id": "f28e7b87-939f-4197-b5ff-e0d086a7e191"
+    },
+    {
+        "client_msg_id": "ed7af3d9-fe7f-4cd9-aeff-23ffb4513832",
+        "type": "message",
+        "text": "<!channel> \n上のファイルの図についてアンケートです",
+        "user": "UGQV9DXRC",
+        "ts": "1564373906.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1564373923.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@UGQV9DXRC> has a poll for you!",
+        "ts": "1564373961.002700",
+        "username": "Polly",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-04-04\/600134185620_48.png"
+        },
+        "bot_id": "BHDCWB90R",
+        "attachments": [
+            {
+                "callback_id": "SzjzaECeMRBW52s7f",
+                "fallback": "こども食堂クラウドファンディングのトップ画像ですが、1枚目と5枚目どちらがよいと思いますか？",
+                "title": "こども食堂クラウドファンディングのトップ画像ですが、1枚目と5枚目どちらがよいと思いますか？",
+                "id": 1,
+                "color": "35A8E0",
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "one",
+                        "text": "1枚目",
+                        "type": "button",
+                        "value": "0",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "two",
+                        "text": "5枚目",
+                        "type": "button",
+                        "value": "1",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "callback_id": "SzjzaECeMRBW52s7f",
+                "fallback": "こども食堂クラウドファンディングのトップ画像ですが、1枚目と5枚目どちらがよいと思いますか？",
+                "id": 2,
+                "fields": [
+                    {
+                        "title": "1枚目",
+                        "value": "`▇▇▇▇` 14% (1)\n<@UGQV9DXRC>",
+                        "short": false
+                    },
+                    {
+                        "title": "5枚目",
+                        "value": "`▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 86% (6)\n<@UHEH8KZ7W>, <@UHFLC6N4X>, <@UGPH97FDW>, <@UHG1M1NQ6>, <@UHC5VBV5E>, +1 more",
+                        "short": false
+                    },
+                    {
+                        "title": "Total votes",
+                        "value": "7",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "3",
+                        "name": "add_comments",
+                        "text": "Add a Comment",
+                        "type": "button",
+                        "value": "BRarDi8M9Kiw76yLz",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "view_all_responses_in_channel",
+                        "text": "View All Responses",
+                        "type": "button",
+                        "value": "BRarDi8M9Kiw76yLz",
+                        "style": ""
+                    }
+                ],
+                "mrkdwn_in": [
+                    "fields"
+                ]
+            }
+        ]
+    }
+]

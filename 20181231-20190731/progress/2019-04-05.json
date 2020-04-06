@@ -1,0 +1,108 @@
+[
+    {
+        "client_msg_id": "31E9A256-BE95-4C87-AFAF-26D0AF9AE1A4",
+        "type": "message",
+        "text": "2019\/04\/05\n・幸福に関する詳しい定義と先行研究を読み漁り\n・鈴木先輩にEndnoteの使い方を教わった\n・学生ゼミ課題 終了",
+        "user": "UHEH8KZ7W",
+        "ts": "1554457141.003300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8e267905-30da-4b8f-8adf-1402f90a467c",
+        "type": "message",
+        "text": "今日は\n&gt; 寝付きが悪くとてもBad Conditionでした:innocent:\n&gt; 講義を受けて来ました(履修計画は私の個別チャンネルにあります)\n月曜日までに\n&gt; 予備実験の計画を立てます(個別チャンネルに進捗を上げます)",
+        "user": "UGQ2ENZD0",
+        "ts": "1554457516.007200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "34756bf1-b159-4756-8e84-90851f255853",
+        "type": "message",
+        "text": "今日は\npython勉強会準備\n&gt;サンプルデータセットを使ってDT勉強中\n&gt;applyとlambdaの使い方がわからなくて止まっちゃった\n事務\n&gt;・メーリスの整理\n&gt;・slack固有アドレスをメーリスに\n&gt;・ゼミ内容botを作る",
+        "user": "UGQV9DXRC",
+        "ts": "1554457698.008200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5db8c293-ccfb-4e4f-b397-42155a9b6c20",
+        "type": "message",
+        "text": "<https:\/\/ohkawaralab.slack.com\/archives\/CH88VUU8N\/p1554457516007200>\n追加で\n&gt; 年間履修計画書，単位認定願いを作成します\n&gt; 研究指導計画書について大河原先生と面談等ができればと思います",
+        "user": "UGQ2ENZD0",
+        "ts": "1554459071.009600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CH88VUU8N\/p1554457516007200",
+                "fallback": "[April 5th, 2019 2:45 AM] something.my.revoluti: 今日は\n&gt; 寝付きが悪くとてもBad Conditionでした:innocent:\n&gt; 講義を受けて来ました(履修計画は私の個別チャンネルにあります)\n月曜日までに\n&gt; 予備実験の計画を立てます(個別チャンネルに進捗を上げます)",
+                "ts": "1554457516.007200",
+                "author_id": "UGQ2ENZD0",
+                "author_subname": "Shumpei Shimizu",
+                "channel_id": "CH88VUU8N",
+                "channel_name": "progress",
+                "is_msg_unfurl": true,
+                "text": "今日は\n&gt; 寝付きが悪くとてもBad Conditionでした:innocent:\n&gt; 講義を受けて来ました(履修計画は私の個別チャンネルにあります)\n月曜日までに\n&gt; 予備実験の計画を立てます(個別チャンネルに進捗を上げます)",
+                "author_name": "Shumpei Shimizu",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQ2ENZD0",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/a2c1eb36c06ff6709cbc9533ed9d2551.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0008-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CH88VUU8N\/p1554457516007200",
+                "footer": "#progress に投稿"
+            }
+        ]
+    }
+]

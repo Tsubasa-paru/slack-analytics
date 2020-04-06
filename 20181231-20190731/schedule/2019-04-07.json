@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "There are *2* events this week",
+        "ts": "1554624001.000100",
+        "username": "ohkawaralab@gmail.com",
+        "bot_id": "BH8BEDHKK",
+        "attachments": [
+            {
+                "fallback": "13時学生ゼミ: <!date^1554782400^{date_short_pretty} from {time}|April 8th, 2019 from 1:00 PM> to <!date^1554786000^{time}|2:00 PM GMT+0900>",
+                "text": "<!date^1554782400^{date_short_pretty} from {time}|April 8th, 2019 from 1:00 PM> to <!date^1554786000^{time}|2:00 PM GMT+0900>",
+                "title": "13時学生ゼミ",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=bDkxN2MzMTJqbWZvYmVxN2JzbjFpaDVldGdfMjAxOTA0MDlUMDQwMDAwWiBvaGthd2FyYWxhYkBt",
+                "color": "4986e7",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            },
+            {
+                "fallback": "13時ゼミ: <!date^1555041600^{date_short_pretty} from {time}|April 11th, 2019 from 1:00 PM> to <!date^1555045200^{time}|2:00 PM GMT+0900>",
+                "text": "<!date^1555041600^{date_short_pretty} from {time}|April 11th, 2019 from 1:00 PM> to <!date^1555045200^{time}|2:00 PM GMT+0900>",
+                "title": "13時ゼミ",
+                "id": 2,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=ZmR2NTNwNnRwNjJqZmFoYmEycmYxYmwzZmNfMjAxOTA0MTJUMDQwMDAwWiBvaGthd2FyYWxhYkBt",
+                "color": "4986e7",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custom_ryokai",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

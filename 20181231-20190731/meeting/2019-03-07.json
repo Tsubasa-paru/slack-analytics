@@ -1,0 +1,17 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1552025427.000200",
+        "user": "UGPH97FDW",
+        "text": "<@UGPH97FDW>さんがチャンネルに参加しました",
+        "inviter": "UGQV9DXRC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1552025445.000400",
+        "user": "UGQ2ENZD0",
+        "text": "<@UGQ2ENZD0>さんがチャンネルに参加しました"
+    }
+]

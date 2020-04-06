@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "現状",
+        "files": [
+            {
+                "id": "FN8AHR9UP",
+                "created": 1568088877,
+                "timestamp": 1568088877,
+                "name": "中間発表抄録.docx",
+                "title": "中間発表抄録.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHFLC6N4X",
+                "editable": false,
+                "size": 40475,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN8AHR9UP\/__________________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN8AHR9UP\/download\/__________________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FN8AHR9UP-8102f3f451\/___________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FN8AHR9UP-8102f3f451\/___________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLC6N4X\/FN8AHR9UP\/__________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FN8AHR9UP-01fcca33c0",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLC6N4X",
+        "display_as_bot": false,
+        "ts": "1568088879.000100",
+        "client_msg_id": "e6c917fe-6d39-4d98-ac93-f95583b5c0d9"
+    }
+]

@@ -1,0 +1,125 @@
+[
+    {
+        "client_msg_id": "4e0ebc46-fcfb-4a35-815e-7ec4eb8bd0a3",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\nエネルギー消費量の推定の論文についてですが、野澤君に送ったものはどちらも活動分類でした:sweat:\n活動分類×機械学習をテーマにした論文だけを集めてきてるので、エネルギー消費量にのみのものははじいてストックしてないかもしれません、、",
+        "user": "UGQV9DXRC",
+        "ts": "1566808069.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "機械学習を使ったエネルギー消費量の推定\n以前先生から読むように言われたものです。\n伊藤先輩の修論の参考文献にも載っていました。",
+        "files": [
+            {
+                "id": "FMHJPCH4H",
+                "created": 1566808209,
+                "timestamp": 1566808209,
+                "name": "fneur-09-00478.pdf",
+                "title": "fneur-09-00478.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 1386579,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMHJPCH4H\/fneur-09-00478.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMHJPCH4H\/download\/fneur-09-00478.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMHJPCH4H-e2eacb4cd4\/fneur-09-00478_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1191,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FMHJPCH4H\/fneur-09-00478.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMHJPCH4H-b22603a51d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1566808209.002500",
+        "edited": {
+            "user": "UHC5VBV5E",
+            "ts": "1566808292.000000"
+        },
+        "client_msg_id": "21eb108a-0895-4dbe-89f8-7e0011f5bbfe"
+    },
+    {
+        "client_msg_id": "8b24a274-3aaa-434c-83c0-35f92a5e5a22",
+        "type": "message",
+        "text": "加速度計使ってますがエネルギー消費をランダムフォレストで推定してる論文はありそうです？\n<https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC4374571\/>",
+        "user": "UGQV9DXRC",
+        "ts": "1566809431.003700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "PubMed Central (PMC)",
+                "title": "A random forest classifier for the prediction of energy expenditure and type of physical activity from wrist and hip accelerometers",
+                "title_link": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC4374571\/",
+                "text": "Wrist accelerometers are being used in population level surveillance of physical activity (PA) but more research is needed to evaluate their validity for correctly classifying types of PA behavior and predicting energy expenditure (EE). In this study ...",
+                "fallback": "PubMed Central (PMC): A random forest classifier for the prediction of energy expenditure and type of physical activity from wrist and hip accelerometers",
+                "thumb_url": "https:\/\/www.ncbi.nlm.nih.gov\/corehtml\/pmc\/pmcgifs\/pmc-logo-share.png",
+                "from_url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC4374571\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "http:\/\/www.ncbi.nlm.nih.gov\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC4374571\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea51205b-605d-4e6b-9b18-208b36905cce",
+        "type": "message",
+        "text": "ラベル付けをどうするかの問題ですかね",
+        "user": "UGQV9DXRC",
+        "ts": "1566809460.004300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

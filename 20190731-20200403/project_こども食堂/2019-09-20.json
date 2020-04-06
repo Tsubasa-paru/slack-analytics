@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message",
+        "text": "アメフト部も収支を追記してくれました\n先生に買っていただいた分などは記入していないのですが、よろしいでしょうか？\n<https:\/\/docs.google.com\/spreadsheets\/d\/1xUL9dZaE_YsPLqDpIntEJyo1kx_OjMP0GSYzyLJw7EI\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "FNKE6KL4X",
+                "created": 1568873854,
+                "timestamp": 1568873854,
+                "name": "こども食堂2019_収支報告",
+                "title": "こども食堂2019_収支報告",
+                "mimetype": "application\/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 496982,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1xUL9dZaE_YsPLqDpIntEJyo1kx_OjMP0GSYzyLJw7EI\/edit?usp=sharing",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNKE6KL4X-307a7c4e41\/_______________2019______________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FNKE6KL4X\/_______________2019_____________",
+                "is_starred": false,
+                "external_id": "1xUL9dZaE_YsPLqDpIntEJyo1kx_OjMP0GSYzyLJw7EI",
+                "external_url": "https:\/\/docs.google.com\/spreadsheets\/d\/1xUL9dZaE_YsPLqDpIntEJyo1kx_OjMP0GSYzyLJw7EI\/edit?usp=sharing",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FNKE6KL4X"
+        ],
+        "ts": "1568971971.001400",
+        "client_msg_id": "98FDADF7-DFD7-4432-931A-FBA2BDC74D8B"
+    }
+]

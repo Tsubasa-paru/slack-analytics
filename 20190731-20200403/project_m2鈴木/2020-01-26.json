@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "text": "特徴量の決定まで済んだ\n階段ぬきをまとめている段階\n<https:\/\/drive.google.com\/open?id=17FbYrdkkOqC5rfaErp3-kFrU_mOkN7wa>",
+        "files": [
+            {
+                "id": "FT1LBCL04",
+                "created": 1579838369,
+                "timestamp": 1579838369,
+                "name": "修論_鈴木.docx",
+                "title": "修論_鈴木.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 1168377,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/file\/d\/17FbYrdkkOqC5rfaErp3-kFrU_mOkN7wa\/view?usp=drivesdk",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FT1LBCL04\/_____________.docx",
+                "is_starred": false,
+                "external_id": "17FbYrdkkOqC5rfaErp3-kFrU_mOkN7wa",
+                "external_url": "https:\/\/drive.google.com\/file\/d\/17FbYrdkkOqC5rfaErp3-kFrU_mOkN7wa\/view?usp=drivesdk",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/eb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "特徴量の決定まで済んだ\n階段ぬきをまとめている段階\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=17FbYrdkkOqC5rfaErp3-kFrU_mOkN7wa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FT1LBCL04"
+        ],
+        "ts": "1580042291.002300",
+        "client_msg_id": "40f34264-8f90-425c-ab4e-e125ec857522"
+    }
+]

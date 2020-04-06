@@ -1,0 +1,40 @@
+[
+    {
+        "type": "message",
+        "text": "ゼミ合宿でのメモです。未完成な部分多いですが載せておきます",
+        "files": [
+            {
+                "id": "FMYPKJKFT",
+                "created": 1568017102,
+                "timestamp": 1568017102,
+                "name": "ゼミ合宿.txt",
+                "title": "ゼミ合宿.txt",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UHEH8KZ7W",
+                "editable": true,
+                "size": 2250,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMYPKJKFT\/____________.txt?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMYPKJKFT\/download\/____________.txt?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FMYPKJKFT\/____________.txt",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMYPKJKFT-71a236413b",
+                "edit_link": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FMYPKJKFT\/____________.txt\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1568017102.000100",
+        "client_msg_id": "ad7ad158-d48a-437f-bbb2-d3d9f916e27a"
+    }
+]

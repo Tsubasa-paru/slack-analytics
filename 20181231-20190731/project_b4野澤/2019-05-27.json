@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "論文翻訳",
+        "files": [
+            {
+                "id": "FK38T8SCX",
+                "created": 1559011591,
+                "timestamp": 1559011591,
+                "name": "Ensemble翻訳.docx",
+                "title": "Ensemble翻訳.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHFLC6N4X",
+                "editable": false,
+                "size": 206252,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK38T8SCX\/ensemble______.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK38T8SCX\/download\/ensemble______.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FK38T8SCX-e5cc440348\/ensemble_______converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FK38T8SCX-e5cc440348\/ensemble_______thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLC6N4X\/FK38T8SCX\/ensemble______.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FK38T8SCX-71732cdaa7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLC6N4X",
+        "display_as_bot": false,
+        "ts": "1559011594.001100",
+        "client_msg_id": "d31b72f9-bcb4-42e2-ae6b-b4f2d9a0beea"
+    }
+]

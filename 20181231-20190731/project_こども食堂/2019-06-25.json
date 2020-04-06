@@ -1,0 +1,146 @@
+[
+    {
+        "client_msg_id": "e5f301c6-d8db-4e80-a53d-5ff86da8f462",
+        "type": "message",
+        "text": "化学×食育メモ\nぎゃー！緑色の麺！これぞ化学の力\n<https:\/\/sharedine.me\/shokuiku-media\/workshop-reshipiken\/>\n\n児童用低学年-はし名人になろう\n<http:\/\/www.mext.go.jp\/a_menu\/shotou\/eiyou\/syokuseikatsu.htm>\n\n蓮美幼児学園ブログ-紫キャベツの実験\n<http:\/\/renbi.com\/blog\/entry-5375>\n\n八尾スクール食育ネット\n<https:\/\/yao-kyouikusyokuiku.net\/chiikis\/demaehoiku>\n\n冷蔵庫を使わない手作りアイスに挑戦しよう\n<https:\/\/vonds.jp\/12529\/>",
+        "user": "UHEH8KZ7W",
+        "ts": "1561522894.004000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "シェアダイン",
+                "title": "普段の食材で科学実験？！食育×科学 れしぴ研究所のワークショップに参加してみた | VOICE by シェアダイン編集部",
+                "title_link": "https:\/\/sharedine.me\/shokuiku-media\/workshop-reshipiken\/",
+                "text": "こんにちは。食育メディア編集部Yです。６月２５日に南浦和で行われた食育×科学 れしぴ研究所主催のワークショップに参加してきました。食育というと、農作業体験や、工場見学、お料理教室などを想像しがちですが、このワークショップでは普段見慣れた食材や調理に隠れる科学を体験できるという。料理をしながら科学を学ぶ？科学実験をしながら料理をする？この時期よく食べるアレが最後にはえー！っと驚く姿に！中華麺が黄色いのは化学反応？！原材料に卵は入ってません！キッチンのある会場に様々な",
+                "fallback": "シェアダイン: 普段の食材で科学実験？！食育×科学 れしぴ研究所のワークショップに参加してみた | VOICE by シェアダイン編集部",
+                "image_url": "https:\/\/sharedine.me\/shokuiku-media\/wp-content\/uploads\/2017\/08\/ded35387646158234f3f212e17d0933f.jpg",
+                "ts": 1499390930,
+                "from_url": "https:\/\/sharedine.me\/shokuiku-media\/workshop-reshipiken\/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 37925,
+                "service_icon": "https:\/\/sharedine.me\/shokuiku-media\/wp-content\/uploads\/2017\/08\/cropped-Logo_for_FB-180x180.jpg",
+                "id": 1,
+                "original_url": "https:\/\/sharedine.me\/shokuiku-media\/workshop-reshipiken\/"
+            },
+            {
+                "title": "幼児クラス食育「紫キャベツの実験」 | 蓮美幼児学園もりのみやナーサリーブログ",
+                "title_link": "http:\/\/renbi.com\/blog\/entry-5375",
+                "text": "蓮美幼児学園もりのみやナーサリーの保育園ブログ「幼児クラス食育「紫キャベツの実験」」",
+                "fallback": "幼児クラス食育「紫キャベツの実験」 | 蓮美幼児学園もりのみやナーサリーブログ",
+                "from_url": "http:\/\/renbi.com\/blog\/entry-5375",
+                "service_icon": "http:\/\/renbi.com\/favicon.ico",
+                "service_name": "renbi.com",
+                "id": 2,
+                "original_url": "http:\/\/renbi.com\/blog\/entry-5375"
+            },
+            {
+                "title": "八尾スクール食育ネット～食を知り、食を楽しもう！",
+                "title_link": "https:\/\/yao-kyouikusyokuiku.net\/chiikis\/demaehoiku",
+                "text": "八尾市学校教育部学務給食課が運営する八尾市の学校・園における食育に関する取り組みをご紹介するページです。",
+                "fallback": "八尾スクール食育ネット～食を知り、食を楽しもう！",
+                "from_url": "https:\/\/yao-kyouikusyokuiku.net\/chiikis\/demaehoiku",
+                "service_name": "yao-kyouikusyokuiku.net",
+                "id": 3,
+                "original_url": "https:\/\/yao-kyouikusyokuiku.net\/chiikis\/demaehoiku"
+            },
+            {
+                "service_name": "VONDS（ボンズ） 〜 親と子が成長するランドセル",
+                "title": "冷蔵庫を使わない手作りアイスに挑戦しよう（VONDSランドセルコラム） | VONDS（ボンズ） 〜 親と子が成長するランドセル",
+                "title_link": "https:\/\/vonds.jp\/12529\/",
+                "text": "冷蔵庫を使わない手作りアイスに挑戦しよう（VONDSランドセルコラム）夏といえばアイスが食べたくなる季節。アイスクリームは手作りするのが意外と簡単なデザートです。それも冷蔵庫・冷凍庫を使わずに、10分で作ることができます。この夏はお子さんと一緒に、手作りアイスに挑戦されてみてはいかがでしょうか。理科の自由研究にもぴったりですよ。今回ご紹介するのは、冷凍庫を一切使わないアイス作りです。使用するのは「",
+                "fallback": "VONDS（ボンズ） 〜 親と子が成長するランドセル: 冷蔵庫を使わない手作りアイスに挑戦しよう（VONDSランドセルコラム） | VONDS（ボンズ） 〜 親と子が成長するランドセル",
+                "image_url": "https:\/\/i2.wp.com\/vonds.jp\/wp-content\/uploads\/2016\/08\/1a60da272bc6ffd20a80bed6297aad46.jpg?fit=840%2C558&ssl=1",
+                "ts": 1470039868,
+                "from_url": "https:\/\/vonds.jp\/12529\/",
+                "image_width": 376,
+                "image_height": 250,
+                "image_bytes": 46601,
+                "service_icon": "https:\/\/i2.wp.com\/vonds.jp\/wp-content\/uploads\/2016\/02\/vonds.png?fit=52%2C42&#038;ssl=1",
+                "id": 4,
+                "original_url": "https:\/\/vonds.jp\/12529\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b13863b-f7f2-41d0-8bff-e52744ddac8d",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\nこども食堂CFのページに、活動が掲載された媒体などを記載したいのですが大丈夫でしょうか？\n候補は以下を予定しています。\n&gt;*こども食堂*\n&gt;・大学HP\n&gt;　<https:\/\/www.uec.ac.jp\/news\/announcement\/2018\/20181108_1411.html>\n&gt;・みんなの大学\n&gt;*クラウドファンディングについて*\n&gt;・ライブドアニュース\n&gt;　<http:\/\/news.livedoor.com\/article\/detail\/15183629\/>",
+        "user": "UGQV9DXRC",
+        "ts": "1561524961.006300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ライブドアニュース",
+                "title": "電通大こども食堂、小学生無料招待に向け支援呼びかけ - ライブドアニュース",
+                "title_link": "http:\/\/news.livedoor.com\/article\/detail\/15183629\/",
+                "text": "電気通信大学こども食堂プロジェクトチームは、2018年9月8日に電気通信大学にて「電気通信大学 こども食堂」を開催する。大学近隣に住む小学生とその保護者あわせて100名を無料で招待するべく、地元を盛り上げるプ",
+                "fallback": "ライブドアニュース: 電通大こども食堂、小学生無料招待に向け支援呼びかけ - ライブドアニュース",
+                "image_url": "https:\/\/image.news.livedoor.com\/newsimage\/stf\/1\/b\/1b0fd_1402_9ec5565f_6d9d27e8.jpg",
+                "image_width": 423,
+                "image_height": 250,
+                "from_url": "http:\/\/news.livedoor.com\/article\/detail\/15183629\/",
+                "image_bytes": 61836,
+                "service_icon": "https:\/\/parts.news.livedoor.com\/img\/favicon.ico?v=20131002",
+                "id": 1,
+                "original_url": "http:\/\/news.livedoor.com\/article\/detail\/15183629\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7c677bb-6b52-4216-ae7f-6b2752b9ed9c",
+        "type": "message",
+        "text": "OKです",
+        "user": "UHFLB6JPR",
+        "ts": "1561525940.006600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

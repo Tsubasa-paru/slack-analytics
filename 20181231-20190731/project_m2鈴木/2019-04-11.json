@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "e893e464-78d1-4dbb-a1e4-88c29d4259cc",
+        "type": "message",
+        "text": "今やらなきゃいけないことと状況\n&gt;①論文レビュー\n&gt;　特徴量の紐づけ中、あと半分\n&gt;②titanicのpython決定木→python講習資料\n&gt;　解釈途中、講習資料で形にしながら考えてる\n&gt;③自分のデータでpython決定木\n&gt;　何もやってない",
+        "user": "UGQV9DXRC",
+        "ts": "1555049548.003000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

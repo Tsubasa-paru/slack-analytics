@@ -1,0 +1,166 @@
+[
+    {
+        "type": "message",
+        "text": "参考コード",
+        "files": [
+            {
+                "id": "FMURYPD8E",
+                "created": 1566978784,
+                "timestamp": 1566978784,
+                "name": "活動分類-4分類.ipynb",
+                "title": "活動分類-4分類.ipynb",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UGQV9DXRC",
+                "editable": true,
+                "size": 6140,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMURYPD8E\/____________-4______.ipynb?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMURYPD8E\/download\/____________-4______.ipynb?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMURYPD8E\/____________-4______.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMURYPD8E-a7fdc1d542",
+                "edit_link": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMURYPD8E\/____________-4______.ipynb\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1566978784.002800",
+        "client_msg_id": "f19ab739-8037-40f2-8d08-13ae9f82bd08"
+    },
+    {
+        "client_msg_id": "f37c6978-4476-4439-9426-061f6c308d76",
+        "type": "message",
+        "text": "<https:\/\/note.nkmk.me\/python-pandas-at-iat-loc-iloc\/>\n任意の位置の値を取得して変更する\n\nds.loc['ans']=[1]\n\nにするとdsっていうデータフレームのansっていう行の値が全部1になる\nなので、ここの1にあたる解をメッツにしたらいいかな？",
+        "user": "UGQV9DXRC",
+        "ts": "1566980221.004400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1566980246.000000"
+        },
+        "attachments": [
+            {
+                "title": "pandasで任意の位置の値を取得・変更するat, iat, loc, iloc | note.nkmk.me",
+                "title_link": "https:\/\/note.nkmk.me\/python-pandas-at-iat-loc-iloc\/",
+                "text": "pandas.DataFrameの任意の位置のデータを取り出したり変更（代入）したりする場合、pandas.DataFrameのプロパティ、at, iat, loc, ilocを使う。at()ではなくat[]のように記述する。以下のような違いがある。位置の指定方法at, loc : 行ラベル（行名）、列ラベル（列名）iat, iloc : 行番号、列番号 at, loc : 行ラベル（行...",
+                "fallback": "pandasで任意の位置の値を取得・変更するat, iat, loc, iloc | note.nkmk.me",
+                "image_url": "https:\/\/i.gyazo.com\/b7d6354ae5b8ad0905e4b949c89d0786.png",
+                "from_url": "https:\/\/note.nkmk.me\/python-pandas-at-iat-loc-iloc\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 133966,
+                "service_name": "note.nkmk.me",
+                "id": 1,
+                "original_url": "https:\/\/note.nkmk.me\/python-pandas-at-iat-loc-iloc\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2300f852-4300-4ce5-b7d5-e26ba36b308e",
+        "type": "message",
+        "text": "データフレーム同士を結合させる\n<http:\/\/sinhrks.hatenablog.com\/entry\/2015\/01\/28\/073327>\n\nnum1= pd.concat([ds10,ds9])\n\nnum1のファイルとして、ds10とds9を連結させてる",
+        "user": "UGQV9DXRC",
+        "ts": "1566981504.005700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1566981553.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "StatsFragments",
+                "title": "Python pandas 図でみる データ連結 \/ 結合処理 - StatsFragments",
+                "title_link": "http:\/\/sinhrks.hatenablog.com\/entry\/2015\/01\/28\/073327",
+                "text": "なんかぼやぼやしているうちにひさびさの pandas エントリになってしまった。基本的な使い方については網羅したい気持ちはあるので、、、。 今回は データの連結 \/ 結合まわり。この部分 公式ドキュメント がちょっとわかりにくいので改訂したいなと思っていて、自分の整理もかねて書きたい。 公式の方はもう少し細かい使い方も載っているのだが、特に重要だろうというところだけをまとめる。 連結 \/ 結合という用語は以下の意味で使っている。まず憶えておいたほうがよい関数、メソッドは以下の 4 つだけ。 連結: データの中身をある方向にそのままつなげる。pd.concat, DataFrame.append…",
+                "fallback": "StatsFragments: Python pandas 図でみる データ連結 \/ 結合処理 - StatsFragments",
+                "image_url": "http:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/s\/sinhrks\/20150125\/20150125225941.png",
+                "ts": 1422398007,
+                "from_url": "http:\/\/sinhrks.hatenablog.com\/entry\/2015\/01\/28\/073327",
+                "image_width": 286,
+                "image_height": 250,
+                "image_bytes": 16148,
+                "service_icon": "https:\/\/cdn.blog.st-hatena.com\/images\/touch-icon-iphone-retina.png",
+                "id": 1,
+                "original_url": "http:\/\/sinhrks.hatenablog.com\/entry\/2015\/01\/28\/073327"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6c1a087e-edc3-4539-8597-aa25075691ac",
+        "type": "message",
+        "text": "csv出力\n\nds.to_csv('ds10.csv')\n\ndsをds10.csvっていうcsvファイルに落とす",
+        "user": "UGQV9DXRC",
+        "ts": "1566981864.006500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "15edfc01-28f3-48ef-9576-db2609a8a9fa",
+        "type": "message",
+        "text": "#ランダムフォレストにかける\nfrom sklearn.ensemble import RandomForestClassifier\nclf = RandomForestClassifier(random_state=0)\ntrain_x=num1.drop('ans',axis=1)\ntrain_y=num1.ans\ntest_x=num2.drop('ans',axis=1)\ntest_y=num2.ans\nclf = clf.fit(train_x, train_y)\npred = clf.predict(test_X)\n\n#F値\nfrom sklearn.metrics import f1_score\nf1_score (pred,test_y,average='macro')",
+        "user": "UGQV9DXRC",
+        "ts": "1566982771.008100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,381 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1554192700.000200",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1554192701.000300",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルの目的を設定しました : python勉強会の準備用チャンネル",
+        "purpose": "python勉強会の準備用チャンネル"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1554192701.000500",
+        "user": "UGPH97FDW",
+        "text": "<@UGPH97FDW>さんがチャンネルに参加しました",
+        "inviter": "UGQV9DXRC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1554192702.000700",
+        "user": "UGQ2ENZD0",
+        "text": "<@UGQ2ENZD0>さんがチャンネルに参加しました",
+        "inviter": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "0d149600-26ec-4b99-939a-65c66391c2b6",
+        "type": "message",
+        "text": "todo",
+        "user": "UGQV9DXRC",
+        "ts": "1554192729.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554192729.000900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1554193518.004700",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554193518.004700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0e43936b-6ad0-4924-b56c-db42deef3d7a",
+        "type": "message",
+        "text": "図書館から借りた本",
+        "user": "UGQV9DXRC",
+        "ts": "1554193147.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554193147.001500",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1554193376.003200",
+        "reply_users": [
+            "UGPH97FDW"
+        ],
+        "replies": [
+            {
+                "user": "UGPH97FDW",
+                "ts": "1554193338.002700"
+            },
+            {
+                "user": "UGPH97FDW",
+                "ts": "1554193376.003200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f4d9df98-3a24-43ff-a151-d7d319894308",
+        "type": "message",
+        "text": "勉強お役立ちリンク",
+        "user": "UGQV9DXRC",
+        "ts": "1554193287.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554193287.002200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1554896287.000700",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554896287.000700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0109be1b-c758-463f-b0f3-60db5b910751",
+        "type": "message",
+        "text": "決定木ランダムフォレスト関連リンク",
+        "user": "UGQV9DXRC",
+        "ts": "1554193306.002500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554193306.002500",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1554885105.000400",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554193354.002900"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554885002.000100"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554885105.000400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fe1d2f2e-73e9-4446-9a2e-39f05b83269d",
+        "type": "message",
+        "text": "Python 1年生 体験してわかる！会話でまなべる！プログラミングのしくみ",
+        "user": "UGPH97FDW",
+        "ts": "1554193338.002700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554193147.001500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "61a97b5f-4bf8-4f66-8525-9e8200c73d61",
+        "type": "message",
+        "text": "決定木とランダムフォレストでタイタニックの生存者データを分析\n<http:\/\/www.randpy.tokyo\/entry\/python_random_forest>",
+        "user": "UGQV9DXRC",
+        "ts": "1554193354.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1554193361.000000"
+        },
+        "thread_ts": "1554193306.002500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "7c824ddc-6b49-4200-8291-ad8b04f073f4",
+        "type": "message",
+        "text": "わかるPython[決定版]",
+        "user": "UGPH97FDW",
+        "ts": "1554193376.003200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554193147.001500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "3bde2d29-02f7-4321-b1e5-6b380e7edc68",
+        "type": "message",
+        "text": "ニューラルネットワーク関連リンク",
+        "user": "UGPH97FDW",
+        "ts": "1554193424.004200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a369f0c4-ed2f-4b9e-98b0-5a20fd4dfa33",
+        "type": "message",
+        "text": "私はとりあえずタイタニックをやってみる",
+        "user": "UGQV9DXRC",
+        "ts": "1554193445.004500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554193445.004500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1554193724.005100",
+        "reply_users": [
+            "UGPH97FDW"
+        ],
+        "replies": [
+            {
+                "user": "UGPH97FDW",
+                "ts": "1554193724.005100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ae72d610-79fa-44f2-9856-a38d5057b61b",
+        "type": "message",
+        "text": "python関連のインストールしておいてほしいものを通知",
+        "user": "UGQV9DXRC",
+        "ts": "1554193518.004700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554192729.000900",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "8efbf4e6-669f-4789-a314-eafbd1083e40",
+        "type": "message",
+        "text": "引き続きアヤメの例をみてみる",
+        "user": "UGPH97FDW",
+        "ts": "1554193724.005100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554193445.004500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "d9237f27-b729-4684-b3e1-ce41fb875bd3",
+        "type": "message",
+        "text": "タイタニックのやつ、一応精度を出すところまではエラーなしで再現できた。意味はまだ不明～:koki_good:",
+        "user": "UGQV9DXRC",
+        "ts": "1554196058.006200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

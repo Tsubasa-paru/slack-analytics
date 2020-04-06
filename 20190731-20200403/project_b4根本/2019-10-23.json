@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "0ed2c234-a208-4361-a04c-96ae6c629f4d",
+        "type": "message",
+        "text": "宮本さんへの返却資料揃いましたので明日のゼミに持っていきます。",
+        "user": "UHC5VBV5E",
+        "ts": "1571893581.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

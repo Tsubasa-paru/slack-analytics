@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "2a122794-43ab-40a5-a584-b7e66f5bc007",
+        "type": "message",
+        "text": "今日は\n&gt; ・西野先生とのミーティングに参加いたしました\n&gt; ・年金の学生納付特例の手続きをしました",
+        "user": "UGQ2ENZD0",
+        "ts": "1554886097.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC",
+                    "UGPH97FDW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa0994e8-082b-4659-8523-08748506e4af",
+        "type": "message",
+        "text": "今日は\n&gt;・西野先生とのTMG\n&gt;・python勉強会の準備\n&gt;　　今までで一番詳しくてちゃんとしてそうなサイトみつけたのでこれにそって再度見直してます\n&gt;　　<https:\/\/lp-tech.net\/articles\/0QUUd>",
+        "user": "UGQV9DXRC",
+        "ts": "1554886131.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "IMACEL Academy -人工知能・画像解析の技術応用に向けて-| エルピクセル株式会社",
+                "title": "KaggleチュートリアルTitanicで上位3%以内に入るには。(0.82297) - IMACEL Academy -人工知能・画像解析の技術応用に向けて-| エルピクセル株式会社",
+                "title_link": "https:\/\/lp-tech.net\/articles\/0QUUd",
+                "text": "まだ機械学習の勉強を初めて4ヶ月ですが、色々やってみた結果、約7000人のうち200位ぐらいの0.82297という記録を出せたので、色々振り返りながら書いていきます。",
+                "fallback": "IMACEL Academy -人工知能・画像解析の技術応用に向けて-| エルピクセル株式会社: KaggleチュートリアルTitanicで上位3%以内に入るには。(0.82297) - IMACEL Academy -人工知能・画像解析の技術応用に向けて-| エルピクセル株式会社",
+                "thumb_url": "https:\/\/cdn.clipkit.co\/tenants\/86\/articles\/images\/000\/000\/257\/medium\/4e908bd6-9497-4668-aa50-66ffe064025a.png?1503832547",
+                "from_url": "https:\/\/lp-tech.net\/articles\/0QUUd",
+                "thumb_width": 640,
+                "thumb_height": 291,
+                "service_icon": "https:\/\/cdn.clipkit.co\/clipkit\/touch_icons\/square\/missing.png",
+                "id": 1,
+                "original_url": "https:\/\/lp-tech.net\/articles\/0QUUd"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smirk",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28C1A659-6A51-454B-8DEC-3F31C2D89C4B",
+        "type": "message",
+        "text": "2019\/04\/10\n・遅めの出勤\n・研究に関連ある本の読解(途中)\n",
+        "user": "UHEH8KZ7W",
+        "ts": "1554893935.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC",
+                    "UGPH97FDW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30e5e8e1-d0a0-4cd5-a72c-329c8eb48184",
+        "type": "message",
+        "text": "今日は\n・西野先生とミーティング\n・経営情報システムの授業\n・先日した予測モデルは線形回帰のもので実はニューラルネットワークが絡んでいなかった。線形回帰のモデル （from sklearn.model_selection import train_test_split）\n・なのでニューラルネットワークで医療費を回した。識別率(正解率)は10％前後、具体的な値段の推定もした。乱数や因数の値を変えて、訓練データとテストデータを入れ替えたりしてみた。（from sklearn.neural_network import MLPRegressor）\n\n明日は\n・数値が良くなっていくにはどうすればいいか調べる。因子の数の調整や欠損値の扱いなどもいじってみる。\n・進捗まとめ\n・学生ゼミ用に関連研究調べてみる",
+        "user": "UGPH97FDW",
+        "ts": "1554901622.007600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGPH97FDW",
+            "ts": "1554901675.000000"
+        },
+        "reactions": [
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

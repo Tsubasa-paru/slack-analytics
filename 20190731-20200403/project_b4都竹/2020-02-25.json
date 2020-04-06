@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "0a83f76d-fb63-4156-8bc6-e84260da5f17",
+        "type": "message",
+        "text": "今日中に出したいと思います。",
+        "user": "UHG1M1NQ6",
+        "ts": "1582687271.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B3CTT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日中に出したいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

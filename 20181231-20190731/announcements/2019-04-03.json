@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "b20fdc5c-c609-494c-84db-61cf0f69b938",
+        "type": "message",
+        "text": "エンドノートにohkawaralabのアカウントを作成しました\n自分の情報を一つにまとめてマージしながら使ってください:koki_good:\n＊エンドノートアカウント情報＊\n&gt;ログインメールアドレス：ohkawaralab@gmail.com\n&gt;パスワード：0kawaraL@b\n&gt;※パスワードの最初の一文字は数字のゼロ\n＊デスクトップバージョンのログイン方法＊\n&gt;①タブのEdit→Preference\n&gt;②sync→Endnote Accountへ上記のメールとパスを記入\n＊レファレンスの同期方法＊\n&gt;SearchPanelの右から4個目の絵文字(→みたいなもの)をクリック",
+        "user": "UGQV9DXRC",
+        "ts": "1554279061.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554279061.001000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1554455345.007900",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554455345.007900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

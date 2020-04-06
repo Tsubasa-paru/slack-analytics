@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "4bb08685-4a4d-4759-9ef8-c061cff608ec",
+        "type": "message",
+        "text": "メディア情報学プログラム・コースの卒論と修論の中間発表について\nタイトルと予稿の締め切りを、昨年同様以下のように決めたいと考えております。\n\nご意見がございましたら今週中を目処にご連絡いただけますでしょうか。\nお手数をおかけしますが、ご確認をどうぞよろしくお願い致します。\n\n（卒論）\n　タイトル　9\/13(金)　23:59\n　　予稿　　9\/20(金)　23:59\n　　発表　　9\/24(火)\n（修論）\n　タイトル　9\/17(火)　23:59\n　　予稿　　9\/27(金)　23:59\n　　発表　　9\/30(月)",
+        "user": "UHFLB6JPR",
+        "ts": "1564387832.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

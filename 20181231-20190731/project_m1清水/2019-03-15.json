@@ -1,0 +1,38 @@
+[
+    {
+        "type": "message",
+        "text": "来年度に導入するPCの見積もり",
+        "files": [
+            {
+                "id": "FH0V0SAMQ",
+                "created": 1552719591,
+                "timestamp": 1552719591,
+                "name": "ぼくのわたしのおパソコンを考える会.txt",
+                "title": "ぼくのわたしのおパソコンを考える会.txt",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 7792,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FH0V0SAMQ\/___________________________________________________.txt?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FH0V0SAMQ\/download\/___________________________________________________.txt?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FH0V0SAMQ\/___________________________________________________.txt",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FH0V0SAMQ-7a9d5428cf",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1552719592.000100"
+    }
+]

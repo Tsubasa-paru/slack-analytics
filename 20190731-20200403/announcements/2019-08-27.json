@@ -1,0 +1,166 @@
+[
+    {
+        "client_msg_id": "dcfd2dbb-c482-4d04-8595-78e3cce858f1",
+        "type": "message",
+        "text": "<@UGPH97FDW> <@UHFLC6N4X> 野澤（岡田）へ\nPCへのインストールはどんな感じ？\n研究室のデスクトップではできそう？",
+        "user": "UHFLB6JPR",
+        "ts": "1566897486.004400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ba728842-084a-4c98-b98c-48b0430bd24e",
+        "type": "message",
+        "text": "<@UHFLC6N4X>\n<https:\/\/teratail.com\/search?q=python+%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB>\n\n鈴木さんに、teratailっていう質問サイトを教えてもらった！",
+        "user": "UGPH97FDW",
+        "ts": "1566897797.005600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "python モジュール　インストールに関連する質問・回答の検索結果(1ページ目)｜teratail",
+                "title_link": "https:\/\/teratail.com\/search?q=python+%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB",
+                "text": "python モジュール　インストールに関連する質問・回答の検索結果です。｜teratail（テラテイル）はプログラミングに特化したQ&amp;Aサイトです。実現したい機能や作業中に発生したエラーについて質問すると、他のエンジニアから回答を得られます。",
+                "fallback": "python モジュール　インストールに関連する質問・回答の検索結果(1ページ目)｜teratail",
+                "from_url": "https:\/\/teratail.com\/search?q=python+%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB",
+                "service_icon": "https:\/\/teratail.com\/img\/ios\/apple-touch-icon.png",
+                "service_name": "teratail.com",
+                "id": 1,
+                "original_url": "https:\/\/teratail.com\/search?q=python+%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "166f7cb8-12f6-4cf9-a9ba-19f6ae67eb7d",
+        "type": "message",
+        "text": "以前からTeratailフル活用してますが解決せず死んでます。。\n先程Anaconda自体を再インストールしたら状態悪化しまして、、色々詰みです",
+        "user": "UHFLC6N4X",
+        "ts": "1566898274.008700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c4eb9008-edf2-447c-bb49-387d22c60fbb",
+        "type": "message",
+        "text": "<@UGPH97FDW> <@UHFLC6N4X>\n↑野澤の状況を再度確認したいです。\nデスクトップで分析したのかも",
+        "user": "UHFLB6JPR",
+        "ts": "1566971515.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566971515.001400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1566972872.002900",
+        "reply_users": [
+            "UGPH97FDW"
+        ],
+        "replies": [
+            {
+                "user": "UGPH97FDW",
+                "ts": "1566972872.002900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "355f20e4-0387-4694-bff5-03e5df058dc4",
+        "type": "message",
+        "text": "明後日金曜日のゼミは無しになりました。大河原先生に確認済みです。個別に相談ができるので、したい方は大河原先生に直接相談してください。",
+        "user": "UHEH8KZ7W",
+        "ts": "1566972637.002700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e56a7fc-ab9a-4f7e-931d-2ed9b221a9ad",
+        "type": "message",
+        "text": "デスクトップではまだしていないはず？\n現状野沢のノートはもう諦めて、別の選択肢で進めるしかない。",
+        "user": "UGPH97FDW",
+        "ts": "1566972872.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566971515.001400",
+        "parent_user_id": "UHFLB6JPR"
+    }
+]

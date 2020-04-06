@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "2de7a87b-35ed-464d-a918-1d543126d61b",
+        "type": "message",
+        "text": "<https:\/\/goo.gl\/maps\/jBX18ndpncqHob3Z6>",
+        "user": "UGQV9DXRC",
+        "ts": "1565071310.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "2-chōme-47-1 Kojimachō",
+                "title_link": "https:\/\/goo.gl\/maps\/jBX18ndpncqHob3Z6",
+                "text": "2-chōme-47-1 Kojimachō, Chofu, Tōkyō-to 182-0026, Japan",
+                "fallback": "2-chōme-47-1 Kojimachō",
+                "thumb_url": "https:\/\/maps.google.com\/maps\/api\/staticmap?center=35.6513128%2C139.54216373&zoom=18&size=256x256&language=en&markers=35.6513128%2C139.5427109&sensor=false&client=google-maps-frontend&signature=i5pJ594OwHvtGIV6IgqhEQfVIbw",
+                "from_url": "https:\/\/goo.gl\/maps\/jBX18ndpncqHob3Z6",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "https:\/\/www.google.com\/favicon.ico",
+                "service_name": "google.com",
+                "id": 1,
+                "original_url": "https:\/\/goo.gl\/maps\/jBX18ndpncqHob3Z6"
+            }
+        ]
+    }
+]

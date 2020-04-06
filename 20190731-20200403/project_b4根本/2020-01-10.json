@@ -1,0 +1,88 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/open?id=1SGvZBjJlV7Ddzvy-pk5PpGtzULm9G564>\n背景もうちょい",
+        "files": [
+            {
+                "id": "FSHCD0HR6",
+                "created": 1578667956,
+                "timestamp": 1578667956,
+                "name": "卒論_根本2019.docx",
+                "title": "卒論_根本2019.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 1781107,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1SGvZBjJlV7Ddzvy-pk5PpGtzULm9G564",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSHCD0HR6-f355c0fe32\/_____________2019_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSHCD0HR6-f355c0fe32\/_____________2019_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSHCD0HR6-f355c0fe32\/_____________2019_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSHCD0HR6-f355c0fe32\/_____________2019_480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSHCD0HR6-f355c0fe32\/_____________2019_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSHCD0HR6-f355c0fe32\/_____________2019_720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSHCD0HR6-f355c0fe32\/_____________2019_800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1132,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSHCD0HR6-f355c0fe32\/_____________2019_960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 678,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSHCD0HR6-f355c0fe32\/_____________2019_1024.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 1449,
+                "thumb_tiny": "AwAwACHToJxRQc9qAAHNFJz7UtABRRRQAUUjHAzTSQeuaAH0U1cds06gAooooARuRSD6\/pTiM9aQACgBaKKKACiiigD\/2Q==",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FSHCD0HR6\/_____________2019.docx",
+                "is_starred": false,
+                "external_id": "1SGvZBjJlV7Ddzvy-pk5PpGtzULm9G564",
+                "external_url": "https:\/\/drive.google.com\/open?id=1SGvZBjJlV7Ddzvy-pk5PpGtzULm9G564",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ucuWo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1SGvZBjJlV7Ddzvy-pk5PpGtzULm9G564"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n背景もうちょい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "x_files": [
+            "FSHCD0HR6"
+        ],
+        "ts": "1578667954.000300",
+        "client_msg_id": "3daa5544-b08a-452d-a916-947a139d6243"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "client_msg_id": "6f4dedc0-756a-439e-b9dd-1c57542ab65d",
+        "type": "message",
+        "text": "<https:\/\/ohkawaralab.slack.com\/archives\/CGSKZQ63H\/p1554620615009500>\n栄養状態の評価に対するフィードバック\n&gt; ・WebAPIで足りない食品を用いたレシピを提示する\n&gt; ・楽天レシピAPIが利用できそう\n&gt; ・クックパッドなどはAPIを公開してはいない模様\n&gt; ・WebViewを用いて直接検索結果を提示する手法もあるが，APIでできるに越したことはないのでそっちを試す予定",
+        "user": "UGQ2ENZD0",
+        "ts": "1554973940.002300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGSKZQ63H\/p1554620615009500",
+                "fallback": "[April 7th, 2019 12:03 AM] something.my.revoluti: 各要因への評価とフィードバックについて\n身体活動\n&gt; ・これまでの(山崎先輩が使ってきたような)フィードバックシートをベースに作成\n&gt;     ・+東海道五十三次などを実装する\n&gt; ・1週間の目標歩数は56000歩をベースに\n&gt;     ・1日あたり8000歩(中之条研究)\n\n栄養状態\n&gt; ・食品摂取多様性得点で評価\n&gt; ・4段階の詳細なスクリーニングは時間がかかるので，摂った摂らなかったで評価\n&gt;    ・ 運動教室は隔週開催なので，「この1週間で食べたものはなにか」の方が良いと思われる\n&gt;    ・ 清野さんや遠峰さんはYes\/Noで作っている(いろいろ食べポ)\n&gt; ・簡易版と詳細版はどちらも用意するべき\n\n認知機能\n&gt; ・おもにトレイルメイキングテストを元に評価\n&gt;     ・実際のTMTのプロトコルに従って機能を実装する\n&gt;     ・TypeA説明 -&gt; 実施 -&gt; TypeB説明 -&gt; 実施\n&gt;     ・タブレットはA4用紙サイズではないため，縮小版を実装する\n&gt; ・記憶力ゲーム(頭の体操システム)も同一設定なら評価可能か？\n&gt;     ・先生方と要相談\n&gt; ・Mattixは評価に使えないと思われるため，認知力トレーニングツールとしてのみ運用する\n\n コミュニケーション支援\n&gt; ・ 共想法は時間がないとできない\n&gt;    ・ 10人いたとして，一人2分でも20分かかる\n&gt;    ・ 説明を挟むともっとかかる\n&gt;・ 座談会が目的ではないので，休憩時間でもできる手法が必要\n&gt;     ・下條さんは休憩時間内で頭の体操をしたりしている\n&gt;     ・ 発想のベースに使えるか？\n&gt;・ 評価にはコミュニケーション能力の評価尺度を用いる\n&gt;    ・ JICS\n&gt;        ・<https:\/\/www.jstage.jst.go.jp\/article\/jjesp1971\/33\/3\/33_3_224\/_pdf\/-char\/ja>\n&gt;    ・CCS\n&gt;        ・ <http:\/\/facweb.northseattle.edu\/jreis\/cmn165\/communication_competence_scale.htm>",
+                "ts": "1554620615.009500",
+                "author_id": "UGQ2ENZD0",
+                "author_subname": "Shumpei Shimizu",
+                "channel_id": "CGSKZQ63H",
+                "channel_name": "project_m1清水",
+                "is_msg_unfurl": true,
+                "text": "各要因への評価とフィードバックについて\n身体活動\n&gt; ・これまでの(山崎先輩が使ってきたような)フィードバックシートをベースに作成\n&gt;     ・+東海道五十三次などを実装する\n&gt; ・1週間の目標歩数は56000歩をベースに\n&gt;     ・1日あたり8000歩(中之条研究)\n\n栄養状態\n&gt; ・食品摂取多様性得点で評価\n&gt; ・4段階の詳細なスクリーニングは時間がかかるので，摂った摂らなかったで評価\n&gt;    ・ 運動教室は隔週開催なので，「この1週間で食べたものはなにか」の方が良いと思われる\n&gt;    ・ 清野さんや遠峰さんはYes\/Noで作っている(いろいろ食べポ)\n&gt; ・簡易版と詳細版はどちらも用意するべき\n\n認知機能\n&gt; ・おもにトレイルメイキングテストを元に評価\n&gt;     ・実際のTMTのプロトコルに従って機能を実装する\n&gt;     ・TypeA説明 -&gt; 実施 -&gt; TypeB説明 -&gt; 実施\n&gt;     ・タブレットはA4用紙サイズではないため，縮小版を実装する\n&gt; ・記憶力ゲーム(頭の体操システム)も同一設定なら評価可能か？\n&gt;     ・先生方と要相談\n&gt; ・Mattixは評価に使えないと思われるため，認知力トレーニングツールとしてのみ運用する\n\n コミュニケーション支援\n&gt; ・ 共想法は時間がないとできない\n&gt;    ・ 10人いたとして，一人2分でも20分かかる\n&gt;    ・ 説明を挟むともっとかかる\n&gt;・ 座談会が目的ではないので，休憩時間でもできる手法が必要\n&gt;     ・下條さんは休憩時間内で頭の体操をしたりしている\n&gt;     ・ 発想のベースに使えるか？\n&gt;・ 評価にはコミュニケーション能力の評価尺度を用いる\n&gt;    ・ JICS\n&gt;        ・<https:\/\/www.jstage.jst.go.jp\/article\/jjesp1971\/33\/3\/33_3_224\/_pdf\/-char\/ja>\n&gt;    ・CCS\n&gt;        ・ <http:\/\/facweb.northseattle.edu\/jreis\/cmn165\/communication_competence_scale.htm>",
+                "author_name": "Shumpei Shimizu",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQ2ENZD0",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/a2c1eb36c06ff6709cbc9533ed9d2551.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0008-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGSKZQ63H\/p1554620615009500",
+                "footer": "#project_m1清水 に投稿"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHY2W01LN",
+                "created": 1555040521,
+                "timestamp": 1555040521,
+                "name": "ゼミ資料20190412.pdf",
+                "title": "ゼミ資料20190412.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 324277,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHY2W01LN\/____________20190412.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHY2W01LN\/download\/____________20190412.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHY2W01LN-301df23cd0\/____________20190412_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FHY2W01LN\/____________20190412.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHY2W01LN-34189f043d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1555040521.000100",
+        "client_msg_id": "7e65fcec-a5c4-40af-a0fe-7000b48d3299"
+    }
+]

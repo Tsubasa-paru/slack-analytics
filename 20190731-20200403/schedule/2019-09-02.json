@@ -1,0 +1,117 @@
+[
+    {
+        "client_msg_id": "e412d52e-be3e-429d-9680-b927d54e1e46",
+        "type": "message",
+        "text": "すみません、親の体調が回復せず明日病院に同行することになったのでゼミに出られません。申し訳ございません。",
+        "user": "UHG1M1NQ6",
+        "ts": "1567432127.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567432127.001300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1567497380.004100",
+        "reply_users": [
+            "UGQV9DXRC",
+            "UHG1M1NQ6"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567433195.005500"
+            },
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1567497380.004100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1567497380.004100"
+    },
+    {
+        "client_msg_id": "13bfacca-1ffd-4521-b130-dca9fbdcea3b",
+        "type": "message",
+        "text": "了解:hand:\n申し訳ないことは全くないんだけど、卒業に関わるイベントが近いのでそこだけは準備してこ～\n\nラボに来れなくてもslackやgoogledriveを使って質問とか相談してくださいな\n進捗が出たら書いてくれるだけでもチェックになるので",
+        "user": "UGQV9DXRC",
+        "ts": "1567433195.005500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567432127.001300",
+        "parent_user_id": "UHG1M1NQ6"
+    },
+    {
+        "client_msg_id": "c1a6c63a-a846-4f45-97f3-1594a9893add",
+        "type": "message",
+        "text": "連絡が遅れてしまい申し訳ございません。昨日から引き続き進路について家族と相談中でして、ゼミに出られないのを報告し忘れていました。\n本当にごめんなさい。",
+        "user": "UHEH8KZ7W",
+        "ts": "1567491219.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a8ae71d-a827-4332-a2a2-949fbcc5b93e",
+        "type": "message",
+        "text": "お疲れさま、謝ることじゃないよ\n自分にとって良い進路を選べるとよいね、応援してます:pray:",
+        "user": "UGQV9DXRC",
+        "ts": "1567493156.003900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

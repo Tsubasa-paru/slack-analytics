@@ -1,0 +1,185 @@
+[
+    {
+        "client_msg_id": "61664aaa-9deb-448b-b2b2-8a4c50f1ec32",
+        "type": "message",
+        "text": "いるね。",
+        "user": "UGPH97FDW",
+        "ts": "1559982242.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9B24308C-5D1B-4443-AE06-F02CF7657A01",
+        "type": "message",
+        "text": "見にくい",
+        "user": "UHFLB6JPR",
+        "ts": "1559986387.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "参考にしました",
+        "files": [
+            {
+                "id": "FK6TP5RNV",
+                "created": 1559988357,
+                "timestamp": 1559988357,
+                "name": "ECSSポスターokada.ver6.pdf",
+                "title": "ECSSポスターokada.ver6.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGPH97FDW",
+                "editable": false,
+                "size": 309204,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK6TP5RNV\/ecss____________okada.ver6.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK6TP5RNV\/download\/ecss____________okada.ver6.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FK6TP5RNV-1af738f217\/ecss____________okada.ver6_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 6063,
+                "thumb_pdf_h": 3421,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGPH97FDW\/FK6TP5RNV\/ecss____________okada.ver6.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FK6TP5RNV-3c90c038f6",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FK6TP5RQ9",
+                "created": 1559988357,
+                "timestamp": 1559988357,
+                "name": "ECSSポスターokada.ver6.pptx",
+                "title": "ECSSポスターokada.ver6.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGPH97FDW",
+                "editable": false,
+                "size": 217112,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK6TP5RQ9\/ecss____________okada.ver6.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK6TP5RQ9\/download\/ecss____________okada.ver6.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FK6TP5RQ9-0b8a41f84b\/ecss____________okada.ver6_converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FK6TP5RQ9-0b8a41f84b\/ecss____________okada.ver6_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 6064,
+                "thumb_pdf_h": 3421,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGPH97FDW\/FK6TP5RQ9\/ecss____________okada.ver6.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FK6TP5RQ9-6676370359",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGPH97FDW",
+        "ts": "1559988364.001400",
+        "client_msg_id": "15144238-2108-4db0-9a25-33be07351e40"
+    },
+    {
+        "client_msg_id": "3B46B42E-1F31-4924-B3C0-4215A25F447E",
+        "type": "message",
+        "text": "Resultの赤字、ourは含まなくてもいいかも？",
+        "user": "UGQV9DXRC",
+        "ts": "1559995264.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "53F83ADF-5057-4B52-B9CD-B55DCD02E25A",
+        "type": "message",
+        "text": "細かい所で申し訳ないんだけど、文と文、図と図などの間隔が均等じゃない感じがする。\nObjective はjがしたのバーに被るからずらした？かもしれないけど、それなら他もずらした方が良いし、無理そうだったらせめてintroductionとdiscussion だけでも合わせた方が良い",
+        "user": "UGQV9DXRC",
+        "ts": "1559995489.004900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "EE1A81C0-057E-47CB-8D63-87768A6F2757",
+        "type": "message",
+        "text": "あと棒グラフ中の凡例を右上に上げたら少し余裕が出ると思うから、table1の上に少し間隔を入れたり図の名前と図の間の感覚を少し開けてもいいかも",
+        "user": "UGQV9DXRC",
+        "ts": "1559995652.007100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

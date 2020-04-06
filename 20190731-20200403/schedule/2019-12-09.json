@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "0F5D74B4-E972-44DD-BCE0-5BE825B8A8D2",
+        "type": "message",
+        "text": "昨日から風邪を引いてしまい、寝込んでいます。\n申し訳ないのですが、今日の学生ゼミを休ませて頂きたいです。",
+        "user": "UHEH8KZ7W",
+        "ts": "1575929530.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7d992aba-e972-401a-a55b-0b59df428f38",
+        "type": "message",
+        "text": "おぉ、、お大事に！",
+        "user": "UGQV9DXRC",
+        "ts": "1575949497.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

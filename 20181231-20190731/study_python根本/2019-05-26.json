@@ -1,0 +1,140 @@
+[
+    {
+        "client_msg_id": "47eb070b-90c6-48c3-bde3-8ae7ab235bdc",
+        "type": "message",
+        "text": "今更ですが、csvの読み取りまで…\n<https:\/\/github.com\/nemawatt\/Lab_Python\/blob\/master\/python_study\/0527py.ipynb>",
+        "user": "UHC5VBV5E",
+        "ts": "1558934089.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "nemawatt\/Lab_Python",
+                "title_link": "https:\/\/github.com\/nemawatt\/Lab_Python\/blob\/master\/python_study\/0527py.ipynb",
+                "text": "For Python training. Contribute to nemawatt\/Lab_Python development by creating an account on GitHub.",
+                "fallback": "GitHub: nemawatt\/Lab_Python",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/34552688?s=400&v=4",
+                "from_url": "https:\/\/github.com\/nemawatt\/Lab_Python\/blob\/master\/python_study\/0527py.ipynb",
+                "thumb_width": 420,
+                "thumb_height": 420,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/nemawatt\/Lab_Python\/blob\/master\/python_study\/0527py.ipynb"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "799761c5-31f9-43d2-b235-c8e13941b653",
+        "type": "message",
+        "text": "お、いいね",
+        "user": "UGQV9DXRC",
+        "ts": "1558934760.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1c391aca-4d06-4ebd-a914-b42932a41a33",
+        "type": "message",
+        "text": "そしたら、次に欠損値の処理をする\n&gt;データとして取れてない値(欠損値)があるとこの後の処理でエラーが出ちゃう\n&gt;そこを何かの値で埋めるか、欠損値自体を消す作業が必要",
+        "user": "UGQV9DXRC",
+        "ts": "1558935151.004400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1558935175.000000"
+        }
+    },
+    {
+        "client_msg_id": "72d40dcc-8cec-4877-9ae1-90f875161c5f",
+        "type": "message",
+        "text": "とゆうことで、下の二つをやってみて\n&gt;①データの中に欠損値が入ってる列(ラベル)を探す\n&gt;②欠損値をそのラベルの中央値で埋める",
+        "user": "UGQV9DXRC",
+        "ts": "1558935284.007300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1558935314.000000"
+        }
+    },
+    {
+        "client_msg_id": "559ae974-76bc-49f3-b70a-d3c49124a916",
+        "type": "message",
+        "text": "わかりました!",
+        "user": "UHC5VBV5E",
+        "ts": "1558935946.008400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

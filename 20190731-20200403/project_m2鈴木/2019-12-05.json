@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "8fc25fc8-ecf6-404d-91e5-68313f3f4fb0",
+        "type": "message",
+        "text": "タイトル案\n機械学習を用いた日本人高齢者の生活活動分類",
+        "user": "UGQV9DXRC",
+        "ts": "1575603127.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575603127.001100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1575603142.001200",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1575603142.001200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "65104ba6-3d80-4776-b4cd-15e07d9cd7b5",
+        "type": "message",
+        "text": "以前\n高齢者を対象とした機械学習による生活活動分類",
+        "user": "UGQV9DXRC",
+        "ts": "1575603142.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575603127.001100",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

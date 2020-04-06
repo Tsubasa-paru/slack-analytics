@@ -1,0 +1,151 @@
+[
+    {
+        "client_msg_id": "a357d0f5-1c5a-4151-9e94-705717d679f0",
+        "type": "message",
+        "text": "運動疫学会　投稿について\n投稿規定ページ\n<http:\/\/jaee.umin.jp\/REE.html>\n<http:\/\/jaee.umin.jp\/doc\/kitei201909.pdf>\nファイルUP先\n<https:\/\/drive.google.com\/open?id=168QGv6AemL-CmPlUfO9sdqmrRjO01qhV>",
+        "user": "UGQV9DXRC",
+        "ts": "1582260198.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1583307500.000000"
+        },
+        "attachments": [
+            {
+                "title": "会誌 ｜日本運動疫学会",
+                "title_link": "http:\/\/jaee.umin.jp\/REE.html",
+                "text": "日本運動疫学会（旧：運動疫学研究会）オフィシャルサイト",
+                "fallback": "会誌 ｜日本運動疫学会",
+                "from_url": "http:\/\/jaee.umin.jp\/REE.html",
+                "service_icon": "http:\/\/jaee.umin.jp\/favicon.ico",
+                "service_name": "jaee.umin.jp",
+                "id": 1,
+                "original_url": "http:\/\/jaee.umin.jp\/REE.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aGW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "運動疫学会　投稿について\n投稿規定ページ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/jaee.umin.jp\/REE.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/jaee.umin.jp\/doc\/kitei201909.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nファイルUP先\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=168QGv6AemL-CmPlUfO9sdqmrRjO01qhV"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582260198.001200",
+        "reply_count": 6,
+        "reply_users_count": 1,
+        "latest_reply": "1583385356.000900",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1582260518.001500"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1583307574.000200"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1583384978.000300"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1583385064.000500"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1583385228.000700"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1583385356.000900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4e0f7082-162a-4ed3-b9f7-77ea71387f62",
+        "type": "message",
+        "text": "タイトル決め\n抄録",
+        "user": "UGQV9DXRC",
+        "ts": "1582260518.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uPiS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "タイトル決め\n抄録"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582260198.001200",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

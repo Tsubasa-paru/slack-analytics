@@ -1,0 +1,39 @@
+[
+    {
+        "type": "message",
+        "text": "現段階です。結果など書く内容は抄録の範囲だとここまでです。\nレイアウトなどはまだ規定がわからないのであまり気にしていません。",
+        "files": [
+            {
+                "id": "FLW5TU2DR",
+                "created": 1565353069,
+                "timestamp": 1565353069,
+                "name": "日本体力医学会ポスター岡田.pptx",
+                "title": "日本体力医学会ポスター岡田.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGPH97FDW",
+                "editable": false,
+                "size": 949321,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLW5TU2DR\/_______________________________________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLW5TU2DR\/download\/_______________________________________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGPH97FDW\/FLW5TU2DR\/_______________________________________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FLW5TU2DR-52bc1a8ef7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGPH97FDW",
+        "display_as_bot": false,
+        "ts": "1565353077.002800",
+        "client_msg_id": "389c42e7-069a-4242-a8df-da0a10c2b322"
+    }
+]

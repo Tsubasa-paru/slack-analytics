@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHKELK895",
+                "created": 1554167730,
+                "timestamp": 1554167730,
+                "name": "山崎_修論提出版.pdf",
+                "title": "山崎_修論提出版.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 3010765,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/file\/d\/1S8gWfHUN0gKk7Ts-lAQrKr48f_ZZPRp5\/view?usp=drivesdk",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHKELK895-6283bbe56c\/_______________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FHKELK895\/______________________.pdf",
+                "is_starred": false,
+                "external_id": "1S8gWfHUN0gKk7Ts-lAQrKr48f_ZZPRp5",
+                "external_url": "https:\/\/drive.google.com\/file\/d\/1S8gWfHUN0gKk7Ts-lAQrKr48f_ZZPRp5\/view?usp=drivesdk",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1554181396.000100",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

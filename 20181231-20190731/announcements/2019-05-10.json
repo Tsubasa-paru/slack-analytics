@@ -1,0 +1,108 @@
+[
+    {
+        "client_msg_id": "3693B34A-F7CC-45EE-9B64-2C92F0B586AA",
+        "type": "message",
+        "text": "大河原先生，清水君\n \n　岡田です．\n　高田さんより，IPアドレスを発行してもらいました．以下を使って下さい．\n \n172.21.194.33",
+        "user": "UHFLB6JPR",
+        "ts": "1557540274.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "55151817-050B-4A55-A95E-4A06F6068E69",
+        "type": "message",
+        "text": "ルーターもハブもあるし、ネットワークは開通できるはず\nLANケーブルは足りてる？",
+        "user": "UHFLB6JPR",
+        "ts": "1557540341.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557540341.001900",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1557540992.002300",
+        "reply_users": [
+            "UGQ2ENZD0"
+        ],
+        "replies": [
+            {
+                "user": "UGQ2ENZD0",
+                "ts": "1557540862.002000"
+            },
+            {
+                "user": "UGQ2ENZD0",
+                "ts": "1557540992.002300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "783f348b-a144-479c-aec5-4219da30d5b7",
+        "type": "message",
+        "text": "足りていると思います．かなり長めのLANケーブルが403にいくつか余っているので，そちらが使えると思っています．断線等で使えない場合は購入が必要になるかもしれませんが，まずは開通できるか確認してみたいと思います．\nまた各PCにつなぐケーブルは，403,405で使っているものをそのまま506に持っていこうと考えています．",
+        "user": "UGQ2ENZD0",
+        "ts": "1557540862.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557540341.001900",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "8870e5f7-cab5-42e9-9740-b35286791834",
+        "type": "message",
+        "text": "またルーターはプリンタ台かその近辺の壁に設置しようかと考えています．",
+        "user": "UGQ2ENZD0",
+        "ts": "1557540992.002300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557540341.001900",
+        "parent_user_id": "UHFLB6JPR"
+    }
+]

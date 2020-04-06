@@ -1,0 +1,240 @@
+[
+    {
+        "client_msg_id": "c4f0a449-0f94-4f22-9dc6-5fe948f2d4cd",
+        "type": "message",
+        "text": "<@UGPH97FDW> <@UGQ2ENZD0> <@UHEH8KZ7W>\n明日の教室の会場は畳なので、裸足または靴下です",
+        "user": "UHFLB6JPR",
+        "ts": "1560323581.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560323581.001500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1560324984.001600",
+        "reply_users": [
+            "UGQ2ENZD0"
+        ],
+        "replies": [
+            {
+                "user": "UGQ2ENZD0",
+                "ts": "1560324984.001600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "514015f9-76ef-4cc1-94d4-aaf0dc9ed798",
+        "type": "message",
+        "text": "ありがとうございます",
+        "user": "UGQ2ENZD0",
+        "ts": "1560324984.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560323581.001500",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "92356b31-4f4c-4cc1-a859-2005e14870e2",
+        "type": "message",
+        "text": "<@UGPH97FDW><@UGQ2ENZD0> <@UGQV9DXRC> 鍵の管理をちゃんとしてください\n100円ショップ行けばキーホルダーとかあると思うので、必要な分を購入してなくさないように準備をお願いします。\n合計1000円くらいであれば払います。",
+        "user": "UHFLB6JPR",
+        "ts": "1560327105.004400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "df6c702e-f0b4-46ad-8f38-4099c8424ffb",
+        "type": "message",
+        "text": "運動教室中の30分の中でやること\n*頭の体操*\n```\n- 2人組を組んでもらう\n    - 奇数人数の場合は3人組でも可\n\n- タブレットを起動し，｢健康支援｣とかかれたアイコンをタッチしてアプリを立ち上げる\n- 左のメニューバーから，｢頭の体操｣をタッチする\n- 右のメニューにでてきた｢図形｣をタッチする\n- ｢-｣ボタンを押し，難易度を1にする\n- ゲームを開始する\n\n- 画面に表示された絵柄の並びを記憶するよう指示する\n    - ｢画面に表示された絵柄の並びを覚えてください｣\n- 参加者全員が覚えられたか確認する\n    - ｢みなさん覚えられましたか?｣\n- 画面右下の｢覚えた｣ボタンをタッチさせる\n    - ｢ふたりとも覚えたと思ったら｢覚えた｣ボタンをタッチしてください｣\n\n- ハテナになった虫食いの絵柄をタッチさせる\n    - ｢すると絵柄のひとつがハテナになります．ハテナをタッチしてください．｣\n- ダイアログにでてきた絵柄から，もとあった絵柄を選択させる\n    - ｢そうしますと画面に絵柄が4つ表示されます．ハテナの位置にあった絵柄を選んでください．｣\n- 答え合わせさせる\n    - ｢ハテナの虫食いが埋められたら，右下の答え合わせボタンをおしてください｣\n\n- 参加者の理解度に応じ，上記の流れを繰り返す\n- 理解が進んだところで，学生が少グループを見回りながら，自由にゲームを実施してもらう\n```\n*単語づくりゲーム*\n```\n- 2人組を組んでもらう\n- ペンと記入用紙を配る\n\n- 左のメニューバーを下にスクロールし，｢単語作りゲーム｣を選択する\n\n- 画面にでてきたひらがなのチップを，二人で取り合ってもらう\n    - 赤い三角がある側の人が青いチップをタッチする\n\n- 互いに6枚取り終わると，画面が切り替わる\n- 二人で取った12個のひらがなを組み合わせて，意味のある単語を思いつく限りたくさん書き出す\n\n- 2分後，単語の数を数えて点数を出す\n- 全体で結果を共有する\n```",
+        "user": "UGQ2ENZD0",
+        "ts": "1560333555.004700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1560333574.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FKGKW9FRB",
+                "created": 1560334171,
+                "timestamp": 1560334171,
+                "name": "単語作りゲームで使う紙.docx",
+                "title": "単語作りゲームで使う紙.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 12524,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKGKW9FRB\/_________________________________.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKGKW9FRB\/download\/_________________________________.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKGKW9FRB-6797db2b0b\/__________________________________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKGKW9FRB-6797db2b0b\/__________________________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FKGKW9FRB\/_________________________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FKGKW9FRB-7ed62f3f3a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1560334172.004900",
+        "client_msg_id": "9d4caab9-e41e-4362-89b3-9e6e74d961e9"
+    },
+    {
+        "client_msg_id": "7C860078-FD64-45F8-A977-068262388F6E",
+        "type": "message",
+        "text": "↑文字のサイズを教えて",
+        "user": "UHFLB6JPR",
+        "ts": "1560334541.006100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "602a4247-01d3-4c44-a792-f41c1b767550",
+        "type": "message",
+        "text": "上の文字が18pt，下の点数が14ptです",
+        "user": "UGQ2ENZD0",
+        "ts": "1560334616.006600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C0059FE6-DA13-4356-942B-EE050D393F44",
+        "type": "message",
+        "text": "小さいかも",
+        "user": "UHFLB6JPR",
+        "ts": "1560334754.006900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8ffa940f-1d66-47f3-8fbb-481627503475",
+        "type": "message",
+        "text": "12ptで印刷してみたところ小さかったので14ptにしました。印刷した感じではちょうどいいと思いこれにしました",
+        "user": "UGQ2ENZD0",
+        "ts": "1560334834.008500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

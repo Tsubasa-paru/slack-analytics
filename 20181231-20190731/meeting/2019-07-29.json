@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "f3c48bed-e42d-405e-bfeb-92da23570aa7",
+        "type": "message",
+        "text": "17時に締め切ります～",
+        "user": "UGQV9DXRC",
+        "ts": "1564386733.003700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

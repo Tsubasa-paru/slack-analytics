@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "50d49b70-7283-499c-8fc1-ced90944fff6",
+        "type": "message",
+        "text": "院試面接\n&gt;Q.なぜ大学院にいくか？\n&gt;Q.大学院で何を学びたいか？\n&gt;Q.学部では何を研究していて、大学院では何をする予定か？\n&gt;Q.テストの点数自己評価\n&gt;Q.どうやって勉強してきたか(鈴木が外部だったので)",
+        "user": "UGQV9DXRC",
+        "ts": "1565064062.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

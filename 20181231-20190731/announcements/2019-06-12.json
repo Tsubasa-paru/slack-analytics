@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "EB429387-556A-49D7-916A-725155E93393",
+        "type": "message",
+        "text": "<@UGPH97FDW> \nDear Dr. Ohkawara,\n\nMy name is Riddhi Shah, and I work in the capacity of Assistant Managing Editor, Centre of Excellence for Medicine, Editage. I am extremely concerned to have learnt of your feedback for TEXPG_6. \n\nPlease rest assured that we will do everything possible to rectify this situation and alleviate your concerns. To this end, we would like to start by offering a complete recheck of the document.\n \nIn light of your enquiry, we assessed the edited document and found it to not adhere to our general quality standards. Thus, I believe you’re vindicated in your reasons for feeling such disappointment. We sincerely apologize for these shortcomings on the behalf of the editor. We have shared detailed feedback with the editor to ensure that such instances do not recur. Moreover, we shall ensure that your future assignments are not sent across to this editor.\n \nIn line with our quality guarantee, we will get the entire manuscript rechecked by another senior editor focusing on areas deemed as inadequate.  I hope this arrangement is suitable for you. If you have made changes since the last round of editing, I request you to provide the revised document for further editing. We will begin as soon as you provide confirmation for the same.\n \nMoreover, as a token of our apology, I have waived off the entire fee of the assignment - TEXPG_6. We hope these measures to go to some length to alleviate your concerns here.\n \nPlease feel free to get back to me if you require any further assistance. I will be more than happy to assist you.\n \nI look forward to your patience and continued support. \n \nSincerely,\nRiddhi Shah\nAssistant Managing Editor\nCenter of Excellence for Medicine\nEditage",
+        "user": "UHFLB6JPR",
+        "ts": "1560339785.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "custom_ok",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

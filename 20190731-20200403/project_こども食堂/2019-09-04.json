@@ -1,0 +1,4101 @@
+[
+    {
+        "client_msg_id": "4be33930-31ca-43f8-b939-33eb6ea9759f",
+        "type": "message",
+        "text": "明日大河原が電話します。\n運動の部分は個別対応するとして、それ以外は対応できそうですか？",
+        "user": "UHFLB6JPR",
+        "ts": "1567581316.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4734b984-3a7a-4402-ad5f-8c753bf54f0a",
+        "type": "message",
+        "text": "佐藤研の見学については、アメフト部から\n屋上に出るときに少し大きい段差がありますが、そこを持ち上げてあげれば広さ的には屋上をみんなと同じように回ることは可能だと思います。\nと意見をもらってます",
+        "user": "UGQV9DXRC",
+        "ts": "1567582671.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3b8b58b9-3116-417b-89e1-ecb71278c17c",
+        "type": "message",
+        "text": "アイスに関しては問題ありません",
+        "user": "UGQV9DXRC",
+        "ts": "1567582683.002300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b4a1ed9a-6f05-4ba4-befe-434aaad048d0",
+        "type": "message",
+        "text": "もう一件、岡田くんからです\n以下のようなお電話がありました。\n富士見台で、キャンセル待ちに該当する方です。\n\n「昨日ネットで申し込みをしたのだが、受付が完了したのかしていないのか、抽選中なのか漏れたのかなど、メールの返信など何もないから不安。\n個人情報を晒しただけみたい」\n\n担当の者が不在なので、金曜日までには折り返し電話をさせていただく。",
+        "user": "UGQV9DXRC",
+        "ts": "1567584086.003400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4d2b375e-4337-4fff-a852-f9ade9809fdf",
+        "type": "message",
+        "text": "現在私がキャンセル待ち等の返信をできる状況にないのですが、夜にはメールの対応ができると思います。",
+        "user": "UGQV9DXRC",
+        "ts": "1567584130.004500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "お申し込み数がどちらも溢れてきているのですが、募集は終了としてよろしいでしょうか？",
+        "files": [
+            {
+                "id": "FMTKN8DQR",
+                "created": 1567584204,
+                "timestamp": 1567584204,
+                "name": "Screenshot_2019-09-04-17-02-34~01.png",
+                "title": "Screenshot_2019-09-04-17-02-34~01.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 37299,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMTKN8DQR\/screenshot_2019-09-04-17-02-34_01.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMTKN8DQR\/download\/screenshot_2019-09-04-17-02-34_01.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMTKN8DQR-dde948924c\/screenshot_2019-09-04-17-02-34_01_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMTKN8DQR-dde948924c\/screenshot_2019-09-04-17-02-34_01_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMTKN8DQR-dde948924c\/screenshot_2019-09-04-17-02-34_01_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 147,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMTKN8DQR-dde948924c\/screenshot_2019-09-04-17-02-34_01_480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 195,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMTKN8DQR-dde948924c\/screenshot_2019-09-04-17-02-34_01_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMTKN8DQR-dde948924c\/screenshot_2019-09-04-17-02-34_01_720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 720,
+                "thumb_720_h": 293,
+                "image_exif_rotation": 1,
+                "original_w": 798,
+                "original_h": 325,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMTKN8DQR\/screenshot_2019-09-04-17-02-34_01.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMTKN8DQR-471917ab7a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1567584206.005200",
+        "client_msg_id": "cecfc4ac-13c9-4a23-8a69-2e54aeb6a58c"
+    },
+    {
+        "client_msg_id": "A9BF163B-4632-4D5F-828C-55346AEB38B9",
+        "type": "message",
+        "text": "締め切りましょう",
+        "user": "UHFLB6JPR",
+        "ts": "1567584257.006100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3172DCA8-12CE-42E0-8EF9-22789EDA7BC4",
+        "type": "message",
+        "text": "鈴木さんは明日、大学来る？",
+        "user": "UHFLB6JPR",
+        "ts": "1567584303.006900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7c24b92a-c475-4f79-9673-ff47c369c797",
+        "type": "message",
+        "text": "締め切りました",
+        "user": "UGQV9DXRC",
+        "ts": "1567584382.007100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ba709e49-5fab-41fe-94ed-6a226af08f59",
+        "type": "message",
+        "text": "午後はいく予定ですが、まだ確定ではないです。",
+        "user": "UGQV9DXRC",
+        "ts": "1567584482.008700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "362147B8-0AF2-45AD-8C8F-75E6A1FB6113",
+        "type": "message",
+        "text": "大学じゃないと対応できないことなど、対応することがあれば大学にいるメンバーで対応するので伝えてください",
+        "user": "UHFLB6JPR",
+        "ts": "1567584703.011500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3C81B7C4-EB47-422A-9D38-A68B5B1E37DC",
+        "type": "message",
+        "text": "車椅子の応募は参加メンバーに入れられる順番ですか？",
+        "user": "UHFLB6JPR",
+        "ts": "1567584786.013800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dadc23c6-41f0-4094-b90c-c5746b22d0fe",
+        "type": "message",
+        "text": "キャンセル待ちの返信は福田くんに担当をお願いしているので、連絡をとります",
+        "user": "UGQV9DXRC",
+        "ts": "1567584811.014100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c4ff2aed-a3eb-4ef8-a1c4-93dd0042e765",
+        "type": "message",
+        "text": "失念してました、すみません。\n車イスの子は、学校名がわからないのでなんともいえません。\n三校のうち、石原小であれば11人目に該当しますので、かくしょうじの申し込み数次第では参加してもらえるかもしれない、というような感じです。\nそれ以外であれば、かくしょうじ枠として受け付けます。",
+        "user": "UGQV9DXRC",
+        "ts": "1567584956.016900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "55892704-1A60-4F2F-B6EB-CFD159EF1AAB",
+        "type": "message",
+        "text": "入れちゃいます",
+        "user": "UHFLB6JPR",
+        "ts": "1567585021.017200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "eeb33011-9fbb-43f1-8df8-ee7389a9518d",
+        "type": "message",
+        "text": "わかりました",
+        "user": "UGQV9DXRC",
+        "ts": "1567585162.017400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F8A2C9E8-0A23-4AE4-B358-D98C4C17350B",
+        "type": "message",
+        "text": "メールの返信を岡田にしてもらおうかと考えてます。\n遠隔で指示できるレベル？",
+        "user": "UHFLB6JPR",
+        "ts": "1567585303.019300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4af14a44-fd2f-42af-a0d6-c517fcc1b1ba",
+        "type": "message",
+        "text": "文章はコピペするだけなので問題ないとおもいます",
+        "user": "UGQV9DXRC",
+        "ts": "1567585336.019800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "527F1375-6099-4E1A-82EB-D454714FD0AA",
+        "type": "message",
+        "text": "岡田は何をすればいいですか？",
+        "user": "UHFLB6JPR",
+        "ts": "1567585719.020400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1567586034.021700",
+        "user": "UGPH97FDW",
+        "text": "<@UGPH97FDW>さんがチャンネルに参加しました",
+        "inviter": "UGQV9DXRC"
+    },
+    {
+        "type": "message",
+        "text": "岡田くんごめん！上の話をさらっと読んでくださいー\n\n<https:\/\/docs.google.com\/spreadsheets\/d\/1zSlAfq_KAFDH0qxrFDmhuKImaF3-kChKrlNJIzqFoAA>\nこの表の、一番右の欄に1やキャンセル待ちの記載がない人たちに対して、ohkawaralabのメールを送ることをやってもらえると助かります。",
+        "files": [
+            {
+                "id": "FM6A578R1",
+                "created": 1566286887,
+                "timestamp": 1566286887,
+                "name": "電気通信大学 こども食堂 2019申込（回答）",
+                "title": "電気通信大学 こども食堂 2019申込（回答）",
+                "mimetype": "application\/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 55627,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1zSlAfq_KAFDH0qxrFDmhuKImaF3-kChKrlNJIzqFoAA\/edit?usp=sharing",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FM6A578R1-16f879aef3\/___________________________________2019___________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FM6A578R1\/___________________________________2019__________________",
+                "is_starred": false,
+                "external_id": "1zSlAfq_KAFDH0qxrFDmhuKImaF3-kChKrlNJIzqFoAA",
+                "external_url": "https:\/\/docs.google.com\/spreadsheets\/d\/1zSlAfq_KAFDH0qxrFDmhuKImaF3-kChKrlNJIzqFoAA\/edit?usp=sharing",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FM6A578R1"
+        ],
+        "ts": "1567586082.022600",
+        "client_msg_id": "2030B157-4765-4E5B-AABD-34D0FDCAE3F4"
+    },
+    {
+        "client_msg_id": "3831C9F0-B12F-4DF4-8FE5-6F451456946F",
+        "type": "message",
+        "text": "今まで送った文章は送信済みの中にあるはずで",
+        "user": "UGQV9DXRC",
+        "ts": "1567586104.023600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "38941EB5-EF39-4014-9FA3-C6117C05FA52",
+        "type": "message",
+        "text": "キャンセル待ち用と受付用があります。\n名前以外はコピペで問題ありません",
+        "user": "UGQV9DXRC",
+        "ts": "1567586125.024300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "71B4B553-8FC6-486C-8535-3CF13FD0EE3E",
+        "type": "message",
+        "text": "キャンセル待ちにするか受付るかは、エクセルシートの下の欄にある定員から時系列順で溢れた人をキャンセル扱いにします。\n今キャンセル待ちには黄色い色をつけておくので、それに従って貰えば",
+        "user": "UGQV9DXRC",
+        "ts": "1567586246.027100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "reply_count": 19,
+        "reply_users_count": 2,
+        "latest_reply": "1567589782.068600",
+        "reply_users": [
+            "UGPH97FDW",
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGPH97FDW",
+                "ts": "1567586996.032900"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567587214.035100"
+            },
+            {
+                "user": "UGPH97FDW",
+                "ts": "1567587226.035700"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567587230.036100"
+            },
+            {
+                "user": "UGPH97FDW",
+                "ts": "1567587235.036500"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567587313.038100"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567587331.038700"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567587382.039200"
+            },
+            {
+                "user": "UGPH97FDW",
+                "ts": "1567588494.050300"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567589082.060900"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567589099.061500"
+            },
+            {
+                "user": "UGPH97FDW",
+                "ts": "1567589173.063400"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567589214.064500"
+            },
+            {
+                "user": "UGPH97FDW",
+                "ts": "1567589463.065300"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567589578.065700"
+            },
+            {
+                "user": "UGPH97FDW",
+                "ts": "1567589638.066700"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567589691.067000"
+            },
+            {
+                "user": "UGPH97FDW",
+                "ts": "1567589708.067300"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567589782.068600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "B2162879-5ADF-49DB-A818-4FE7A254DA13",
+        "type": "message",
+        "text": "甥が起きちゃったら途中になってしまうかもしれないけど察してくださいー涙",
+        "user": "UGQV9DXRC",
+        "ts": "1567586267.027900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0C55228C-98DB-4DF7-A6C9-8EAD46601DFB",
+        "type": "message",
+        "text": "色つけました！",
+        "user": "UGQV9DXRC",
+        "ts": "1567586601.029300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5641C343-FF15-4B9E-A859-5EEB198CD9BD",
+        "type": "message",
+        "text": "<@UHC5VBV5E> \n上のリンクのシートに情報を書き込んでもらえると助かりますm(__)m",
+        "user": "UGQV9DXRC",
+        "ts": "1567586652.030000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "27C9767A-FD96-4D59-AE93-69B881F81F05",
+        "type": "message",
+        "text": "<@UHFLB6JPR> \nこの方はキャンセル待ちに該当するのですが、わたしからお電話差し上げて良いでしょうか？\n<https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1567584086003400>",
+        "user": "UGQV9DXRC",
+        "ts": "1567586726.030800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1567584086003400",
+                "fallback": "[September 4th, 2019 1:01 AM] kmt.sd.ma: もう一件、岡田くんからです\n以下のようなお電話がありました。\n富士見台で、キャンセル待ちに該当する方です。\n\n「昨日ネットで申し込みをしたのだが、受付が完了したのかしていないのか、抽選中なのか漏れたのかなど、メールの返信など何もないから不安。\n個人情報を晒しただけみたい」\n\n担当の者が不在なので、金曜日までには折り返し電話をさせていただく。",
+                "ts": "1567584086.003400",
+                "author_id": "UGQV9DXRC",
+                "author_subname": "鈴木美穂",
+                "channel_id": "CJZ0QGKRB",
+                "channel_name": "project_こども食堂",
+                "is_msg_unfurl": true,
+                "text": "もう一件、岡田くんからです\n以下のようなお電話がありました。\n富士見台で、キャンセル待ちに該当する方です。\n\n「昨日ネットで申し込みをしたのだが、受付が完了したのかしていないのか、抽選中なのか漏れたのかなど、メールの返信など何もないから不安。\n個人情報を晒しただけみたい」\n\n担当の者が不在なので、金曜日までには折り返し電話をさせていただく。",
+                "author_name": "鈴木美穂",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1567584086003400",
+                "footer": "#project_こども食堂 に投稿"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60EDBC94-7854-43A6-A59C-C5C84714707F",
+        "type": "message",
+        "text": "言い方次第で色々問題になりそうだなと懸念しております、、",
+        "user": "UGQV9DXRC",
+        "ts": "1567586766.031900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1AEBAC6B-6B8B-484F-8735-B52A792BBF6E",
+        "type": "message",
+        "text": "見た感じ全員上限溢れてるってことだよね？\n全員キャンセル待ちで送ってよい？",
+        "user": "UGPH97FDW",
+        "ts": "1567586996.032900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "6123e1eb-4f89-4bee-90c8-27e331edab96",
+        "type": "message",
+        "text": "ちょいまち",
+        "user": "UGQV9DXRC",
+        "ts": "1567587214.035100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "8CE4DDC1-8706-4351-9A29-63DEDB889B1E",
+        "type": "message",
+        "text": "あ、ごめん勘違い",
+        "user": "UGPH97FDW",
+        "ts": "1567587226.035700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "bd1e9d0b-fa12-49cb-b2c4-4372f1375d71",
+        "type": "message",
+        "text": "石原小はたぶんうけつけある",
+        "user": "UGQV9DXRC",
+        "ts": "1567587230.036100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "1B54768F-2BE5-4C64-A2C2-E768D683165C",
+        "type": "message",
+        "text": "白い石原少の子はそういうことね",
+        "user": "UGPH97FDW",
+        "ts": "1567587235.036500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "c7d3e3a1-e1a0-450a-a229-45a6366b44e1",
+        "type": "message",
+        "text": "今富士見台もかきかえたんだけど",
+        "user": "UGQV9DXRC",
+        "ts": "1567587313.038100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "147c9998-ce8c-4df2-904c-09ef91e887aa",
+        "type": "message",
+        "text": "したの方の電話の子も含めて、白が9人になってればおっけー",
+        "user": "UGQV9DXRC",
+        "ts": "1567587331.038700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "859F8568-9017-4D0D-BEE0-CF019940F8D5",
+        "type": "message",
+        "text": "第1 23人:heavy_plus_sign:α\n富士見 18\n石原 13\nかくしょうじ 5\nその他 2\n車椅子\n計62人\nかくしょうじ枠がうまらなかったら、第1にまわす",
+        "user": "UHFLB6JPR",
+        "ts": "1567587354.039000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHFLB6JPR",
+            "ts": "1567587382.000000"
+        }
+    },
+    {
+        "client_msg_id": "5a94dbda-886f-48d6-8626-ca9882e4bbe8",
+        "type": "message",
+        "text": "ごめんね、ありがとう",
+        "user": "UGQV9DXRC",
+        "ts": "1567587382.039200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "2E5FB747-1488-4035-94D3-969DBFFD4478",
+        "type": "message",
+        "text": "これでどう？",
+        "user": "UHFLB6JPR",
+        "ts": "1567587413.040300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5b9b5202-ad3c-4d1b-9d65-e589b81cf92a",
+        "type": "message",
+        "text": "かくしょうじがうまらなければ、石原と富士見台に均等にまわします",
+        "user": "UGQV9DXRC",
+        "ts": "1567587413.040400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fff019d1-34b0-459a-82d8-4eff3bd0d366",
+        "type": "message",
+        "text": "という予定だったのですが",
+        "user": "UGQV9DXRC",
+        "ts": "1567587423.040700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "40ceb92a-99c9-423c-b3df-153c622a1401",
+        "type": "message",
+        "text": "第一の方が良いですか？",
+        "user": "UGQV9DXRC",
+        "ts": "1567587431.041000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ddd83ba4-53ea-4e48-9fd4-481651cd086b",
+        "type": "message",
+        "text": "保護者のかたが同伴されない予定になっているこどもを優先したいなという気持ちもあり、、",
+        "user": "UGQV9DXRC",
+        "ts": "1567587473.041800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FMNKGCVUK",
+                "created": 1567587600,
+                "timestamp": 1567587600,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 28804,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMNKGCVUK\/ios__________.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMNKGCVUK\/download\/ios__________.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMNKGCVUK-4271fbfc5a\/ios___________64.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMNKGCVUK-4271fbfc5a\/ios___________80.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMNKGCVUK-4271fbfc5a\/ios___________360.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 147,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMNKGCVUK-4271fbfc5a\/ios___________480.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 196,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMNKGCVUK-4271fbfc5a\/ios___________160.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "image_exif_rotation": 1,
+                "original_w": 719,
+                "original_h": 293,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FMNKGCVUK\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMNKGCVUK-ac88208367",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1567587600.042100",
+        "client_msg_id": "4DFB4EFB-73C5-42FB-BA90-07F93B9B0FED"
+    },
+    {
+        "client_msg_id": "7fb29ac0-4100-40a8-9285-d7a0ee72904c",
+        "type": "message",
+        "text": "あ、勘違いでした\nすみません",
+        "user": "UGQV9DXRC",
+        "ts": "1567587601.042400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e7508491-80ec-4e84-b059-4e76dc214968",
+        "type": "message",
+        "text": "現状の分はすべて受け入れに切り替えるということですね",
+        "user": "UGQV9DXRC",
+        "ts": "1567587618.042900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2492093e-121a-4562-b71f-fca02627268a",
+        "type": "message",
+        "text": "もしかくしょうじでより多くのお申し込みをいただいた場合はどうしましょう？",
+        "user": "UGQV9DXRC",
+        "ts": "1567587648.043500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8EEE3760-AAD1-4D21-B433-1D0066913FE6",
+        "type": "message",
+        "text": "石原と合わせて18だからいいかなと",
+        "user": "UHFLB6JPR",
+        "ts": "1567587694.044200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0F6E929B-4442-4EA8-9919-48DC128196BE",
+        "type": "message",
+        "text": "たぶんそんなに増えないような",
+        "user": "UHFLB6JPR",
+        "ts": "1567587733.044800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "20e8d2ad-d9fd-4852-9336-26309623d093",
+        "type": "message",
+        "text": "承知しました",
+        "user": "UGQV9DXRC",
+        "ts": "1567587748.045100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "02e4ebd7-ea74-498e-bc20-56fd8315ce47",
+        "type": "message",
+        "text": "<@UGPH97FDW> \n\n<https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1567587354039000>\n\n第一だけ23人受け入れ、石原と富士見台は全員受け入れになるようにメールをお願いしても良い？？",
+        "user": "UGQV9DXRC",
+        "ts": "1567587818.046300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1567587354039000",
+                "fallback": "[September 4th, 2019 1:55 AM] ohkawara_kazunori: 第1 23人:heavy_plus_sign:α\n富士見 18\n石原 13\nかくしょうじ 5\nその他 2\n車椅子\n計62人\nかくしょうじ枠がうまらなかったら、第1にまわす",
+                "ts": "1567587354.039000",
+                "author_id": "UHFLB6JPR",
+                "author_subname": "大河原一憲",
+                "channel_id": "CJZ0QGKRB",
+                "channel_name": "project_こども食堂",
+                "is_msg_unfurl": true,
+                "text": "第1 23人:heavy_plus_sign:α\n富士見 18\n石原 13\nかくしょうじ 5\nその他 2\n車椅子\n計62人\nかくしょうじ枠がうまらなかったら、第1にまわす",
+                "author_name": "大河原一憲",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UHFLB6JPR",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0003-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1567587354039000",
+                "footer": "#project_こども食堂 に投稿"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09C0AF74-CA63-4D5F-A045-B1C84B6AC38A",
+        "type": "message",
+        "text": "62人受け入れはなんとかなる？\n車椅子の子を1人含めて",
+        "user": "UHFLB6JPR",
+        "ts": "1567588150.047600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F12ED44F-E30F-4CD5-BE2A-9FF8DFCC3043",
+        "type": "message",
+        "text": "できると思います。\n食事が間に合えばですが。",
+        "user": "UGQV9DXRC",
+        "ts": "1567588308.048100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B407CBDB-8F63-4AF7-92DF-502308D579C9",
+        "type": "message",
+        "text": "車椅子の子とは別に、根本くんが電話応対をしてくれた富士見台の2名がいるのですが、その2名も加算して良いでしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1567588477.049900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7F5BD5F1-2326-4EC5-B5C8-BD5A63A4FDCE",
+        "type": "message",
+        "text": "今編集中？\nあと富士見は9人？18-10＝8人ではなく？",
+        "user": "UGPH97FDW",
+        "ts": "1567588494.050300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "F4991E14-0EF6-4114-B2D1-B0B65092A85C",
+        "type": "message",
+        "text": "キャンセル待ちの人は良いですが昨日受けた人は入れて欲しいです",
+        "user": "UHC5VBV5E",
+        "ts": "1567588559.052300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "55DE2B4B-E91C-4F95-BC7F-F9B49DFF6AE7",
+        "type": "message",
+        "text": "その1名は順序的にも10番目にあたるので、受け入れられます",
+        "user": "UGQV9DXRC",
+        "ts": "1567588605.053100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "648F8480-D313-43B3-8175-607A1AE0E8F9",
+        "type": "message",
+        "text": "富士見が19？",
+        "user": "UHFLB6JPR",
+        "ts": "1567588656.053600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E2BA6D7B-F541-4B59-A3EA-08B995DA7FED",
+        "type": "message",
+        "text": "根本くんが2人電話を取ってるので申込数は20です",
+        "user": "UGQV9DXRC",
+        "ts": "1567588699.054600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "07E360CF-D84A-4D0A-896A-8ACACC9D6E87",
+        "type": "message",
+        "text": "キャンセル待ちにしている人を受け入れないのであれば19人が希望です",
+        "user": "UGQV9DXRC",
+        "ts": "1567588716.055200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "人数更新しました\n<https:\/\/docs.google.com\/spreadsheets\/d\/1zSlAfq_KAFDH0qxrFDmhuKImaF3-kChKrlNJIzqFoAA>",
+        "files": [
+            {
+                "id": "FM6A578R1",
+                "created": 1566286887,
+                "timestamp": 1566286887,
+                "name": "電気通信大学 こども食堂 2019申込（回答）",
+                "title": "電気通信大学 こども食堂 2019申込（回答）",
+                "mimetype": "application\/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 55627,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1zSlAfq_KAFDH0qxrFDmhuKImaF3-kChKrlNJIzqFoAA\/edit?usp=sharing",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FM6A578R1-16f879aef3\/___________________________________2019___________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FM6A578R1\/___________________________________2019__________________",
+                "is_starred": false,
+                "external_id": "1zSlAfq_KAFDH0qxrFDmhuKImaF3-kChKrlNJIzqFoAA",
+                "external_url": "https:\/\/docs.google.com\/spreadsheets\/d\/1zSlAfq_KAFDH0qxrFDmhuKImaF3-kChKrlNJIzqFoAA\/edit?usp=sharing",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FM6A578R1"
+        ],
+        "ts": "1567588849.056200",
+        "client_msg_id": "E5B23DBA-4A29-4371-897E-67E1C8A2C7A2"
+    },
+    {
+        "client_msg_id": "47E6AD3C-4F84-4F2D-82B9-CE18BCD5414A",
+        "type": "message",
+        "text": "2人入れて64人\n第1は23で打ち止め",
+        "user": "UHFLB6JPR",
+        "ts": "1567588864.057000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C27D81BA-3F0B-4F2F-8448-C15AF563B7A1",
+        "type": "message",
+        "text": "かくしょうじが0なら59人",
+        "user": "UHFLB6JPR",
+        "ts": "1567588898.057600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "承知しました。\nそのように更新しました。\n<https:\/\/docs.google.com\/spreadsheets\/d\/1zSlAfq_KAFDH0qxrFDmhuKImaF3-kChKrlNJIzqFoAA>",
+        "files": [
+            {
+                "id": "FM6A578R1",
+                "created": 1566286887,
+                "timestamp": 1566286887,
+                "name": "電気通信大学 こども食堂 2019申込（回答）",
+                "title": "電気通信大学 こども食堂 2019申込（回答）",
+                "mimetype": "application\/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 55627,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1zSlAfq_KAFDH0qxrFDmhuKImaF3-kChKrlNJIzqFoAA\/edit?usp=sharing",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FM6A578R1-16f879aef3\/___________________________________2019___________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FM6A578R1\/___________________________________2019__________________",
+                "is_starred": false,
+                "external_id": "1zSlAfq_KAFDH0qxrFDmhuKImaF3-kChKrlNJIzqFoAA",
+                "external_url": "https:\/\/docs.google.com\/spreadsheets\/d\/1zSlAfq_KAFDH0qxrFDmhuKImaF3-kChKrlNJIzqFoAA\/edit?usp=sharing",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FM6A578R1"
+        ],
+        "ts": "1567588973.058100",
+        "client_msg_id": "E2C3A671-60E4-4F74-8B8E-A23801C000DA"
+    },
+    {
+        "client_msg_id": "36F7DA3E-9BF0-41C3-87F5-BAC03CBB8B13",
+        "type": "message",
+        "text": "第一小学校の方には、キャンセル待ちでご連絡して良いでしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1567589011.059500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "D868C376-8D9E-44FB-90B4-2FB3868A7B2B",
+        "type": "message",
+        "text": "ハイ",
+        "user": "UHFLB6JPR",
+        "ts": "1567589031.059800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4D4AECEF-6EE5-488E-86DF-DB56EC9003D7",
+        "type": "message",
+        "text": "今全部更新した！\n富士見は根本くんが一人受け付けてるのでっていう感じ",
+        "user": "UGQV9DXRC",
+        "ts": "1567589082.060900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "68B71FBD-E9D9-4BA6-88FA-E41D9E389A46",
+        "type": "message",
+        "text": "とりあえず第一以外は受け付けになったようだ",
+        "user": "UGQV9DXRC",
+        "ts": "1567589099.061500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "4BE5C47D-E455-481F-B806-09DA968DF44F",
+        "type": "message",
+        "text": "ありがとうございます。\nでは以下の方にも受け入れでお電話します。\n<https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1567584086003400>",
+        "user": "UGQV9DXRC",
+        "ts": "1567589131.062200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1567584086003400",
+                "fallback": "[September 4th, 2019 1:01 AM] kmt.sd.ma: もう一件、岡田くんからです\n以下のようなお電話がありました。\n富士見台で、キャンセル待ちに該当する方です。\n\n「昨日ネットで申し込みをしたのだが、受付が完了したのかしていないのか、抽選中なのか漏れたのかなど、メールの返信など何もないから不安。\n個人情報を晒しただけみたい」\n\n担当の者が不在なので、金曜日までには折り返し電話をさせていただく。",
+                "ts": "1567584086.003400",
+                "author_id": "UGQV9DXRC",
+                "author_subname": "鈴木美穂",
+                "channel_id": "CJZ0QGKRB",
+                "channel_name": "project_こども食堂",
+                "is_msg_unfurl": true,
+                "text": "もう一件、岡田くんからです\n以下のようなお電話がありました。\n富士見台で、キャンセル待ちに該当する方です。\n\n「昨日ネットで申し込みをしたのだが、受付が完了したのかしていないのか、抽選中なのか漏れたのかなど、メールの返信など何もないから不安。\n個人情報を晒しただけみたい」\n\n担当の者が不在なので、金曜日までには折り返し電話をさせていただく。",
+                "author_name": "鈴木美穂",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1567584086003400",
+                "footer": "#project_こども食堂 に投稿"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EE8B7024-234D-4343-9145-8AD5B0093645",
+        "type": "message",
+        "text": "おけ！ありがとう！\n\nメールは、第1の子だけキャンセル待ちって感じだね？",
+        "user": "UGPH97FDW",
+        "ts": "1567589173.063400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "4A51AAE4-6D7B-42F3-A742-F84A3A15EDDB",
+        "type": "message",
+        "text": "うん、黄色い子たち\n白が23になってればおっけーです！",
+        "user": "UGQV9DXRC",
+        "ts": "1567589214.064500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "66007C50-05C0-4263-BA4D-1329F0F3CE0E",
+        "type": "message",
+        "text": "22でなく？",
+        "user": "UGPH97FDW",
+        "ts": "1567589463.065300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "E2AA83EC-F609-4A83-A295-9E2AC6C59A30",
+        "type": "message",
+        "text": "ん",
+        "user": "UGQV9DXRC",
+        "ts": "1567589578.065700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "96EDD7F9-B220-45F7-A9BA-F2B15AF90667",
+        "type": "message",
+        "text": "とりまメール送る子は、33から58のところだけで、そのうち第1の子はキャンセル待ちってことね！",
+        "user": "UGPH97FDW",
+        "ts": "1567589638.066700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "C64DA394-F0D3-40AE-8EB8-C4ADE4A47562",
+        "type": "message",
+        "text": "ですです！",
+        "user": "UGQV9DXRC",
+        "ts": "1567589691.067000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "90887477-3FFC-46FE-92E0-3A8DA5E731CF",
+        "type": "message",
+        "text": "おけ！送ります！",
+        "user": "UGPH97FDW",
+        "ts": "1567589708.067300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "8995EED7-A099-4C3C-80E3-27E0E2BD4635",
+        "type": "message",
+        "text": "ありがとうーラボのアドレスから送って貰えば、本文はコピペで大丈夫です！",
+        "user": "UGQV9DXRC",
+        "ts": "1567589782.068600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567586246.027100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "CE988E27-5B86-4CA3-9FC0-597891E198A3",
+        "type": "message",
+        "text": "携帯からパッと書けそうなので、参加者募集終了のお知らせをCFページにもアップします。",
+        "user": "UGQV9DXRC",
+        "ts": "1567589953.069800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "47C3691A-86EC-4930-AEA1-E2C1898FCCA1",
+        "type": "message",
+        "text": "中野咲さんが2人います。二重登録ぽい？",
+        "user": "UGPH97FDW",
+        "ts": "1567590109.070600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "672283CF-1CAE-495A-8E17-AA13EBBFDCF3",
+        "type": "message",
+        "text": "あら、、そうかも",
+        "user": "UGQV9DXRC",
+        "ts": "1567590145.071000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DA40C10B-3DC6-4EF3-A61B-91B3C81495FA",
+        "type": "message",
+        "text": "本田いささんも2人",
+        "user": "UGPH97FDW",
+        "ts": "1567590271.071400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "BCC57EDA-A07B-469F-B9BD-316EC91635FF",
+        "type": "message",
+        "text": "おーのー",
+        "user": "UGQV9DXRC",
+        "ts": "1567590522.071600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "CEBA904D-6289-45E2-B166-E7DEF566E24C",
+        "type": "message",
+        "text": "3回申し込んでない？本田さん",
+        "user": "UGQV9DXRC",
+        "ts": "1567590723.071900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "495AEB86-9C3A-467B-A22D-2F579A9F5BB0",
+        "type": "message",
+        "text": "中野さんも3件いるね",
+        "user": "UGQV9DXRC",
+        "ts": "1567590803.072400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ad8605cf-cfcb-44a1-b555-1ae65bf0af5d",
+        "type": "message",
+        "text": "そのようですね\n一回キャンセル待ちメール送っときました",
+        "user": "UHC5VBV5E",
+        "ts": "1567590811.072600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B98C6F0F-FEFC-494A-A330-E31D141487A5",
+        "type": "message",
+        "text": "本田さん？ありがとう",
+        "user": "UGQV9DXRC",
+        "ts": "1567590844.072800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "255d8838-17d0-46c1-a189-1683819e1e45",
+        "type": "message",
+        "text": "そうです",
+        "user": "UHC5VBV5E",
+        "ts": "1567590857.073000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "186C12D3-5C06-4551-918B-1F43465775B9",
+        "type": "message",
+        "text": "了解です！",
+        "user": "UGQV9DXRC",
+        "ts": "1567590873.073200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c3c3851e-7eb2-42bf-8802-1f65910c6c73",
+        "type": "message",
+        "text": "キャンセル待ちメールは全て送りました",
+        "user": "UHC5VBV5E",
+        "ts": "1567591335.073500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6f7ec48f-c7b8-4a59-9ac8-0a0fe988c37f",
+        "type": "message",
+        "text": "ありがとう～助かります！\n後は根本くんのキャンセル待ちにした人にオッケーの電話をしたらよいかな？",
+        "user": "UGQV9DXRC",
+        "ts": "1567591385.075000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "reply_count": 19,
+        "reply_users_count": 2,
+        "latest_reply": "1567598842.011900",
+        "reply_users": [
+            "UHC5VBV5E",
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1567591434.076700"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567591464.077600"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1567591558.077800"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567591706.078000"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567591711.078200"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1567597986.005900"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567598339.006300"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567598365.006500"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1567598679.007700"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1567598711.008600"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1567598716.009100"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567598717.009300"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567598726.009700"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1567598735.010200"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567598770.010600"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1567598790.011000"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567598806.011200"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1567598822.011700"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567598842.011900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8BDD1C5D-FA09-4B13-AE48-6392CFB549DB",
+        "type": "message",
+        "text": "完了メール、途中まで送ったのですが、用事があるので残りは後で送ります",
+        "user": "UGPH97FDW",
+        "ts": "1567591412.076100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f5528b62-bb05-401c-8c56-417f927ba36f",
+        "type": "message",
+        "text": "そうですね！",
+        "user": "UHC5VBV5E",
+        "ts": "1567591434.076700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "6934cc3e-0a5e-4631-b852-28578dcb43ed",
+        "type": "message",
+        "text": "甥を姉に渡したので続きは私ができます！",
+        "user": "UGQV9DXRC",
+        "ts": "1567591443.077200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9220e7fb-1b0d-4625-9a6e-d3bef3efd0c2",
+        "type": "message",
+        "text": "どこまでやったかわかるようになってればだいじょぶ",
+        "user": "UGQV9DXRC",
+        "ts": "1567591450.077500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591450.077500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1567597506.002600",
+        "reply_users": [
+            "UGPH97FDW",
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGPH97FDW",
+                "ts": "1567597336.002400"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567597506.002600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "61e37a24-00e5-4142-852e-7fa3053c8342",
+        "type": "message",
+        "text": "私からするので、情報だけ追記しておいてもらえる？",
+        "user": "UGQV9DXRC",
+        "ts": "1567591464.077600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "39775d48-655e-4ecf-bd46-3ec8934c86b4",
+        "type": "message",
+        "text": "ここに書いちゃっていいですか？",
+        "user": "UHC5VBV5E",
+        "ts": "1567591558.077800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "11f1145f-07fd-4217-a955-9fff1433f7a4",
+        "type": "message",
+        "text": "あ、エクセルシートに！",
+        "user": "UGQV9DXRC",
+        "ts": "1567591706.078000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "22216c59-def6-4603-9979-2d0852ffe041",
+        "type": "message",
+        "text": "根本くんの枠を作ってあるので",
+        "user": "UGQV9DXRC",
+        "ts": "1567591711.078200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "246aa4b5-b99d-4189-b428-19fefe7a854e",
+        "type": "message",
+        "text": "現状リストにあった方へのご連絡は済みました！\n岡田君、根本君、協力ありがとう:cry: :heart:\n明日保険について鳴海さんに連絡します。",
+        "user": "UGQV9DXRC",
+        "ts": "1567597100.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E8F7C9AA-B95B-49AB-8CED-8419DF07D331",
+        "type": "message",
+        "text": "やった範囲は1のチェック入れときました！",
+        "user": "UGPH97FDW",
+        "ts": "1567597336.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591450.077500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "37a02548-88e4-4e66-8a8e-d84cd314a404",
+        "type": "message",
+        "text": "ありがと！わかった！",
+        "user": "UGQV9DXRC",
+        "ts": "1567597506.002600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591450.077500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "A0669488-BC0D-4263-B521-130B85E4A17F",
+        "type": "message",
+        "text": "わかりました",
+        "user": "UHC5VBV5E",
+        "ts": "1567597986.005900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "2ebdba57-324d-4414-9904-2ee7c6708ebc",
+        "type": "message",
+        "text": "第一小学校のお子さんおひとりに参加受付メールを送信してしまっており、多重予約を省いた結果\n第一小学校　24名\n富士見台小学校　18名\n石原小学校　13名\nその他　3名(金子様2名、車いすの方)\nかくしょうじ　枠5名\nの計63名を受け付けるという形になっております。\n申し訳ありません。",
+        "user": "UGQV9DXRC",
+        "ts": "1567597999.006100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1567598006.000000"
+        }
+    },
+    {
+        "client_msg_id": "5d66c580-308c-4d59-a8b6-6e21aa142cdc",
+        "type": "message",
+        "text": "ありがとう～",
+        "user": "UGQV9DXRC",
+        "ts": "1567598339.006300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "85d34840-f9e5-486e-9ff9-8750acbc883f",
+        "type": "message",
+        "text": "一件根本君がキャンセル送ってくれたところに、受付メール出してしまった、、ごめんなさい、、",
+        "user": "UGQV9DXRC",
+        "ts": "1567598365.006500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "A8BA3F6B-0C82-4BFB-886B-9B5D9BC818F5",
+        "type": "message",
+        "text": "その人は結局来れるんですか？",
+        "user": "UHC5VBV5E",
+        "ts": "1567598679.007700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "62C40132-1637-405D-8BB0-948E0D5D8372",
+        "type": "message",
+        "text": "問題ないなら大丈夫です！\n電話で受けた被験者の情報追記しました",
+        "user": "UHC5VBV5E",
+        "ts": "1567598711.008600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "B08CBE4A-33A9-436E-9F5C-7EDC6AA33FD3",
+        "type": "message",
+        "text": "お願いします",
+        "user": "UHC5VBV5E",
+        "ts": "1567598716.009100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "eff955de-57a4-4f01-b915-7bcda6380321",
+        "type": "message",
+        "text": "笑",
+        "user": "UGQV9DXRC",
+        "ts": "1567598717.009300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "e040aba3-0a76-4e98-91b6-0b874f214eab",
+        "type": "message",
+        "text": "はい！ありがとう～たすかりました:pray:",
+        "user": "UGQV9DXRC",
+        "ts": "1567598726.009700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "BE9F4A74-29D7-40CF-8539-0B72395B97EB",
+        "type": "message",
+        "text": "なるほど\nメールもらってどっちなのってならないですかね",
+        "user": "UHC5VBV5E",
+        "ts": "1567598735.010200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "36289d74-4ebe-4b19-8527-a67504338358",
+        "type": "message",
+        "text": "いや、富士見台の人だと思って、受け付けになりましたよっていうメールを出しちゃったの、、",
+        "user": "UGQV9DXRC",
+        "ts": "1567598770.010600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "AE9D604E-16DA-462D-8E66-1264B9A66684",
+        "type": "message",
+        "text": "理解しました",
+        "user": "UHC5VBV5E",
+        "ts": "1567598790.011000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "d54e05c7-95f2-4309-83ad-8b93109b9d57",
+        "type": "message",
+        "text": "節穴ですみません:sob:",
+        "user": "UGQV9DXRC",
+        "ts": "1567598806.011200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "130E7AC6-FA15-440D-B077-474AE5659C1B",
+        "type": "message",
+        "text": "ドントウォーリー\nビーハッピー",
+        "user": "UHC5VBV5E",
+        "ts": "1567598822.011700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "6216b665-bde9-4e22-a81f-e89f218f4b4a",
+        "type": "message",
+        "text": "センキュウ:sob:",
+        "user": "UGQV9DXRC",
+        "ts": "1567598842.011900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567591385.075000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "53b441fa-920f-4241-ae73-5864a7242988",
+        "type": "message",
+        "text": "<@UGQV9DXRC> 以前に伝えましたが、かくしょうじからは2名が参加希望しています。それは石原小学校の枠とかにはいってますか？",
+        "user": "UHFLB6JPR",
+        "ts": "1567649271.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "da86dbb8-0e3f-44a4-927d-0d9a6004d1c2",
+        "type": "message",
+        "text": "細川さんが記入した用紙をお持ちだと思います",
+        "user": "UHFLB6JPR",
+        "ts": "1567649301.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "97e2ce3e-3381-4ab9-8f2e-31f36a833e55",
+        "type": "message",
+        "text": "入っておりません",
+        "user": "UGQV9DXRC",
+        "ts": "1567651142.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8f1e37eb-1772-4bdd-b0a2-036b4304ee29",
+        "type": "message",
+        "text": "現在のかくしょうじでのお申し込み数をどこかで伺ってましたでしょうか？:sweat:\n全てを含めて5枠と考えていました\n申し訳ありません",
+        "user": "UGQV9DXRC",
+        "ts": "1567651211.003600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1567651369.000000"
+        }
+    },
+    {
+        "client_msg_id": "b33be490-a755-445d-aaf2-15bc990f22b1",
+        "type": "message",
+        "text": "アメフト部からの確認です \n\n一般の募集が終了したとのことですが、部員の知り合いから子ども一人か二人、親が一人の参加したいという相談があったそうなのですが\nこちらは断る方向で良いでしょうか。",
+        "user": "UGQV9DXRC",
+        "ts": "1567651228.004000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bccb65f9-97a5-4652-8b04-ddc356e44c25",
+        "type": "message",
+        "text": "部員の知り合いから子ども一人か二人、親が一人の参加したいという相談\nもう少し詳しい状況しりたいです\n誰の知り合いでとか関係性とか",
+        "user": "UHFLB6JPR",
+        "ts": "1567652583.004900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d90e1560-6723-43a4-af0d-8d0800969164",
+        "type": "message",
+        "text": "承知しました",
+        "user": "UGQV9DXRC",
+        "ts": "1567652634.005100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1985baa9-70ec-499a-a22d-88039ba69108",
+        "type": "message",
+        "text": "かくしょうじの人数については、\n全体で5枠用意してあることのお伝えと現在の申込数の確認を細川さんにご連絡したいのですがよろしいでしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1567652682.006700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1FB0460B-9B9F-4236-8956-0FCA720F275C",
+        "type": "message",
+        "text": "先生からご連絡いただける旨、確認しました\nありがとうございます。よろしくお願いいたします。",
+        "user": "UGQV9DXRC",
+        "ts": "1567653150.007700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "463f9db5-d80a-4059-afe1-1bc8f9e11c0e",
+        "type": "message",
+        "text": "アメフト部の関連ですが、\nアメフト部コーチの田代さんのバイト先の方だそうです",
+        "user": "UGQV9DXRC",
+        "ts": "1567654318.008100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2961938B-542E-4B30-9371-943BAF3F8025",
+        "type": "message",
+        "text": "今回は断わろか",
+        "user": "UHFLB6JPR",
+        "ts": "1567654354.008600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ab59b1f8-1505-484a-af21-a82a80cbb5fa",
+        "type": "message",
+        "text": "承知しました",
+        "user": "UGQV9DXRC",
+        "ts": "1567654367.008800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B211C3EF-8399-4AF4-9136-B72C4E2EF12E",
+        "type": "message",
+        "text": "[メモ]\n砂糖 約1.4kg 2000円\n塩 20kg 2000円",
+        "user": "UHEH8KZ7W",
+        "ts": "1567654551.009700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHEH8KZ7W",
+            "ts": "1567654610.000000"
+        }
+    },
+    {
+        "client_msg_id": "4F0733FD-27D7-453C-B086-1B006ED8D094",
+        "type": "message",
+        "text": "塩はオーダー済み 20キロ 2000円 大河原負担",
+        "user": "UHFLB6JPR",
+        "ts": "1567654616.011000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "BF4C78FB-EA7B-4545-BD4C-5AE23E953C2C",
+        "type": "message",
+        "text": "今、電話して、車椅子の子とその双子の2名をうけつけました 富士見小です",
+        "user": "UHFLB6JPR",
+        "ts": "1567661612.012800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3a3b5e8e-1212-4e8a-ab39-b297af56a4c6",
+        "type": "message",
+        "text": "承知しました\n保険用の住所などの情報を誰かに引き継いでいただけると助かります。",
+        "user": "UGQV9DXRC",
+        "ts": "1567662461.013900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f6814319-a484-42cc-a88e-d0541f384ff7",
+        "type": "message",
+        "text": "福田がエクセル表に入力してくれました",
+        "user": "UHFLB6JPR",
+        "ts": "1567662519.014300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8ce3d70b-d7ab-4d3d-a64b-f040f3e02356",
+        "type": "message",
+        "text": "ありがとうございます！",
+        "user": "UGQV9DXRC",
+        "ts": "1567662533.014600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3bf36b8c-8ded-488e-95c4-66c4e0a97a60",
+        "type": "message",
+        "text": "枠が確定次第、保険の見積もりを出していただこうと思うのですが、",
+        "user": "UGQV9DXRC",
+        "ts": "1567662652.016100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "00692d77-f2bb-49f8-bd8f-537097c25ec8",
+        "type": "message",
+        "text": "昨年は同伴の未就学児を推定人数割り出し、そこにも保険をかけていました。今年はどうしましょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1567662693.017300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0e203a15-7ce4-49fb-bf4e-2f0ea9eea88c",
+        "type": "message",
+        "text": "エクセル上ですと、\nこどもが63名\n同伴が79名\nになっています",
+        "user": "UGQV9DXRC",
+        "ts": "1567662837.018400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "31090a2a-97e4-4973-969e-09f4113c2bc3",
+        "type": "message",
+        "text": "昨年は同伴61名で、30名分保険をだしてます\n昨年の記録↓\n<https:\/\/www.evernote.com\/shard\/s223\/sh\/d8df8a5c-9ef8-47e7-aaab-6501e4600346\/0e550718b828830a2ff29cd68eed17fb>",
+        "user": "UGQV9DXRC",
+        "ts": "1567662905.019100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Evernote",
+                "title": "こども食堂 保険",
+                "title_link": "https:\/\/www.evernote.com\/shard\/s223\/sh\/d8df8a5c-9ef8-47e7-aaab-6501e4600346\/0e550718b828830a2ff29cd68eed17fb",
+                "text": "最終版の金額と人数 賠償保険：学生50人+募集児童50人=100人,7300円 傷害保険：募集児童50人+同伴児童30人（予想）=80人,14640円 合計金額：21940円 賠償責任：イベント運営側のミスでけがをさせた場合に出る、こども同士で怪我させた場合も適応 こどもと学生 傷害：事故によってけがをした場合 こどものみ 2018こども食堂保険↓ 2017子ども食堂保険↓ 鳴海亮祐 - 名刺",
+                "fallback": "Evernote: こども食堂 保険",
+                "thumb_url": "https:\/\/cdn1.evernote.com\/evernote.com\/img\/social-meta\/shared-note-thumbnail.png",
+                "from_url": "https:\/\/www.evernote.com\/shard\/s223\/sh\/d8df8a5c-9ef8-47e7-aaab-6501e4600346\/0e550718b828830a2ff29cd68eed17fb",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/dashboard.svc.www.evernote.com\/app\/nv\/icons-1ec2b385e995168bc5bb4934b116d4a6\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.evernote.com\/shard\/s223\/sh\/d8df8a5c-9ef8-47e7-aaab-6501e4600346\/0e550718b828830a2ff29cd68eed17fb"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "788e7a78-8377-4751-a0c3-a52cb82880e4",
+        "type": "message",
+        "text": "そうしましょう。昨年と同様で。",
+        "user": "UHFLB6JPR",
+        "ts": "1567663352.020600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2ac6fe4f-1d3e-40f8-96e4-b6ef081b5d23",
+        "type": "message",
+        "text": "すずきさん、Max65名で行くよ",
+        "user": "UHFLB6JPR",
+        "ts": "1567663368.021000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "021b9a76-35db-4f4b-a451-a66797680f2c",
+        "type": "message",
+        "text": "承知しました",
+        "user": "UGQV9DXRC",
+        "ts": "1567663397.021200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fe64034f-a425-4b90-bd45-4d2a916c9c88",
+        "type": "message",
+        "text": "第一小学校　24名\n富士見台小学校　20名(先生応対含)\n石原小学校　13名\nその他　2名(金子様)\nかくしょうじ　枠6名\n計65名\nで大丈夫でしょうか？？",
+        "user": "UGQV9DXRC",
+        "ts": "1567663641.024700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b9709277-0ce8-4883-9a08-feeb9940c8e1",
+        "type": "message",
+        "text": "自分が電話で受けた人の同伴人数を2名にしましたが、両方1名ずつに変更しました。",
+        "user": "UHC5VBV5E",
+        "ts": "1567663712.025700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FN1DN3HU0",
+                "created": 1567664498,
+                "timestamp": 1567664498,
+                "name": "こども食堂予算.xlsx",
+                "title": "こども食堂予算.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 10579,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN1DN3HU0\/_____________________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN1DN3HU0\/download\/_____________________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FN1DN3HU0-d2f47e443d\/______________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FN1DN3HU0-d2f47e443d\/______________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FN1DN3HU0\/_____________________.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FN1DN3HU0-ce977fa583",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1567664499.026100",
+        "client_msg_id": "f9c38fd7-8fcb-4679-b1f8-cd203382d99b"
+    },
+    {
+        "client_msg_id": "2E737AC8-6511-45F3-B526-7F749183C4A9",
+        "type": "message",
+        "text": "保険について確認とれました\n賠償保険 学生50＋小学生65\n傷害保険 小学生65＋同伴児童33\nで見積もりお願いしました。\n今日中に見積もり出来次第ご連絡いただけるとのことです。",
+        "user": "UGQV9DXRC",
+        "ts": "1567664753.028500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8c4bc734-4b90-4d00-8f09-e89daf5be825",
+        "type": "message",
+        "text": "第1小学校　24名\n富士見台小学校　20名\n石原小学校　13名（そのうち、かくしょうじ出発6名）\nその他　２名\nかくしょうじ子ども食堂　2名（細川様より現時点で伺っている）\n.........................................................ここまで61名\nかくしょうじ子ども食堂の空き枠　4名\n.........................................................合計65名",
+        "user": "UHFLB6JPR",
+        "ts": "1567664888.030400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0F4F32B5-7C88-4F16-94DD-691E9542C220",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n子供65名、同伴79名で合計144名の場合、学生50名分の食事を加えて194食となりますが、最終的に生協に何食分増していただきましょうか。以前通り20名分の増加でよろしいですか？\n予算出します",
+        "user": "UGQV9DXRC",
+        "ts": "1567665002.033000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "85620E97-5DE6-4194-A76D-F02204CCC4F0",
+        "type": "message",
+        "text": "細川様へメールありがとうございます！",
+        "user": "UGQV9DXRC",
+        "ts": "1567665033.033500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "320c5db4-4994-44aa-b641-4c7d2d03dffc",
+        "type": "message",
+        "text": "CFでとりあえず12万円つかえるよね",
+        "user": "UHFLB6JPR",
+        "ts": "1567665180.033900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9cbce0c0-1929-4c1e-98d5-e40695c37444",
+        "type": "message",
+        "text": "使えます\n現状の内訳は\n\nこども達の食事代　 60,000円\n\nこども達の保険代　 25,000円\n\nチラシ印刷代　　　 10,000円\n\n企画材料費　　　　10,000円\n\n雑費　　　　　　 　15,000円\n\nFAAVO手数料　　    30,000円\n\n \n\n合計　　　　　　  150,000円",
+        "user": "UGQV9DXRC",
+        "ts": "1567665209.034300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8f0789d0-3cc0-454b-bb03-e6f2082e07aa",
+        "type": "message",
+        "text": "食事代は8万円にして",
+        "user": "UHFLB6JPR",
+        "ts": "1567665253.034600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0d208a43-c790-476b-ad71-cf044fdc818b",
+        "type": "message",
+        "text": "雑費1.5万円は使う予定ある？",
+        "user": "UHFLB6JPR",
+        "ts": "1567665299.035200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "86e9e022-c942-40cb-b446-708d4cddd768",
+        "type": "message",
+        "text": "リターン品の発送くらいだと思います",
+        "user": "UGQV9DXRC",
+        "ts": "1567665328.036100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7576e842-a212-4c07-b630-cf25f58f0a88",
+        "type": "message",
+        "text": "材料費は塩と砂糖で4000円\nそれ以外の見積もりが知りたいです",
+        "user": "UHFLB6JPR",
+        "ts": "1567665354.036500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4700072d-b576-45f8-a106-cecba1f2dfe3",
+        "type": "message",
+        "text": "雑費は5000円に抑えらえるね。",
+        "user": "UHFLB6JPR",
+        "ts": "1567665386.037400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2f0aab88-38c6-42c3-b1ae-171df8c9e53f",
+        "type": "message",
+        "text": "後は牛乳と生クリームが人数分必要です",
+        "user": "UGQV9DXRC",
+        "ts": "1567665422.038200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "80463d31-4b9c-4764-94e3-ae9ca4a0fc1d",
+        "type": "message",
+        "text": "チラシ代は最悪大河原が負担します",
+        "user": "UHFLB6JPR",
+        "ts": "1567665453.038900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FN1DU0V0D",
+                "created": 1567665505,
+                "timestamp": 1567665505,
+                "name": "20190914　子ども食堂.pdf",
+                "title": "20190914　子ども食堂.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 453009,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN1DU0V0D\/20190914__________________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN1DU0V0D\/download\/20190914__________________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FN1DU0V0D-8cf11aab6a\/20190914___________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FN1DU0V0D\/20190914__________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FN1DU0V0D-2b5554b075",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1567665505.039700",
+        "client_msg_id": "8fa4c58b-a559-4be2-99f0-86cc85f4ac91"
+    },
+    {
+        "client_msg_id": "49dd1280-451b-49ec-9e7b-ef14a6d73313",
+        "type": "message",
+        "text": "あとジップロックとハンドタオルが必要です\n<https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1567664499026100>",
+        "user": "UHEH8KZ7W",
+        "ts": "1567665538.040900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1567664499026100",
+                "fallback": "[September 4th, 2019 11:21 PM] hera-syndulla:  こども食堂予算.xlsx",
+                "ts": "1567664499.026100",
+                "author_id": "UHEH8KZ7W",
+                "author_subname": "Yuji Fukuda",
+                "channel_id": "CJZ0QGKRB",
+                "channel_name": "project_こども食堂",
+                "is_msg_unfurl": true,
+                "author_name": "Yuji Fukuda",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UHEH8KZ7W",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-30\/591546607600_66927b94566cb7ee48d1_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "FN1DN3HU0",
+                        "created": 1567664498,
+                        "timestamp": 1567664498,
+                        "name": "こども食堂予算.xlsx",
+                        "title": "こども食堂予算.xlsx",
+                        "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        "filetype": "xlsx",
+                        "pretty_type": "Excel Spreadsheet",
+                        "user": "UHEH8KZ7W",
+                        "editable": false,
+                        "size": 10579,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN1DN3HU0\/_____________________.xlsx",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN1DN3HU0\/download\/_____________________.xlsx",
+                        "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FN1DN3HU0-d2f47e443d\/______________________converted.pdf",
+                        "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FN1DN3HU0-d2f47e443d\/______________________thumb_pdf.png",
+                        "thumb_pdf_w": 909,
+                        "thumb_pdf_h": 1286,
+                        "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FN1DN3HU0\/_____________________.xlsx",
+                        "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FN1DN3HU0-ce977fa583",
+                        "has_rich_preview": false
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1567664499026100",
+                "footer": "#project_こども食堂 に投稿"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9b1fdc6-1429-4f13-a0d9-c2bb69072605",
+        "type": "message",
+        "text": "ハンバーグカレーだけを50名分追加して、\nハンバーグカレー200名\nサラダ150名\nで行きましょう",
+        "user": "UHFLB6JPR",
+        "ts": "1567665552.041600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "14ae82dd-9827-4983-8beb-ca2975b24f4e",
+        "type": "message",
+        "text": "77500円ですね",
+        "user": "UGQV9DXRC",
+        "ts": "1567665598.041900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c3aad641-e404-4dc1-9732-b5f141f2a914",
+        "type": "message",
+        "text": "そう、これで生協に再依頼します",
+        "user": "UHFLB6JPR",
+        "ts": "1567665620.042300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0bd386e5-2e22-41f7-a8a5-71b2faf4caa7",
+        "type": "message",
+        "text": "承知しました、よろしくお願い致します",
+        "user": "UGQV9DXRC",
+        "ts": "1567665632.042600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2b4872a0-18b1-44c9-87f7-aed9f9d37228",
+        "type": "message",
+        "text": "福田くんのリストの中の、ジップロックと牛乳、生クリームについて確認しておいてもらえると助かります！",
+        "user": "UGQV9DXRC",
+        "ts": "1567665697.044200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b3c4045b-070d-496b-9a63-56e4342d5498",
+        "type": "message",
+        "text": "タオルはアイスに巻くやつだよね？\n買わなくてもなんとかなるかも",
+        "user": "UGQV9DXRC",
+        "ts": "1567665759.045800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1ca73ebd-2bd2-4154-bd21-36713943fcc6",
+        "type": "message",
+        "text": "確認というのは人数分の値段がどれくらいかということでよろしいでしょうか？",
+        "user": "UHEH8KZ7W",
+        "ts": "1567665771.046100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bdbb9d28-7b57-4724-8159-7eb5f905841a",
+        "type": "message",
+        "text": "了解です",
+        "user": "UHEH8KZ7W",
+        "ts": "1567665881.046500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

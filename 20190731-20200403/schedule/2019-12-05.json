@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "a8fe0f8e-6153-4233-b0c5-5b8be5c0becb",
+        "type": "message",
+        "text": "家庭の事情のためゼミを欠席します。先週に引き続いてしまい申し訳ありませんが、よろしくお願いします。",
+        "user": "UHG1M1NQ6",
+        "ts": "1575601527.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sXr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "家庭の事情のためゼミを欠席します。先週に引き続いてしまい申し訳ありませんが、よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a879ab15-ac60-4d85-9ddf-f7feec392341",
+        "type": "message",
+        "text": "都竹っち事前に欠席するかもしれないときは事前に頂戴ね。本当に緊急で入った場合は仕方ないけど。\n来年入ってくる人たちに極力ゼミを欠席してほしくないので、今のうちに徹底しておきたいので。",
+        "user": "UHEH8KZ7W",
+        "ts": "1575602691.002500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHEH8KZ7W",
+            "ts": "1575602762.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xfjB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "都竹っち事前に欠席するかもしれないときは事前に頂戴ね。本当に緊急で入った場合は仕方ないけど。\n来年入ってくる人たちに極力ゼミを欠席してほしくないので、今のうちに徹底しておきたいので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "UHG1M1NQ6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

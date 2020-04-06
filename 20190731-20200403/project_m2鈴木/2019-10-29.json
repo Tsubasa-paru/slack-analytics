@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "81fc7fb6-841a-4d66-b84b-13c7f9e95b1e",
+        "type": "message",
+        "text": "移動平均\n<https:\/\/techacademy.jp\/magazine\/19435>",
+        "user": "UGQV9DXRC",
+        "ts": "1572337688.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "TechAcademyマガジン",
+                "title": "PythonのPandasで移動平均を求める方法【初心者向け】",
+                "title_link": "https:\/\/techacademy.jp\/magazine\/19435",
+                "text": "初心者向けにPythonのPandasで移動平均を求める方法について解説しています。Pythonではrollingメソッドを使用して移動平均を求めることができます。必要な各モジュールのインポートと計算方法について学びましょう。",
+                "fallback": "TechAcademyマガジン: PythonのPandasで移動平均を求める方法【初心者向け】",
+                "image_url": "https:\/\/techacademy-magazine-cdn.techacademy.jp\/wp-content\/uploads\/2018\/09\/70526700_m-800x534.jpg",
+                "from_url": "https:\/\/techacademy.jp\/magazine\/19435",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 63744,
+                "service_icon": "https:\/\/techacademy-magazine-cdn.techacademy.jp\/magazine\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/techacademy.jp\/magazine\/19435"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d5d0411-e391-4904-a77f-e72986f564fc",
+        "type": "message",
+        "text": "<https:\/\/deepage.net\/features\/pandas-mean.html>",
+        "user": "UGQV9DXRC",
+        "ts": "1572339599.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "DeepAge",
+                "title": "Pandasで平均を求めるmean関数の使い方",
+                "title_link": "https:\/\/deepage.net\/features\/pandas-mean.html",
+                "text": "本記事ではPandasのデータの平均を求めるmean関数の使い方についてまとめました。",
+                "fallback": "DeepAge: Pandasで平均を求めるmean関数の使い方",
+                "image_url": "https:\/\/deepage.net\/img\/image_social_thumb.png",
+                "ts": 1536620597,
+                "from_url": "https:\/\/deepage.net\/features\/pandas-mean.html",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 331250,
+                "service_icon": "https:\/\/deepage.net\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/deepage.net\/features\/pandas-mean.html"
+            }
+        ]
+    }
+]

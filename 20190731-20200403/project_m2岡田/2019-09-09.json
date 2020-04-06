@@ -1,0 +1,99 @@
+[
+    {
+        "type": "message",
+        "text": "訂正の例とアドバイスを加えました\n線の細さは他とのバランスもあると思うのでみんなの話を聞いてみてー",
+        "files": [
+            {
+                "id": "FN6EA72A1",
+                "created": 1568087386,
+                "timestamp": 1568087386,
+                "name": "日本体力医学会ポスター岡田4_鈴木.pptx",
+                "title": "日本体力医学会ポスター岡田4_鈴木.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 13147223,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN6EA72A1\/_______________________________________4_______.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FN6EA72A1\/download\/_______________________________________4_______.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FN6EA72A1\/_______________________________________4_______.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FN6EA72A1-e42277f583",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1568087417.000100",
+        "client_msg_id": "2abf5e92-0d0c-487f-a5dd-b045ba2c2301",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37d53d31-4694-4c9b-bdda-ebb895c86000",
+        "type": "message",
+        "text": "特徴量ひとつの場合の精度、の所を説明文中ではもう少し丁寧に書くと場が埋まる？と思って書いてみたけどいいのが思い浮かばない～～\n10個の特徴量の中から学習機に組み込む特徴量を選択する方法として、特徴量の順位付けを行った。特徴量を順位付けする為に、1つの特徴量のみを用いて学習器の精度を求める作業を繰り返し、個々の特徴量の性能を測った。",
+        "user": "UGQV9DXRC",
+        "ts": "1568088577.006400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "05d2577d-059f-4533-98db-92e9f6229a47",
+        "type": "message",
+        "text": "特徴量ひとつの場合の精度って書いてあるのに、図はひとつじゃなくて足し合わせだから違和感があるのかな？と思ったりなどした",
+        "user": "UGQV9DXRC",
+        "ts": "1568088602.007000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "face_with_monocle",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

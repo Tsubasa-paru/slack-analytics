@@ -1,0 +1,227 @@
+[
+{
+    "user_id": "UUZ15MZT4",
+    "user_name": "tubasa.12345.67890",
+    "date": "1585822065",
+    "change_type": "added",
+    "service_id": 1032638738147,
+    "service_type": "Google+ Hangouts",
+    "scope": "commands"
+},
+{
+    "user_id": "UUZ15MZT4",
+    "user_name": "tubasa.12345.67890",
+    "date": "1585641456",
+    "change_type": "expanded",
+    "app_type": "drive auto-upload",
+    "app_id": "A0113BJSFE1"
+},
+{
+    "user_id": "UUZ15MZT4",
+    "user_name": "tubasa.12345.67890",
+    "date": "1585640352",
+    "change_type": "expanded",
+    "app_type": "drive auto-upload",
+    "app_id": "A0113BJSFE1"
+},
+{
+    "user_id": "UUZ15MZT4",
+    "user_name": "tubasa.12345.67890",
+    "date": "1585639920",
+    "change_type": "expanded",
+    "app_type": "drive auto-upload",
+    "app_id": "A0113BJSFE1"
+},
+{
+    "user_id": "UUZ15MZT4",
+    "user_name": "tubasa.12345.67890",
+    "date": "1585638715",
+    "change_type": "expanded",
+    "app_type": "drive auto-upload",
+    "app_id": "A0113BJSFE1"
+},
+{
+    "user_id": "UUZ15MZT4",
+    "user_name": "tubasa.12345.67890",
+    "date": "1585637651",
+    "change_type": "expanded",
+    "app_type": "drive auto-upload",
+    "app_id": "A0113BJSFE1"
+},
+{
+    "user_id": "UUZ15MZT4",
+    "user_name": "tubasa.12345.67890",
+    "date": "1585636952",
+    "change_type": "expanded",
+    "app_type": "drive auto-upload",
+    "app_id": "A0113BJSFE1"
+},
+{
+    "user_id": "UUZ15MZT4",
+    "user_name": "tubasa.12345.67890",
+    "date": "1585635853",
+    "change_type": "added",
+    "app_type": "drive auto-upload",
+    "app_id": "A0113BJSFE1"
+},
+{
+    "user_id": "UUZ15MZT4",
+    "user_name": "tubasa.12345.67890",
+    "date": "1585635851",
+    "change_type": "added",
+    "app_type": "drive auto-upload",
+    "app_id": "A0113BJSFE1",
+    "scope": "admin,identify,channels:history,files:read,users:read,chat:write,files:write"
+},
+{
+    "user_id": "UUZ15MZT4",
+    "user_name": "tubasa.12345.67890",
+    "date": "1585633516",
+    "change_type": "added",
+    "app_type": "Zoom",
+    "app_id": "A5GE9BMQC",
+    "scope": "identify,bot,commands,team:read,users:read,users:read.email,chat:write:bot,links:read,links:write"
+},
+{
+    "user_id": "UHG1M1NQ6",
+    "user_name": "nsxfc3s",
+    "date": "1585631868",
+    "change_type": "added",
+    "app_type": "Zoom",
+    "app_id": "A5GE9BMQC",
+    "scope": "identify,bot,commands,team:read,users:read,users:read.email,chat:write:bot,links:read,links:write"
+},
+{
+    "user_id": "UUZ15MZT4",
+    "user_name": "tubasa.12345.67890",
+    "date": "1584089702",
+    "change_type": "added",
+    "app_type": "Google Calendar",
+    "app_id": "ADZ494LHY",
+    "scope": "identify,bot,commands,users.profile:write"
+},
+{
+    "user_id": "UHC5VBV5E",
+    "user_name": "w.4.univ",
+    "date": "1576047336",
+    "change_type": "added",
+    "app_type": "Google Drive",
+    "app_id": "A6NL8MJ6Q",
+    "scope": "identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"
+},
+{
+    "user_id": "UGQV9DXRC",
+    "user_name": "kmt.sd.ma",
+    "date": "1554375790",
+    "change_type": "added",
+    "app_type": "Polly",
+    "app_id": "A04E6JX41",
+    "scope": "identify,bot,commands"
+},
+{
+    "user_id": "UGQV9DXRC",
+    "user_name": "kmt.sd.ma",
+    "date": "1554107042",
+    "change_type": "updated",
+    "service_id": 586388459665,
+    "service_type": "Google Calendar for Team Events",
+    "scope": "incoming-webhook",
+    "channel": "CGPF92V7E"
+},
+{
+    "user_id": "UGQV9DXRC",
+    "user_name": "kmt.sd.ma",
+    "date": "1553999632",
+    "change_type": "added",
+    "app_type": "Google Calendar",
+    "app_id": "ADZ494LHY",
+    "scope": "identify,bot,commands"
+},
+{
+    "user_id": "UGQV9DXRC",
+    "user_name": "kmt.sd.ma",
+    "date": "1553999418",
+    "change_type": "removed",
+    "service_id": 592527521956,
+    "service_type": "Google Calendar for Team Events",
+    "scope": "incoming-webhook",
+    "channel": "CGPF92V7E"
+},
+{
+    "user_id": "UGQV9DXRC",
+    "user_name": "kmt.sd.ma",
+    "date": "1553834724",
+    "change_type": "updated",
+    "service_id": 592527521956,
+    "service_type": "Google Calendar for Team Events",
+    "scope": "incoming-webhook",
+    "channel": "CGPF92V7E"
+},
+{
+    "user_id": "UGQV9DXRC",
+    "user_name": "kmt.sd.ma",
+    "date": "1553834687",
+    "change_type": "removed",
+    "service_id": 568852595824,
+    "service_type": "Google Calendar for Team Events",
+    "scope": "incoming-webhook",
+    "channel": "CGPF92V7E"
+},
+{
+    "user_id": "UGQV9DXRC",
+    "user_name": "kmt.sd.ma",
+    "date": "1553834681",
+    "change_type": "removed",
+    "service_id": 569017265329,
+    "service_type": "Google Calendar for Team Events",
+    "scope": "incoming-webhook",
+    "channel": "CGPF92V7E"
+},
+{
+    "user_id": "UGQV9DXRC",
+    "user_name": "kmt.sd.ma",
+    "date": "1551947630",
+    "change_type": "updated",
+    "service_id": 568868269216,
+    "service_type": "Google Drive",
+    "scope": "files:write:user"
+},
+{
+    "user_id": "UGQV9DXRC",
+    "user_name": "kmt.sd.ma",
+    "date": "1551947615",
+    "change_type": "added",
+    "app_type": "Google Drive",
+    "app_id": "A6NL8MJ6Q",
+    "scope": "identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"
+},
+{
+    "user_id": "UGQV9DXRC",
+    "user_name": "kmt.sd.ma",
+    "date": "1551947605",
+    "change_type": "added",
+    "service_id": 568868269216,
+    "service_type": "Google Drive",
+    "scope": "files:write:user"
+},
+{
+    "user_id": "UGQV9DXRC",
+    "user_name": "kmt.sd.ma",
+    "date": "1551946183",
+    "change_type": "updated",
+    "service_id": 568852595824,
+    "service_type": "Google Calendar for Team Events",
+    "scope": "incoming-webhook",
+    "channel": "CGPF92V7E"
+},
+{
+    "user_id": "UGQV9DXRC",
+    "user_name": "kmt.sd.ma",
+    "date": "1551945310",
+    "change_type": "updated",
+    "service_id": 569017265329,
+    "service_type": "Google Calendar for Team Events",
+    "scope": "incoming-webhook",
+    "channel": "CGPF92V7E"
+}
+]

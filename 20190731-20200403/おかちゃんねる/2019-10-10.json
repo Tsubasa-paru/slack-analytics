@@ -1,0 +1,181 @@
+[
+    {
+        "client_msg_id": "1B4DC4DC-3519-49EC-B2AF-2925F04A790F",
+        "type": "message",
+        "text": "A:うp主失踪したんじゃね？",
+        "user": "UHEH8KZ7W",
+        "ts": "1570773607.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHEH8KZ7W",
+            "ts": "1570773649.000000"
+        },
+        "thread_ts": "1570773607.000700",
+        "reply_count": 5,
+        "reply_users_count": 1,
+        "latest_reply": "1570773758.004200",
+        "reply_users": [
+            "UHEH8KZ7W"
+        ],
+        "replies": [
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1570773635.001500"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1570773671.002200"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1570773709.003000"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1570773742.003600"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1570773758.004200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "787AC927-62F5-4678-86BB-A8BE30D60AE8",
+        "type": "message",
+        "text": "B:最近うpしてないよね…",
+        "user": "UHEH8KZ7W",
+        "ts": "1570773635.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570773607.000700",
+        "parent_user_id": "UHEH8KZ7W"
+    },
+    {
+        "client_msg_id": "E2C81273-F74E-4F93-8141-2FC259B347DA",
+        "type": "message",
+        "text": "C:たまたま忘れてるだけでしょ？",
+        "user": "UHEH8KZ7W",
+        "ts": "1570773671.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570773607.000700",
+        "parent_user_id": "UHEH8KZ7W"
+    },
+    {
+        "client_msg_id": "91CE53DA-3FAD-4622-BB39-5E2B5E9FE294",
+        "type": "message",
+        "text": "A:じゃあそのうちまた上がるか…",
+        "user": "UHEH8KZ7W",
+        "ts": "1570773709.003000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570773607.000700",
+        "parent_user_id": "UHEH8KZ7W"
+    },
+    {
+        "client_msg_id": "4F7ACD4B-C69F-4377-9543-3584D53D98A1",
+        "type": "message",
+        "text": "B:だと思う。",
+        "user": "UHEH8KZ7W",
+        "ts": "1570773742.003600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570773607.000700",
+        "parent_user_id": "UHEH8KZ7W"
+    },
+    {
+        "client_msg_id": "50958147-76CC-449B-AB99-0DCBBDA0AA28",
+        "type": "message",
+        "text": "C:だね。",
+        "user": "UHEH8KZ7W",
+        "ts": "1570773758.004200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570773607.000700",
+        "parent_user_id": "UHEH8KZ7W"
+    }
+]

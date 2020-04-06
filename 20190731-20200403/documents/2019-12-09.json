@@ -1,0 +1,258 @@
+[
+    {
+        "type": "message",
+        "text": "まだチェック前です",
+        "files": [
+            {
+                "id": "FRHBZKK38",
+                "created": 1575887295,
+                "timestamp": 1575887295,
+                "name": "健康支援学会2020_都竹ver01.docx",
+                "title": "健康支援学会2020_都竹ver01.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 28857,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRHBZKK38\/__________________2020_______ver01.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRHBZKK38\/download\/__________________2020_______ver01.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRHBZKK38-fdb54f92b4\/__________________2020_______ver01_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRHBZKK38-fdb54f92b4\/__________________2020_______ver01_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FRHBZKK38\/__________________2020_______ver01.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FRHBZKK38-e28555e251",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1575925624.000100"
+    },
+    {
+        "client_msg_id": "064a0777-0e3e-4bad-8e1e-81116fb9e508",
+        "type": "message",
+        "text": "<!channel>\n*【要確認】資料管理のルール*\n提出する資料は全てドライブを経由してリンクをアップロードする\n→抄録，発表資料，研究テーマや進学に関わる資料等は共有フォルダ内にフォルダを作成し、新規作成した場合は#documentsで報告する\n　(後でまとめて確認する時にこのチャンネルを見れば済むようにしたい,個別のやり取りはここではなく個別チャンネルでリンクを貼って)\n\n*【参考】ドライブのフォルダ構造(提出物に纏わるもの)*\n*・卒論関連(抄録，発表資料，研究計画)*\n　マイドライブ&gt;大河原研究室共有フォルダ&gt;卒論\n　&lt;https:\/\/drive.google.com\/open?id=1puNhJxu25p4orm4pmboLQsKf55cR8RON&gt;\n*・学会関連(抄録，発表資料，交通費精算などのデータ)*\n　マイドライブ&gt;大河原研究室共有フォルダ&gt;学会\n　&lt;https:\/\/drive.google.com\/open?id=1hTrBW6yE9AcxnV20lncwA761M0-r4jTZ&gt;\n*・その他資料(論文，書籍，調布祭関連，slack利用法等，共有の資料として残したいもの)*\n　マイドライブ&gt;大河原研究室共有フォルダ&gt;資料\n　&lt;https:\/\/drive.google.com\/open?id=1x2H_O-ei5cgQC92ndjSoPZYifcKO6glI&gt;\n*・ゼミ関連(議事録，提出資料)*\n　マイドライブ&gt;ゼミ資料\n　&lt;https:\/\/drive.google.com\/open?id=0ByyB_HXyImqVN1gxVnZDY3lFc3M&gt;\n*・個人*\n　マイドライブ&gt;大河原研究室共有フォルダ&gt;メンバー",
+        "user": "UGQV9DXRC",
+        "ts": "1575953508.013000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1575954265.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jpnea",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【要確認】資料管理のルール",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n提出する資料は全てドライブを経由してリンクをアップロードする\n→抄録，発表資料，研究テーマや進学に関わる資料等は共有フォルダ内にフォルダを作成し、新規作成した場合は#documentsで報告する\n　(後でまとめて確認する時にこのチャンネルを見れば済むようにしたい,個別のやり取りはここではなく個別チャンネルでリンクを貼って)\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "【参考】ドライブのフォルダ構造(提出物に纏わるもの)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・卒論関連(抄録，発表資料，研究計画)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　マイドライブ>大河原研究室共有フォルダ>卒論\n　"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1puNhJxu25p4orm4pmboLQsKf55cR8RON"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・学会関連(抄録，発表資料，交通費精算などのデータ)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　マイドライブ>大河原研究室共有フォルダ>学会\n　"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1hTrBW6yE9AcxnV20lncwA761M0-r4jTZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・その他資料(論文，書籍，調布祭関連，slack利用法等，共有の資料として残したいもの)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　マイドライブ>大河原研究室共有フォルダ>資料\n　"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1x2H_O-ei5cgQC92ndjSoPZYifcKO6glI"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・ゼミ関連(議事録，提出資料)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　マイドライブ>ゼミ資料\n　"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=0ByyB_HXyImqVN1gxVnZDY3lFc3M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・個人",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　マイドライブ>大河原研究室共有フォルダ>メンバー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c4f10cc-aa2d-4f8b-9b3d-afeb143ae4cb",
+        "type": "message",
+        "text": "*新規作成したファイル*\n・卒論中間報告会の抄録と発表資料\n　大河原研究室共有フォルダ&gt;卒論&gt;2019\n　&lt;https:\/\/drive.google.com\/open?id=1Auh60aiDg8HKA1J69k2GGjMH761rfOjT&gt;\n・健康支援学会の抄録と発表資料\n　大河原研究室共有フォルダ&gt;学会&gt;健康支援学会&gt;2019\n　&lt;https:\/\/drive.google.com\/open?id=1FKXJ6Xgo2-NXR3JdHaCEYERK0hr_vEZB&gt;",
+        "user": "UGQV9DXRC",
+        "ts": "1575953593.014100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1575953621.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ID\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "新規作成したファイル",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n・卒論中間報告会の抄録と発表資料\n　大河原研究室共有フォルダ>卒論>2019\n　"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1Auh60aiDg8HKA1J69k2GGjMH761rfOjT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n・健康支援学会の抄録と発表資料\n　大河原研究室共有フォルダ>学会>健康支援学会>2019\n　"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1FKXJ6Xgo2-NXR3JdHaCEYERK0hr_vEZB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

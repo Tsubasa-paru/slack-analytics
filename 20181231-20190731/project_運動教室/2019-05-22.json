@@ -1,0 +1,81 @@
+[
+    {
+        "client_msg_id": "c5b82795-f807-4547-9527-263937badc86",
+        "type": "message",
+        "text": "明日かくしょうじの運動教室に向かいますが、一緒に来る人がいたら連絡お願いします。",
+        "user": "UGQ2ENZD0",
+        "ts": "1558521468.002800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "90710e5f-fed2-4621-8cad-0a1253a21012",
+        "type": "message",
+        "text": "本日，覚證寺の運動教室に参加してまいりました．\nリーダーは下條さん，工藤さん，寺井さんの3名で，参加者は指導者と私を含めず8名でした．\n次回の教室は6\/6で，下條さんが来れないので誰かきていただけると嬉しいとのことです．",
+        "user": "UGQ2ENZD0",
+        "ts": "1558588928.002300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558588928.002300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1558588950.002400",
+        "reply_users": [
+            "UGQ2ENZD0"
+        ],
+        "replies": [
+            {
+                "user": "UGQ2ENZD0",
+                "ts": "1558588950.002400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "bf272276-5b2b-482c-ad04-7c25a4e2e302",
+        "type": "message",
+        "text": "6\/6は私が行こうと考えています．",
+        "user": "UGQ2ENZD0",
+        "ts": "1558588950.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558588928.002300",
+        "parent_user_id": "UGQ2ENZD0"
+    }
+]

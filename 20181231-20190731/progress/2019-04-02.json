@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "86bccc1c-2952-470d-8667-106a65cd6828",
+        "type": "message",
+        "text": "今日は\n&gt; PyCharmをProxy + Windows環境で動かせるようにしました (とてもえらい)\n&gt; ECSSの会員費および学会費を払い込みました\n&gt; 研究室のゴミを捨てました (そこそこえらい)\n明日は\n&gt; プレテストの実験計画を立てます",
+        "user": "UGQ2ENZD0",
+        "ts": "1554191665.003600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "the_fatal_smile",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65efe0ab-b91c-4689-9bcb-ed6f064adf61",
+        "type": "message",
+        "text": "今日はpython勉強会の準備\n&gt;kaggleのデータセットで練習できるサイトを利用して決定木とランダムフォレストをやってみました。\n&gt;http:\/\/www.randpy.tokyo\/entry\/python_random_forest\n&gt;本は何冊か読んだけど機械学習にフォーカスしているものは禁退出のものだけ\n&gt;#python_studyに参考にしている本やサイトをまとめているので先に知っておきたい人はのぞいてみてください",
+        "user": "UGQV9DXRC",
+        "ts": "1554195928.008000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UGPH97FDW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e588ee2-31ae-4841-ac30-18b58c05e5f9",
+        "type": "message",
+        "text": "今日は\n\n&gt;図書館でPythonの本を探した。本を読んだ。\n&gt;Pycharmの環境をノートPCに作った(清水の力に大きく頼って)\n\n明日は\n&gt;図書館で本を読みながらニューラルネットワークの勉強",
+        "user": "UGPH97FDW",
+        "ts": "1554202250.011800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGPH97FDW",
+            "ts": "1554202267.000000"
+        },
+        "reactions": [
+            {
+                "name": "the_boss",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

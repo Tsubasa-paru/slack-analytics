@@ -1,0 +1,278 @@
+[
+    {
+        "type": "message",
+        "text": "スポルアップ様から担当を引き継ぐ旨のメールを頂いてからのご連絡がないようなのですが、トップページとして関係者チェックに回してはいけませんでしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1564998429.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[August 3rd, 2019 12:00 AM] kmt.sd.ma: リターン品について、アメフト部が追記をしてくれましたので共有させていただきます。\nイヤーブックのみ追加、ネックストラップはなしの方向のようです。\n<https:\/\/faavo.jp\/preview\/projectview?preview_key=9b8066399c8b47ad7043552bae54e1e341794033cfed972698114e0ab5ca0ca0>\n\nスポルアップ様のお写真が良ければ公開できる状態です。",
+                "ts": "1564758008.001300",
+                "author_id": "UGQV9DXRC",
+                "author_subname": "鈴木美穂",
+                "channel_id": "CJZ0QGKRB",
+                "channel_name": "project_こども食堂",
+                "is_msg_unfurl": true,
+                "text": "リターン品について、アメフト部が追記をしてくれましたので共有させていただきます。\nイヤーブックのみ追加、ネックストラップはなしの方向のようです。\n<https:\/\/faavo.jp\/preview\/projectview?preview_key=9b8066399c8b47ad7043552bae54e1e341794033cfed972698114e0ab5ca0ca0>\n\nスポルアップ様のお写真が良ければ公開できる状態です。",
+                "author_name": "鈴木美穂",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1564758008001300",
+                "is_share": true,
+                "footer": "#project_こども食堂 に投稿"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B199CC19-DE26-430A-8986-1BF205E38E8E",
+        "type": "message",
+        "text": "回してください",
+        "user": "UHFLB6JPR",
+        "ts": "1564998712.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "CD06E79A-7D47-4D46-83CE-5D855E0C62A5",
+        "type": "message",
+        "text": "連絡先リストをDMにて確認させていただきます",
+        "user": "UGQV9DXRC",
+        "ts": "1564999086.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "クラウドファンディングトップの確認に関して、関係者メール送付しました。",
+        "files": [
+            {
+                "id": "FM58X99U6",
+                "created": 1565058400,
+                "timestamp": 1565058272,
+                "name": "【確認お願い致します】電気通信大学こども食堂2019CFについて",
+                "title": "【確認お願い致します】電気通信大学こども食堂2019CFについて",
+                "mimetype": "text\/html",
+                "filetype": "email",
+                "pretty_type": "Email",
+                "user": "UGQV9DXRC",
+                "editable": true,
+                "size": 8978,
+                "mode": "email",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FM58X99U6\/__________________________________________________________________2019cf____________?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FM58X99U6\/download\/__________________________________________________________________2019cf____________?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FM58X99U6\/__________________________________________________________________2019cf____________",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FM58X99U6-673bce612e",
+                "subject": "【確認お願い致します】電気通信大学こども食堂2019CFについて",
+                "to": [
+                    {
+                        "address": "hosokawa@kakushoji.or.jp",
+                        "name": "覚證寺 細川真彦",
+                        "original": "覚證寺 細川真彦 <hosokawa@kakushoji.or.jp>"
+                    },
+                    {
+                        "address": "chofu-co@ccsw.or.jp",
+                        "name": "",
+                        "original": "chofu-co@ccsw.or.jp"
+                    },
+                    {
+                        "address": "chofu@kodomo-net.or.jp",
+                        "name": "",
+                        "original": "chofu@kodomo-net.or.jp"
+                    },
+                    {
+                        "address": "akashi.satoh@uec.ac.jp",
+                        "name": "Akashi Satoh",
+                        "original": "Akashi Satoh <akashi.satoh@uec.ac.jp>"
+                    },
+                    {
+                        "address": "makita.hd@fc.univcoop.or.jp",
+                        "name": "makita.牧田英顕 電通大専務",
+                        "original": "makita.牧田英顕 電通大専務 <makita.hd@fc.univcoop.or.jp>"
+                    },
+                    {
+                        "address": "nishida@sangaku.uec.ac.jp",
+                        "name": "電通大 西田",
+                        "original": "電通大 西田 <nishida@sangaku.uec.ac.jp>"
+                    },
+                    {
+                        "address": "takenaka@skyscale.co.jp",
+                        "name": "竹中裕晃",
+                        "original": "竹中裕晃 <takenaka@skyscale.co.jp>"
+                    },
+                    {
+                        "address": "kato-33@spollup.jp",
+                        "name": "加藤尚文",
+                        "original": "加藤尚文 <kato-33@spollup.jp>"
+                    },
+                    {
+                        "address": "oshima-21@spollup.jp",
+                        "name": "大島由佳",
+                        "original": "大島由佳 <oshima-21@spollup.jp>"
+                    },
+                    {
+                        "address": "edo-346@spollup.jp",
+                        "name": "江戸香織",
+                        "original": "江戸香織 <edo-346@spollup.jp>"
+                    },
+                    {
+                        "address": "lasithi-123@hotmail.co.jp",
+                        "name": "小田 いづみ",
+                        "original": "小田 いづみ <lasithi-123@hotmail.co.jp>"
+                    },
+                    {
+                        "address": "info@foodbank-chofu.org",
+                        "name": "フードバンク",
+                        "original": "フードバンク <info@foodbank-chofu.org>"
+                    },
+                    {
+                        "address": "yanaka@campuscreate.com",
+                        "name": "kunihiko_yanaka",
+                        "original": "kunihiko_yanaka <yanaka@campuscreate.com>"
+                    },
+                    {
+                        "address": "ohkawara_kazunori@e-one.uec.ac.jp",
+                        "name": "大河原 一憲",
+                        "original": "大河原 一憲 <ohkawara_kazunori@e-one.uec.ac.jp>"
+                    }
+                ],
+                "from": [
+                    {
+                        "address": "mimiho.bell@gmail.com",
+                        "name": "鈴木美穂",
+                        "original": "鈴木美穂 <mimiho.bell@gmail.com>"
+                    }
+                ],
+                "cc": [
+                    {
+                        "address": "sousuke.soccer@gmail.com",
+                        "name": "sousuke k",
+                        "original": "sousuke k <sousuke.soccer@gmail.com>"
+                    },
+                    {
+                        "address": "hmh531xp@gmail.com",
+                        "name": "広瀬はるか",
+                        "original": "広瀬はるか <hmh531xp@gmail.com>"
+                    },
+                    {
+                        "address": "yuppy938@gmail.com",
+                        "name": "中原有麻",
+                        "original": "中原有麻 <yuppy938@gmail.com>"
+                    },
+                    {
+                        "address": "kogepanakira@gmail.com",
+                        "name": "漆畑輝",
+                        "original": "漆畑輝 <kogepanakira@gmail.com>"
+                    },
+                    {
+                        "address": "i0l6p5v5r0v0t8l2@ohkawaralab.slack.com",
+                        "name": "Slack へ送信する",
+                        "original": "Slack へ送信する <i0l6p5v5r0v0t8l2@ohkawaralab.slack.com>"
+                    },
+                    {
+                        "address": "yuji.f_1996@ezweb.ne.jp",
+                        "name": "",
+                        "original": "yuji.f_1996@ezweb.ne.jp"
+                    }
+                ],
+                "attachments": [],
+                "plain_text": "関係者の皆様\r\n\r\n大変お世話になっております。\r\n電気通信大学大河原研究室修士２年の鈴木と申します。\r\n本日は、今年9月に開催される電気通信大学こども食堂2019に関する確認事項の為にご連絡させていただきました。\r\n\r\n昨年開催されました電気通信大学こども食堂2018は、皆様のご協力によりイベント当日、資金集めのクラウドファンディング共に大成功をおさめました。\r\n参加者の皆様、関係者の皆様から暖かいお声を頂き、今年も引き続き開催したいと考えております。\r\n\r\nつきましては、昨年同様に資金集めの為のクラウドファンディングを実施いたします。\r\nお手数ですが、添付URLよりクラウドファンディングのトップページをご覧いただき、修正などのご意見を頂きたく存じます。\r\n\r\n・クラウドファンディングプレビュー(添付URL)\r\nhttps:\/\/faavo.jp\/preview\/projectview?preview_key=9b8066399c8b47ad7043552bae54e1e341794033cfed972698114e0ab5ca0ca0\r\n\r\nご指摘などございましたら、8月9日(金)8時までにお返事頂けますと幸いです。\r\n\r\nお忙しい所恐れ入りますが、よろしくお願いいたします。\r\n\r\n電気通信大学大河原研究室 修士2年\r\n鈴木美穂\r\n電話：090-7281-6191\r\nメール：mimiho.bell@gmail.com",
+                "preview": "<p>&#38306;&#20418;&#32773;&#12398;&#30342;&#27096;<br><br>&#22823;&#22793;&#12362;&#19990;&#35441;&#12395;&#12394;&#12387;&#12390;&#12362;&#12426;&#12414;&#12377;&#12290;<br>&#38651;&#27671;&#36890;&#20449;&#22823;&#23398;&#22823;&#27827;&#21407;&#30740;&#31350;&#23460;&#20462;&#22763;&#65298;&#24180;&#12398;&#37428;&#26408;&#12392;&#30003;&#12375;&#12414;&#12377;&#12290;<br>&#26412;&#26085;&#12399;&#12289;&#20170;&#24180;9&#26376;&#12395;&#38283;&#20652;&#12373;&#12428;&#12427;&#38651;&#27671;&#36890;&#20449;&#22823;&#23398;&#12371;&#12393;&#12418;&#39135;&#22530;2019&#12395;&#38306;&#12377;&#12427;&#30906;&#35469;&#20107;&#38917;&#12398;&#28858;&#12395;&#12372;&#36899;&#32097;&#12373;&#12379;&#12390;&#12356;&#12383;&#12384;&#12365;&#12414;&#12375;&#12383;&#12290;<br><br>&#26152;&#24180;&#38283;&#20652;&#12373;&#12428;&#12414;&#12375;&#12383;&#38651;&#27671;&#36890;&#20449;&#22823;&#23398;&#12371;&#12393;&#12418;&#39135;&#22530;2018&#12399;&#12289;&#30342;&#27096;&#12398;&#12372;&#21332;&#21147;&#12395;&#12424;<\/p>",
+                "preview_plain_text": "関係者の皆様\r\n\r\n大変お世話になっております。\r\n電気通信大学大河原研究室修士２年の鈴木と申します。\r\n本日は、今年9月に開催される電気通信大学こども食堂2019に関する確認事項の為にご連絡させていただきました。\r\n\r\n昨年開催されました電気通信大学こども食堂2018は、皆様のご協力によりイベント当日、資金集めのクラウドファンディング共に大成功をおさめました。\r\n参加者の皆様、関係者の皆様から暖かいお声を頂き、今年も引き続き開催したいと考えております。\r\n\r\nつきましては、昨年同様に資金集めの為のクラウドファンディングを実施いたします。\r\nお手数ですが、添付URLよりクラウドファンディングのトップページをご覧いただき、修正などのご意見を頂きたく存じます。\r\n\r\n・クラウドファンディングプレビュー(添付URL)\r\nhttps:\/\/faavo.jp\/preview\/projectview?preview_key=9b8066399c8b47ad7043552bae54e1e341794033cfed972698114e0ab5ca0ca0\r\n\r\nご指摘などございましたら、8月9日(金)8",
+                "headers": {
+                    "date": "Tue, 6 Aug 2019 11:24:32 +0900"
+                },
+                "has_more": true,
+                "sent_to_self": false,
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1565058437.000100"
+    },
+    {
+        "client_msg_id": "3cd223bf-3f7a-458f-a4c1-2ec4cfde44b8",
+        "type": "message",
+        "text": "トップページの訂正\n・大学HP\n　埋め込みやめて一枚目だけ写真をアップ+URL",
+        "user": "UGQV9DXRC",
+        "ts": "1565065335.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565065335.001800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1565089963.000100",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1565089963.000100"
+            }
+        ],
+        "subscribed": false
+    }
+]

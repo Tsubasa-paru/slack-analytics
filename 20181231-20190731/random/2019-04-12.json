@@ -1,0 +1,37 @@
+[
+    {
+        "client_msg_id": "7082E12E-66B5-46F4-8237-D3C031CE0E9D",
+        "type": "message",
+        "text": "せっかくだから、みんなが研究室に来たくなる部屋にしたい！！",
+        "user": "UHFLB6JPR",
+        "ts": "1555061359.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "UGQV9DXRC",
+                    "UGQ2ENZD0",
+                    "UHC5VBV5E",
+                    "UHEH8KZ7W",
+                    "UHFLC6N4X",
+                    "UHG1M1NQ6"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

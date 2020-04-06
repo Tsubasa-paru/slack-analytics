@@ -1,0 +1,141 @@
+[
+    {
+        "client_msg_id": "0c28195c-d682-436e-bfb1-aef36ac28aa5",
+        "type": "message",
+        "text": "2019\/06\/18　こども食堂MTG\n今回のMTG目標：CFページを作れる概要を作る\nCFのテーマ決め\n　去年とは異なるテーマを作る\n　→中原さんが考えて下さったワードを使って\n　「新しい体験を通して学ぶことの楽しさを伝える」\n　→去年の体験・経験、子供の反応を通して…\n　→電通大だからこその新しい体験を提供\n　→食・運動・科学(プログラミング）の楽しさを伝える\n\nCF本文に入れるワード：大学生と子供をつなぐ\n\n各テーマの内容\n　食育：栄養、健康、共食\n　運動：アメフト、身体を動かす\n　科学：電通大らしい何か\n\nCFページ冒頭に何を書くか\n-何故2回目をやるのか\n　→CFを通してこども食堂の輪を広げたい。色々な人に知って頂きたい\n-2回目だからこそ何があるのか\n上記に記載済み\n\n次回のMTGまでにやること\nアメフト部：運動、食育を混ぜたアクティビティを考える\n大河原研：科学(プログラミング)で何をするのかを具体的に決める",
+        "user": "UHEH8KZ7W",
+        "ts": "1560822967.010000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FKN26DY56",
+                "created": 1560824839,
+                "timestamp": 1560824839,
+                "name": "電通大こども食堂CFページ概要.pdf",
+                "title": "電通大こども食堂CFページ概要.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 466013,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKN26DY56\/________________________cf_______________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKN26DY56\/download\/________________________cf_______________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKN26DY56-87c0cf4d5a\/________________________cf________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FKN26DY56\/________________________cf_______________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FKN26DY56-941d14e873",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1560824840.010100",
+        "client_msg_id": "61a12964-5a6b-4987-b99e-f7d0fcd04bb7",
+        "thread_ts": "1560824840.010100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1560824893.011100",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1560824893.011100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9531bad2-a054-492a-a749-84583fc907ec",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n上記の内容でCFページの作成を行っていきたいと考えています。\nご確認よろしくお願い致します。",
+        "user": "UGQV9DXRC",
+        "ts": "1560824879.011000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FKN29GMM3",
+                "created": 1560824891,
+                "timestamp": 1560824891,
+                "name": "電通大こども食堂CFページ概要.docx",
+                "title": "電通大こども食堂CFページ概要.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 13986,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKN29GMM3\/________________________cf_______________.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FKN29GMM3\/download\/________________________cf_______________.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKN29GMM3-32edd2cdef\/________________________cf________________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FKN29GMM3-32edd2cdef\/________________________cf________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FKN29GMM3\/________________________cf_______________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FKN29GMM3-ab6d08f83f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1560824893.011100",
+        "client_msg_id": "d6997757-c731-45b1-ac92-c776419b2978",
+        "thread_ts": "1560824840.010100",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

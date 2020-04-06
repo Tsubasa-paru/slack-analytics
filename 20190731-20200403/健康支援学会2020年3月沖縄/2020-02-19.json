@@ -1,0 +1,393 @@
+[
+    {
+        "client_msg_id": "3c9b6520-c784-47eb-98d3-c8af39cb4edf",
+        "type": "message",
+        "text": "前回作成したポスターを修正しました。\nご確認のほどよろしくお願い致します。\n<https:\/\/drive.google.com\/file\/d\/1VU3ssTCarWw2IGkV3DIjquUvtv4o9J4Q\/view?usp=sharing>",
+        "user": "UHV3GN694",
+        "ts": "1582105273.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g09c71d9cc54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b09c71d9cc541041ebfe419872e7fc9c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "高柳里紗",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "rxrxree609",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Knx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前回作成したポスターを修正しました。\nご確認のほどよろしくお願い致します。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1VU3ssTCarWw2IGkV3DIjquUvtv4o9J4Q\/view?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1fd50a5b-8e54-48b4-b4e8-d990c1eec8e5",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> <@UGQV9DXRC> <@UHC5VBV5E> <@UHG1M1NQ6> <@UHV3GN694>\nパック旅行ってキャンセル不可だっけ？",
+        "user": "UHFLB6JPR",
+        "ts": "1582113102.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8zQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UGQV9DXRC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHC5VBV5E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHG1M1NQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHV3GN694"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nパック旅行ってキャンセル不可だっけ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7E5CAC12-DE7B-44CA-BF9B-48477B8361E3",
+        "type": "message",
+        "text": "キャンセル料はかかると思いますが出来るのではないでしょうか\n\n<https:\/\/www.jalan.net\/jalan\/doc\/jjp\/howto\/ryoukin.html#torikeshi|https:\/\/www.jalan.net\/jalan\/doc\/jjp\/howto\/ryoukin.html#torikeshi>",
+        "user": "UGQV9DXRC",
+        "ts": "1582113168.002800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "�峨▽  - h+q?迢ｽ��ALpbN",
+                "title_link": "https:\/\/www.jalan.net\/jalan\/doc\/jjp\/howto\/ryoukin.html#torikeshi",
+                "text": "JAL",
+                "fallback": "ﾉつ  - h+q?狽ﾈ?ALpbN",
+                "from_url": "https:\/\/www.jalan.net\/jalan\/doc\/jjp\/howto\/ryoukin.html#torikeshi",
+                "service_icon": "https:\/\/www.jalan.net\/favicon.ico",
+                "service_name": "jalan.net",
+                "id": 1,
+                "original_url": "https:\/\/www.jalan.net\/jalan\/doc\/jjp\/howto\/ryoukin.html#torikeshi"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hQ8KN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "キャンセル料はかかると思いますが出来るのではないでしょうか\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.jalan.net\/jalan\/doc\/jjp\/howto\/ryoukin.html#torikeshi",
+                                "text": "https:\/\/www.jalan.net\/jalan\/doc\/jjp\/howto\/ryoukin.html#torikeshi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84a00254-8765-438c-89b5-d6a99ad08021",
+        "type": "message",
+        "text": "たぶん20％だね\nもし学会が中止になってキャンセルすることになったら、自己負担になるのか心配になったので。",
+        "user": "UHFLB6JPR",
+        "ts": "1582113908.004200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qu+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "たぶん20％だね\nもし学会が中止になってキャンセルすることになったら、自己負担になるのか心配になったので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b31db04-61f2-4695-adfe-e834086505bb",
+        "type": "message",
+        "text": "<@UHV3GN694>\nボロノイ図をもっとみやすくしたいです",
+        "user": "UHFLB6JPR",
+        "ts": "1582177223.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VAd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHV3GN694"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nボロノイ図をもっとみやすくしたいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHV3GN694"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a65ff92-584b-4d7c-8d96-686c24db87b5",
+        "type": "message",
+        "text": "<@UHG1M1NQ6> <@UHEH8KZ7W>\nポスターはいつ頃出せそう？\n来週は入試監督とスキー実習でまったく時間が取れないです。",
+        "user": "UHFLB6JPR",
+        "ts": "1582177292.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X0N+J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHG1M1NQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nポスターはいつ頃出せそう？\n来週は入試監督とスキー実習でまったく時間が取れないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1F7C3286-579B-4E62-8788-C5046A46BE08",
+        "type": "message",
+        "text": "すいません。昨日まで旅行で出来ていなかったので明日のゼミまでに完成させます。\n申し訳ございません、",
+        "user": "UHEH8KZ7W",
+        "ts": "1582178305.003200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E+e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいません。昨日まで旅行で出来ていなかったので明日のゼミまでに完成させます。\n申し訳ございません、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03332210-78a7-4339-b58d-c3cc8f38d1de",
+        "type": "message",
+        "text": "旅行の予定は先にシェアしてー\nゼミや提出期限の日程を過ぎてからそれはなしだよ",
+        "user": "UGQV9DXRC",
+        "ts": "1582180036.005800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EQM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "旅行の予定は先にシェアしてー\nゼミや提出期限の日程を過ぎてからそれはなしだよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

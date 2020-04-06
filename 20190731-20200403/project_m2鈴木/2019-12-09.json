@@ -1,0 +1,295 @@
+[
+    {
+        "client_msg_id": "c85be23f-48fd-4b72-92e8-f12944224e7c",
+        "type": "message",
+        "text": "<https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1575446884001200>",
+        "user": "UGQV9DXRC",
+        "ts": "1575879530.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1575446884001200",
+                "fallback": "[December 4th, 2019 12:08 AM] kmt.sd.ma: *解決済*\n~tupleのブランク判定が色々試したができてない、一応質問投げてみた~\n&lt;https:\/\/teratail.com\/questions\/227331?modal=q-comp&gt;\nこれが出来ればpsdのピーク代入できる",
+                "ts": "1575446884.001200",
+                "author_id": "UGQV9DXRC",
+                "author_subname": "鈴木美穂",
+                "channel_id": "CGNQF4DTJ",
+                "channel_name": "project_m2鈴木",
+                "is_msg_unfurl": true,
+                "text": "*解決済*\n~tupleのブランク判定が色々試したができてない、一応質問投げてみた~\n&lt;https:\/\/teratail.com\/questions\/227331?modal=q-comp&gt;\nこれが出来ればpsdのピーク代入できる",
+                "author_name": "鈴木美穂",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1575446884001200",
+                "footer": "#project_m2鈴木 に投稿"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PKq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1575446884001200"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575277039.006800",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "4f21815f-9bb8-4ccc-bf8c-eaef3dd76cd0",
+        "type": "message",
+        "text": "次の課題(できると分析が速く済む)：\nds1~16を一気にfor文で処理して特徴量のデータセットを作成する\n<https:\/\/teratail.com\/questions\/93494>",
+        "user": "UGQV9DXRC",
+        "ts": "1575880221.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "teratail[テラテイル]",
+                "title": "読み込んだファイル名を、出力するcsvファイルに対応させたい｜teratail",
+                "title_link": "https:\/\/teratail.com\/questions\/93494",
+                "text": "前提・実現したいこととても初歩的な質問です。 あるフォルダ内全てのshpファイルを読み込み、csvに変換するのが目的となります。 shpファイル名は\"01.shp\",\"02.shp\",...\"10.shp\"と連続した数字となっています。",
+                "fallback": "teratail[テラテイル]: 読み込んだファイル名を、出力するcsvファイルに対応させたい｜teratail",
+                "thumb_url": "https:\/\/teratail.com\/img\/imgFacebookShare.png",
+                "from_url": "https:\/\/teratail.com\/questions\/93494",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/teratail.com\/img\/ios\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/teratail.com\/questions\/93494"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2VGo2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "次の課題(できると分析が速く済む)：\nds1~16を一気にfor文で処理して特徴量のデータセットを作成する\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/teratail.com\/questions\/93494"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "特徴量追加：PSDのピークを1secごとに1点抽出して追加\n\nxlist =[]\nylist =[]\nfor i in range(3000):\n    #psd検出\n    f,psd=signal.welch(ds['Fxy'][i*30:(i+1)*30])\n    #ピーク検出\n    maxid = signal.argrelmax(psd, order=30)\n    #maxidは'tuple'で出てくるので、extendでリストに追加\n    for j in range(30):\n        if maxid[0].size == 0 :\n            xlist.append(0)\n            ylist.append(0)\n        else :\n            xlist.extend(f[maxid])\n            ylist.extend(psd[maxid])\nds['PSDx_fxy'] = pd.DataFrame(xlist)\nds['PSDy_fxy'] = pd.DataFrame(ylist)",
+        "files": [
+            {
+                "id": "FR74LEK3K",
+                "created": 1575882292,
+                "timestamp": 1575882292,
+                "name": "1_特徴量計算のみ.ipynb",
+                "title": "1_特徴量計算のみ.ipynb",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UGQV9DXRC",
+                "editable": true,
+                "size": 123118,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR74LEK3K\/1______________________.ipynb?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR74LEK3K\/download\/1______________________.ipynb?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FR74LEK3K\/1______________________.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FR74LEK3K-d9595e467e",
+                "edit_link": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FR74LEK3K\/1______________________.ipynb\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MOtEL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "特徴量追加：PSDのピークを1secごとに1点抽出して追加\n\nxlist =[]\nylist =[]\nfor i in range(3000):\n    #psd検出\n    f,psd=signal.welch(ds['Fxy'][i*30:(i+1)*30])\n    #ピーク検出\n    maxid = signal.argrelmax(psd, order=30)\n    #maxidは'tuple'で出てくるので、extendでリストに追加\n    for j in range(30):\n        if maxid[0].size == 0 :\n            xlist.append(0)\n            ylist.append(0)\n        else :\n            xlist.extend(f[maxid])\n            ylist.extend(psd[maxid])\nds['PSDx_fxy'] = pd.DataFrame(xlist)\nds['PSDy_fxy'] = pd.DataFrame(ylist)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1575882292.001700",
+        "client_msg_id": "49b1859d-ca59-4863-b3b0-a3d88ba3f31f"
+    },
+    {
+        "type": "message",
+        "text": "PSDのピークを1秒ごとに計算して追加した(14種)\n赤：PSD追加後\n青：以前\n\n```      f1_score\nds1    0.58237\nds2   0.564305\nds3   0.813787\nds4   0.537135\nds5    0.42525\nds6   0.507611\nds7   0.644147\nds8    0.55836\nds9   0.551231\nds10  0.555363\nds11   0.37051\nds12  0.313596\nds13  0.556767\nds14  0.548424\nds15  0.346422\nds16   0.57277```",
+        "files": [
+            {
+                "id": "FREK6AE2Y",
+                "created": 1575882897,
+                "timestamp": 1575882897,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 27310,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FREK6AE2Y\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FREK6AE2Y\/download\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FREK6AE2Y-d3802d7ee4\/image_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FREK6AE2Y-d3802d7ee4\/image_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FREK6AE2Y-d3802d7ee4\/image_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 244,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FREK6AE2Y-d3802d7ee4\/image_480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 325,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FREK6AE2Y-d3802d7ee4\/image_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "image_exif_rotation": 1,
+                "original_w": 671,
+                "original_h": 455,
+                "thumb_tiny": "AwAgADDTopKWgAopKWgAooooAKKKKACiiigAooooA\/\/Z",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FREK6AE2Y\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FREK6AE2Y-f349d9d78f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Kq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PSDのピークを1秒ごとに計算して追加した(14種)\n赤：PSD追加後\n青：以前\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "      f1_score\nds1    0.58237\nds2   0.564305\nds3   0.813787\nds4   0.537135\nds5    0.42525\nds6   0.507611\nds7   0.644147\nds8    0.55836\nds9   0.551231\nds10  0.555363\nds11   0.37051\nds12  0.313596\nds13  0.556767\nds14  0.548424\nds15  0.346422\nds16   0.57277"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1575882899.002000",
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1575882965.000000"
+        },
+        "client_msg_id": "ef934dd0-31c7-4c7d-b606-8dea69b03d61"
+    },
+    {
+        "client_msg_id": "e08b96c5-96d7-4c33-a0db-0ecf03e3d942",
+        "type": "message",
+        "text": "次の課題：FFTのピークと値を代入",
+        "user": "UGQV9DXRC",
+        "ts": "1575885820.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9AmPF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "次の課題：FFTのピークと値を代入"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

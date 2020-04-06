@@ -1,0 +1,112 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJKK2GGCQ",
+                "created": 1557461730,
+                "timestamp": 1557461730,
+                "name": "5.10ゼミ分.pdf",
+                "title": "5.10ゼミ分.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 544375,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJKK2GGCQ\/5.10_________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJKK2GGCQ\/download\/5.10_________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJKK2GGCQ-c970618eed\/5.10__________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FJKK2GGCQ\/5.10_________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJKK2GGCQ-b5f5278cf3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHG1M1NQ6",
+        "display_as_bot": false,
+        "ts": "1557461730.000100",
+        "client_msg_id": "b961222c-91d9-4144-9a8d-1c725f7df1f3"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJ865CNDR",
+                "created": 1557464077,
+                "timestamp": 1557464077,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 385033,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJ865CNDR\/image_from_ios.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJ865CNDR\/download\/image_from_ios.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ865CNDR-872105b21a\/image_from_ios_64.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ865CNDR-872105b21a\/image_from_ios_80.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ865CNDR-872105b21a\/image_from_ios_360.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 360,
+                "thumb_360_h": 186,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ865CNDR-872105b21a\/image_from_ios_480.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_480_w": 480,
+                "thumb_480_h": 248,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ865CNDR-872105b21a\/image_from_ios_160.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ865CNDR-872105b21a\/image_from_ios_720.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720_w": 720,
+                "thumb_720_h": 371,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ865CNDR-872105b21a\/image_from_ios_800.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_800_w": 800,
+                "thumb_800_h": 413,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ865CNDR-872105b21a\/image_from_ios_960.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_960_w": 960,
+                "thumb_960_h": 495,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ865CNDR-872105b21a\/image_from_ios_1024.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 528,
+                "image_exif_rotation": 1,
+                "original_w": 3943,
+                "original_h": 2034,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FJ865CNDR\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJ865CNDR-84e1af705f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1557464081.000500",
+        "client_msg_id": "3114CCC8-6DDC-4630-90C2-D7ED6BFC0904",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UHG1M1NQ6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

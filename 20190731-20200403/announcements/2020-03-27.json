@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "1268f3c5-e116-4080-a731-2be36b864d31",
+        "type": "message",
+        "text": "遅くなりましたが、卒業するので自分のチャンネル以外からは退出します！\n論文や学会の話が終われば全て退出の予定です。\n他学科から来た私を迎えてくださり、向き合ってくださった先生に心から感謝しております:sob:\n今までお世話になりました:man-bowing:ありがとうございました！",
+        "user": "UGQV9DXRC",
+        "ts": "1585292450.017900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xfYZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "遅くなりましたが、卒業するので自分のチャンネル以外からは退出します！\n論文や学会の話が終われば全て退出の予定です。\n他学科から来た私を迎えてくださり、向き合ってくださった先生に心から感謝しております"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今までお世話になりました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ありがとうございました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHC5VBV5E",
+                    "UUZ15MZT4",
+                    "UHG1M1NQ6",
+                    "UHEH8KZ7W"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

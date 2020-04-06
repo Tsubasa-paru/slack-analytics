@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "0fdce0b1-775f-4b33-9aa3-0f7f865b7f3e",
+        "type": "message",
+        "text": "令和元年９月２７日\n教職員各位\n　　　　　　　「ＭＡＴＬＡＢ入門セミナー」開催のご案内\n\n　MATLAB&amp;Simulinkは、世界中の大学、企業や研究所などで広く利用されてい\nる科学技術計算、シミュレーションのソフトウェアです。\n　本セミナーは、未経験者や初心者を対象としていますので研究室所属の学部生\n院生などにご紹介いただければ幸いです。また教職員の方も担当されている授業\nなどでの利用を検討いただく機会としてご活用ください。\n\n　　　　　　　　　　　　　　　　記\n日時：　第１回　１０月７日(月)　３限目（１３：００～１４：３０）\n　　　　第２回　１０月７日(月)　５限目（１６：１５～１７：４５）\n　　　　（第１回と第２回は同じ内容です、いずれかに参加してください）\n場所：　東３号館１階　情報基盤センター第１演習教室\n対象：　MATLAB&amp;Simulinkの未経験者、初心者\n内容：　MATLAB入門セミナー(3限と5限は同じ内容）\n　　　　・MATLAB基礎編\n　　　　・MATLAB応用編　最新機能・応用例のご紹介\n\n参加申込：\n　　参加いただける方はお手数ですが、由良(<mailto:yura@se.uec.ac.jp|yura@se.uec.ac.jp>)宛に下記\n　フォームをお送り下さい。当日参加も可能ですが、参加人数の事前把握や\n　MathWorksアカウントの事前準備のため、できるだけ１０月４日（金）\n　午前 中までに申込をお願いします。",
+        "user": "UHFLB6JPR",
+        "ts": "1569574331.005000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

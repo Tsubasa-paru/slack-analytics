@@ -1,0 +1,207 @@
+[
+    {
+        "client_msg_id": "88b941c9-f624-4938-ae01-ed2ed5ab5e94",
+        "type": "message",
+        "text": "被験者募集(鈴木)\n声掛け中：男子1人\nok：女子3人(内藤さん1\/8水11時、田淵さん1\/10金14時、城戸さん1\/10金14時)\n　　男子1人(粟島君1\/10金14時)",
+        "user": "UGQV9DXRC",
+        "ts": "1578368939.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1578377943.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NWy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "被験者募集(鈴木)\n声掛け中：男子1人\nok：女子3人(内藤さん1\/8水11時、田淵さん1\/10金14時、城戸さん1\/10金14時)\n　　男子1人(粟島君1\/10金14時)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "324cb1dc-73a7-4439-bd3a-d677ae389787",
+        "type": "message",
+        "text": "女子3人からokもらったので上に追記しました！\n卒論チェックしたやつはリンクに置いたよ\n<https:\/\/drive.google.com\/open?id=1R-RKk7cX2hs7VWGiUlLNdae4XdMBRjFr>",
+        "user": "UGQV9DXRC",
+        "ts": "1578378214.002500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fCIM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "女子3人からokもらったので上に追記しました！\n卒論チェックしたやつはリンクに置いたよ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1R-RKk7cX2hs7VWGiUlLNdae4XdMBRjFr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "3階の部屋とり\n訂正：1\/8の午前は授業で使えないそうです",
+        "files": [
+            {
+                "id": "FSBPR13CY",
+                "created": 1578378831,
+                "timestamp": 1578378831,
+                "name": "20200107_153313.jpg",
+                "title": "20200107_153313.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 295407,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FSBPR13CY\/20200107_153313.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FSBPR13CY\/download\/20200107_153313.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSBPR13CY-dced5fa879\/20200107_153313_64.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSBPR13CY-dced5fa879\/20200107_153313_80.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSBPR13CY-dced5fa879\/20200107_153313_360.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSBPR13CY-dced5fa879\/20200107_153313_480.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSBPR13CY-dced5fa879\/20200107_153313_160.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSBPR13CY-dced5fa879\/20200107_153313_720.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSBPR13CY-dced5fa879\/20200107_153313_800.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSBPR13CY-dced5fa879\/20200107_153313_960.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FSBPR13CY-dced5fa879\/20200107_153313_1024.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "image_exif_rotation": 1,
+                "original_w": 3264,
+                "original_h": 1836,
+                "thumb_tiny": "AwAbADCX+IfjRGqt94sKO\/4GkXBX+KgAYAdzTcA92\/KnHB6bqQAj+9QA0qP9r8qQDB704nH96k6mgB56\/hQM7eN1B+9+FRXLskGUODkUICX\/AL6pOf8AaqGCRmhyzZOaUu3rQBIf+BUnfv8AjTN7etKpJbmgD\/\/Z",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FSBPR13CY\/20200107_153313.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FSBPR13CY-113bd472bd",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ypsN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3階の部屋とり\n訂正：1\/8の午前は授業で使えないそうです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1578378831.003400",
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1578382766.000000"
+        },
+        "client_msg_id": "e240c669-4f99-4e89-ad14-49b446829194"
+    },
+    {
+        "client_msg_id": "a85ac3f6-1c0b-4dc2-8003-1d34a1e36be9",
+        "type": "message",
+        "text": "602が明日の11-12時でとれました\n鍵を7階事務室まで時間前に受け取りに行く",
+        "user": "UGQV9DXRC",
+        "ts": "1578382391.004900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pn8g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "602が明日の11-12時でとれました\n鍵を7階事務室まで時間前に受け取りに行く"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1554861488.000700",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルの目的を設定しました : ゼミやMTGの資料、議事録をアップ",
+        "purpose": "ゼミやMTGの資料、議事録をアップ"
+    },
+    {
+        "client_msg_id": "db1c4cf0-c97d-4efb-8421-48bf12e8dd43",
+        "type": "message",
+        "text": "ゼミやMTGの資料、議事録をアップするためのチャンネルです\n同じ日の資料は混乱を避けるため可能な限りスレッド方式で追加していくようにしてネ",
+        "user": "UGQV9DXRC",
+        "ts": "1554861558.002700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "22e23b04-5840-4f32-ab9b-9ffde4f06415",
+        "type": "message",
+        "text": "4\/10 I科西野先生MTG\nスポーツアナリティクスに関する相談",
+        "user": "UGQV9DXRC",
+        "ts": "1554861599.003500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554861599.003500",
+        "reply_count": 4,
+        "reply_users_count": 1,
+        "latest_reply": "1554863865.005000",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554861746.003600"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554861878.004500"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554861953.004700"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554863865.005000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "資料\n<https:\/\/drive.google.com\/open?id=1pdeStgW6ErwQDvsYnnWJoDNESKKITdbb>",
+        "files": [
+            {
+                "id": "FHUTCGRM4",
+                "created": 1554861747,
+                "timestamp": 1554861747,
+                "name": "0410西野先生.pdf",
+                "title": "0410西野先生.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 1670863,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1pdeStgW6ErwQDvsYnnWJoDNESKKITdbb",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHUTCGRM4-7890ffcdee\/0410_____________64.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHUTCGRM4-7890ffcdee\/0410_____________80.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHUTCGRM4-7890ffcdee\/0410_____________360.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHUTCGRM4-7890ffcdee\/0410_____________480.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_480_w": 340,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHUTCGRM4-7890ffcdee\/0410_____________160.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHUTCGRM4-7890ffcdee\/0410_____________720.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720_w": 510,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHUTCGRM4-7890ffcdee\/0410_____________800.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1130,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHUTCGRM4-7890ffcdee\/0410_____________960.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHUTCGRM4-7890ffcdee\/0410_____________1024.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_1024_w": 725,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 1447,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FHUTCGRM4\/0410____________.pdf",
+                "is_starred": false,
+                "external_id": "1pdeStgW6ErwQDvsYnnWJoDNESKKITdbb",
+                "external_url": "https:\/\/drive.google.com\/open?id=1pdeStgW6ErwQDvsYnnWJoDNESKKITdbb",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FHUTCGRM4"
+        ],
+        "ts": "1554861746.003600",
+        "client_msg_id": "ecc16b07-66df-4fc9-8def-f76f9f535efe",
+        "thread_ts": "1554861599.003500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "ce166b99-e2bf-46dc-89d2-76e68cad2b78",
+        "type": "message",
+        "text": "日本統計学会スポーツ統計分科会\n<https:\/\/estat.sci.kagoshima-u.ac.jp\/sports\/>\nスポーツデータ解析コンペなどを開催",
+        "user": "UGQV9DXRC",
+        "ts": "1554861878.004500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554861599.003500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "43b33ad8-c1fa-4e70-be47-6d19382a5f02",
+        "type": "message",
+        "text": "サッカーマティクス 数学が解明する強豪チーム「勝利の方程式」   デイヴィッド・サンプター <https:\/\/www.amazon.co.jp\/dp\/4334979335\/ref=cm_sw_r_tw_dp_U_x_D9uRCbZQK0T96>",
+        "user": "UGQV9DXRC",
+        "ts": "1554861953.004700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "サッカーマティクス 数学が解明する強豪チーム「勝利の方程式」",
+                "title_link": "https:\/\/www.amazon.co.jp\/dp\/4334979335\/ref=cm_sw_r_tw_dp_U_x_D9uRCbZQK0T96",
+                "text": "サッカーマティクス 数学が解明する強豪チーム「勝利の方程式」",
+                "fallback": "サッカーマティクス 数学が解明する強豪チーム「勝利の方程式」",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/515HyY8VHXL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFIVE%2cBottomLeft%2c360%2c-6_SR600%2c315_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/dp\/4334979335\/ref=cm_sw_r_tw_dp_U_x_D9uRCbZQK0T96",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 22890,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.co.jp\/dp\/4334979335\/ref=cm_sw_r_tw_dp_U_x_D9uRCbZQK0T96"
+            }
+        ],
+        "thread_ts": "1554861599.003500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "6f8391fc-d580-401c-bfef-4b69ed697bfa",
+        "type": "message",
+        "text": "<https:\/\/ohkawaralab.slack.com\/archives\/CGT0P68RL\/p1554863789000400>",
+        "user": "UGQV9DXRC",
+        "ts": "1554863865.005000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGT0P68RL\/p1554863789000400",
+                "fallback": "[April 9th, 2019 7:36 PM] ohkawara_kazunori: 西野先生からメモをいただきました\n<https:\/\/scrapbox.io\/nishinojunji-public\/%E3%83%87%E3%83%BC%E3%82%BF_AI_%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A0%94%E7%A9%B6>",
+                "ts": "1554863789.000400",
+                "author_id": "UHFLB6JPR",
+                "author_subname": "大河原一憲",
+                "channel_id": "CGT0P68RL",
+                "channel_name": "announcements",
+                "is_msg_unfurl": true,
+                "text": "西野先生からメモをいただきました\n<https:\/\/scrapbox.io\/nishinojunji-public\/%E3%83%87%E3%83%BC%E3%82%BF_AI_%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A0%94%E7%A9%B6>",
+                "author_name": "大河原一憲",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UHFLB6JPR",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0003-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGT0P68RL\/p1554863789000400",
+                "footer": "#announcements に投稿"
+            }
+        ],
+        "thread_ts": "1554861599.003500",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message",
+        "text": "岡田さんの卒論まとめ(画像多すぎるため省略して作成)",
+        "files": [
+            {
+                "id": "FJ25HJPV5",
+                "created": 1555589813,
+                "timestamp": 1555589813,
+                "name": "糖尿病患者の医療費.pdf",
+                "title": "糖尿病患者の医療費.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHFLC6N4X",
+                "editable": false,
+                "size": 363474,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJ25HJPV5\/___________________________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJ25HJPV5\/download\/___________________________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ25HJPV5-aad9a9835e\/____________________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLC6N4X\/FJ25HJPV5\/___________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJ25HJPV5-b2387f0caa",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLC6N4X",
+        "display_as_bot": false,
+        "ts": "1555589813.000200",
+        "client_msg_id": "de23699e-52ad-43e0-babd-d84435f8edfc",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

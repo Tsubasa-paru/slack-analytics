@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "1098d36b-de75-415b-8588-3f3a564ab922",
+        "type": "message",
+        "text": "夜分に失礼します。\nポスター発表の原稿を作成しましたので、ご確認の程お願い致します。\n<https:\/\/drive.google.com\/drive\/u\/4\/folders\/1FKXJ6Xgo2-NXR3JdHaCEYERK0hr_vEZB>",
+        "user": "UHV3GN694",
+        "ts": "1581856048.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g09c71d9cc54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b09c71d9cc541041ebfe419872e7fc9c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "高柳里紗",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "rxrxree609",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "voV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "夜分に失礼します。\nポスター発表の原稿を作成しましたので、ご確認の程お願い致します。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/u\/4\/folders\/1FKXJ6Xgo2-NXR3JdHaCEYERK0hr_vEZB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

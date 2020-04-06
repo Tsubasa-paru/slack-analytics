@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message",
+        "text": "9\/2\n・種目別の精度が出せるようになった\n図のような形で一人分を変数に格納できるが、これをデータフレームに移して一気に10人分まとめた表にできないかなと思っている。\n\n次やること\n取りあえず今出てるデータを手打ちでいいのでExcelにまとめ、活動別の精度を出す↠ポスターに反映",
+        "files": [
+            {
+                "id": "FMZHCNDK9",
+                "created": 1567413998,
+                "timestamp": 1567413998,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 43820,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMZHCNDK9\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMZHCNDK9\/download\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMZHCNDK9-a1914c4d31\/image_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMZHCNDK9-a1914c4d31\/image_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMZHCNDK9-a1914c4d31\/image_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 311,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMZHCNDK9-a1914c4d31\/image_480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 414,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMZHCNDK9-a1914c4d31\/image_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMZHCNDK9-a1914c4d31\/image_720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 720,
+                "thumb_720_h": 621,
+                "image_exif_rotation": 1,
+                "original_w": 766,
+                "original_h": 661,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMZHCNDK9\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMZHCNDK9-952538a682",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1567413999.002400",
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1567414584.000000"
+        },
+        "client_msg_id": "f7fafa2c-0c23-4738-bcbc-4be6f2f7fce4"
+    }
+]

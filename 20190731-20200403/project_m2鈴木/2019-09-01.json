@@ -1,0 +1,445 @@
+[
+    {
+        "client_msg_id": "87e40db2-31b9-46da-b1fa-1fc3208d7fc7",
+        "type": "message",
+        "text": "種目別精度の出し方を考えてみた\n&gt;予測値(pred)を出した後、\n&gt;①　test_Yとpredを合体\n&gt;②　test_Yのラベル別のデータを新規のdataframeに格納\n&gt;③　ラベル別に分けたdataframeのtest_Yにあたる列とpredにあたる列でf1_scoreを実行\n&gt;④　ラベル別の精度が得られる\n\n以上で一応ラベル別は出せるが、実際にそれで意味があるのかどうかわからなかったのでテラテイルで質問中。\n<https:\/\/teratail.com\/questions\/209531?modal=q-comp>\n\n*解決。classification_reportでラベル別が出せるらしい、、*\n<https:\/\/scikit-learn.org\/stable\/modules\/generated\/sklearn.metrics.classification_report.html>",
+        "user": "UGQV9DXRC",
+        "ts": "1567344801.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1567346227.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "teratail[テラテイル]",
+                "title": "Python Scikit-learn RandomForestでラベル別の精度を出力したい｜teratail",
+                "title_link": "https:\/\/teratail.com\/questions\/209531?modal=q-comp",
+                "text": "PythonのRandomForestで複数ラベルの分類を行なっています。分類器の精度はF値を用いて測っているのですが、ラベルごとの分類精度を出す手法があれば教えていただきたいです。末尾は分類及び精度出しに用いているコードです。 現状考えている方法としては、予測値(pred)を出した後、① tes",
+                "fallback": "teratail[テラテイル]: Python Scikit-learn RandomForestでラベル別の精度を出力したい｜teratail",
+                "thumb_url": "https:\/\/teratail.com\/img\/imgFacebookShare.png",
+                "from_url": "https:\/\/teratail.com\/questions\/209531?modal=q-comp",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/teratail.com\/img\/ios\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/teratail.com\/questions\/209531?modal=q-comp"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "走るラベルを3.5にしてエラーになったので、走るを3、走行を伴う活動を4、立位を5にラベル張り直す　→月曜",
+        "user": "UGQV9DXRC",
+        "ts": "1567345025.001700",
+        "thread_ts": "1567155506.002700",
+        "root": {
+            "client_msg_id": "aee47c1d-547a-4cc0-ad97-0d798b1d3be3",
+            "type": "message",
+            "text": "8\/30まで\n・nanの修正はできた(ds6だけチャリが入ってるから)\n・次のエラー：Unknown label type: 'continuous'\n　<https:\/\/teratail.com\/questions\/108034>\n　ラベルは整数である必要がある為、分類できないことがわかった\n　↠ラベルは整数にする or ClassifierではなくRegressorにする\nRegressor <https:\/\/www.sejuku.net\/blog\/64374>",
+            "user": "UGQV9DXRC",
+            "ts": "1567155506.002700",
+            "team": "TGNPXK07J",
+            "edited": {
+                "user": "UGQV9DXRC",
+                "ts": "1567155725.000000"
+            },
+            "attachments": [
+                {
+                    "service_name": "teratail[テラテイル]",
+                    "title": "python DecisionTreeClassifierでデータを比較できません。 エラー：Unknown label type: 'continuous'｜teratail",
+                    "title_link": "https:\/\/teratail.com\/questions\/108034",
+                    "text": "前提・実現したいことプログラミング初心者です。最終的にはランダムフォレストという手法を用いて分析してみたいと考えています。そこで、\"合計\"というデータと他の４つのデータを比較しようとしたところ、以下のようなエラーがでました。yのデータが１行だからでしょうか。どのように直したらデー",
+                    "fallback": "teratail[テラテイル]: python DecisionTreeClassifierでデータを比較できません。 エラー：Unknown label type: 'continuous'｜teratail",
+                    "thumb_url": "https:\/\/teratail.com\/img\/imgFacebookShare.png",
+                    "from_url": "https:\/\/teratail.com\/questions\/108034",
+                    "thumb_width": 1200,
+                    "thumb_height": 630,
+                    "service_icon": "https:\/\/teratail.com\/img\/ios\/apple-touch-icon.png",
+                    "id": 1,
+                    "original_url": "https:\/\/teratail.com\/questions\/108034"
+                },
+                {
+                    "service_name": "侍エンジニア塾ブログ（Samurai Blog） – プログラミング入門者向けサイト",
+                    "title": "機械学習手法「ランダムフォレスト」で回帰分析にチャレンジ",
+                    "title_link": "https:\/\/www.sejuku.net\/blog\/64374",
+                    "text": "こんにちはフクロウです。Pythonのインストラクターをやっています。 ランダムフォレストについて、以前別の記事で使い方の基本を紹介しました。 今回はその続きで、ランダムフォレストを使って回帰分析を行",
+                    "fallback": "侍エンジニア塾ブログ（Samurai Blog） – プログラミング入門者向けサイト: 機械学習手法「ランダムフォレスト」で回帰分析にチャレンジ",
+                    "image_url": "https:\/\/s3-ap-northeast-1.amazonaws.com\/samurai-blog-media\/blog\/wp-content\/uploads\/2018\/07\/2341f8b79598affd59cecd3f7d354659.jpeg",
+                    "ts": 1531869442,
+                    "from_url": "https:\/\/www.sejuku.net\/blog\/64374",
+                    "image_width": 440,
+                    "image_height": 250,
+                    "image_bytes": 77782,
+                    "service_icon": "https:\/\/s3-ap-northeast-1.amazonaws.com\/samurai-blog-media\/blog\/wp-content\/uploads\/2018\/07\/cropped-cropped-sunrise_long-180x180.png",
+                    "id": 2,
+                    "original_url": "https:\/\/www.sejuku.net\/blog\/64374"
+                }
+            ],
+            "thread_ts": "1567155506.002700",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1567345025.001700",
+            "reply_users": [
+                "UGQV9DXRC"
+            ],
+            "subscribed": false
+        },
+        "client_msg_id": "612dca3e-35c8-4f94-b3b1-9d3f05db3152"
+    },
+    {
+        "client_msg_id": "fe3a762f-05e7-4383-b94d-1b6f4d82b3c4",
+        "type": "message",
+        "text": "月曜やることリスト",
+        "user": "UGQV9DXRC",
+        "ts": "1567345901.008300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567345901.008300",
+        "reply_count": 4,
+        "reply_users_count": 1,
+        "latest_reply": "1567393737.000200",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567345908.008400"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567345918.008700"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567345937.009000"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1567393737.000200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f8cfab84-9c82-4235-9bfa-bf9cce06f647",
+        "type": "message",
+        "text": "<https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1567345025001700?thread_ts=1567155506.002700&amp;cid=CGNQF4DTJ>",
+        "user": "UGQV9DXRC",
+        "ts": "1567345908.008400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1567345025001700?thread_ts=1567155506.002700&amp;cid=CGNQF4DTJ",
+                "fallback": "[September 1st, 2019 6:37 AM] kmt.sd.ma: 走るラベルを3.5にしてエラーになったので、走るを3、走行を伴う活動を4、立位を5にラベル張り直す　→月曜",
+                "ts": "1567345025.001700",
+                "msg_subtype": "thread_broadcast",
+                "author_id": "UGQV9DXRC",
+                "author_subname": "鈴木美穂",
+                "channel_id": "CGNQF4DTJ",
+                "channel_name": "project_m2鈴木",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "走るラベルを3.5にしてエラーになったので、走るを3、走行を伴う活動を4、立位を5にラベル張り直す　→月曜",
+                "author_name": "鈴木美穂",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1567345025001700?thread_ts=1567155506.002700&amp;cid=CGNQF4DTJ",
+                "footer": "#project_m2鈴木 のスレッドから"
+            }
+        ],
+        "thread_ts": "1567345901.008300",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d17b9df-788c-4f44-919b-088a8b76d13d",
+        "type": "message",
+        "text": "<https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1567345830000200>",
+        "user": "UGQV9DXRC",
+        "ts": "1567345918.008700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1567345830000200",
+                "fallback": "[September 1st, 2019 6:50 AM] kmt.sd.ma: <@UHEH8KZ7W>\n＊こども食堂当日までのタスクと現状確認したいこと＊\n　月曜に確認したいです！他にも気になることあったらリプライしておいてください～\n①科学の企画\n　→どう進めるか、どう教えるか\n　→材料の量と金額\n②タイムテーブル確定\n　→アイスをどこにいれるか、正確なタイムテーブルを確定\n③申込受付のキャンセル待ち連絡\n④保険申込(人数の上限が変更するかも？名簿と申込人数どうするか)　→　保険鳴海さんに連絡して確認",
+                "ts": "1567345830.000200",
+                "author_id": "UGQV9DXRC",
+                "author_subname": "鈴木美穂",
+                "channel_id": "CJZ0QGKRB",
+                "channel_name": "project_こども食堂",
+                "is_msg_unfurl": true,
+                "text": "<@UHEH8KZ7W>\n＊こども食堂当日までのタスクと現状確認したいこと＊\n　月曜に確認したいです！他にも気になることあったらリプライしておいてください～\n①科学の企画\n　→どう進めるか、どう教えるか\n　→材料の量と金額\n②タイムテーブル確定\n　→アイスをどこにいれるか、正確なタイムテーブルを確定\n③申込受付のキャンセル待ち連絡\n④保険申込(人数の上限が変更するかも？名簿と申込人数どうするか)　→　保険鳴海さんに連絡して確認",
+                "author_name": "鈴木美穂",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1567345830000200",
+                "footer": "#project_こども食堂 に投稿"
+            }
+        ],
+        "thread_ts": "1567345901.008300",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "ac0fd0c1-0726-49a8-9bc4-1d39275c70d2",
+        "type": "message",
+        "text": "携帯に来てる電話　折り返し\n2件クリア\n1件未\n042441-",
+        "user": "UGQV9DXRC",
+        "ts": "1567345937.009000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1567392775.000000"
+        },
+        "thread_ts": "1567345901.008300",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "type": "message",
+        "text": "データ書き換え済\n\n<https:\/\/ohkawaralab.slack.com\/archives\/CGNQF4DTJ\/p1567345025001700?thread_ts=1567155506.002700&amp;cid=CGNQF4DTJ>",
+        "files": [
+            {
+                "id": "FMKNV6883",
+                "created": 1567347842,
+                "timestamp": 1567347842,
+                "name": "個別回答5種.txt",
+                "title": "個別回答5種.txt",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 5498,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMKNV6883\/____________5___.txt?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMKNV6883\/download\/____________5___.txt?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMKNV6883\/____________5___.txt",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMKNV6883-0221f329da",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FMQQP6QFK",
+                "created": 1567347842,
+                "timestamp": 1567347842,
+                "name": "個別回答14種.txt",
+                "title": "個別回答14種.txt",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 4479,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMQQP6QFK\/____________14___.txt?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FMQQP6QFK\/download\/____________14___.txt?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMQQP6QFK\/____________14___.txt",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FMQQP6QFK-fb42c11682",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "ts": "1567347842.009400",
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1567347920.000000"
+        },
+        "client_msg_id": "853a723d-ae34-4c3e-a28d-7f217acf9935"
+    },
+    {
+        "type": "message",
+        "text": "*日本体力医学会ポスター訂正*\n①分類項目図に仰臥位がなく、自転車があって14項目→自転車を含めない14種及び4種分析に訂正\n②表2のタイトルを分類精度(F値\/%)に\n③表2の被験者番号を検証番号に\n<https:\/\/drive.google.com\/open?id=1f8MYoWAeRwuDhewLgGDhxYQqxQKIjGXG>",
+        "files": [
+            {
+                "id": "FMX6V6R8D",
+                "created": 1567348575,
+                "timestamp": 1567348575,
+                "name": "日本体力医学会2019_0901鈴木.pptx",
+                "title": "日本体力医学会2019_0901鈴木.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 602565,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1f8MYoWAeRwuDhewLgGDhxYQqxQKIjGXG",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMX6V6R8D-c7e951628f\/_____________________2019_0901_______64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMX6V6R8D-c7e951628f\/_____________________2019_0901_______80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMX6V6R8D-c7e951628f\/_____________________2019_0901_______360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMX6V6R8D-c7e951628f\/_____________________2019_0901_______480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMX6V6R8D-c7e951628f\/_____________________2019_0901_______160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMX6V6R8D-c7e951628f\/_____________________2019_0901_______720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMX6V6R8D-c7e951628f\/_____________________2019_0901_______800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1131,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMX6V6R8D-c7e951628f\/_____________________2019_0901_______960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FMX6V6R8D-c7e951628f\/_____________________2019_0901_______1024.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 1448,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FMX6V6R8D\/_____________________2019_0901______.pptx",
+                "is_starred": false,
+                "external_id": "1f8MYoWAeRwuDhewLgGDhxYQqxQKIjGXG",
+                "external_url": "https:\/\/drive.google.com\/open?id=1f8MYoWAeRwuDhewLgGDhxYQqxQKIjGXG",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FMX6V6R8D"
+        ],
+        "ts": "1567348573.012800",
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1567348686.000000"
+        },
+        "client_msg_id": "68084d29-0a44-44c7-b7ad-3c9deb48b2a6"
+    },
+    {
+        "client_msg_id": "c316bbb8-ec86-4530-b746-7cf171b6d75b",
+        "type": "message",
+        "text": "合宿の部屋のキャンセルと、たっくん熱海のご飯予約",
+        "user": "UGQV9DXRC",
+        "ts": "1567393737.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567345901.008300",
+        "parent_user_id": "UGQV9DXRC",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

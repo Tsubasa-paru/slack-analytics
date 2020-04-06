@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "0f36a37e-63d7-4378-874c-0fe8af98b09a",
+        "type": "message",
+        "text": "至急これに追記しておくれー",
+        "user": "UGQV9DXRC",
+        "ts": "1555985741.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_ok",
+                "users": [
+                    "UGPH97FDW",
+                    "UHG1M1NQ6",
+                    "UHC5VBV5E"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/1Vn787wutIYBgWQyi2jMevFY-1SXqvk_Y6v6KRDX6bVU\/edit?usp=drivesdk>",
+        "files": [
+            {
+                "id": "FJ3E48WFP",
+                "created": 1555985745,
+                "timestamp": 1555985745,
+                "name": "授業日程管理表",
+                "title": "授業日程管理表",
+                "mimetype": "application\/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 48840,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1Vn787wutIYBgWQyi2jMevFY-1SXqvk_Y6v6KRDX6bVU\/edit?usp=drivesdk",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ3E48WFP-ace4464ea4\/______________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FJ3E48WFP\/_____________________",
+                "is_starred": false,
+                "external_id": "1Vn787wutIYBgWQyi2jMevFY-1SXqvk_Y6v6KRDX6bVU",
+                "external_url": "https:\/\/docs.google.com\/spreadsheets\/d\/1Vn787wutIYBgWQyi2jMevFY-1SXqvk_Y6v6KRDX6bVU\/edit?usp=drivesdk",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FJ3E48WFP"
+        ],
+        "ts": "1555985743.000600",
+        "client_msg_id": "b32764e1-8222-4b90-87d3-f4954583c3fa",
+        "thread_ts": "1555985743.000600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1556265975.000200",
+        "reply_users": [
+            "UHC5VBV5E"
+        ],
+        "replies": [
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1556265975.000200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1fc621b4-df24-4223-9ebb-4324a4d60216",
+        "type": "message",
+        "text": "授業日程↑",
+        "user": "UGQV9DXRC",
+        "ts": "1555985750.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

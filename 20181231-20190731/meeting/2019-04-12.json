@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "89A25A47-AD1B-4FF0-A7ED-DCC56203B394",
+        "type": "message",
+        "text": "大河原先生より\n来週の木曜日に5階にあるロッカーと棚を廃棄して欲しい\n床清掃は業者に任せる\nとの事です",
+        "user": "UHEH8KZ7W",
+        "ts": "1555059885.007400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A8314A2E-4221-42BB-8857-FA59EF4D1F05",
+        "type": "message",
+        "text": "カーペット 10万\n床清掃 1.5万\nイス8脚 8200x8 6.56万\nルータ 1万\n机 1.5万x6 ９万\n机 5.4万\nプリンターと台 10万\n下駄箱 1万\n冷蔵庫 3.5万\n48万\n",
+        "user": "UHFLB6JPR",
+        "ts": "1555061300.013100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555047667.002600",
+        "parent_user_id": "UHEH8KZ7W"
+    },
+    {
+        "client_msg_id": "A55F0BD3-AB09-4F4C-A5EB-E272CBFB8A6F",
+        "type": "message",
+        "text": "加湿空気清浄機 5万\n53万",
+        "user": "UHFLB6JPR",
+        "ts": "1555075179.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555047667.002600",
+        "parent_user_id": "UHEH8KZ7W",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

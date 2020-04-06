@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "474fd78f-a884-4b48-96ec-2ab79fd1ced0",
+        "type": "message",
+        "text": "明日の学生ゼミは運動教室のスケジュール管理と今後の学生ゼミの内容について\n\n<https:\/\/ohkawaralab.slack.com\/archives\/GHDG13EFJ\/p1558054282002100>",
+        "user": "UGQV9DXRC",
+        "ts": "1558343893.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHG1M1NQ6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54e8ad15-cc8f-405d-b90f-17ef9120e214",
+        "type": "message",
+        "text": "*今後の学生ゼミ予定*\n・個人に合わせた勉強+報告(～8月)\n&gt;・福田：Happinessの本読んでまとめ\n&gt;・根本：pythonで分類with鈴木\n&gt;・野澤：pythonで分類with岡田\n&gt;・都竹：アプリについて清水<@UGQ2ENZD0> と相談\n・全員で統計(8月～)",
+        "user": "UGQV9DXRC",
+        "ts": "1558414779.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_ryokai",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

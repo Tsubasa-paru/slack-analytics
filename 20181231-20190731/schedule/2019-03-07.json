@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_add",
+        "text": "このチャンネルに次のインテグレーションを追加しました : <https:\/\/ohkawaralab.slack.com\/services\/BGQR2HHQ8|Google Calendar for Team Events>",
+        "user": "UGQV9DXRC",
+        "bot_id": "BGQR2HHQ8",
+        "bot_link": "<https:\/\/ohkawaralab.slack.com\/services\/BGQR2HHQ8|Google Calendar for Team Events>",
+        "ts": "1551946182.000200"
+    },
+    {
+        "client_msg_id": "d8eb781e-3eb4-41df-955e-98da082e071b",
+        "type": "message",
+        "text": "ohkawaralabのグーグルカレンダーから毎週金曜8時に一週間分のまとめ、毎日8時にその日の予定をそれぞれポストするように設定してみた",
+        "user": "UGQV9DXRC",
+        "ts": "1551946266.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "There is *1* event this week",
+        "ts": "1551999602.000100",
+        "username": "ohkawaralab@gmail.com",
+        "bot_id": "BGR0H7T9P",
+        "attachments": [
+            {
+                "fallback": "全体ゼミ: <!date^1552021200^{date_short_pretty} from {time}|March 7th, 2019 from 2:00 PM> to <!date^1552026600^{time}|3:30 PM GMT+0900>",
+                "text": "<!date^1552021200^{date_short_pretty} from {time}|March 7th, 2019 from 2:00 PM> to <!date^1552026600^{time}|3:30 PM GMT+0900>",
+                "title": "全体ゼミ",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDNyMHVzNDFqM2lmZHBuMjlya3J0YmlhcWVfMjAxOTAzMDhUMDQwMDAwWiBvaGthd2FyYWxhYkBt",
+                "color": "4986e7",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "There is *1* event today",
+        "ts": "1551999602.000200",
+        "username": "ohkawaralab@gmail.com",
+        "bot_id": "BGR0H7T9P",
+        "attachments": [
+            {
+                "fallback": "全体ゼミ: <!date^1552021200^{date_short_pretty} from {time}|March 7th, 2019 from 2:00 PM> to <!date^1552026600^{time}|3:30 PM GMT+0900>",
+                "text": "<!date^1552021200^{date_short_pretty} from {time}|March 7th, 2019 from 2:00 PM> to <!date^1552026600^{time}|3:30 PM GMT+0900>",
+                "title": "全体ゼミ",
+                "id": 1,
+                "title_link": "https:\/\/www.google.com\/calendar\/event?eid=NDNyMHVzNDFqM2lmZHBuMjlya3J0YmlhcWVfMjAxOTAzMDhUMDQwMDAwWiBvaGthd2FyYWxhYkBt",
+                "color": "4986e7",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e23430f8-f7d6-40cb-bb92-77764f69c7b7",
+        "type": "message",
+        "text": "18日月～22日金の5日間で具体的なデータや分析方法などの引継ぎ\n4年生には15日金までに希望の研究テーマを確定",
+        "user": "UGQV9DXRC",
+        "ts": "1552025340.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

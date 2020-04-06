@@ -1,0 +1,145 @@
+[
+    {
+        "client_msg_id": "2ebf5305-1489-4690-8d74-c80bd6caf5f8",
+        "type": "message",
+        "text": "ゼミは三階です",
+        "user": "UGQV9DXRC",
+        "ts": "1575604342.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3e507382-daff-4381-af7f-81242cbd2559",
+        "type": "message",
+        "text": "2019年の健康支援学会のリストを作りました。\n大河原ラボgoogle driveの大河原研究室共有フォルダ&gt;資料&gt;健康支援学会&gt;2019\nでまとめてあります。\n各位、何かファイルを提出する時はドライブにアップ→リンクを提出するようにしてください。\n(リンクを貼ればslackが自動で落としてくれるので)\n<https:\/\/drive.google.com\/open?id=1FKXJ6Xgo2-NXR3JdHaCEYERK0hr_vEZB>",
+        "user": "UGQV9DXRC",
+        "ts": "1575613269.002300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LfI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2019年の健康支援学会のリストを作りました。\n大河原ラボgoogle driveの大河原研究室共有フォルダ>資料>健康支援学会>2019\nでまとめてあります。\n各位、何かファイルを提出する時はドライブにアップ→リンクを提出するようにしてください。\n(リンクを貼ればslackが自動で落としてくれるので)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1FKXJ6Xgo2-NXR3JdHaCEYERK0hr_vEZB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a47572e-adc4-4c66-add1-d5cf5d49f257",
+        "type": "message",
+        "text": "<@UHV3GN694> 髙柳も↑の対応をお願いします。ドライブへの入り方は鈴木さんあたりから聞いてください。",
+        "user": "UHFLB6JPR",
+        "ts": "1575615961.003600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O+3eK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHV3GN694"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 髙柳も↑の対応をお願いします。ドライブへの入り方は鈴木さんあたりから聞いてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ddcc57b-af19-4965-959d-2ea4d7f3db4f",
+        "type": "message",
+        "text": "承知しました。",
+        "user": "UHV3GN694",
+        "ts": "1575617654.003700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g09c71d9cc54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b09c71d9cc541041ebfe419872e7fc9c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "高柳里紗",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "rxrxree609",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eut",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

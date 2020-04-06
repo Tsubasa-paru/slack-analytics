@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "A476FE4B-8B5A-443B-B6E6-EC1158A1D3FE",
+        "type": "message",
+        "text": "読みたい論文あれば教えてください\nPDFがたぶんとれるから\n1つ400円だけど\nその事実を知ってくれていれば、遠慮は不要",
+        "user": "UHFLB6JPR",
+        "ts": "1558083666.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1E7AD207-99A7-4D7A-B506-D494F2D657C3",
+        "type": "message",
+        "text": "了解です！ありがとうございます！",
+        "user": "UHEH8KZ7W",
+        "ts": "1558091228.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "de2cf2d7-87e1-47bc-a4a4-f02b42b4fed3",
+        "type": "message",
+        "text": "Windows PCですが、チャットボットも電話もうまい具合に対応してくれませんでした。清水先輩が言ってた方法か、HDDをそのまま交換するかをしたいと思います。\n\n:man-bowing:",
+        "user": "UHC5VBV5E",
+        "ts": "1558682697.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "persevere",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@UHFLB6JPR> こちらフィードバックの見本です。ご査収ください。",
+        "files": [
+            {
+                "id": "FK1AW487Q",
+                "created": 1558689942,
+                "timestamp": 1558689942,
+                "name": "見本FB.pptx",
+                "title": "見本FB.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 121805,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK1AW487Q\/______fb.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK1AW487Q\/download\/______fb.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FK1AW487Q\/______fb.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FK1AW487Q-452c1dbb31",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1558689943.003400",
+        "client_msg_id": "2dae6cca-bf48-4154-af99-ad482bf96a42"
+    }
+]

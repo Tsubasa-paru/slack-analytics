@@ -1,0 +1,135 @@
+[
+    {
+        "client_msg_id": "c8093766-189e-45bf-8e81-44a40cb73798",
+        "type": "message",
+        "text": "scikitleanにはニューラルネットワークのモジュールがあり(sklearn.neural_network)、これを使えば簡単そう？\n\n<https:\/\/spjai.com\/neural-network-parameter\/>",
+        "user": "UGPH97FDW",
+        "ts": "1554382819.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGPH97FDW",
+            "ts": "1554383018.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "SPJ",
+                "title": "ニューラルネットワークのパラメータ設定方法(scikit-learnのMLPClassifier)",
+                "title_link": "https:\/\/spjai.com\/neural-network-parameter\/",
+                "text": "ニューラルネットワークを作成する際に、層の数、ニューロンの数、活性化関数の種類等考えるべきパラメータは非常に多くあります。 そこで、これらのパラメータがどのようにモデルや学習に影響を与えるかということをscikit-le ...",
+                "fallback": "SPJ: ニューラルネットワークのパラメータ設定方法(scikit-learnのMLPClassifier)",
+                "image_url": "https:\/\/spjai.com\/wp-content\/uploads\/2017\/10\/parameter.jpg",
+                "from_url": "https:\/\/spjai.com\/neural-network-parameter\/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 70980,
+                "service_icon": "https:\/\/spjai.com\/wp-content\/uploads\/2018\/09\/spj-logo-300x300.png",
+                "id": 1,
+                "original_url": "https:\/\/spjai.com\/neural-network-parameter\/"
+            }
+        ],
+        "thread_ts": "1554382819.001400",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1554389360.000300",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554389357.000100"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1554389360.000300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3210d5ac-47d9-4f87-97a1-d4cfe7ed3142",
+        "type": "message",
+        "text": "タイタニックでもscikitlearnのtreeてモジュールからdecisiontreeclassifierて決定木モジュール使ってる！",
+        "user": "UGQV9DXRC",
+        "ts": "1554389357.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554382819.001400",
+        "parent_user_id": "UGPH97FDW",
+        "reactions": [
+            {
+                "name": "face_with_monocle",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53ffe275-589b-4c79-b8b8-f2082d844d6d",
+        "type": "message",
+        "text": "<http:\/\/www.randpy.tokyo\/entry\/python_random_forest>",
+        "user": "UGQV9DXRC",
+        "ts": "1554389360.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Np-Urのデータ分析教室",
+                "title": "【Pythonで決定木 &amp; Random Forest】タイタニックの生存者データを分析してみた - Np-Urのデータ分析教室",
+                "title_link": "http:\/\/www.randpy.tokyo\/entry\/python_random_forest",
+                "text": "タイタニックの乗客データを使い、何が生存率に影響を与えいるのか、決定木とランダムフォレストで分析してみました。",
+                "fallback": "Np-Urのデータ分析教室: 【Pythonで決定木 &amp; Random Forest】タイタニックの生存者データを分析してみた - Np-Urのデータ分析教室",
+                "image_url": "https:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/g\/gl2000-sans\/20171025\/20171025155102.png",
+                "ts": 1509073200,
+                "from_url": "http:\/\/www.randpy.tokyo\/entry\/python_random_forest",
+                "image_width": 547,
+                "image_height": 250,
+                "image_bytes": 65955,
+                "service_icon": "https:\/\/cdn.image.st-hatena.com\/image\/favicon\/4102ff52eb75b4f0927cb6f033507896044ee14c\/version=1\/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fcustom_blog_icon%2F137464729%2F1514248018556875",
+                "id": 1,
+                "original_url": "http:\/\/www.randpy.tokyo\/entry\/python_random_forest"
+            }
+        ],
+        "thread_ts": "1554382819.001400",
+        "parent_user_id": "UGPH97FDW"
+    }
+]

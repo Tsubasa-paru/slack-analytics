@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "4c069744-dafd-457c-8c67-eccb11c9e687",
+        "type": "message",
+        "text": "通院のため本日のゼミを欠席します…申し訳ございませんがよろしくお願いします。",
+        "user": "UHG1M1NQ6",
+        "ts": "1563488472.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

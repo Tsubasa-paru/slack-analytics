@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "b67551e9-b653-4fc4-8d0e-a44f63ebc7d6",
+        "type": "message",
+        "text": "西部地域福祉センター\nスクエアステップ教室　14：00－15：00\n7月11日（木）、７月18日（木）\n8月8日（木）、8月15日（木）\n少なくとも9月、10月あたりまでは月2回の指導予定\n大河原1人でいきます",
+        "user": "UHFLB6JPR",
+        "ts": "1562814601.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "268fad14-2c0c-4e08-998e-05fd922b4194",
+        "type": "message",
+        "text": "今月は、\n深大寺7\/5金　根本福田\nかくしょうじ7\/11木　鈴木岡田\nで参加してきました\n\n今日のかくしょうじには社協の涌井様が見学にいらっしゃり、リーダーの３名と今後の取り組みについてお話されていました。\n午後先生との運動教室を控えていらっしゃるとのことでしたので、またお話があるかと思います。",
+        "user": "UGQV9DXRC",
+        "ts": "1562814831.004400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

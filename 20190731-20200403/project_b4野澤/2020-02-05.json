@@ -1,0 +1,119 @@
+[
+    {
+        "type": "message",
+        "text": "訂正，追加事項\n2.5の項目(機械学習のまとめ表），メタボ判定を除いて再検証けっかまとめ，4章の最後に各検証での各モデルの最も結果が良かった数値の表のまとめ",
+        "files": [
+            {
+                "id": "FTMBEBFLP",
+                "created": 1580894030,
+                "timestamp": 1580894030,
+                "name": "卒業論文_1610499_野澤大樹.docx",
+                "title": "卒業論文_1610499_野澤大樹.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHFLC6N4X",
+                "editable": false,
+                "size": 1342813,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTMBEBFLP\/_____________1610499_____________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FTMBEBFLP\/download\/_____________1610499_____________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTMBEBFLP-7652d6c901\/_____________1610499______________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FTMBEBFLP-7652d6c901\/_____________1610499______________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLC6N4X\/FTMBEBFLP\/_____________1610499_____________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FTMBEBFLP-83020dceda",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Nz7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "訂正，追加事項\n2.5の項目(機械学習のまとめ表），メタボ判定を除いて再検証けっかまとめ，4章の最後に各検証での各モデルの最も結果が良かった数値の表のまとめ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHFLC6N4X",
+        "display_as_bot": false,
+        "ts": "1580894051.000100",
+        "client_msg_id": "d88f92eb-1c2e-493d-a4f3-9f39d30da8ed"
+    },
+    {
+        "client_msg_id": "54f718c1-5952-4c19-bc74-a0a4c92abd90",
+        "type": "message",
+        "text": "前回あげた課題は修正できているのでひとまずこれで上げてもいいです。何かあればまた連絡します。",
+        "user": "UHFLB6JPR",
+        "ts": "1580894622.001400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OJdc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前回あげた課題は修正できているのでひとまずこれで上げてもいいです。何かあればまた連絡します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16547e8a-94cf-4cec-aa20-f5c43d4a3150",
+        "type": "message",
+        "text": "了解しました。",
+        "user": "UHFLC6N4X",
+        "ts": "1580895620.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

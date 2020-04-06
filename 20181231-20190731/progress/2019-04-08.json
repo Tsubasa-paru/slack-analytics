@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "ca5e919d-f4e2-46c1-bb71-14473c6d52b1",
+        "type": "message",
+        "text": "今日は\n&gt;・庄野先生の授業を受けた(機械学習に関する授業)(タイムリー)(これを取れば単位足りる)\n&gt;・本の注文と受け取り(松浦さんに渡して、待ち)\n&gt;・健康診断(一部)を受けた\n&gt;・ボストンの不動産価格のサンプルデータを回せた。(プロジェクト岡田のメモの)\n&gt;・医療費と健診のデータセットに置き換えて回してみた。欠損値の扱いなどいろいろ詰まってたが解決。\n&gt;・プロジェクト岡田の目標までの道のり⑤までいけた(たぶん)。具体的にいうと、テスト用データで医療費が実際は9034円の人を5472円と予測した(はず)。\n\n明日\n&gt;今日最後できたものをいろいろいじって本当に予測できているか検証してみる。",
+        "user": "UGPH97FDW",
+        "ts": "1554722949.008000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQV9DXRC",
+                    "UGQ2ENZD0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5cdb9215-facd-4df2-b6f3-7a74ba7b5474",
+        "type": "message",
+        "text": "今日は病院回りと保育業務で進捗ありません:hospital:\n&gt;甥と祖母の家に行ったら認知症の祖母がニコニコしてくれて最高だった:point_up_2::point_up_2::point_up_2:",
+        "user": "UGQV9DXRC",
+        "ts": "1554725950.004200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

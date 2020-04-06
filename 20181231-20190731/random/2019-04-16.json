@@ -1,0 +1,151 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@UGPH97FDW> has a poll for you!",
+        "ts": "1555483456.000400",
+        "username": "Polly",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-04-04\/600134185620_48.png"
+        },
+        "bot_id": "BHDCWB90R",
+        "attachments": [
+            {
+                "callback_id": "2JzeohERuGRZ42gmw",
+                "fallback": "色あいアンケート",
+                "title": "色あいアンケート",
+                "id": 1,
+                "color": "35A8E0",
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "one",
+                        "text": "シルキー青",
+                        "type": "button",
+                        "value": "0",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "two",
+                        "text": "シルキー緑",
+                        "type": "button",
+                        "value": "1",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "three",
+                        "text": "シャドウ薄い青",
+                        "type": "button",
+                        "value": "2",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "four",
+                        "text": "シャドウ濃い青",
+                        "type": "button",
+                        "value": "3",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "callback_id": "2JzeohERuGRZ42gmw",
+                "fallback": "色あいアンケート",
+                "id": 2,
+                "color": "35A8E0",
+                "actions": [
+                    {
+                        "id": "5",
+                        "name": "five",
+                        "text": "その他",
+                        "type": "button",
+                        "value": "4",
+                        "style": ""
+                    },
+                    {
+                        "id": "6",
+                        "name": "six",
+                        "text": "何でもいい",
+                        "type": "button",
+                        "value": "5",
+                        "style": ""
+                    },
+                    {
+                        "id": "7",
+                        "name": "add_option_to_existing_poll",
+                        "text": "＋ Add Option",
+                        "type": "button",
+                        "value": "dN3r9MzMxfeRJboLE",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "callback_id": "2JzeohERuGRZ42gmw",
+                "fallback": "色あいアンケート",
+                "id": 3,
+                "fields": [
+                    {
+                        "title": "シルキー青",
+                        "value": "`▇▇▇▇▇▇` 38% (3)\n<@UHFLC6N4X>, <@UHEH8KZ7W>, <@UGQ2ENZD0>",
+                        "short": true
+                    },
+                    {
+                        "title": "シルキー緑",
+                        "value": "`▇▇▇▇▇▇▇▇▇▇` 63% (5)\n<@UHG1M1NQ6>, <@UHFLB6JPR>, <@UHC5VBV5E>, +2 more",
+                        "short": true
+                    },
+                    {
+                        "title": "シャドウ薄い青",
+                        "value": "`⁢` 0%",
+                        "short": true
+                    },
+                    {
+                        "title": "シャドウ濃い青",
+                        "value": "`⁢` 0%",
+                        "short": true
+                    },
+                    {
+                        "title": "その他",
+                        "value": "`⁢` 0%",
+                        "short": true
+                    },
+                    {
+                        "title": "何でもいい",
+                        "value": "`⁢` 0%",
+                        "short": true
+                    },
+                    {
+                        "title": "Total votes",
+                        "value": "8",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "8",
+                        "name": "add_comments",
+                        "text": "Add a Comment",
+                        "type": "button",
+                        "value": "dN3r9MzMxfeRJboLE",
+                        "style": ""
+                    },
+                    {
+                        "id": "9",
+                        "name": "view_all_responses_in_channel",
+                        "text": "View All Responses",
+                        "type": "button",
+                        "value": "dN3r9MzMxfeRJboLE",
+                        "style": ""
+                    }
+                ],
+                "mrkdwn_in": [
+                    "fields"
+                ]
+            }
+        ]
+    }
+]

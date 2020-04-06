@@ -1,0 +1,27 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1551881830.000100",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネル名を「_meeting」から「meeting」に変更しました。",
+        "old_name": "_meeting",
+        "name": "meeting"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1551881830.000200",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>がチャンネルの目的を消去しました",
+        "purpose": ""
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1551881830.000300",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC> がチャンネルのトピックを消去しました",
+        "topic": ""
+    }
+]

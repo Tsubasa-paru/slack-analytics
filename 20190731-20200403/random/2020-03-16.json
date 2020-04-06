@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "21CCB145-8D2C-4F7F-894E-A8A66D529FB0",
+        "type": "message",
+        "text": "<https:\/\/t.co\/av5zGJlMVq?amp=1|https:\/\/t.co\/av5zGJlMVq?amp=1>\nごようじん〜〜",
+        "user": "UGQV9DXRC",
+        "ts": "1584360834.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "福井新聞ONLINE",
+                "title": "東京都調布市役所に勤務の男性が新型コロナ感染 20代 | 社会 | 全国のニュース | 福井新聞ONLINE",
+                "title_link": "https:\/\/www.fukuishimbun.co.jp\/articles\/-\/1048342",
+                "text": "東京都によると、新たに２０代～６０代の男性３人が新型コロナウイルスに感染した。うち２０代の男性は調布市役所勤務で、６０代の男性は神奈川県内にある学校の教員。",
+                "fallback": "福井新聞ONLINE: 東京都調布市役所に勤務の男性が新型コロナ感染 20代 | 社会 | 全国のニュース | 福井新聞ONLINE",
+                "image_url": "https:\/\/fki.ismcdn.jp\/mwimgs\/4\/3\/-\/img_43acf21b2e0705dfe178765806f29762252985.jpg",
+                "from_url": "https:\/\/www.fukuishimbun.co.jp\/articles\/-\/1048342",
+                "image_width": 292,
+                "image_height": 250,
+                "image_bytes": 252985,
+                "service_icon": "https:\/\/www.fukuishimbun.co.jp\/common\/fki\/images\/ico57.png?rd=201806201558",
+                "id": 1,
+                "original_url": "https:\/\/www.fukuishimbun.co.jp\/articles\/-\/1048342"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9hV2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/t.co\/av5zGJlMVq?amp=1",
+                                "text": "https:\/\/t.co\/av5zGJlMVq?amp=1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ごようじん〜〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

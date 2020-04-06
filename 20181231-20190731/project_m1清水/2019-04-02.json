@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "subtype": "reminder_add",
+        "text": "  4月15日 (月) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “国際企画係・学術交流係の海外派遣助成事業の申請” ",
+        "user": "UGQ2ENZD0",
+        "ts": "1554190860.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "reminder_add",
+        "text": "  6月1日 (土) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “研究科長裁量経費の申請” ",
+        "user": "UGQ2ENZD0",
+        "ts": "1554190952.000600"
+    },
+    {
+        "client_msg_id": "1d98d1ed-6898-4d04-8347-b35cfc587bac",
+        "type": "message",
+        "text": "Proxy環境におけるWindows PCでpipを使う方法\n&gt; pipするたびにHTTP_PROXYを設定する\nこれでは面倒なのでPyCharmを使う\n&gt; Settingsから環境変数に以下の2つを追加する\n&gt;&gt; HTTP_PROXY <http:\/\/proxy.uec.ac.jp:8080>\n&gt;&gt; HTTPS_PROXY <http:\/\/proxy.uec.ac.jp:8080>\nそうするとpip経由でパッケージがインストールできるようになる",
+        "user": "UGQ2ENZD0",
+        "ts": "1554191423.003600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54132c99-4e3f-4a2e-a6e4-022d9b664550",
+        "type": "message",
+        "text": "*PyCharmの準備の手順*\n```\nanaconda3をインストールする\n&gt; このとき，Pathを通す用に設定すること\n&gt; あとから手打ちでもPathは通せるが，先に通しておくと楽\n&gt; デフォルトは通さないになっているので注意\n\nPyCharmをインストールする\n&gt; すべてデフォルトでOK\n&gt; 背景を暗くするか明るくするかはお好みで\n\n環境変数を設定する\n&gt; HTTP_PROXY <http:\/\/proxy.uec.ac.jp:8080>\n&gt; HTTPS_PROXY <http:\/\/proxy.uec.ac.jp:8080>\n\nSettings -&gt; Appearance &amp; Behavior -&gt; System Settings -&gt; HTTP Proxy を設定する\n&gt; <http:\/\/proxy.uec.ac.jp:8080> を通せばOK\n```\nこれでWindowsでもUnix\/MacOS と遜色ないPythonの開発ができる(はず)",
+        "user": "UGQ2ENZD0",
+        "ts": "1554202263.008000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8ae104eb-c408-4a4a-99cf-18bd41b09dc1",
+        "type": "message",
+        "text": "pythonで機械学習するときにあったほうが良いと思われる本\n・はじめてのディープラーニング\n&gt; ディープラーニングの基礎的な実装までPythonで追える\n・ゼロからはじめるデータサイエンス\n&gt; Pythonで行うデータサイエンスの基礎知識が網羅されている(機械学習を含む)\n・scikit-learnとTensorFlowによる実践機械学習\n&gt; 実用レベルで広く使われているフレームワークでPythonの機械学習がわかる",
+        "user": "UGQ2ENZD0",
+        "ts": "1554260630.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

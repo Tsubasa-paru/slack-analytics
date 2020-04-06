@@ -1,0 +1,216 @@
+[
+    {
+        "client_msg_id": "ca176702-0cf7-40e7-89fb-03fb2e9fc215",
+        "type": "message",
+        "text": "作成資料のリスト表で何があって、何がないかを確認したいです。\nここにベタ打ちでいいから",
+        "user": "UHFLB6JPR",
+        "ts": "1558595672.006200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a076af9-16fd-4085-988f-d6ab6927b547",
+        "type": "message",
+        "text": "連絡が遅れて申し訳ありません．\n以下，現在の状況です．\n```\nあるもの\n・倫理審査申請書\n・同意書\n・同意撤回書\n・研究計画書\n・同意説明文\n\n資料\n1．スクエアステップ資料(山崎先輩のものを使用)\n2．食品摂取の多様性評価票\n3．CCSの質問紙\n4．基本チェックリスト\n5．システムの主観評価用のアンケート\n\n資料そのものがない\n・フレイル予防のコンセプト\n・システムの詳細\n\n資料内での説明が不足している\n・Pre -&gt; 介入 -&gt; Postの流れで実験を実施すること (倫理審査申請書，計画書，同意説明文)\n```",
+        "user": "UGQ2ENZD0",
+        "ts": "1558613346.012500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQ2ENZD0",
+            "ts": "1558613362.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJYTURUFP",
+                "created": 1558667081,
+                "timestamp": 1558667081,
+                "name": "フレイル予防のコンセプトとシステムの説明.docx",
+                "title": "フレイル予防のコンセプトとシステムの説明.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 1305435,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJYTURUFP\/____________________________________________________________.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJYTURUFP\/download\/____________________________________________________________.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJYTURUFP-24dae96538\/_____________________________________________________________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJYTURUFP-24dae96538\/_____________________________________________________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FJYTURUFP\/____________________________________________________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJYTURUFP-dc18ce4dd6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1558667082.012700",
+        "client_msg_id": "ed9bbb35-edef-4894-8bf6-6b5104085a98"
+    },
+    {
+        "client_msg_id": "95153764-e7ab-407e-8767-fb334353d7f4",
+        "type": "message",
+        "text": "倫理申請に関する資料を印刷して持ってきてください。\nそれから、データファイル一括をメールしてください。",
+        "user": "UHFLB6JPR",
+        "ts": "1558667900.013600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJMGRHGAW",
+                "created": 1558669160,
+                "timestamp": 1558669160,
+                "name": "倫理審査申請書類一式.zip",
+                "title": "倫理審査申請書類一式.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 1716200,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJMGRHGAW\/______________________________.zip?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJMGRHGAW\/download\/______________________________.zip?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FJMGRHGAW\/______________________________.zip",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJMGRHGAW-ec9029aef9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1558669160.013800",
+        "client_msg_id": "6632b65c-17d8-40db-a3a3-ddaef5bb3c44"
+    },
+    {
+        "client_msg_id": "ad0bbf6a-cc11-4a8d-aab1-750ab92baad5",
+        "type": "message",
+        "text": "改めて完成したものを一式そろえてメールしてください。",
+        "user": "UHFLB6JPR",
+        "ts": "1558680617.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a54f8c7-866f-4f81-a586-a07e7e443b4c",
+        "type": "message",
+        "text": "今夜は手を付けないので、明日以降で大丈夫です。",
+        "user": "UHFLB6JPR",
+        "ts": "1558680639.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

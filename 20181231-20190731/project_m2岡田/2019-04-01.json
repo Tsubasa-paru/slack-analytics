@@ -1,0 +1,170 @@
+[
+    {
+        "client_msg_id": "b1e709bd-c246-4ec8-945b-387247b75e8e",
+        "type": "message",
+        "text": "<@UGPH97FDW>\n同期が書いたQiitaですが，とても重要なことが書いてあるので一読をおすすめします！\n<https:\/\/qiita.com\/IshitaTakeshi\/items\/4607d9f729babd273960>\n<https:\/\/qiita.com\/IshitaTakeshi\/items\/e4145921c8dbf7ba57ef>",
+        "user": "UGQ2ENZD0",
+        "ts": "1554109706.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "機械学習をこれから始める人に押さえておいてほしいこと - Qiita",
+                "title_link": "https:\/\/qiita.com\/IshitaTakeshi\/items\/4607d9f729babd273960",
+                "text": "いしたーです。アルバイトで機械学習やってます。こんにちは。 とある勉強会に出席したときに、「機械学習をやりたいけどわからないことが多い」という意見を聞いたので、いくつかアドバイスを載せておきます。 ##読む前の注意 * 研究につい...",
+                "fallback": "Qiita: 機械学習をこれから始める人に押さえておいてほしいこと - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/IshitaTakeshi\/items\/4607d9f729babd273960",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/IshitaTakeshi\/items\/4607d9f729babd273960"
+            },
+            {
+                "service_name": "Qiita",
+                "title": "プログラマが持つべき心構え (The Zen of Python) - Qiita",
+                "title_link": "https:\/\/qiita.com\/IshitaTakeshi\/items\/e4145921c8dbf7ba57ef",
+                "text": "#はじめに この記事はstackoverflowの[The Zen of Pythonに関する質問と解答](<https:\/\/web.archive.org\/web\/20140526061824\/http:\/\/stackoverflow>...",
+                "fallback": "Qiita: プログラマが持つべき心構え (The Zen of Python) - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/IshitaTakeshi\/items\/e4145921c8dbf7ba57ef",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 2,
+                "original_url": "https:\/\/qiita.com\/IshitaTakeshi\/items\/e4145921c8dbf7ba57ef"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "custom_ryokai",
+                "users": [
+                    "UHEH8KZ7W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8afb8cb3-e5ed-4dba-83eb-7ee813818cfc",
+        "type": "message",
+        "text": "目標までの道のり\n\n⑧血液データなどを入れたらその人の今後の医療費(あるいは医療費群)を予測した結果が出る。(ゴール)\n↑\n⑦血液データなどを入れたらその人の医療費群を予測するようなモデルを作る。\n↑\n⑥どの因子を利用して何を求めるのか。医療費が何円以上かどうか。基準などを決める？\n↑\n⑤健診、医療費のデータに置き換えて少ないデータで簡単な予測モデルを作って動かしてみる。\n↑\n④③で実行したサンプルコードが何を意味してるか理解する。\n↑\n③ネットに落ちてるサンプルデータとサンプルコードをコピペして実際に動くところまでしてみる。\n↑\n②Pythonで実際に試せそうなサンプルをたくさん探す。\n↑\n①ニューラルネットワークとは何かを調べる。(原理とは何かとかは置いといて)",
+        "user": "UGPH97FDW",
+        "ts": "1554113595.004700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGPH97FDW",
+            "ts": "1554437839.000000"
+        }
+    },
+    {
+        "client_msg_id": "80cda7db-95f2-4c0a-b6f4-56bacaee2601",
+        "type": "message",
+        "text": "今困っていること\n\nとりあえず1つサンプルを探してコピペ動かしてみて結果は出た(はず)のだが、出力が何を表しているのか、打ってあるコードが何を意味しているのかわからず、1行1行調べながら悩んでいるところ。",
+        "user": "UGPH97FDW",
+        "ts": "1554113786.007200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-lifting-weights",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc899623-14fb-4fa3-b5e6-4f50eb170725",
+        "type": "message",
+        "text": "みているサンプル\n<https:\/\/deepage.net\/features\/numpy-neuralnetwork-3.html>",
+        "user": "UGPH97FDW",
+        "ts": "1554114120.008000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "DeepAge",
+                "title": "NumPyでニューラルネットワークを実装してみる 実装編",
+                "title_link": "https:\/\/deepage.net\/features\/numpy-neuralnetwork-3.html",
+                "text": "NumPyでニューラルネットワークを実装するシリーズの実装編です。今回は実際にニューラルネットワークをPythonとNumPyで実装していきます。",
+                "fallback": "DeepAge: NumPyでニューラルネットワークを実装してみる 実装編",
+                "image_url": "https:\/\/deepage.net\/img\/image_social_thumb.png",
+                "ts": 1520466197,
+                "from_url": "https:\/\/deepage.net\/features\/numpy-neuralnetwork-3.html",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 331250,
+                "service_icon": "https:\/\/deepage.net\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/deepage.net\/features\/numpy-neuralnetwork-3.html"
+            }
+        ]
+    }
+]

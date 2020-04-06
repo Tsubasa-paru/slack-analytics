@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "2342dfbc-5a8c-48ed-abda-ea541085aa96",
+        "type": "message",
+        "text": "昨日は飲み会お疲れ様でしたー\n今日はレビュー論文の続き\n&gt;特徴量についてとスマホについての優劣とかがわかればいいなと思って特徴量から抽出し始めました。今更感。\nslackの導入\n&gt;資料を作り始めた、金曜日には導入始めたい",
+        "user": "UGQV9DXRC",
+        "ts": "1553592420.004600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ff38a941-5102-4481-bb2a-02a8a627c138",
+        "type": "message",
+        "text": "今日は伊藤さんからの引継ぎ\n&gt;フーリエ変換とパワースペクトル密度を信号アナライザーで確認するやり方（図としての確認のみでデータに落とせなかった）\n午後は甥",
+        "user": "UGQV9DXRC",
+        "ts": "1553655930.003200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "the_fatal_smile",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

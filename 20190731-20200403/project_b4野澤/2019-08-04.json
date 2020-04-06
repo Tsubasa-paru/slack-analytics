@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "39F0C6B0-9A99-4AAB-9AAA-94DF27F6A749",
+        "type": "message",
+        "text": "旅行予定を見たのですが、八月ほとんど旅行でいないみたいなので中間発表の打ち合わせの時間を取りたいです。今週中に時間いつ取れますか\n9月の前半で予稿がある程度形になってる必要があるので逆算でお願いします。",
+        "user": "UGPH97FDW",
+        "ts": "1564985546.003500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e9f7f712-ded6-41e8-9e79-9bf775c15d63",
+        "type": "message",
+        "text": "明日お願いしますー。",
+        "user": "UHFLC6N4X",
+        "ts": "1564986862.004000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_ryokai",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

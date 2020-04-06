@@ -1,0 +1,41 @@
+[
+    {
+        "client_msg_id": "48072dac-5b2f-4986-8d4e-0e97ae46b527",
+        "type": "message",
+        "text": "<https:\/\/algorithm.joho.info\/programming\/python\/numpy-fast-fourier-transform\/>",
+        "user": "UGQV9DXRC",
+        "ts": "1573805409.005200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "技術雑記",
+                "title": "【NumPy】高速フーリエ変換 （FFT）で振幅スペクトルを計算",
+                "title_link": "https:\/\/algorithm.joho.info\/programming\/python\/numpy-fast-fourier-transform\/",
+                "text": "この記事では、Python言語とNumPyを用いて、信号データを高速フーリエ変換(FFT)して周波数スペクトルを求める方法をソースコード付きで解説します。",
+                "fallback": "技術雑記: 【NumPy】高速フーリエ変換 （FFT）で振幅スペクトルを計算",
+                "image_url": "https:\/\/algorithm.joho.info\/wp-content\/uploads\/2017\/10\/fft2.jpg",
+                "ts": 1538814811,
+                "from_url": "https:\/\/algorithm.joho.info\/programming\/python\/numpy-fast-fourier-transform\/",
+                "image_width": 480,
+                "image_height": 250,
+                "image_bytes": 101264,
+                "service_icon": "https:\/\/algorithm.joho.info\/wp-content\/uploads\/2019\/09\/cropped-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/algorithm.joho.info\/programming\/python\/numpy-fast-fourier-transform\/"
+            }
+        ]
+    }
+]

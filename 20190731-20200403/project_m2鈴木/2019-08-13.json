@@ -1,0 +1,140 @@
+[
+    {
+        "client_msg_id": "62f77e8a-3e61-4cc1-aa8b-5e65caa41b4c",
+        "type": "message",
+        "text": "こども食堂対応",
+        "user": "UGQV9DXRC",
+        "ts": "1565753219.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565753219.000300",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1565753245.000700",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1565753225.000400"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1565753245.000700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "132e9558-ff58-44ec-849a-65b9a6454a27",
+        "type": "message",
+        "text": "<https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1565752654016200>",
+        "user": "UGQV9DXRC",
+        "ts": "1565753225.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1565752654016200",
+                "fallback": "[August 13th, 2019 8:17 PM] ohkawara_kazunori: 「もし万が一ご都合が悪くなってしまった場合は、 早めにキャンセルのご連絡を頂けますという幸いです。キャンセル待ちの方にお声がけいたしますので、ご協力のほどよろしくお願いいたします。」\nこんな感じの文言はいる？\n",
+                "ts": "1565752654.016200",
+                "author_id": "UHFLB6JPR",
+                "author_subname": "大河原一憲",
+                "channel_id": "CJZ0QGKRB",
+                "channel_name": "project_こども食堂",
+                "is_msg_unfurl": true,
+                "text": "「もし万が一ご都合が悪くなってしまった場合は、 早めにキャンセルのご連絡を頂けますという幸いです。キャンセル待ちの方にお声がけいたしますので、ご協力のほどよろしくお願いいたします。」\nこんな感じの文言はいる？\n",
+                "author_name": "大河原一憲",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UHFLB6JPR",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0003-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1565752654016200",
+                "footer": "#project_こども食堂 に投稿"
+            }
+        ],
+        "thread_ts": "1565753219.000300",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "f7f782ec-86e0-4566-b3f9-62b271b88b85",
+        "type": "message",
+        "text": "<https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1565751506001000>",
+        "user": "UGQV9DXRC",
+        "ts": "1565753245.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1565751506001000",
+                "fallback": "[August 13th, 2019 7:58 PM] kmt.sd.ma: <@UHFLB6JPR> \n募集用のHPの許可はいかがでしょうか？確認を忘れていました:sweat:\n<http:\/\/www.sport.edu.uec.ac.jp\/shokudo2018\/>",
+                "ts": "1565751506.001000",
+                "author_id": "UGQV9DXRC",
+                "author_subname": "鈴木美穂",
+                "channel_id": "CJZ0QGKRB",
+                "channel_name": "project_こども食堂",
+                "is_msg_unfurl": true,
+                "text": "<@UHFLB6JPR> \n募集用のHPの許可はいかがでしょうか？確認を忘れていました:sweat:\n<http:\/\/www.sport.edu.uec.ac.jp\/shokudo2018\/>",
+                "author_name": "鈴木美穂",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CJZ0QGKRB\/p1565751506001000",
+                "footer": "#project_こども食堂 に投稿"
+            }
+        ],
+        "thread_ts": "1565753219.000300",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

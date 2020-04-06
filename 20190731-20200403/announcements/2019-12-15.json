@@ -1,0 +1,189 @@
+[
+    {
+        "client_msg_id": "1744ED7A-977F-4A6B-8244-C9F7BA205CFB",
+        "type": "message",
+        "text": "<@UGQV9DXRC> <@UHG1M1NQ6> \n2人は抄録提出した？",
+        "user": "UHFLB6JPR",
+        "ts": "1576458618.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1576458618.000600",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1576466311.001700",
+        "reply_users": [
+            "UGQV9DXRC",
+            "UHG1M1NQ6",
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1576463951.000200"
+            },
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1576464015.000600"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1576466099.001500"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1576466311.001700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1576466311.001700"
+    },
+    {
+        "type": "message",
+        "text": "参加登録は済んでいますが、抄録は今からです。\n先生に変更していただいたまとめを受けて、結果の表を12項目のものに書き換えたのですがいかいかがでしょうか？\nもし問題なければ、これで提出します。\n遅くなり申し訳ありません。",
+        "files": [
+            {
+                "id": "FRQGPEDN1",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GwW7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "参加登録は済んでいますが、抄録は今からです。\n先生に変更していただいたまとめを受けて、結果の表を12項目のものに書き換えたのですがいかいかがでしょうか？\nもし問題なければ、これで提出します。\n遅くなり申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1576463951.000200",
+        "client_msg_id": "d9bac71e-f8ed-4202-a3fe-fe21a76068e2",
+        "thread_ts": "1576458618.000600",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "f5332854-cc5f-4e7e-8a81-f15710729625",
+        "type": "message",
+        "text": "鈴木さんと同じく参加登録は済んでいて、抄録提出がこれからとなっています。",
+        "user": "UHG1M1NQ6",
+        "ts": "1576464015.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/9R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "鈴木さんと同じく参加登録は済んでいて、抄録提出がこれからとなっています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576458618.000600",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "6DE82C21-7179-4F29-A0EC-2FCEA9385CBF",
+        "type": "message",
+        "text": "2人とも提出してください\n中身はokです",
+        "user": "UHFLB6JPR",
+        "ts": "1576466099.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1576458618.000600",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "bfea4fa6-a119-4b19-8446-698eca3d2eee",
+        "type": "message",
+        "text": "承知しました、ありがとうございます！",
+        "user": "UGQV9DXRC",
+        "ts": "1576466311.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sKSEW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました、ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576458618.000600",
+        "parent_user_id": "UHFLB6JPR"
+    }
+]

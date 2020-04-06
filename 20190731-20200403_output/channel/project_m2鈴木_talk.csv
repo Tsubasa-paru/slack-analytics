@@ -1,0 +1,642 @@
+﻿channel_id,talk_id,ts,thread_ts,talk_user,text,date
+CGNQF4DTJ,6a4d7706-6b09-4ea3-8cf6-cfcef8a99efd,1570168590.0004,,UGQV9DXRC,"修論中間報告　コメント
+<https://drive.google.com/open?id=1-ZDUbzVjj0WVOP1czpCqTFnuGSjnc2mz>",2019-10-03
+CGNQF4DTJ,85e17817-6189-4096-9e51-da435f530dbf,1580210665.0021,,UGQV9DXRC,"特徴量に関する一元配置の分散分析の結果
+4項目",2020-01-28
+CGNQF4DTJ,30a79c90-3512-485b-b53f-ebdd20d9e5cb,1580210689.0025,,UGQV9DXRC,14項目,2020-01-28
+CGNQF4DTJ,181178ef-197f-4cff-aa83-4d63a0a8229b,1580210759.0039,,UGQV9DXRC,"<@UHFLB6JPR>
+特徴量の組み合わせ別精度の分散分析の結果でました
+14項目では5%水準でどこかに差があるとは言える、という解釈であっているでしょうか、、？",2020-01-28
+CGNQF4DTJ,24c8495a-f9fc-45ee-a1c7-ff403ef688f4,1568883621.001,,UGQV9DXRC,"中間発表資料
+<https://drive.google.com/open?id=1lKHtTmFu03aRj8t8TdE_z_174w6VOeip>",2019-09-19
+CGNQF4DTJ,092334d4-bd45-43cf-a112-a8e4abe6216d,1568884416.0016,,UGQV9DXRC,<https://www.stat.go.jp/data/topics/topi1131.html>,2019-09-19
+CGNQF4DTJ,ba89fb8c-a54c-424e-9fd7-9710eb37eb1a,1568886953.0018,,UHFLB6JPR,,2019-09-19
+CGNQF4DTJ,4f062d2b-0549-4b98-8e68-fc318a876a7f,1568887246.003,,UGQV9DXRC,ありがとうございます:bow:,2019-09-19
+CGNQF4DTJ,18ae78ea-13a0-43b7-bc60-e5bdedd92f42,1568900793.0039,,UGQV9DXRC,<https://tairyoku74.jp/pdf/schedule2-092001.pdf>,2019-09-19
+CGNQF4DTJ,5f2e8755-c226-4d7e-9b60-05928eb1e4ec,1568901094.004,,UGQV9DXRC,回りたいところ,2019-09-19
+CGNQF4DTJ,0c8bd11e-0b39-4249-90b1-7f077cba1a43,1568901097.0043,,UGQV9DXRC,,2019-09-19
+CGNQF4DTJ,0e790cd3-8e63-4a92-9d7e-09dc61169773,1568901099.0046,,UGQV9DXRC,,2019-09-19
+CGNQF4DTJ,f823556f-8ae0-4231-8838-24824ac6e795,1568901102.0049,,UGQV9DXRC,,2019-09-19
+CGNQF4DTJ,b3292d22-7e72-4231-ab11-205bdb872568,1566976198.0057,,UGQV9DXRC,"結果のsdについてですが、この結果はすべて機械学習の分類精度を示したf値なのですが、f値には標準偏差は必要なのでしょうか？
+平均に関しては、その1-10のf値の平均なので一応標準偏差をつけたという形です",2019-08-28
+CGNQF4DTJ,4abac44f-5356-4450-8468-983b1c601af5,1566976507.0079,,UHFLB6JPR,"なるほど、SDは入れないです。
+ただし、被験者番号1～１０というラベリングが良くないかな
+表2のタイトルは分類精度の方がいいのと（タイトル内に（％）があった方がいいです",2019-08-28
+CGNQF4DTJ,a37505d5-ca60-47c9-8343-396b3521c350,1566976783.0101,,UGQV9DXRC,"タイトルの変更について承知しました
+被験者番号についても高橋さんの卒論に沿ったのですが、試行回数のような意味を持つのでそうゆう言葉に変えたいなと思っています。検討します",2019-08-28
+CGNQF4DTJ,81ba15f6-8ea9-4f57-b124-1b8dccd542f8,1566982268.0138,,UGQV9DXRC,"*8/28の進捗*
+・5種類に種目を振り分けなおした
+↠ランダムフォレストかける段階でエラーが出てる、nanが含まれてるらしい
+
+*明日*
+・エラーの対応(結果一覧_5)
+　どこがnanなのか？
+・ポスター修正
+　表2のタイトルを分類精度(%)に
+　
+*検討*
+・ポスター修正
+　種目別精度の出し方
+　表2の被験者番号以外の名前の付け方",2019-08-28
+CGNQF4DTJ,acdd4315-d246-4ba9-85d9-d0def3de0609,1564585284.0028,1563810742.0001,UGQV9DXRC,"<https://stackoverflow.com/questions/5887366/matlab-spectrogram-params>
+
+welch法のわかりやすそうなやつ",2019-07-31
+CGNQF4DTJ,37bb6a9f-4ef3-4b42-abb1-0c9f1dd68200,1564585526.0031,1563810742.0001,UGQV9DXRC,なぜそこまでpsdが必要とされるのか,2019-07-31
+CGNQF4DTJ,6faaa872-b66a-4621-a7fd-55790d1c736c,1564585530.0033,1563810742.0001,UGQV9DXRC,<https://dsp.stackexchange.com/questions/2096/why-so-many-methods-of-computing-psd>,2019-07-31
+CGNQF4DTJ,c5b5a530-4ae5-443b-9be3-703a028166da,1564585845.0036,,UGQV9DXRC,,2019-07-31
+CGNQF4DTJ,e5fcd8e4-a641-4eea-bbf0-e4076b4a1b36,1564585953.005,1564585953.005,UGQV9DXRC,"psd パワースペクトル密度について読む
+
+・なぜそこまでpsdが必要とされるのか
+<https://dsp.stackexchange.com/questions/2096/why-so-many-methods-of-computing-psd>
+
+・welch法の理解
+<https://stackoverflow.com/questions/5887366/matlab-spectrogram-params>
+
+・scipy-welch関数の解説
+<https://org-technology.com/posts/power-spectral-density.html>",2019-07-31
+CGNQF4DTJ,cc2ed938-ce92-4e2e-9134-dd27860cfb2e,1564586168.0051,1564586168.0051,UGQV9DXRC,,2019-07-31
+CGNQF4DTJ,ac66fa4d-f33d-455b-9713-0cc87b189771,1564586246.0054,1564586168.0051,UGQV9DXRC,フリー素材のとこ,2019-07-31
+CGNQF4DTJ,3b6f0f9d-171c-4b0d-bb60-94d0e141d0cf,1564627897.0001,,UGQV9DXRC,,2019-07-31
+CGNQF4DTJ,f6aaa5fd-2be5-4fb1-ac0b-d7fc59cd8b1c,1575259464.0036,,UGQV9DXRC,"次：
+1secずつならデータ30コなので30データずつpsdを計算してピークを導入する繰り返し構造を作る",2019-12-01
+CGNQF4DTJ,87c822e1-bc77-4af6-bf23-ecda8d13a418,1575265850.004,,UGQV9DXRC,"複数のファイルを一度に読み込む
+<https://ja.stackoverflow.com/questions/45204/python%E3%81%A7%E8%A4%87%E6%95%B0%E3%81%AEtxt%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E4%B8%80%E5%BA%A6%E3%81%AB%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%81%BF%E3%81%9F%E3%81%84>",2019-12-01
+CGNQF4DTJ,0ff1ebc8-0e07-49bf-9730-33ef26af4f91,1575273380.0049,,UGQV9DXRC,<https://www.aaai.org/Papers/IAAI/2005/IAAI05-013.pdf>,2019-12-01
+CGNQF4DTJ,59cf28e9-b2fb-4a26-adc6-d78ec5dcdafa,1575879530.0003,1575277039.0068,UGQV9DXRC,<https://ohkawaralab.slack.com/archives/CGNQF4DTJ/p1575446884001200>,2019-12-09
+CGNQF4DTJ,06cf2955-c538-4d6c-acd8-f0dd1cd98f0a,1575880221.0013,,UGQV9DXRC,"次の課題(できると分析が速く済む)：
+ds1~16を一気にfor文で処理して特徴量のデータセットを作成する
+<https://teratail.com/questions/93494>",2019-12-09
+CGNQF4DTJ,f01a4e04-62ec-4563-a0cd-6f5c8dd6dd31,1575882292.0017,,UGQV9DXRC,"特徴量追加：PSDのピークを1secごとに1点抽出して追加
+
+xlist =[]
+ylist =[]
+for i in range(3000):
+    #psd検出
+    f,psd=signal.welch(ds['Fxy'][i*30:(i+1)*30])
+    #ピーク検出
+    maxid = signal.argrelmax(psd, order=30)
+    #maxidは'tuple'で出てくるので、extendでリストに追加
+    for j in range(30):
+        if maxid[0].size == 0 :
+            xlist.append(0)
+            ylist.append(0)
+        else :
+            xlist.extend(f[maxid])
+            ylist.extend(psd[maxid])
+ds['PSDx_fxy'] = pd.DataFrame(xlist)
+ds['PSDy_fxy'] = pd.DataFrame(ylist)",2019-12-09
+CGNQF4DTJ,042522b7-5888-40e4-b319-5f4a9baa66d3,1575882899.002,,UGQV9DXRC,"PSDのピークを1秒ごとに計算して追加した(14種)
+赤：PSD追加後
+青：以前
+
+```      f1_score
+ds1    0.58237
+ds2   0.564305
+ds3   0.813787
+ds4   0.537135
+ds5    0.42525
+ds6   0.507611
+ds7   0.644147
+ds8    0.55836
+ds9   0.551231
+ds10  0.555363
+ds11   0.37051
+ds12  0.313596
+ds13  0.556767
+ds14  0.548424
+ds15  0.346422
+ds16   0.57277```",2019-12-09
+CGNQF4DTJ,1f2477d3-c69c-479b-84af-d307298c70e8,1575885820.0029,,UGQV9DXRC,次の課題：FFTのピークと値を代入,2019-12-09
+CGNQF4DTJ,22482e28-a789-416c-83e8-c7299f1e6487,1575603127.0011,1575603127.0011,UGQV9DXRC,"タイトル案
+機械学習を用いた日本人高齢者の生活活動分類",2019-12-05
+CGNQF4DTJ,c7f0dbc4-28fd-4f99-8ccb-6b745dfe51a3,1575603142.0012,1575603127.0011,UGQV9DXRC,"以前
+高齢者を対象とした機械学習による生活活動分類",2019-12-05
+CGNQF4DTJ,73db44b2-869e-4156-817e-48178475a6fa,1570581067.0002,,UGQV9DXRC,<https://gammasoft.jp/python/python-library-install/#install>,2019-10-08
+CGNQF4DTJ,d2135887-cb4e-4821-a98f-b6f7c3a6866f,1578637354.0003,,UGQV9DXRC,,2020-01-09
+CGNQF4DTJ,70d9680f-a3bf-44d9-988d-491dbc0c6695,1580911130.0007,,UGQV9DXRC,"スライド訂正版
+スクリプトなしだとどうしても超過してしまうので、課題をまとめに入れ、結果のスライドを一枚削った
+<https://drive.google.com/open?id=1a_AIJ_Y0Gb1U3l_kAsv5ROYVkaw7N7Xc>",2020-02-05
+CGNQF4DTJ,f92abb90-9007-4e6a-904c-af3b9f9882d5,1580944815.0008,,UHFLB6JPR,細かいけど、合意→同意,2020-02-05
+CGNQF4DTJ,2e154f4f-19fb-4869-bd9e-9256d44ac9cc,1568875522.0006,,UGQV9DXRC,中間発表要項　<https://www.inf.uec.ac.jp/c/lib/exe/fetch.php?media=2019m2midannounce-v2.pdf>,2019-09-18
+CGNQF4DTJ,3fc6a66d-0d28-45f0-a550-75198e8da0a2,1569483765.0028,,UGQV9DXRC,"まとめまで読んで8分ピッタリくらいでできました
+<https://drive.google.com/open?id=1_P55WlVkoJEt5ygkM6tZXNUULl1XxHCT>
+<https://drive.google.com/open?id=1k0Gga_748RbWZTev9JUJc9qjcDzZTTUB>",2019-09-26
+CGNQF4DTJ,ae50f2c1-2079-46c1-a244-54c9fb14d935,1569483838.0041,,UGQV9DXRC,,2019-09-26
+CGNQF4DTJ,fd6c4292-aafe-4b49-b5a2-360186bf5d76,1569495649.0011,,UHFLB6JPR,中間のアブストは提出していいよ,2019-09-26
+CGNQF4DTJ,87abc26d-2443-41b6-ad6f-92ff271fab7b,1569495670.0014,,UGQV9DXRC,承知しました,2019-09-26
+CGNQF4DTJ,374e2190-d88c-4f98-8509-c2caa9eda618,1569502062.0001,,UGQV9DXRC,"機械学習を用いて日常的な生活データから認知症を早期に発見：ジョージ・アンド・ショーン社や北陸先端科学技術大学院大学などの共同研究チームが成果を発表 | Marvin（マーヴィン）人工知能・AIと機械学習の事例メディア
+<https://marvin.news/7343>",2019-09-26
+CGNQF4DTJ,4109a2eb-13ff-458c-a967-f7ff01dc4973,1569562296.0005,,UGQV9DXRC,提出しました,2019-09-26
+CGNQF4DTJ,882ec628-e274-42ca-adf0-9c0a4805580e,1569562329.0011,,UGQV9DXRC,月曜のスケジュール,2019-09-26
+CGNQF4DTJ,84c99327-a0ca-49b4-b171-6285cd0f31f2,1569563914.0018,,UGQV9DXRC,"諸々訂正
+<https://drive.google.com/open?id=11YBEJ6Uy1vSjEu4d5nq0vgkWhvAoY5qS>",2019-09-26
+CGNQF4DTJ,ed8b45b7-0911-486b-8342-dbe66d268d86,1578992492.0087,,UGQV9DXRC,"心拍+心拍変化量/心拍のみ/心拍変化量のみ/心拍なしの4種類まとめ終わり
+<https://drive.google.com/file/d/1nhMfLqU04tELW5fNAi2FPRgsGI_Ypp0E/view?usp=sharing>
+平均で一番高かった組み合わせは
+4種  ：心拍変化量のみで平均92.6%
+14種：心拍ぬきで平均59.2%
+今後の方針は以下
+<https://www.evernote.com/shard/s223/sh/a94ffd9f-96be-4fc9-b70e-9c57ee1941a9/2fb36b6db9a4d684f8a7c2433cf1de81>",2020-01-14
+CGNQF4DTJ,46b295d8-70eb-405a-b25d-b7400cfdddc3,1579058632.0019,,UHFLB6JPR,"14種の場合
+最大平均が59.2？
+70くらいはあるとの認識だったけど",2020-01-14
+CGNQF4DTJ,10d46355-ce76-455d-9b67-a9b20fbb2c4e,1579059036.0048,,UGQV9DXRC,全部のデータ使った場合なので階段抜きはまとめ終わってないですが、階段抜くと69とかそのくらいになりそうです,2020-01-14
+CGNQF4DTJ,991ace0a-cfa2-446f-88df-8e352dd2d396,1579059150.006,,UHFLB6JPR,"なるほど
+理由はないけど、感覚的に70は超えたらいいなと",2020-01-14
+CGNQF4DTJ,1131e11d-72dc-4eda-8ef9-b13c2c7d8ce7,1567666912.0006,,UHFLB6JPR,ポスターの最終版をメールで送ってください。９月１日のやつでOKです。,2019-09-05
+CGNQF4DTJ,9c3de012-48ba-4192-982a-eda7caf8e66a,1585291832.0014,,UGQV9DXRC,"引継ぎ資料まとめ終わり
+<https://www.evernote.com/shard/s223/sh/cf82c4a5-a07b-fe2b-27a3-7f25a00bd6ad/5b702b2048d6cf0f735527ff6f339caf>
+わからないことがあったら中の連絡先に連絡ください(ラインでもok)",2020-03-26
+CGNQF4DTJ,8a5df040-2d06-4e41-8e7f-325055e778e2,1573805409.0052,,UGQV9DXRC,<https://algorithm.joho.info/programming/python/numpy-fast-fourier-transform/>,2019-11-15
+CGNQF4DTJ,9ddb70ae-f3a6-4023-8a1a-e4f51719fb71,1585063488.0017,,UGQV9DXRC,"<@UHFLB6JPR>
+抄録及び本文を訂正しましたので提出いたします。
+文面が黒澤先生に比べ大分稚拙な感じがするのでこれでいいのやらという感じです,,,
+<https://drive.google.com/open?id=168QGv6AemL-CmPlUfO9sdqmrRjO01qhV>",2020-03-24
+CGNQF4DTJ,a3c10e23-906d-4253-a4f8-dbb24b3d2189,1583307574.0002,1582260198.0012,UGQV9DXRC,"ジャンルは以下
+総説 先行研究の総括，解説 750 字×20 頁
+現状25ページ",2020-03-03
+CGNQF4DTJ,d1178ff5-600e-4584-a366-bf7589796a22,1576561034.001,,UHFLB6JPR,学会年会費の払い込み書、ちょーだい,2019-12-16
+CGNQF4DTJ,c1091356-aee6-457b-81e5-76a3cfa9dbbc,1576563619.0019,1576563619.0019,UGQV9DXRC,"修論リンクと進捗メモ
+<https://drive.google.com/open?id=1ttj0nGKq8GCDAad6-ebSThVVxXrLWG4W>
+
+目次
+第1章　序論
+1.1　背景
+1.2　先行研究
+1.2.2　3軸加速度計と決定木を用いた生活活動分類
+1.2.3　3軸加速度計とランダムフォレストを用いた生活活動分類
+1.2.4　まとめ
+1.3　目的",2019-12-16
+CGNQF4DTJ,e995befe-b0f5-4f22-8648-7f54432a0868,1575277039.0068,1575277039.0068,UGQV9DXRC,"・psdを1secずつ入れる繰り返しの作り方について
+質問中
+<https://teratail.com/questions/226843>
+
+・psdについても1Hz,10Hz,100Hzとかで固定したところの値を入れてあげてもよいかも
+　代入をどうするか？",2019-12-02
+CGNQF4DTJ,7bd9ec58-f507-4266-96a3-592a77adcc62,1575354948.0002,,UHFLB6JPR,,2019-12-02
+CGNQF4DTJ,97f8bc93-e0cd-4b55-a9ee-03dccf49dbe8,1575355266.0065,,UHFLB6JPR,"体力医学会とは違うタイトル、発表内容（分析内容）も違いが明確になっている必要があります（少なくとも発表者の中では）。
+また、スペースがいっぱいになるように作成してください（空白は作らない）。
+背景は文章間のつながりがなかったので初めの部分を削っていますが、つながりをもたせて加筆してもらってもかまいません。",2019-12-02
+CGNQF4DTJ,6bba1758-e513-40a9-88db-bba75c8e2f67,1575355319.0078,,UGQV9DXRC,"ご指摘ありがとうございます。
+今やっている追加の特徴量について載せられる結果が出れば、差別化して記載できるかなと考えていました、、
+イントロの部分ももう少し考えます。",2019-12-02
+CGNQF4DTJ,7126e843-2407-4892-8e52-36bf4ef0062c,1575356300.0079,1575277039.0068,UGQV9DXRC,"nums = [0,1,2,3]
+for i in nums:
+ #psd検出
+ f,psd=signal.welch(ds['Fx'][i*30:(i+1)*30-1])
+ #ピーク検出
+ maxid = signal.argrelmax(psd, order=30)
+ #maxidは'tuple'で出てくるみたいなので、それをDFに変換
+ list = maxid
+print(peak)",2019-12-02
+CGNQF4DTJ,fc7000c3-e127-4847-990f-38724408e511,1574757602.0074,1574757602.0074,UGQV9DXRC,"宿題：PSDのピーク値を入れるとして、どう入れるか
+FFTならHzを指定して30データごととかで1Hz,10Hz,50Hz,100Hzの値を行で入れていく事はできるが、ピーク値は指定してとれるわけではない",2019-11-26
+CGNQF4DTJ,7b726b3a-97c2-4b6b-afcb-d409274be987,1569416788.0017,,UGQV9DXRC,"データセットの解説と最後の結果のスライドを悩み中
+<https://drive.google.com/open?id=1ypsKP46hoGVwRkvn00x9RxI0F6y0-p0f>",2019-09-25
+CGNQF4DTJ,65a25a32-f0aa-4666-880d-3fa5c4c121e4,1569420450.0026,,UGQV9DXRC,"まとめ以外できた
+<https://drive.google.com/open?id=1OYcbro1KZniq7a5-ps1yAKLFBd5rKUsm>
+上のファイルも更新済",2019-09-25
+CGNQF4DTJ,0ade65b8-e4e3-44b9-97a7-a7b7bd4e95c5,1569420500.0034,,UGQV9DXRC,早口でざっと読んでまとめなしで7分くらい,2019-09-25
+CGNQF4DTJ,b1855357-1a1b-4fef-8f99-b455ef7eed77,1568637826.0007,,UGQV9DXRC,"<http://repo.inf.uec.ac.jp/master/>
+修論提出先",2019-09-16
+CGNQF4DTJ,88dba148-ac02-4cdd-b088-a5aabbb69ca3,1568647406.0017,,UGQV9DXRC,"修論中間発表会　抄録
+結果の部分は明日確認して追記予定
+<https://drive.google.com/open?id=1krZbqhiw5VAQlvGYy14ZnrSgKid4V6Lz>",2019-09-16
+CGNQF4DTJ,7749aa16-ff12-45bb-8256-778d048020e8,1574406699.0004,,UHFLB6JPR,,2019-11-21
+CGNQF4DTJ,d2716f6e-5bd1-4faf-91ab-7f1e98e9d4d3,1574406712.0007,,UHFLB6JPR,,2019-11-21
+CGNQF4DTJ,af53ef8a-289d-40a9-8833-db90099f0a91,1574237253.003,,UGQV9DXRC,<https://qiita.com/s_katagiri/items/a6c3914e7623b4d7b5a3>,2019-11-20
+CGNQF4DTJ,440454c8-8662-49c0-a1ac-ac156718e1e2,1568364113.0056,,UGQV9DXRC,データ変更し終わった,2019-09-13
+CGNQF4DTJ,a32f0acb-500c-48e2-b66c-d5284739dc43,1568365029.0068,,UGQV9DXRC,<https://drive.google.com/open?id=1nhMfLqU04tELW5fNAi2FPRgsGI_Ypp0E>,2019-09-13
+CGNQF4DTJ,ee421f86-3e86-4884-a6d7-53fa8ac09a2a,1567413999.0024,,UGQV9DXRC,"9/2
+・種目別の精度が出せるようになった
+図のような形で一人分を変数に格納できるが、これをデータフレームに移して一気に10人分まとめた表にできないかなと思っている。
+
+次やること
+取りあえず今出てるデータを手打ちでいいのでExcelにまとめ、活動別の精度を出す↠ポスターに反映",2019-09-02
+CGNQF4DTJ,dbe4f653-9c96-4dfe-9028-2cda5776aabd,1569569097.0028,,UHFLB6JPR,「健康日本21第2次」ね,2019-09-27
+CGNQF4DTJ,2a219b0a-a649-4d85-9ed3-04059975bc52,1569569141.0034,,UGQV9DXRC,"すみません、、ありがとうございます
+他に漏れてましたらお願い致します:bow:",2019-09-27
+CGNQF4DTJ,7f0205d0-2bef-4935-8dd7-08fcc3c60bc9,1566893088.0006,,UGQV9DXRC,"<@UHFLB6JPR>
+日本体力医学会ポスター作製しましたので、提出いたします。
+ご確認よろしくお願い致します。
+<https://drive.google.com/open?id=1Ql_zZGaIqXnLJfK_XisMH0u-4uW-JNRh>",2019-08-27
+CGNQF4DTJ,b2863c42-2180-458f-bb38-9e56809b519f,1566893152.0012,,UGQV9DXRC,<https://drive.google.com/open?id=1bdKi2XUNoVoY-HHj2OxYVR72TdB0Gz9_>,2019-08-27
+CGNQF4DTJ,10d9163c-76fa-4297-8114-b334d02ac85b,1566893215.0019,,UGQV9DXRC,日本体力医学会ポスター規定(<https://tairyoku74.jp/announce.html>),2019-08-27
+CGNQF4DTJ,47a7165c-c30b-4416-84c7-47e970742881,1566975079.0016,,UHFLB6JPR,"表2．検証結果
+→分類精度？
+被験者1－10のすべての結果にSDをつけてください",2019-08-27
+CGNQF4DTJ,e5b7faa7-6e56-40c8-aeba-ec328352c008,1566975129.0024,,UHFLB6JPR,種目別の精度については質問されると思うよ,2019-08-27
+CGNQF4DTJ,1c554eb1-b859-4f3c-9a98-a7a8338dbeef,1566975481.0037,,UGQV9DXRC,"検証結果↠分類精度のことを指してます
+高橋さんの卒論では検証結果と示していたのですが、ここは分類精度としてしまってよろしいでしょうか？
+
+種目別の精度については現在出し方を検討中です",2019-08-27
+CGNQF4DTJ,750dabad-56bd-4cda-9f24-156d3e197183,1568615530.0002,,UGQV9DXRC,<https://twitter.com/icoxfog417/status/1173406756602441728?s=21>,2019-09-15
+CGNQF4DTJ,331ee1d1-c8ca-41ab-8808-b33a583be45b,1580979575.0005,,UGQV9DXRC,"今日の修論発表のコメントです
+<https://drive.google.com/open?id=1N6J7YaF7ekJaNBJqeUEp4hmImJvx1o4_>",2020-02-06
+CGNQF4DTJ,275756dd-eaca-422c-96fa-b3695f0fa26e,1571732535.0022,,UGQV9DXRC,"追加分のデータセット整理した
+今日はno.12までやってある
+明日16まで整理したらまとめてマトラボかける",2019-10-22
+CGNQF4DTJ,0678067c-e47a-46f3-966e-cfbfda253866,1571732561.0029,,UGQV9DXRC,そこまでできたら特徴量まとめ↠種類ごと,2019-10-22
+CGNQF4DTJ,df22278c-22af-4963-98c2-a7dc3e1c83dc,1568013523.0014,,UGQV9DXRC,,2019-09-09
+CGNQF4DTJ,1ddf6c89-2649-4a8b-a630-9da978a7b0c7,1568013881.002,,UGQV9DXRC,"100％達成につき、ネクストゴール 20万円に挑戦中！
+募集枠を拡大するために、ネクストゴールを設置させていただきました。
+最後まで応援よろしくお願いいたします！",2019-09-09
+CGNQF4DTJ,ca75620a-c66d-4e6f-a7a7-57f38af917de,1574229267.0007,,UGQV9DXRC,<https://drive.google.com/open?id=1p7ba0PQaRwHq9bSkmX0tZfrh_40au5f5>,2019-11-19
+CGNQF4DTJ,115586e1-f94f-4e87-8b99-b73070fb1c26,1574231998.0012,,UGQV9DXRC,体力医学会と同じ内容で登録しました,2019-11-19
+CGNQF4DTJ,93b40eff-2636-43fd-9d1a-c35a13871384,1574232454.0026,,UHFLB6JPR,"鈴木さん
+タイトルは少し変えてください。
+同じ内容の発表を複数でしてはいけないことになっているので。
+演者は鈴木、大河原で",2019-11-19
+CGNQF4DTJ,3cac290c-13ac-4539-980a-f706779e76e0,1574232467.0028,,UGQV9DXRC,承知しました,2019-11-19
+CGNQF4DTJ,d2f32610-99c6-401e-8f7c-98076f22fba0,1576052582.0026,,UHFLB6JPR,,2019-12-11
+CGNQF4DTJ,a8289553-078a-4cfb-8096-1b4275fedc0f,1576052683.0046,,UHFLB6JPR,"修正の記録をONにしなかったために修正箇所がわからないです。
+申し訳ない。
+タイトル変えました。
+演者に根本入れました。
+本文は確認してください。
+結論で結果の繰り返しになってしまうのはよくないので、その辺もどう修正したか確認してください。",2019-12-11
+CGNQF4DTJ,36b4c1db-1893-423f-8780-65bcdd7ccb75,1576052710.005,,UHFLB6JPR,あとは鈴木さんに任せた,2019-12-11
+CGNQF4DTJ,1ad79ba2-19ba-4253-bd43-eb319115bc89,1576052728.0056,,UGQV9DXRC,"確認ありがとうございます！
+修正、了解しました。:bow::bow:",2019-12-11
+CGNQF4DTJ,0a05c23f-82cf-4d14-825c-5e9028b182ad,1576052817.006,,UHFLB6JPR,"目的のところ、元に戻しました。
+言っといて、ごめん",2019-12-11
+CGNQF4DTJ,a4f0aadb-499b-4a13-b8be-739d614aa621,1576052877.0074,,UGQV9DXRC,"その方が目的として纏まっただろうとは思うのですが、いい書き方が思い付きませんでした、、:cold_sweat:
+ありがとうございます",2019-12-11
+CGNQF4DTJ,2f88bf16-09e3-4a28-8838-bd4987ff0a58,1576052985.0083,,UHFLB6JPR,"鈴木さんは口頭発表で登録ね
+あとは自分で判断して登録に進んでいいです",2019-12-11
+CGNQF4DTJ,26216b8b-04ad-43cc-856d-2552a8f539ac,1572769140.0118,,UGQV9DXRC,"データ数を丸める件、とりあえず1secごとで平均値を出す所からやることにした
+&gt;理由としては
+&gt;①実験時間が短く10秒にデータを丸めるとデータ数が極端に減る(特に階段：前後5秒をカットすると上りだけで5秒～多くて30秒)
+&gt;　(高橋さんの研究では10secごとが一番精度がよかったが、高橋さんのは位置活動30分くらいとってるからデータ数が違う)
+&gt;②秒単位でデータを切り貼りしてるので、1秒単位なら確実に割り切れるはずで、活動ごとの区切りも必要ない
+&gt;　(ここの区切りを自動化したかったができなかった、やるなら階段のデータだけ別に初めから分けておく方が良い)
+
+やりたい事
+・30個ずつの平均値を出し、30個分同じデータを記入
+　<https://teratail.com/questions/220712>
+
+使うコードは
+`for i in range(0,5100,30):`
+`    df = sum(ds[i:i+30]) / 3`
+`    ds['t'][i:i+30]=np.tile(df,3)`
+か
+`df['z'] = df.groupby(df.index//3)['y'].transform('mean')`
+のどちらか。
+上のコードでは ｀df = sum(ds[i:i+30]) / 3｀の部分でデータセットの中身がstr型で認識されてる？からかsumの足し算が出来ないエラーが出てるので再現できていない。
+下のコードはとりあえず再現できてるのでこっちを使う。",2019-11-03
+CGNQF4DTJ,43b50e03-ed4d-434c-a33a-e2b378f44096,1573802095.0003,1573802095.0003,UGQV9DXRC,"<https://ohkawaralab.slack.com/archives/CGNQF4DTJ/p1566558455000100>
+<https://ohkawaralab.slack.com/archives/CGNQF4DTJ/p1566615370002400>
+
+ここがやっぱり納得できてない",2019-11-14
+CGNQF4DTJ,e71a48a6-61dd-432b-bd38-b3b6142c57e0,1573803311.0049,,UGQV9DXRC,"*[課題]*  psdの計算法を理解しなおしてaccelerometry to time domainの回答をどう紐づければいいか考える
+<https://org-technology.com/posts/power-spectral-density.html>",2019-11-14
+CGNQF4DTJ,28e42685-e240-4ee2-949b-0c1bad172c3a,1585737832.0009,,UGQV9DXRC,"<@UHFLB6JPR> 
+メール確認しました。
+週末には対応させていただきます。よろしくお願い致します。:bow:",2020-04-01
+CGNQF4DTJ,cc09bb99-f9d4-4b56-a27c-a617237ccaf1,1575967140.0002,,UGQV9DXRC,"階段のデータを抜いて木を作り直した
+青：階段ぬき
+赤：階段あり",2019-12-10
+CGNQF4DTJ,1cb78415-a966-4166-9226-9a27110987fa,1575968932.0013,,UGQV9DXRC,階段を歩行に紐づけて分類したら精度どうなるのか確認して、抄録は上のデータで出す,2019-12-10
+CGNQF4DTJ,06e76fd4-cb35-41eb-9baa-a5e11d78e254,1576049630.0018,,UGQV9DXRC,<https://drive.google.com/open?id=1-RTddar9WceMmD5WwRGleInlt8AYvAio>,2019-12-10
+CGNQF4DTJ,d7b1d64d-9763-41c2-97f4-9ae1fb12217a,1567344801.0015,,UGQV9DXRC,"種目別精度の出し方を考えてみた
+&gt;予測値(pred)を出した後、
+&gt;①　test_Yとpredを合体
+&gt;②　test_Yのラベル別のデータを新規のdataframeに格納
+&gt;③　ラベル別に分けたdataframeのtest_Yにあたる列とpredにあたる列でf1_scoreを実行
+&gt;④　ラベル別の精度が得られる
+
+以上で一応ラベル別は出せるが、実際にそれで意味があるのかどうかわからなかったのでテラテイルで質問中。
+<https://teratail.com/questions/209531?modal=q-comp>
+
+*解決。classification_reportでラベル別が出せるらしい、、*
+<https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html>",2019-09-01
+CGNQF4DTJ,9e214828-38ff-4f6f-bfbf-d4ce3e880fca,1567345901.0083,1567345901.0083,UGQV9DXRC,月曜やることリスト,2019-09-01
+CGNQF4DTJ,30e12663-e2f1-440b-b32d-6d5454206e5d,1567345908.0084,1567345901.0083,UGQV9DXRC,<https://ohkawaralab.slack.com/archives/CGNQF4DTJ/p1567345025001700?thread_ts=1567155506.002700&amp;cid=CGNQF4DTJ>,2019-09-01
+CGNQF4DTJ,2c7e5045-db9e-4c2d-a309-0b8cb9476d61,1567345918.0087,1567345901.0083,UGQV9DXRC,<https://ohkawaralab.slack.com/archives/CJZ0QGKRB/p1567345830000200>,2019-09-01
+CGNQF4DTJ,db2cc9d3-0cf7-410a-9593-94e81cb98e4f,1567345937.009,1567345901.0083,UGQV9DXRC,"携帯に来てる電話　折り返し
+2件クリア
+1件未
+042441-",2019-09-01
+CGNQF4DTJ,8cbf3662-fb2a-4e6b-9caa-570a092c889b,1567347842.0094,,UGQV9DXRC,"データ書き換え済
+
+<https://ohkawaralab.slack.com/archives/CGNQF4DTJ/p1567345025001700?thread_ts=1567155506.002700&amp;cid=CGNQF4DTJ>",2019-09-01
+CGNQF4DTJ,dd996a7a-e70a-47cb-99f6-c86bc4841cdc,1567348573.0128,,UGQV9DXRC,"*日本体力医学会ポスター訂正*
+①分類項目図に仰臥位がなく、自転車があって14項目→自転車を含めない14種及び4種分析に訂正
+②表2のタイトルを分類精度(F値/%)に
+③表2の被験者番号を検証番号に
+<https://drive.google.com/open?id=1f8MYoWAeRwuDhewLgGDhxYQqxQKIjGXG>",2019-09-01
+CGNQF4DTJ,4035d5bf-58fb-4ca5-9c68-81db5ae7d480,1567393737.0002,1567345901.0083,UGQV9DXRC,合宿の部屋のキャンセルと、たっくん熱海のご飯予約,2019-09-01
+CGNQF4DTJ,e34427d4-e0eb-4080-820f-b436911a7eb0,1571819437.0008,,UGQV9DXRC,"マトラボかけ終わり
+高玉研コメントまとめ直し
+
+-テーマ
+・手段的ADLと研究テーマを連携させられないか
+<https://www.tyojyu.or.jp/net/kenkou-tyoju/kenkou-undou/jiritu.html>
+・14項目の中で従来高精度で検出できなかった部位はないか？その点を解決したという報告にできないか？
+・知ることができれば行動変容を促せるファクターとして行動を特定する
+
+-分析
+・FFT等をつかって周波数分析を行う
+・現状は大きさだけで比較、それでも分類できるかどうか波形を見る
+:heavy_check_mark:木の数を10、深さを3ほどにして、実際に理論的に分類出来ているのかどうか見る
+・すべてのデータを使うのではなく、1秒ごとに平均をとって使う
+・特徴量の追加(参考画像)
+・掃除vs掃除以外など、各活動について細かく見てみる
+　似ているものは区別できているのか？
+・どこを間違えていたのかマトリックス表を示す
+・男性か女性か、年齢などを含められないか検討する
+・x,y,zで相関係数を出し、いらないデータがないか検討
+・TS-FRESHやpandas.profileを使って　特徴量を追加、寄与度をチェックしていらないものを削減する
+・過学習していないか？",2019-10-23
+CGNQF4DTJ,c7ec5142-a6cd-4bf5-a574-ad6564b3349f,1571820635.0033,,UGQV9DXRC,"データ数が増えてきて書き換えが大変なので一気に処理したい
+<https://teratail.com/questions/15486>
+今まではわざわざ回答を紐づけ↠元ファイルから回答を分解して分類にしていたので、回答を別ファイルに作って保存しておき、特徴量の作成をpathlibでまとめてやっちゃう？",2019-10-23
+CGNQF4DTJ,d20e183c-88fd-4d6d-bc0f-65542a5eb74e,1576572474.0029,1576563619.0019,UGQV9DXRC,"論文レビュー
+本文
+<https://drive.google.com/open?id=1J6TWaDPac5fAU8PFxR9tcWuz3P1QX-sE>
+データ
+<https://drive.google.com/open?id=1VUhFHNZmfHRUwH0p2GP6rs7vansKFC-0>",2019-12-17
+CGNQF4DTJ,91487325-c6c9-4e58-9e69-05d3e537983c,1580042291.0023,,UGQV9DXRC,"特徴量の決定まで済んだ
+階段ぬきをまとめている段階
+<https://drive.google.com/open?id=17FbYrdkkOqC5rfaErp3-kFrU_mOkN7wa>",2020-01-26
+CGNQF4DTJ,7a77c521-2f14-4cb6-827d-79bb6341ab77,1565753219.0003,1565753219.0003,UGQV9DXRC,こども食堂対応,2019-08-13
+CGNQF4DTJ,006c4527-01d8-4e66-bd22-0c794a2b9bdd,1565753225.0004,1565753219.0003,UGQV9DXRC,<https://ohkawaralab.slack.com/archives/CJZ0QGKRB/p1565752654016200>,2019-08-13
+CGNQF4DTJ,f17c2a7c-492b-46ab-bada-41d8f9cac20b,1565753245.0007,1565753219.0003,UGQV9DXRC,<https://ohkawaralab.slack.com/archives/CJZ0QGKRB/p1565751506001000>,2019-08-13
+CGNQF4DTJ,af31adc9-d886-4890-93ec-7e959cd3d6d4,1580291185.0014,,UGQV9DXRC,"先行研究との比較について
+Ellisのものが4項目と8項目で実験室内、ランダムフォレストでかなり内容が近いので比較した。
+Ellisは交差検証しておらずトレーニングとテストを7:3で割りつけてやってるので精度が高く出ていると思う。私のデータでも7:3で割りつけると14分類で99%と出るので、それも書き加えれば先行研究と比較したとき条件を揃えれば同等もしくはそれ以上が見込めそうだとかけるか？",2020-01-29
+CGNQF4DTJ,238f3053-d92c-4168-8d11-d4300241a65b,1580291246.0026,,UGQV9DXRC,その上で、私の研究では将来的には構築した木によって、新しい対象者のデータの分類を行うことが目的だから、その視点で精度が上がるように頑張る、といった書き方？,2020-01-29
+CGNQF4DTJ,da413988-fe7c-4072-8745-82a35f400855,1570626935.0008,,UGQV9DXRC,"特徴量の寄与度(ds2~10)
+この0って何かわからない、行番号か？だとしたら特徴量に含まれてたらダメじゃん",2019-10-09
+CGNQF4DTJ,c9962561-402a-4635-80ad-eae2cc6509ed,1570627742.0013,,UGQV9DXRC,<http://satopoooon.hatenablog.com/entry/2017/12/19/230854>,2019-10-09
+CGNQF4DTJ,5712d4c0-2b6f-4c9e-865b-649785a67de8,1570632088.0002,,UGQV9DXRC,<https://funmatu.wordpress.com/2017/04/25/%E6%B1%BA%E5%AE%9A%E6%9C%A8%E3%81%A8%E3%81%8B%E3%82%B0%E3%83%A9%E3%83%95%E6%A7%8B%E9%80%A0%EF%BC%88dot%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%EF%BC%89%E3%82%92jupyter%E4%B8%8A%E3%81%A7%E8%A1%A8%E7%A4%BA/>,2019-10-09
+CGNQF4DTJ,0738b6f0-e0e9-43ee-8182-d9f78a1eace0,1570673385.0023,,UGQV9DXRC,"やっとわかった～～～～
+dot.exeのパスはgraphvizのソフトをそもそもDLしてないと存在しないのだ
+brewでインストールできなくてエラーが起きるから迂回してたけど、普通にサイトからインストールできる
+
+graphvizのダウンロードは以下
+<http://www.ne.jp/asahi/hishidama/home/tool/graphviz/>
+
+インストールしたらコードの中でパスを追加してあげればいける？
+<https://qiita.com/wm5775/items/1062cc1e96726b153e28>",2019-10-09
+CGNQF4DTJ,bcf72bb6-2783-4e73-b7a5-f235424f8cdd,1570678714.0038,,UGQV9DXRC,"ファイルがでかすぎて図示できない問題
+<https://qiita.com/yyano/items/e223431580b59642ca06>
+
+取り合えず4分類でやり直してもっていってみる",2019-10-09
+CGNQF4DTJ,d3407e08-9645-41e0-ac9f-f899661e73b0,1570680321.0043,,UGQV9DXRC,14分類で出てたけど見えもせんなんじゃこりゃ,2019-10-09
+CGNQF4DTJ,ab9f1e04-9b56-44df-a99a-aefb80912c51,1570680441.0046,,UGQV9DXRC,,2019-10-09
+CGNQF4DTJ,f1a39128-da30-4ad3-b6d0-11f7039b6a58,1570686991.0051,,UGQV9DXRC,"ランダムフォレストの可視化
+<https://qiita.com/yshi12/items/6d30010b353b084b3749>",2019-10-09
+CGNQF4DTJ,3b385107-1a25-4eb9-b573-ff580dd6009b,1570689007.0054,,UGQV9DXRC,"寄与度のグラフで明らかにNonameがおかしかったので、Noname抜いて構築しなおした。精度が20%ほど落ちた。
+<https://ohkawaralab.slack.com/archives/CGNQF4DTJ/p1570626935000800>",2019-10-09
+CGNQF4DTJ,7b62fc24-b46b-47e7-b3d8-48aa72ddf839,1566558455.0001,,UGQV9DXRC,"PSD計算結果
+参考(<https://docs.scipy.org/doc/scipy-1.2.1/reference/generated/scipy.signal.welch.html>)
+時間関数をフーリエ変換して出してるものだから時間領域の特徴量とやっぱり合わせられない
+時間領域の特徴量と周波数領域の特徴量をどうやって合わせて分析かけてるのかここから読み取れない
+(<https://drive.google.com/file/d/1okCRwiOPMknOI2LgzQG3pufnxhyxb5U4/view>)
+
+&gt;コード
+&gt;import pandas as pd
+&gt;import numpy as np
+&gt;from scipy import signal
+&gt;r_d=pd.read_csv('/Users/ohkawara/desktop/actigraph/2_drop/r10_d.csv', header=0)
+&gt;f,psd=signal.welch(r_d['x'])
+&gt;
+&gt;import numpy as np
+&gt;import matplotlib.pyplot as plt
+&gt;plt.xlabel(""frequency"")
+&gt;plt.ylabel(""PSD"")
+&gt;plt.plot(f,psd)",2019-08-23
+CGNQF4DTJ,ddec603a-2baf-44a6-85ea-f107a24b5626,1566615370.0024,,UGQV9DXRC,"データ数が足りないのはFFTによってスムージングがかけられたみたいなものだから？
+ということは、FFTをかけたこと=フィルタリングみたいなものと考えられるので、時間軸とも比較可能では？",2019-08-23
+CGNQF4DTJ,82d41ce2-9aea-468a-a296-2aa4c997b9ce,1566615510.0048,,UGQV9DXRC,"10個のデータが2個のデータにスムージングされたと考えると、そのデータをどう5こずつに分けるかって話で、
+それはフィルタリングやスムージングにおける始点と終点？の議論をみたらわかる",2019-08-23
+CGNQF4DTJ,6fc08b25-e5f1-485c-b59f-d71b02198443,1568119982.0007,,UGQV9DXRC,"f1_score と classification_reportだと出てくるf値のスコアが違う。
+優先順位についての記事
+
+<https://stackoverflow.com/questions/33247834/classification-report-vs-f1-score-in-scikit-learns-classification-metrics>",2019-09-10
+CGNQF4DTJ,4de455ac-d75b-46e8-84fd-e463761183fa,1568121042.0023,,UGQV9DXRC,"記事によると、
+f1_scoreの方は加重平均、classificaion_reportの方は各スコア全体の単純平均",2019-09-10
+CGNQF4DTJ,9285d1fd-bc40-4ddd-b12e-1f42ff913deb,1582260198.0012,1582260198.0012,UGQV9DXRC,"運動疫学会　投稿について
+投稿規定ページ
+<http://jaee.umin.jp/REE.html>
+<http://jaee.umin.jp/doc/kitei201909.pdf>
+ファイルUP先
+<https://drive.google.com/open?id=168QGv6AemL-CmPlUfO9sdqmrRjO01qhV>",2020-02-20
+CGNQF4DTJ,5c7551c2-49b3-4aec-810f-116b5a95ef6f,1582260518.0015,1582260198.0012,UGQV9DXRC,"タイトル決め
+抄録",2020-02-20
+CGNQF4DTJ,060ed3b8-7bf2-479e-a4d6-31fa4f1e675c,1569725031.0016,,UGQV9DXRC,"<@UHFLB6JPR>
+日本体力医学会向けの英語抄録です。
+3点ほど悩んでいるところがあり、ファイル中に記入しました。
+遅くなり申し訳ありません。ご確認よろしくお願い致します。
+<https://drive.google.com/open?id=1THWoV0ZeSF1X_Bi8OIsYR7lruVQ4sFQy>",2019-09-28
+CGNQF4DTJ,f4143b48-0c5f-4f72-a32e-d2c1b2e7e7dc,1569725299.0029,,UHFLB6JPR,明日の夕方までに修正版を送ります,2019-09-28
+CGNQF4DTJ,41102818-4495-4d3f-83f6-063c3440d691,1569725323.0033,,UGQV9DXRC,"ありがとうございます。
+お忙しい中お手数をおかけします。",2019-09-28
+CGNQF4DTJ,0be945e0-8685-4f60-95be-4c4a9996441c,1569725390.0047,,UHFLB6JPR,書きたい内容を確認したいので、下に日本語もつけておいてください,2019-09-28
+CGNQF4DTJ,5b18961b-2894-4afd-ba74-739ccce33190,1569730452.0006,,UGQV9DXRC,"更新しました。
+よろしくお願いいたします。
+<https://drive.google.com/open?id=1THWoV0ZeSF1X_Bi8OIsYR7lruVQ4sFQy>",2019-09-28
+CGNQF4DTJ,50d4deb0-4072-4f39-8344-0ef20603b896,1580833409.0009,,UGQV9DXRC,"発表資料の訂正　残し
+・ページ番号
+・先行研究のellis人数、参考文献
+<https://drive.google.com/open?id=13oqj3KpeuDmokVVhtawSHJySQlZ0swcn>",2020-02-04
+CGNQF4DTJ,7ae32b02-a61e-4dda-a142-44a2a6a4791d,1573536622.0009,,UGQV9DXRC,"最近やたらjupyternotebookkが重いなと思っていたけど、これかも？
+<http://onoz000.hatenablog.com/entry/2018/02/11/142347>",2019-11-11
+CGNQF4DTJ,b12053a1-efb2-4420-be2d-7d91d0bb49a9,1565337742.001,,UGQV9DXRC,"#データセット作り
+import pandas as pd
+import numpy as np
+from scipy import signal
+r_d=pd.read_csv('/Users/ohkawara/desktop/actigraph/2_drop/r10_d.csv', header=0)
+r_f=pd.read_csv('/Users/ohkawara/desktop/actigraph/3_filter/r10_f.csv', header=0)
+dsd=signal.welch(r_d['x'])
+dsf=signal.welch(r_f['x'])
+
+dsd",2019-08-09
+CGNQF4DTJ,4a5838b9-9228-418f-ae95-1bfdd57be42b,1571386405.0003,,UGQV9DXRC,"proxy環境下だからpipが通らない問題
+<https://qiita.com/ktknj/items/af6c0fea17adef514ba8>",2019-10-18
+CGNQF4DTJ,6b750e28-aaa8-4e90-bdbc-16d06ddd07a4,1571387285.0022,,UGQV9DXRC,"通った方法
+&gt;コマンドプロンプトにて
+&gt;set HTTPS_PROXY=<http://s1830059:Michosuzu1016@proxy.uec.ac.jp:8080>
+&gt;pip install pydotplus --proxy= <http://proxy.uec.ac.jp:8080|proxy.uec.ac.jp:8080>
+&gt;ここでアップグレードしろって言われて
+&gt;python -m pip install --upgrade pip
+&gt;できたので
+&gt;python -m pip install pydotplus
+&gt;python -m pip install graphviz",2019-10-18
+CGNQF4DTJ,b8cd7383-ee1c-4eb0-a478-c8aa5aafcf0a,1571388180.0023,,UGQV9DXRC,"木の本数10本、深さ3で出してみた。
+精度は40%くらい。",2019-10-18
+CGNQF4DTJ,7deb6370-9615-4f99-9ce6-f849f3e8c0ad,1583334112.0036,,UGQV9DXRC,"引き継ぎtodo
+①実験のデータ、分析について手順と所在をまとめる
+②今までの学会や発表のデータ整理(最新を残して、途中稿は消す)
+~③slackのオーナー権譲渡~
+④ドライブのパスワードやラボ導入時のまとめなど
+⑤住所録引継ぎ",2020-03-04
+CGNQF4DTJ,b70506e6-4fca-4f6c-9c97-824e2e9f2e2f,1583384978.0003,1582260198.0012,UGQV9DXRC,"健康支援学会タイトル：
+決定木及びランダムフォレストを用いた活動分類に関する論文レビュー",2020-03-04
+CGNQF4DTJ,29a4e258-38b2-4d67-8584-366040dc197f,1583385064.0005,1582260198.0012,UGQV9DXRC,"タイトルの検討：
+決定木及びランダムフォレストを用いた(成人)を対象とした活動分類",2020-03-04
+CGNQF4DTJ,289928a7-fa7f-4da8-ae5d-7b762343f76b,1583385228.0007,1582260198.0012,UGQV9DXRC,"PRISMA声明について
+これを採用しないとシステマティックレビューにならない？今回はメタ分析をしていないから該当しない？",2020-03-04
+CGNQF4DTJ,4be31d9a-3d7d-4cd3-978b-cab7961f2d2c,1583385356.0009,1582260198.0012,UGQV9DXRC,"明日まで：
+タイトル決め
+目的以外の所は完成させる",2020-03-04
+CGNQF4DTJ,8857d90c-fc45-4425-9436-2e11ca91e489,1568292325.001,,UGQV9DXRC,"データの記入ミスが見つかって、一人分のデータが全体的にずれ込んでることがわかった、、、
+今までの結果はいまいち信用できない感じになってしまいましたorz",2019-09-12
+CGNQF4DTJ,c8d00148-bc5f-46c2-bad4-095593a351d7,1568292352.0014,,UGQV9DXRC,ds10に関して範囲削除～やり直し、明日,2019-09-12
+CGNQF4DTJ,d0b579aa-6915-482c-b1e2-6ffeb68ce6c9,1568292465.0029,,UGQV9DXRC,"明日のゼミでは、平均の扱いを確認したい
+単純平均or加重平均",2019-09-12
+CGNQF4DTJ,af92cf38-04cd-4442-9154-4e37aa422c86,1568292501.0036,,UGQV9DXRC,全体の平均については加重で議論し、活動別は単純平均で議論すればよさそう,2019-09-12
+CGNQF4DTJ,e5ff276e-6bef-41d5-aa26-3c62380598b0,1568292555.0043,,UGQV9DXRC,ただ、dsごとに加重平均が出てるので、そこは10人分の単純平均で大丈夫か？,2019-09-12
+CGNQF4DTJ,70c3b23e-983d-4ca0-9ed2-142a5f347b34,1568346700.005,,UGQV9DXRC,,2019-09-12
+CGNQF4DTJ,2ca03672-53c4-432d-99a6-deac8281ffe0,1574481566.0001,,UGQV9DXRC,高玉研へ質問の返答,2019-11-22
+CGNQF4DTJ,282bc2a1-6bbb-48a4-8e6c-a9681fff13e0,1574492552.0003,,UGQV9DXRC,<http://www.fbs.osaka-u.ac.jp/labs/ishijima/FFT-02.html>,2019-11-22
+CGNQF4DTJ,fcf7663d-b822-4e09-b71d-a04393992218,1565266957.0002,,UGQV9DXRC,<https://drive.google.com/open?id=1nK_vmpmB65OwkHGenDtYycKScheHi_Tp>,2019-08-08
+CGNQF4DTJ,973f4422-8704-44dd-b0c2-91c73e48a76c,1569830006.0089,,UGQV9DXRC,コメント,2019-09-30
+CGNQF4DTJ,00e0466b-8651-4364-8982-7bdf6a3c72cd,1569830811.0122,,UHFLB6JPR,"提案の文章↑でいいので、タイトルからキーワードまで含めた英語だけの資料をPDFで送って
+最終確認します",2019-09-30
+CGNQF4DTJ,2b63386c-8f74-4017-9304-40f912247d31,1569832224.0134,,UGQV9DXRC,"Word
+<https://drive.google.com/open?id=1THWoV0ZeSF1X_Bi8OIsYR7lruVQ4sFQy>",2019-09-30
+CGNQF4DTJ,e276be34-912c-4a57-9d62-8118a510ec4d,1569832229.0139,,UGQV9DXRC,,2019-09-30
+CGNQF4DTJ,e716088c-0e9a-4503-ad3c-ee6f5057d61f,1569833691.0169,,UHFLB6JPR,"表現的に微妙なところがいくつかあるけど、ネイティブチェックに任せるレベルなので、今回はこれを提出版としましょう
+登録、よろしく",2019-09-30
+CGNQF4DTJ,c6700f20-0b5e-4536-a0d4-c62b99aa6e7c,1569834467.0175,,UGQV9DXRC,"提出しました。
+遅くなり申し訳ありません。
+対応いただきありがとうございました:man-bowing:",2019-09-30
+CGNQF4DTJ,7fc747f0-b526-4c29-8e48-bcf80c96ba97,1573545613.0011,,UGQV9DXRC,1sでデータ丸め込みと16人分で分析,2019-11-12
+CGNQF4DTJ,5a1342e0-84e1-49da-b1b4-c166b030ac21,1573545665.0029,,UGQV9DXRC,"14項目で深さ4だと
+     f1_score
+ds1   0.501092
+ds2   0.487701
+ds3   0.475294
+ds4   0.368542
+ds5   0.465917
+ds6   0.444636
+ds7   0.478537
+ds8     0.5166
+ds9   0.501472
+ds10  0.384378
+ds11  0.367043
+ds12  0.268679
+ds13  0.513637
+ds14  0.473749
+ds15  0.472021
+ds16  0.419359",2019-11-12
+CGNQF4DTJ,e83a68bf-c6f1-4ae7-9179-96290acdfef2,1573545718.0036,,UGQV9DXRC,"4項目で深さ4だと
+     f1_score
+ds1   0.935004
+ds2   0.938065
+ds3   0.952902
+ds4   0.839031
+ds5   0.921691
+ds6   0.774069
+ds7   0.914828
+ds8   0.932245
+ds9   0.943582
+ds10  0.942541
+ds11  0.844344
+ds12  0.939477
+ds13  0.904558
+ds14  0.941176
+ds15  0.929991
+ds16  0.912097",2019-11-12
+CGNQF4DTJ,f45b2ab8-35a6-4151-adb0-cdc1458853e7,1573546077.0041,,UHFLB6JPR,オモシロイ,2019-11-12
+CGNQF4DTJ,641aa0dc-f7a2-4956-ba19-f14e9b27f475,1569756512.0003,,UGQV9DXRC,更新,2019-09-29
+CGNQF4DTJ,d47c6dab-339b-4ce2-b6fd-7df4f1e1a1bd,1569807055.0006,,UHFLB6JPR,,2019-09-29
+CGNQF4DTJ,51e91bbc-1fa5-4df5-8798-4b5c870ba72c,1569824648.0084,,UGQV9DXRC,"<@UHFLB6JPR>
+黄色の部分ですが、
+Random Forest was developped using features of the acceleration signal.
+The accuracy was evaluated by F1 score using cross-validation.
+としてみました。
+一分目については加速度値から特徴量を抽出して分類した。という書き方が論文にはありました。
+Acceleration signal was processed to extract features in the time domain.",2019-09-29
+CGNQF4DTJ,358c1830-a932-4cec-a1c0-3b89c4997a28,1572337688.0015,,UGQV9DXRC,"移動平均
+<https://techacademy.jp/magazine/19435>",2019-10-29
+CGNQF4DTJ,8d6813e7-15c0-479d-a5cb-c5d8c6cf8dcd,1572339599.0018,,UGQV9DXRC,<https://deepage.net/features/pandas-mean.html>,2019-10-29
+CGNQF4DTJ,faecc5f3-6091-47e1-9a84-8c702d7fa1fe,1580731805.0004,,UGQV9DXRC,<https://ohke.hateblo.jp/entry/2017/08/04/230000>,2020-02-03
+CGNQF4DTJ,f9d109a9-f213-478f-9d63-bf45ad2a3742,1566832207.0003,,UGQV9DXRC,<https://drive.google.com/open?id=1YaYWWCK9pQUKcE16tvBoSKNvOLNzZ0dJ>,2019-08-26
+CGNQF4DTJ,6c9e65de-700b-4e60-8442-7eabee611dbc,1571988671.0004,,UGQV9DXRC,"何かの参考になるかも
+繰り返し文の導入について
+<https://ja.stackoverflow.com/questions/46614/pandas%E3%81%AE%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97%E6%96%87%E3%81%A7%E3%81%AE%E4%BB%A3%E5%85%A5%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6>",2019-10-25
+CGNQF4DTJ,971ce60f-f11b-4211-a65f-04569b5a46b5,1574742620.0009,,UGQV9DXRC,"1124中理さん相談
+
+<https://www.evernote.com/shard/s223/sh/13f4c648-4137-4242-a807-9eec90d7ca8a/a9cdfc668b05aac68c3a4740d202e7e0>",2019-11-25
+CGNQF4DTJ,ad55d81e-ce4a-4246-be4d-28ac15e6c6e7,1574745702.001,,UGQV9DXRC,"30Hz(青)と1Hz(オレンジ)のデータ
+分散は
+x：0.111959944、xm：0.098527813",2019-11-25
+CGNQF4DTJ,c04e4880-4c7e-4c12-a502-2c4851475cd5,1574754404.0047,,UGQV9DXRC,"F値平均
+30Hz : 0.438491063
+1Hz : 0.4799935
+30Hz + 1Hz : 0.49277375
+(時間列を抜いて再計算)",2019-11-25
+CGNQF4DTJ,8145e058-d59f-4622-9d7d-04d3d6e2e97f,1564998257.0002,1564585953.005,UGQV9DXRC,<https://univ-study.net/spectrum-and-fourie-transform/>,2019-08-05
+CGNQF4DTJ,9d4510fe-639a-4bcf-a4bb-3af517b77ba5,1567961034.0005,1567961034.0005,UGQV9DXRC,すること,2019-09-08
+CGNQF4DTJ,19ea70a1-3616-494a-a7d9-a32005503fe8,1567961041.0006,1567961034.0005,UGQV9DXRC,インターン返信,2019-09-08
+CGNQF4DTJ,5ea45dde-aac9-4fc9-8321-2cbe6884c9f2,1567961043.0008,1567961034.0005,UGQV9DXRC,内定辞退,2019-09-08
+CGNQF4DTJ,4780db82-659a-4e18-a5c7-abf2102e6176,1567961056.001,1567961034.0005,UGQV9DXRC,"
+こども食堂スケジュールについて",2019-09-08
+CGNQF4DTJ,94a16e3b-3a5f-48ef-a1ee-9f8f9f6eedca,1567961086.0012,1567961034.0005,UGQV9DXRC,かくしょうじの追加分をリストに加える,2019-09-08
+CGNQF4DTJ,7e8e94fe-8556-4bac-afbd-326e74228ec5,1567961105.0014,1567961034.0005,UGQV9DXRC,"中原さんに参加メンバーの
+名前、学年、同伴人数
+を送付",2019-09-08
+CGNQF4DTJ,fd4885b6-3b33-472a-aefe-f31a35c90679,1567961328.0016,1567961034.0005,UGQV9DXRC,こども食堂、キャンセル待ち電話連絡の人,2019-09-08
+CGNQF4DTJ,e66acc37-a292-40e3-b850-890fecad6e3d,1567961589.0041,,UGQV9DXRC,"詳録構成
+
+背景　倫理申請書、レビュー論文
+目的と手法　倫理申請書、学会詳録
+結果　学会+種目別
+結論
+
+分析でやること　種目別精度を出す",2019-09-08
+CGNQF4DTJ,adc2bb8a-faee-46c9-9a03-ebef436ae4e7,1568001972.0001,1567961034.0005,UGQV9DXRC,ファンディング追加ゴール,2019-09-08
+CGNQF4DTJ,bb31970a-1bd7-4bcf-a414-1921d2efe678,1572617972.0001,,UGQV9DXRC,,2019-11-01
+CGNQF4DTJ,f8e8b98c-1428-4870-afcb-d2d4012e8d2d,1579156428.0004,,UGQV9DXRC,"深さの選定(4,10,15,20,30)
+14種：15がマックス、心拍抜き全体で60.6",2020-01-15
+CGNQF4DTJ,097f2692-04bb-444e-928d-98ac7b0aec60,1569299922.0001,,UGQV9DXRC,卒研中間報告メモ,2019-09-23
+CGNQF4DTJ,6f1448d6-657b-4395-ba9b-b16aee0346ce,1569299971.0002,,UGQV9DXRC,,2019-09-23
+CGNQF4DTJ,aae21557-9fb4-4465-b925-b1a2ca1848a7,1584077734.0009,,UGQV9DXRC,"引継ぎ資料まとめ
+<https://www.evernote.com/shard/s223/sh/cf82c4a5-a07b-fe2b-27a3-7f25a00bd6ad/5b702b2048d6cf0f735527ff6f339caf>",2020-03-12
+CGNQF4DTJ,44bed93b-df87-466d-80b5-bdfcaf22947f,1566747064.0004,,UGQV9DXRC,<https://stackoverflow.com/questions/30418391/what-is-frequency-domain-entropy-in-fft-result-and-how-to-calculate-it>,2019-08-25
+CGNQF4DTJ,8235b79b-411e-4fda-a789-f8ee8c152960,1566748602.0007,,UGQV9DXRC,<https://drive.google.com/open?id=1BGt-9RwpBmt3G8G8yCCzpjR0bh2YOM0m>,2019-08-25
+CGNQF4DTJ,0f9fd6ee-a462-49ef-9664-e265f9e71219,1567155506.0027,1567155506.0027,UGQV9DXRC,"8/30まで
+・nanの修正はできた(ds6だけチャリが入ってるから)
+・次のエラー：Unknown label type: 'continuous'
+　<https://teratail.com/questions/108034>
+　ラベルは整数である必要がある為、分類できないことがわかった
+　↠ラベルは整数にする or ClassifierではなくRegressorにする
+Regressor <https://www.sejuku.net/blog/64374>",2019-08-30
+CGNQF4DTJ,07409dbe-5951-40e0-af24-ec5d531ce7c6,1576820836.0013,,UGQV9DXRC,"<@UHFLB6JPR>
+100本くらい増えてます～
+一応ざっと目を通してみます",2019-12-19
+CGNQF4DTJ,0ef6ba00-ea5c-45dd-b249-2295b8980065,1576820900.0023,,UHFLB6JPR,ピックアップ必要なのは3本くらいだと思います,2019-12-19
+CGNQF4DTJ,9cb1611c-bef1-4247-baab-5c7df05c4003,1568705440.0013,,UGQV9DXRC,"<@UHFLB6JPR>
+修論中間報告会　抄録2版目
+<https://drive.google.com/open?id=1Jbfk8MMM8ES1Z4NSgLEyDYNHDgZKwJR->",2019-09-17
+CGNQF4DTJ,40f29ad6-6d9e-4661-b77d-8d1980265991,1568705464.0022,,UGQV9DXRC,若干はみ出てるので訂正の余地ありですが、いったん確認お願いいたします:man-bowing:,2019-09-17
+CGNQF4DTJ,cab37965-162c-44de-ab10-46886b5f1965,1569313648.002,,UGQV9DXRC,"<@UHFLB6JPR>
+抄録更新しました
+<https://drive.google.com/open?id=1hU6ZfObGqgU4gRgZxETOL9IotFntxmQG>
+
+行動変容の件、以前もいただいたご指摘でした。申し訳ありません:man-bowing:",2019-09-24
+CGNQF4DTJ,88ceb22c-b224-4648-90b5-0f84cf431ae9,1569370797.0001,,UGQV9DXRC,"Regression calibration method for correcting measurement-error bias in nutritional epidemiology. - PubMed - NCBI
+<https://www.ncbi.nlm.nih.gov/pubmed/9094918/>",2019-09-24
+CGNQF4DTJ,d928e5f6-fe90-42bb-be09-42bebdb6d77d,1569372103.0008,,UHFLB6JPR,中間のスライドを送れる？,2019-09-24
+CGNQF4DTJ,0935e525-5048-4a17-9bf8-57b72cdd933d,1569372146.0017,,UHFLB6JPR,今日の夕方に一度発表練習できれば,2019-09-24
+CGNQF4DTJ,995b152c-8804-493c-abb9-e25ba6f2969d,1569372855.0041,,UGQV9DXRC,何時頃でしょうか？,2019-09-24
+CGNQF4DTJ,6168364c-160b-41e9-8607-2c6b75d9863d,1569373251.0082,,UGQV9DXRC,"明日の午前でもよいでしょうか、
+それまでには完成できると思います",2019-09-24
+CGNQF4DTJ,2801563f-9cf2-442f-92ce-34cc9d68be0d,1569373578.0085,,UHFLB6JPR,10時は？,2019-09-24
+CGNQF4DTJ,631eae6b-562a-4f51-b475-755b7d81afc4,1569373599.009,,UGQV9DXRC,大丈夫です、よろしくお願いします,2019-09-24
+CGNQF4DTJ,7dd9d735-b488-4aaa-b9a5-09115b0622c8,1569373628.0095,,UHFLB6JPR,英語の抄録も,2019-09-24
+CGNQF4DTJ,383a5bdb-f243-49e5-a84a-41cdde9682b0,1569377294.0101,,UGQV9DXRC,"But how many people died? Health outcomes in perspective | Cleveland Clinic Journal of Medicine
+<https://www.mdedge.com/ccjm/article/97265/cardiology/how-many-people-died-health-outcomes-perspective>",2019-09-24
+CGNQF4DTJ,8fd08369-909b-4268-ac8d-ebd3370897a4,1575446884.0012,,UGQV9DXRC,"*解決済*
+~tupleのブランク判定が色々試したができてない、一応質問投げてみた~
+&lt;https://teratail.com/questions/227331?modal=q-comp&gt;
+これが出来ればpsdのピーク代入できる",2019-12-04
+CGNQF4DTJ,492d316c-cf35-49f8-b6ef-2358a12ec280,1578814900.0044,,UGQV9DXRC,"*心拍の置き換えについての検討*
+<https://www.evernote.com/shard/s223/sh/94d18931-5868-40fc-b9b1-9b316bfefa32/41e4b4c2e3f3182dca97c57172042b25>
+結果
+心拍と心拍の変化量(現時点での心拍/5秒前の心拍)を入れてみた所、心拍の影響はあまりでなかった。(詳細はノート)
+中身を見ると歩行系と座位立位の区分けはできているようで、階段が歩行に多く間違えて分類されていることが分かった。",2020-01-11
+CGNQF4DTJ,614e3519-fd32-442b-9216-a4855204be12,1578815121.0053,,UGQV9DXRC,一旦ここで区切り、結果をまとめる。まとめ終わって時間に余裕があれば追分析する感じに。,2020-01-11

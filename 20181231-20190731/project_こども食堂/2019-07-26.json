@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "744e1682-4304-4766-bcce-26bc9b1213d2",
+        "type": "message",
+        "text": "一旦現状のトップページのプレビューを共有させていただきます。\n<https:\/\/faavo.jp\/preview\/tempPreview?preview_key=0c3c096d9fa481acf382f48e5b6c17bbdbbec0d335a15d832c7a49a9f378628f>",
+        "user": "UGQV9DXRC",
+        "ts": "1564127031.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5aa75f9d-6586-4aea-87f0-e0be044ef78d",
+        "type": "message",
+        "text": "竹中様には水曜日にご連絡させていただいたのですが、まだ返信いただいていない状態です。\n(メーリスにCCつけたつもりがミスってました、すみません:man-bowing:)",
+        "user": "UGQV9DXRC",
+        "ts": "1564127080.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "66f84946-4355-4cfb-b964-4f64a5b35c97",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n今後公開に向けて、スポルアップ様と佐藤先生に掲載写真の確認をしていただきたいです:man-bowing:",
+        "user": "UGQV9DXRC",
+        "ts": "1564127208.002500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1564127488.000000"
+        }
+    }
+]

@@ -1,0 +1,367 @@
+[
+    {
+        "client_msg_id": "17E61EB8-D204-4801-A15F-6028AD802177",
+        "type": "message",
+        "text": "金曜日のゼミで話しましょう\n明日はなし",
+        "user": "UHFLB6JPR",
+        "ts": "1558508521.006500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558489730.004500",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "0e2139d6-bf3d-44bd-9605-0c0603f36d30",
+        "type": "message",
+        "text": "お願いします!",
+        "user": "UHC5VBV5E",
+        "ts": "1558510494.006700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558489730.004500",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "0ae5c8fb-2cd1-4e04-a7a9-f1b23b27a12d",
+        "type": "message",
+        "text": "申し訳ないです、よろしくお願いします:bow:",
+        "user": "UGQV9DXRC",
+        "ts": "1558511416.006900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558489730.004500",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "20C3C24E-4DFF-4606-8954-6CD53D385D0E",
+        "type": "message",
+        "text": "岡田、駅伝の参加費払った？",
+        "user": "UHFLB6JPR",
+        "ts": "1558514542.007600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558514542.007600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1558516349.008700",
+        "reply_users": [
+            "UGPH97FDW",
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UGPH97FDW",
+                "ts": "1558516273.007700"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1558516349.008700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ab6f0de4-5645-4399-9598-1787a6887417",
+        "type": "message",
+        "text": "参加費用は集めて望月に渡し、本日のお昼に森倉さんが回収にいらしたのでお渡ししたと聞いています。",
+        "user": "UGPH97FDW",
+        "ts": "1558516273.007700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGPH97FDW",
+            "ts": "1558516296.000000"
+        },
+        "thread_ts": "1558514542.007600",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "B7D75C6F-321D-4EDF-B441-85410368D4A3",
+        "type": "message",
+        "text": "ありがとう\n大河原の分は後で払うから",
+        "user": "UHFLB6JPR",
+        "ts": "1558516349.008700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558514542.007600",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "4E23BD18-6410-4C7E-B6C8-DD209DDFF870",
+        "type": "message",
+        "text": "本学倫理申請を通すのに、1か月半はかかります。担当者が変わったため、迅速対応はあまり見込めないかも。自分の実験開始時期(対象者募集期間から）から逆算して、遅れないように準備してください",
+        "user": "UHFLB6JPR",
+        "ts": "1558516562.013700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "FF8EFB6A-4D9B-4DE9-802C-A5B65A0CBC82",
+        "type": "message",
+        "text": "了解です。よろしくお願いします。",
+        "user": "UHEH8KZ7W",
+        "ts": "1558518878.014100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558489730.004500",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "39FF2C52-66DF-43BA-A242-FA759843FCED",
+        "type": "message",
+        "text": "岡田、明日10時に資料持って来れる？",
+        "user": "UHFLB6JPR",
+        "ts": "1558526015.015400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4d3477fb-5634-4c29-afdf-f994e1c14dfb",
+        "type": "message",
+        "text": "可能です",
+        "user": "UGPH97FDW",
+        "ts": "1558526058.015600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "傘立て届きました\n水が漏れそうなタイプだったので、外に置きましたが大丈夫でしょうか？",
+        "files": [
+            {
+                "id": "FJZS7759C",
+                "created": 1558577607,
+                "timestamp": 1558577607,
+                "name": "IMG_20190523_111018.jpg",
+                "title": "無題",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 165952,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJZS7759C\/img_20190523_111018.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJZS7759C\/download\/img_20190523_111018.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJZS7759C-79a9b8fde9\/img_20190523_111018_64.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJZS7759C-79a9b8fde9\/img_20190523_111018_80.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJZS7759C-79a9b8fde9\/img_20190523_111018_360.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJZS7759C-79a9b8fde9\/img_20190523_111018_480.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJZS7759C-79a9b8fde9\/img_20190523_111018_160.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJZS7759C-79a9b8fde9\/img_20190523_111018_720.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJZS7759C-79a9b8fde9\/img_20190523_111018_800.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1422,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJZS7759C-79a9b8fde9\/img_20190523_111018_960.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJZS7759C-79a9b8fde9\/img_20190523_111018_1024.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 6,
+                "original_w": 3264,
+                "original_h": 1836,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FJZS7759C\/img_20190523_111018.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJZS7759C-3f351dc88f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1558577607.000700",
+        "client_msg_id": "9d2cf9b3-f31b-4921-b84e-db4ac0bb0032"
+    },
+    {
+        "client_msg_id": "3CFFF038-0A12-401F-8183-4E92217776CD",
+        "type": "message",
+        "text": "それうちじゃない",
+        "user": "UHFLB6JPR",
+        "ts": "1558577652.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5835b5b9-daf2-458c-a7ad-d8df3e9deda5",
+        "type": "message",
+        "text": "用事や体調不良等で欠席する際は，スケジュールに書くようにしましょう(先日私は自分のプロジェクトに書きましたが，scheduleのほうがみんなで共有しやすいと思います)",
+        "user": "UGQ2ENZD0",
+        "ts": "1558594438.002700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHG1M1NQ6",
+                    "UHC5VBV5E"
+                ],
+                "count": 2
+            },
+            {
+                "name": "custom_ryokai",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

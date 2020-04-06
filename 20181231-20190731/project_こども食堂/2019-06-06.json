@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "かくしょうじのこども食堂の担当表を作成しました。\nボランティア部は来週話し合いが出来ると思います",
+        "files": [
+            {
+                "id": "FK5L60RPT",
+                "created": 1559871202,
+                "timestamp": 1559871202,
+                "name": "かくしょうじこども食堂.xlsx",
+                "title": "かくしょうじこども食堂.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 9548,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK5L60RPT\/_________________________________.xlsx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK5L60RPT\/download\/_________________________________.xlsx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FK5L60RPT-5ce3f2840b\/__________________________________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FK5L60RPT-5ce3f2840b\/__________________________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FK5L60RPT\/_________________________________.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FK5L60RPT-027889bf1e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1559871203.000100",
+        "client_msg_id": "658cfa17-5b99-4cac-8c07-08d8c7ed57f5"
+    }
+]

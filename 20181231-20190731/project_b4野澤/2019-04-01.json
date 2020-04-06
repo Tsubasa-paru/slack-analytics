@@ -1,0 +1,103 @@
+[
+    {
+        "type": "message",
+        "text": "学部のときの卒論です",
+        "files": [
+            {
+                "id": "FHKGX5DFH",
+                "created": 1554175409,
+                "timestamp": 1554175409,
+                "name": "卒論提出版_okada.pdf",
+                "title": "卒論提出版_okada.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGPH97FDW",
+                "editable": false,
+                "size": 3132942,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHKGX5DFH\/________________okada.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHKGX5DFH\/download\/________________okada.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHKGX5DFH-b6363ee457\/________________okada_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGPH97FDW\/FHKGX5DFH\/________________okada.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHKGX5DFH-135bb5a7db",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGPH97FDW",
+        "display_as_bot": false,
+        "ts": "1554175410.001100",
+        "client_msg_id": "52f564f8-9cd0-47c8-9fd1-5dccbe1ca084"
+    },
+    {
+        "type": "message",
+        "text": "星野さんの修論です。",
+        "files": [
+            {
+                "id": "FHJQS5VV3",
+                "created": 1554176265,
+                "timestamp": 1554176265,
+                "name": "平成29年度修士論文提出版_1630111_星野秀彰.pdf",
+                "title": "平成29年度修士論文提出版_1630111_星野秀彰.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGPH97FDW",
+                "editable": false,
+                "size": 2925742,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHJQS5VV3\/______29____________________________1630111_____________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHJQS5VV3\/download\/______29____________________________1630111_____________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHJQS5VV3-ea9a987a46\/______29____________________________1630111______________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGPH97FDW\/FHJQS5VV3\/______29____________________________1630111_____________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHJQS5VV3-dd0a5332f1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGPH97FDW",
+        "display_as_bot": false,
+        "ts": "1554176265.001400",
+        "client_msg_id": "74b66958-bba0-4827-b075-a697af5f111f"
+    },
+    {
+        "client_msg_id": "a870eb38-7e54-44bd-b774-6de742fd21f5",
+        "type": "message",
+        "text": "1週間後の学生ゼミまでに僕か星野さんの卒論を5分くらいで紹介できるようにパワポにまとめてください。\n背景、目的、手法、結果の4項目で大丈夫です。\nとりあえず読んでみようということなので、手法の細かい中身や値の理解までは無理にしなくても大丈夫です。",
+        "user": "UGPH97FDW",
+        "ts": "1554183911.005300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

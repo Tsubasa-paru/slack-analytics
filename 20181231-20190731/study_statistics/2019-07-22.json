@@ -1,0 +1,53 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : 統計課題の提出.",
+        "user": "USLACKBOT",
+        "ts": "1563840007.000100",
+        "team": "TGNPXK07J"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FLNJM4H4G",
+                "created": 1563845930,
+                "timestamp": 1563845930,
+                "name": "ex3-9.xlsx",
+                "title": "ex3-9.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 12805,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLNJM4H4G\/ex3-9.xlsx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLNJM4H4G\/download\/ex3-9.xlsx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLNJM4H4G-fbd22acecc\/ex3-9_converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLNJM4H4G-fbd22acecc\/ex3-9_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FLNJM4H4G\/ex3-9.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FLNJM4H4G-bd2624de05",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHG1M1NQ6",
+        "display_as_bot": false,
+        "ts": "1563845931.000100",
+        "client_msg_id": "b2e4985c-1689-4326-a549-d75c57878fea",
+        "thread_ts": "1563250868.005500",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

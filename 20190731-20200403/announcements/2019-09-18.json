@@ -1,0 +1,307 @@
+[
+    {
+        "client_msg_id": "A51DF2AA-FF04-45A3-BCD5-B205922D9C09",
+        "type": "message",
+        "text": "<@UHG1M1NQ6> <@UHEH8KZ7W> <@UHFLC6N4X> <@UHC5VBV5E> \n抄録は大河原が修正したものを確認し、修正すべきところは修正して、再提出してください。再提出が問題なければ、その連絡をするので、登録するという流れです。ただし、ok出る前に念のため登録しておくのはありです。期限までは再投稿できるので。",
+        "user": "UHFLB6JPR",
+        "ts": "1568810425.005700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "FDD97E02-A507-4B5F-A38E-497AA5DDD4DA",
+        "type": "message",
+        "text": "<@UHG1M1NQ6> <@UHEH8KZ7W> <@UHFLC6N4X> <@UHC5VBV5E> \n発表のスライド作り、発表の台本とプレゼン練習は全員甘くみないでください。\n初めてなので一回でokのレベルに達することはあまり考えられません。\nしっかりと準備の為の時間を確保してください。",
+        "user": "UHFLB6JPR",
+        "ts": "1568810665.010600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FNAT8AX7B",
+                "created": 1568846536,
+                "timestamp": 1568846536,
+                "name": "2019抄録福田KO.docx",
+                "title": "2019抄録福田KO.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 511339,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNAT8AX7B\/2019____________ko.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNAT8AX7B\/download\/2019____________ko.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNAT8AX7B-ed4b138097\/2019____________ko_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNAT8AX7B-ed4b138097\/2019____________ko_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FNAT8AX7B\/2019____________ko.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FNAT8AX7B-1a28729be1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1568846539.000100",
+        "client_msg_id": "9d646010-f796-4a04-b1a4-aaea793a938a"
+    },
+    {
+        "client_msg_id": "1b8a11c6-185c-44d6-b3c4-1426255fd332",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> 確認、修正をお願いします。黄色の部分は追加情報を",
+        "user": "UHFLB6JPR",
+        "ts": "1568846587.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568846587.001100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1568853925.000300",
+        "reply_users": [
+            "UHEH8KZ7W"
+        ],
+        "replies": [
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1568853925.000300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0f0759d4-f07e-4de2-bd68-ef3b85db47ec",
+        "type": "message",
+        "text": "\n全員に対してのコメント\nJ科で発表方法は数年間変化していないので、形式も同様に変わっていません。\n先輩たちのスライドを参考にすることでイメージがわきます。",
+        "user": "UHFLB6JPR",
+        "ts": "1568846848.002700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHFLB6JPR",
+            "ts": "1568851487.000000"
+        }
+    },
+    {
+        "client_msg_id": "6D79AF32-8AF8-4B30-B68A-5A70FAD35878",
+        "type": "message",
+        "text": "承知しました。",
+        "user": "UHEH8KZ7W",
+        "ts": "1568853925.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568846587.001100",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "a1e2053d-7905-4c77-ae6d-166f462606f6",
+        "type": "message",
+        "text": "一応先程のver3で中間発表資料にアップロードしました。",
+        "user": "UHEH8KZ7W",
+        "ts": "1568864399.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A622FAF7-A7FD-444A-9AF9-914A64FAC45D",
+        "type": "message",
+        "text": "<@UHEH8KZ7W> <@UHC5VBV5E> \n抄録をpdfにして送って",
+        "user": "UHFLB6JPR",
+        "ts": "1568871478.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8BF75380-F31D-429E-B349-8038B44FA97E",
+        "type": "message",
+        "text": "↑福田、根本",
+        "user": "UHFLB6JPR",
+        "ts": "1568871498.001800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "承知しました。こちらになります。",
+        "files": [
+            {
+                "id": "FNKR0J6LW",
+                "created": 1568875432,
+                "timestamp": 1568875432,
+                "name": "卒論中間報告会_福田.pdf",
+                "title": "卒論中間報告会_福田.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 717914,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNKR0J6LW\/____________________________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FNKR0J6LW\/download\/____________________________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FNKR0J6LW-733b4552ac\/_____________________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FNKR0J6LW\/____________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FNKR0J6LW-63db5a82c7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1568875434.002000",
+        "client_msg_id": "5c00d661-32ca-4250-9798-269227d7371f",
+        "thread_ts": "1568875434.002000",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1568879898.013500",
+        "reply_users": [
+            "UHFLB6JPR",
+            "UHEH8KZ7W",
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1568877796.006800"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1568878376.009700"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1568878572.011800"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1568878600.012600"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1568879833.012800"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1568879898.013500"
+            }
+        ],
+        "subscribed": false
+    }
+]

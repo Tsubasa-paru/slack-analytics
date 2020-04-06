@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "89d9528f-a507-4f98-96aa-020beaae27fc",
+        "type": "message",
+        "text": "今日は\n&gt;授業\n&gt;健康診断完了\n&gt;業者との見積もり参加\n&gt;pythonでの反復測定の二元配置分散分析\n明日は\n&gt;結果出してまとめる。",
+        "user": "UGPH97FDW",
+        "ts": "1555495586.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "648ae599-2af8-453c-9cf4-960fac7adfc4",
+        "type": "message",
+        "text": "今日は\n&gt;午前は甥\n&gt;午後は講義うけて\n&gt;python上での機械学習の評価についてやった\n明日は不在です",
+        "user": "UGQV9DXRC",
+        "ts": "1555500713.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

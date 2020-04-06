@@ -1,0 +1,175 @@
+[
+    {
+        "client_msg_id": "372950b5-1a67-4ef1-9e5c-a8528da4b500",
+        "type": "message",
+        "text": "この資料では議論できないから議論できるような資料に修正してください\nどうしたらいいかわからないようであれば、院生に相談してください",
+        "user": "UHFLB6JPR",
+        "ts": "1559035059.002900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "62582d58-7656-4b2c-8eea-77bcfec827bd",
+        "type": "message",
+        "text": "確認できておらず申し訳ないです:bow:\n岡田くんからもアドバイスがあったと思いますが、私からも少し\nわからなかったら聞いてください",
+        "user": "UGQV9DXRC",
+        "ts": "1559037023.019400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559037023.019400",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1559037185.019900",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1559037038.019500"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1559037053.019700"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1559037185.019900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4db515a0-ca8b-4b7b-998b-e00b079d77d4",
+        "type": "message",
+        "text": "①論文を探すことになった背景を始めに追加\n&gt;　星野さん、岡田くんの研究を踏まえて、今まではデータ内部に時間をかけてきたが成果が出づらい部分があったこと\n&gt;　成果重視で研究を進める為に、データ自体ではなく学習器に着目して、より良い精度で分析できる学習器を探していきたいと考えている",
+        "user": "UGQV9DXRC",
+        "ts": "1559037038.019500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559037023.019400",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "876ccbb8-46eb-4d51-b01f-2a1dfc4ab1aa",
+        "type": "message",
+        "text": "②学習器についての説明を図などで追加\n&gt;　肝心なアンサンブル学習とは何か、それ以外の学習はどう使ったのかをざっくりでもわかるようにしたほうが良い(論文中にアルゴリズムの図解がある)\n&gt;　それぞれを細かく説明するのではなく、様々な手法があるということが視覚的に伝われば良い(先生は専門家ではないので)",
+        "user": "UGQV9DXRC",
+        "ts": "1559037053.019700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559037023.019400",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "f9e6831c-f6d8-4ddd-aeb2-ad641cf41d87",
+        "type": "message",
+        "text": "③結果を明確に、表も加える\n&gt;　discussionによれば、高精度だった学習器はWMVfusionとrandomforestのどちらかだと言う話だったはず\n&gt;結果の表やグラフを載せておかないと議論のネタがなくなる",
+        "user": "UGQV9DXRC",
+        "ts": "1559037185.019900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559037023.019400",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "type": "message",
+        "text": "訂正版",
+        "files": [
+            {
+                "id": "FK3NX96LF",
+                "created": 1559051197,
+                "timestamp": 1559051197,
+                "name": "0529MTG.pdf",
+                "title": "0529MTG.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHFLC6N4X",
+                "editable": false,
+                "size": 394948,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK3NX96LF\/0529mtg.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK3NX96LF\/download\/0529mtg.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FK3NX96LF-67aa6c0c4e\/0529mtg_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLC6N4X\/FK3NX96LF\/0529mtg.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FK3NX96LF-c988b15525",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLC6N4X",
+        "display_as_bot": false,
+        "ts": "1559051198.020300",
+        "client_msg_id": "a6d3d697-910d-4b9b-aeff-dc85a4efca65"
+    }
+]

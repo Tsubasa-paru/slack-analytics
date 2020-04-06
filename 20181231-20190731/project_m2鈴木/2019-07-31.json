@@ -1,0 +1,164 @@
+[
+    {
+        "client_msg_id": "99ec3f8c-b243-4b4e-90aa-a8d7c34a8729",
+        "type": "message",
+        "text": "todo：こども食堂CF公開まで",
+        "user": "UGQV9DXRC",
+        "ts": "1564584071.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "69bdb7a8-2e17-4ab5-9cf9-2b78f46f3527",
+        "type": "message",
+        "text": "概要図",
+        "user": "UGQV9DXRC",
+        "ts": "1564584079.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad3fa5f3-b714-47e4-9a3a-1732a93fbfef",
+        "type": "message",
+        "text": "リターン追記",
+        "user": "UGQV9DXRC",
+        "ts": "1564584084.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec66526c-d746-45d4-86ab-3b1eca0c6b72",
+        "type": "message",
+        "text": "スポルアップ様からの返信確認",
+        "user": "UGQV9DXRC",
+        "ts": "1564584150.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "67ad17b8-1caf-4621-be18-1036138e727a",
+        "type": "message",
+        "text": "パワースペクトル密度\n<https:\/\/org-technology.com\/posts\/power-spectral-density.html>\n\nscipyのwelch関数を試す\nwelch 法はデータを(何% か重ね合せるように)いくつかのセグメントに分割し、各セグメントについて修正 Periodogram 法で PSD を推定し、最後にその結果から平均を計算する",
+        "user": "UGQV9DXRC",
+        "ts": "1564584433.002300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "org-技術",
+                "title": "Python: SciPy のパワースペクトル密度推定の関数",
+                "title_link": "https:\/\/org-technology.com\/posts\/power-spectral-density.html",
+                "text": "Python: SciPy のパワースペクトル密度推定の関数",
+                "fallback": "org-技術: Python: SciPy のパワースペクトル密度推定の関数",
+                "ts": 1434639600,
+                "from_url": "https:\/\/org-technology.com\/posts\/power-spectral-density.html",
+                "service_icon": "https:\/\/org-technology.com\/files\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/org-technology.com\/posts\/power-spectral-density.html"
+            }
+        ],
+        "thread_ts": "1563810742.000100",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "d4500d2e-f9e8-4366-9463-064eb0cadf69",
+        "type": "message",
+        "text": "periodogram は最も簡単な方法で、単純に測定データの離散時間フーリエ変換を求め、その結果の大きさを二乗するものです",
+        "user": "UGQV9DXRC",
+        "ts": "1564584466.002600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563810742.000100",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "d58aa6b8-b42d-44b1-bb79-af856bc3cf87",
+        "type": "message",
+        "text": "<https:\/\/gammasoft.jp\/python\/python-library-install\/#install>",
+        "user": "UGQV9DXRC",
+        "ts": "1570581067.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ガンマソフト株式会社",
+                "title": "Pythonライブラリのインストール － pipの使い方 | ガンマソフト株式会社",
+                "title_link": "https:\/\/gammasoft.jp\/python\/python-library-install\/#install",
+                "text": "Pythonには豊富な標準ライブラリが備わっています。システム、ファイルIO、関数、データベース、ウェブ等、非常に多彩です。Pythonが「バッテリー同梱（batteries included）」と呼...",
+                "fallback": "ガンマソフト株式会社: Pythonライブラリのインストール － pipの使い方 | ガンマソフト株式会社",
+                "thumb_url": "https:\/\/gammasoft.jp\/pu7nk3cmg8\/wp-content\/uploads\/2017\/05\/thumnail_pip.png",
+                "from_url": "https:\/\/gammasoft.jp\/python\/python-library-install\/#install",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "service_icon": "https:\/\/gammasoft.jp\/images\/icons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/gammasoft.jp\/python\/python-library-install\/#install"
+            }
+        ]
+    }
+]

@@ -1,0 +1,552 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FLCSANMEW",
+                "created": 1563962492,
+                "timestamp": 1563962492,
+                "name": "203578_子ども食堂CF　構図.docx",
+                "title": "こども食堂概要図",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 117904,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLCSANMEW\/203578________________cf_________.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLCSANMEW\/download\/203578________________cf_________.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLCSANMEW-6ca1940963\/203578________________cf__________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLCSANMEW-6ca1940963\/203578________________cf__________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FLCSANMEW\/203578________________cf_________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FLCSANMEW-ccffbcec92",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1563962494.000100",
+        "client_msg_id": "8aa077b7-c7c3-4d82-a282-82295249bd48"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FLSDBSMNJ",
+                "created": 1563962504,
+                "timestamp": 1563962504,
+                "name": "203579_子ども食堂CF　構図.pdf",
+                "title": "こども食堂概要図",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 201399,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLSDBSMNJ\/203579________________cf_________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLSDBSMNJ\/download\/203579________________cf_________.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLSDBSMNJ-5412f4e7c2\/203579________________cf__________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FLSDBSMNJ\/203579________________cf_________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FLSDBSMNJ-e72765d260",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1563962506.000400",
+        "client_msg_id": "747ff676-4300-471d-b5e6-83d007d34327"
+    },
+    {
+        "client_msg_id": "dbdc5bfc-861b-4274-9928-80154bc4c436",
+        "type": "message",
+        "text": "概要図の訂正案をいただきました。\nご確認よろしくお願い致します。",
+        "user": "UGQV9DXRC",
+        "ts": "1563962541.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "905F00A9-C971-476C-8C55-754EF4CD323F",
+        "type": "message",
+        "text": "だいたい良いと思うけど、\n大学生と小学生のバランスについては小学生が小さい、大学生が大きすぎるのと、全体的にそれぞれがそれぞれ楽しんでる雰囲気があると良いなと感じました\n赤人、青人が4人頂上となる位置でのスライドは",
+        "user": "UHFLB6JPR",
+        "ts": "1563978589.010600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563978589.010600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1563981812.001600",
+        "reply_users": [
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1563981812.001600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FLSFGGS6B",
+                "created": 1563981641,
+                "timestamp": 1563981641,
+                "name": "203607_こども食堂.pptx",
+                "title": "こども食堂CFトップ1",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 9150672,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLSFGGS6B\/203607___________________.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLSFGGS6B\/download\/203607___________________.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FLSFGGS6B\/203607___________________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FLSFGGS6B-b3f3bf56e9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1563981648.000100",
+        "client_msg_id": "19fb8c28-d024-478b-9a9a-6a49f36bb7d3"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FLSFH5SA3",
+                "created": 1563981699,
+                "timestamp": 1563981699,
+                "name": "203608_こども食堂　トップ.pptx",
+                "title": "こども食堂CFトップ2",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 20030436,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLSFH5SA3\/203608_______________________________.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLSFH5SA3\/download\/203608_______________________________.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLSFH5SA3-18d6424607\/203608________________________________converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLSFH5SA3-18d6424607\/203608________________________________thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FLSFH5SA3\/203608_______________________________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FLSFH5SA3-359a684ed3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1563981710.000400",
+        "client_msg_id": "400b5baf-4a1d-4e15-b8a8-6ae4beb0756f"
+    },
+    {
+        "client_msg_id": "814ff687-970d-4a69-850c-25cb916523c5",
+        "type": "message",
+        "text": "FBありがとうございます、再度通します。\nクラウドファンディングのトップ画像に関してもご確認ください。",
+        "user": "UGQV9DXRC",
+        "ts": "1563981741.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563981741.001500",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1564026759.009200",
+        "reply_users": [
+            "UHFLB6JPR",
+            "UGQV9DXRC"
+        ],
+        "replies": [
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1564024099.005500"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1564024252.005700"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1564026738.009000"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1564026759.009200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7860a1b7-fb3c-4840-b1c8-3695780508d5",
+        "type": "message",
+        "text": "最後の一文ですが、赤い人と青い人が頂上に見えるように変更した方がよい、という意味合いでしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1563981812.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563978589.010600",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "b90bb8cf-ea4e-46a2-92d5-75d6864d14ba",
+        "type": "message",
+        "text": "<@UGQV9DXRC> こんなイメージどうかなと",
+        "user": "UHFLB6JPR",
+        "ts": "1564023897.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FLDU6HFJP",
+                "created": 1564023926,
+                "timestamp": 1564023926,
+                "name": "203578_子ども食堂CF%E3%80%80構図.docx",
+                "title": "203578_子ども食堂CF%E3%80%80構図.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 169739,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLDU6HFJP\/203578________________cf_e3_80_80______.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLDU6HFJP\/download\/203578________________cf_e3_80_80______.docx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLDU6HFJP-f8953130a3\/203578________________cf_e3_80_80_______converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLDU6HFJP-f8953130a3\/203578________________cf_e3_80_80_______thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FLDU6HFJP\/203578________________cf_e3_80_80______.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FLDU6HFJP-1911c60e95",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1564023929.002100",
+        "client_msg_id": "08851f1c-f6f1-4752-80bb-be949afbde36"
+    },
+    {
+        "client_msg_id": "275ad3a9-8d90-4792-8db8-61a8d2f52bd5",
+        "type": "message",
+        "text": "<https:\/\/search.yahoo.co.jp\/image\/search?p=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88+%E3%81%93%E3%81%A9%E3%82%82%E9%81%94+%E9%81%8A%E3%81%B3&amp;ei=UTF-8&amp;aq=-1&amp;oq=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88+%E3%81%93%E3%81%A9%E3%82%82%E9%81%94+%E9%81%8A%E3%81%B3&amp;ai=p9WypSJrR5yJ99hyhwARlA&amp;ts=8607&amp;fr=top_ga1_sa#mode%3Ddetail%26index%3D5%26st%3D0>",
+        "user": "UHFLB6JPR",
+        "ts": "1564023945.002500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Yahoo!検索（画像）",
+                "title": "「イラスト こども達 遊び」の検索結果 - Yahoo!検索（画像）",
+                "title_link": "https:\/\/search.yahoo.co.jp\/image\/search?p=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88+%E3%81%93%E3%81%A9%E3%82%82%E9%81%94+%E9%81%8A%E3%81%B3&ei=UTF-8&aq=-1&oq=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88+%E3%81%93%E3%81%A9%E3%82%82%E9%81%94+%E9%81%8A%E3%81%B3&ai=p9WypSJrR5yJ99hyhwARlA&ts=8607&fr=top_ga1_sa#mode%3Ddetail%26index%3D5%26st%3D0",
+                "text": "Yahoo!検索（画像）で「イラスト こども達 遊び」を検索すれば、欲しい答えがきっと見つかります。",
+                "fallback": "Yahoo!検索（画像）: 「イラスト こども達 遊び」の検索結果 - Yahoo!検索（画像）",
+                "image_url": "https:\/\/s.yimg.jp\/images\/serp\/s\/ic_ogp.png",
+                "from_url": "https:\/\/search.yahoo.co.jp\/image\/search?p=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88+%E3%81%93%E3%81%A9%E3%82%82%E9%81%94+%E9%81%8A%E3%81%B3&ei=UTF-8&aq=-1&oq=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88+%E3%81%93%E3%81%A9%E3%82%82%E9%81%94+%E9%81%8A%E3%81%B3&ai=p9WypSJrR5yJ99hyhwARlA&ts=8607&fr=top_ga1_sa#mode%3Ddetail%26index%3D5%26st%3D0",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 14754,
+                "service_icon": "https:\/\/search.yahoo.co.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/search.yahoo.co.jp\/image\/search?p=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88+%E3%81%93%E3%81%A9%E3%82%82%E9%81%94+%E9%81%8A%E3%81%B3&amp;ei=UTF-8&amp;aq=-1&amp;oq=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88+%E3%81%93%E3%81%A9%E3%82%82%E9%81%94+%E9%81%8A%E3%81%B3&amp;ai=p9WypSJrR5yJ99hyhwARlA&amp;ts=8607&amp;fr=top_ga1_sa#mode%3Ddetail%26index%3D5%26st%3D0"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "788efd2a-789f-4371-8800-a6ecdcbd4829",
+        "type": "message",
+        "text": "遊んでいる上のステージは上記イラストみたいなイメージで",
+        "user": "UHFLB6JPR",
+        "ts": "1564023980.003200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cfca8cf2-12ea-4092-817a-eb53f9c20a2e",
+        "type": "message",
+        "text": "ありがとうございます。\nリンクは検索結果一覧ですが、どれか特定の画像を指しておられますでしょうか？？",
+        "user": "UGQV9DXRC",
+        "ts": "1564024061.005400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "73a2cd35-44f3-4388-a45f-5927cc27c702",
+        "type": "message",
+        "text": "雰囲気はとてもいいと思います。\n文字、食・運動・科学の図は後ろの写真で見えなくなっているけど",
+        "user": "UHFLB6JPR",
+        "ts": "1564024099.005500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563981741.001500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "e8f9049a-b88e-4914-937e-beebc7357015",
+        "type": "message",
+        "text": "何枚か候補をくれていると思うのですが、それに関してはいかがでしょうか？\n個人的には2のファイルの1枚目がよいかなと思っています。",
+        "user": "UGQV9DXRC",
+        "ts": "1564024252.005700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563981741.001500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "C35CC6C9-2182-47BA-812E-44FC460765B8",
+        "type": "message",
+        "text": "大学生と子どもがワイワイしてる感じが出ればいいなと",
+        "user": "UHFLB6JPR",
+        "ts": "1564026476.006900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "613E27D3-862A-44BD-B829-2AF1B4BA67FB",
+        "type": "message",
+        "text": "任せます\nWEB上のクリックするアイコンになるから、前回との違いがわかるのが大事だと思う",
+        "user": "UHFLB6JPR",
+        "ts": "1564026738.009000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563981741.001500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "ea3f4a8b-e220-432e-99bb-1e99375921bd",
+        "type": "message",
+        "text": "承知しました",
+        "user": "UGQV9DXRC",
+        "ts": "1564026759.009200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563981741.001500",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "86e443d5-579f-43d2-9a34-d4467d96d875",
+        "type": "message",
+        "text": "今朝から頭痛が酷い為ゼミ休みます、すみません。一応今SVMの実装してる所で、いくつかやり方見つけたので上手く組み合わせて完成に向けてやってます。来週の全体ゼミまでには出来てると思います。",
+        "user": "UHFLC6N4X",
+        "ts": "1571974101.003600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0874da0-def3-4267-af47-ac57a1af12cf",
+        "type": "message",
+        "text": "ゼミは三階です",
+        "user": "UGQV9DXRC",
+        "ts": "1571975832.003900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

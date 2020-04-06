@@ -1,0 +1,172 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1581664837.000200",
+        "user": "UHFLB6JPR",
+        "text": "<@UHFLB6JPR>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "F7E2E5E8-F638-4D33-A7A8-623F1E550180",
+        "type": "message",
+        "text": "<@UHG1M1NQ6> <@UHEH8KZ7W> <@UHC5VBV5E> <@UGQV9DXRC> <@UHV3GN694> \n健康支援学会@沖縄に関連することはここにアップしましょう",
+        "user": "UHFLB6JPR",
+        "ts": "1581664913.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1581664922.001500",
+        "user": "UHG1M1NQ6",
+        "text": "<@UHG1M1NQ6>さんがチャンネルに参加しました",
+        "inviter": "UHFLB6JPR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1581664922.001700",
+        "user": "UHEH8KZ7W",
+        "text": "<@UHEH8KZ7W>さんがチャンネルに参加しました",
+        "inviter": "UHFLB6JPR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1581664922.001900",
+        "user": "UHC5VBV5E",
+        "text": "<@UHC5VBV5E>さんがチャンネルに参加しました",
+        "inviter": "UHFLB6JPR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1581664922.002100",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルに参加しました",
+        "inviter": "UHFLB6JPR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1581664922.002300",
+        "user": "UHV3GN694",
+        "text": "<@UHV3GN694>さんがチャンネルに参加しました",
+        "inviter": "UHFLB6JPR"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FU08G42KF",
+                "created": 1581664937,
+                "timestamp": 1581664937,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 341095,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FU08G42KF\/ios__________.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FU08G42KF\/download\/ios__________.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU08G42KF-dafaab9ec5\/ios___________64.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU08G42KF-dafaab9ec5\/ios___________80.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU08G42KF-dafaab9ec5\/ios___________360.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 187,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU08G42KF-dafaab9ec5\/ios___________480.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 249,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU08G42KF-dafaab9ec5\/ios___________160.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU08G42KF-dafaab9ec5\/ios___________720.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 374,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU08G42KF-dafaab9ec5\/ios___________800.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1541,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU08G42KF-dafaab9ec5\/ios___________960.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 498,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU08G42KF-dafaab9ec5\/ios___________1024.jpg?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 532,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1242,
+                "original_h": 2392,
+                "thumb_tiny": "AwAwABjRPB4o3UN97tQPwoAcKKQH3paAGnHegBaD1pRQADFLTcfNnA+tLQAh60oooyf8igBcUUmT\/kUtAH\/\/2Q==",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FU08G42KF\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FU08G42KF-85824ce5eb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1581664943.002400",
+        "client_msg_id": "191A6E22-0362-4534-8798-51B878B829DE",
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9F789C84-4371-465A-83E8-49672FE3900E",
+        "type": "message",
+        "text": "ポスター発表で出した人はポスター発表に決定です。口頭発表で出した鈴木さん、根本は事務局から連絡あるまで口頭かポスターかわからないです。2人は問い合わせてみてください。",
+        "user": "UHFLB6JPR",
+        "ts": "1581667108.003000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC",
+                    "UHC5VBV5E"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

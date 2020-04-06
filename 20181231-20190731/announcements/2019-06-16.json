@@ -1,0 +1,252 @@
+[
+    {
+        "client_msg_id": "b6785b13-887a-4eb0-a323-cc42821d46fc",
+        "type": "message",
+        "text": "清水と同じく7月2日以外ならOKです",
+        "user": "UGPH97FDW",
+        "ts": "1560731078.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560500301.005300",
+        "parent_user_id": "UHC5VBV5E"
+    },
+    {
+        "client_msg_id": "081a3628-6a2e-453c-84ca-11a0c947fa70",
+        "type": "message",
+        "text": "(1)OK\n(2)7月2日以外ならOK",
+        "user": "UHG1M1NQ6",
+        "ts": "1560731098.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560500301.005300",
+        "parent_user_id": "UHC5VBV5E"
+    },
+    {
+        "client_msg_id": "324804b6-c838-48c1-aa32-2f83617e961f",
+        "type": "message",
+        "text": "many many thanx",
+        "user": "UHC5VBV5E",
+        "ts": "1560731175.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560500301.005300",
+        "parent_user_id": "UHC5VBV5E"
+    },
+    {
+        "client_msg_id": "7ccdc149-7e0e-4b0c-86b6-5cda8fd1534c",
+        "type": "message",
+        "text": "本実験の場合、被験者の来所時間と検者の準備を含めた集合時間は異なります。担当する役目によっても違いがあります。院生は理解しているはずなので、確認しながら25日の予定を立ててください。\n特に呼気ガス分析と亀八の通信環境の設定は慎重さが必要。",
+        "user": "UHFLB6JPR",
+        "ts": "1560740805.005100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "97d718f6-c116-441f-9e76-121fc6a8deb9",
+        "type": "message",
+        "text": "分かりました。\n今回の予備実験のスケジュールも本番同様に後ほど皆さんに送ります。",
+        "user": "UHC5VBV5E",
+        "ts": "1560741250.007100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "25cf1032-76f2-4a27-9b45-cf619b558323",
+        "type": "message",
+        "text": "大変失礼しました。\n体育館の使用予定表を見間違っており、火曜の午前は利用できませんでした。\n6\/27(木)午前\n6\/28(金)午前\nで可能な日をもう一度教えていただきたいです。全員参加できないと思いますので、なるべく集まれる日を優先します。\n再度お願い致します。\n担当の役割が決まれば別日に説明致しますので予定があらかじめある場合はそちら優先で構いません。",
+        "user": "UHC5VBV5E",
+        "ts": "1560747073.010900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHC5VBV5E",
+            "ts": "1560749162.000000"
+        },
+        "thread_ts": "1560747073.010900",
+        "reply_count": 7,
+        "reply_users_count": 7,
+        "latest_reply": "1560865677.000300",
+        "reply_users": [
+            "UHEH8KZ7W",
+            "UGQ2ENZD0",
+            "UHFLC6N4X",
+            "UGQV9DXRC",
+            "UGPH97FDW",
+            "UHG1M1NQ6",
+            "UHC5VBV5E"
+        ],
+        "replies": [
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1560747178.011000"
+            },
+            {
+                "user": "UGQ2ENZD0",
+                "ts": "1560748250.011300"
+            },
+            {
+                "user": "UHFLC6N4X",
+                "ts": "1560749911.011600"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1560755416.011800"
+            },
+            {
+                "user": "UGPH97FDW",
+                "ts": "1560761983.000800"
+            },
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1560865149.000100"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1560865677.000300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1561013593.000996"
+    },
+    {
+        "client_msg_id": "6ba8a49e-196b-41e7-a58e-8db737924417",
+        "type": "message",
+        "text": "27日授業ですがワンチャン出れます\n→先生に言えばOKが出るかもです\n28日空いてます",
+        "user": "UHEH8KZ7W",
+        "ts": "1560747178.011000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560747073.010900",
+        "parent_user_id": "UHC5VBV5E"
+    },
+    {
+        "client_msg_id": "4456e588-30c6-40d0-a32a-ed74e57b566d",
+        "type": "message",
+        "text": "27は空いてます．\n28は講義がありますが，欠席は可能です．",
+        "user": "UGQ2ENZD0",
+        "ts": "1560748250.011300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560747073.010900",
+        "parent_user_id": "UHC5VBV5E"
+    },
+    {
+        "client_msg_id": "aeb28572-91e2-4ee3-8e35-fc33b0297603",
+        "type": "message",
+        "text": "現状不明です。今週中に言いますm(_ _)m",
+        "user": "UHFLC6N4X",
+        "ts": "1560749911.011600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560747073.010900",
+        "parent_user_id": "UHC5VBV5E"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1554879889.000700",
+        "user": "UHV3GN694",
+        "text": "<@UHV3GN694>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "1eb031e1-412f-49d3-97fd-deb716f40ceb",
+        "type": "message",
+        "text": "今日の昼休みに5階の部屋見学したいと思います。参加できる人は？",
+        "user": "UHFLB6JPR",
+        "ts": "1554951343.000600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "42906ab8-e7ad-48b1-be06-5de6a6f61afe",
+        "type": "message",
+        "text": "私と福田くんが参加できます",
+        "user": "UGQ2ENZD0",
+        "ts": "1554951369.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,350 @@
+[
+    {
+        "client_msg_id": "6fc43ba2-fdda-4e68-bb30-b98a96300d65",
+        "type": "message",
+        "text": "<@UHFLB6JPR> \n明日の午後15時にタキガワさんが会社の上司の方と大学にいらっしゃるそうなのですが先生はご在室でしょうか？\n上司の方が名刺を渡したいそうです",
+        "user": "UGQV9DXRC",
+        "ts": "1558442588.008900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C1D2EDF9-8ADF-4EA7-A899-C76AC8BF2539",
+        "type": "message",
+        "text": "わかりました\n15時は部屋にいます",
+        "user": "UHFLB6JPR",
+        "ts": "1558444327.009500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "026af205-0ae6-41af-9ef9-db6ff4b90f5f",
+        "type": "message",
+        "text": "ありがとうございます:bow:",
+        "user": "UGQV9DXRC",
+        "ts": "1558451405.009800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1424c2db-f312-4deb-8359-81ff1c99546e",
+        "type": "message",
+        "text": "今日、時間があれば、鈴木さん、福田、根本の3人で顔出してください\n子ども食堂に関してすこしだけ",
+        "user": "UHFLB6JPR",
+        "ts": "1558488203.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558488203.000900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1558488481.001500",
+        "reply_users": [
+            "UHC5VBV5E"
+        ],
+        "replies": [
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1558488481.001500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b0dc3d93-d9c8-486e-864d-c4d3900bffc4",
+        "type": "message",
+        "text": "了解です。\n（鈴木さんは不在のようですが…）",
+        "user": "UHC5VBV5E",
+        "ts": "1558488481.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558488203.000900",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "04d0c330-8d54-4582-b94f-6bcc9440e252",
+        "type": "message",
+        "text": "明日でもいいよ",
+        "user": "UHFLB6JPR",
+        "ts": "1558489112.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c010ffaf-a758-493e-8c17-0c1442fd8791",
+        "type": "message",
+        "text": "すみません、明日お願いします:bow:\n何時ごろが良いでしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1558489500.004000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0865cbc8-118e-4fc1-809f-706cd4dd8c70",
+        "type": "message",
+        "text": "3人が来れる時間帯は？",
+        "user": "UHFLB6JPR",
+        "ts": "1558489730.004500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558489730.004500",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1558518878.014100",
+        "reply_users": [
+            "UHC5VBV5E",
+            "UGQV9DXRC",
+            "UHEH8KZ7W",
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1558490073.004600"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1558492534.004800"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1558495179.005900"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1558504174.006100"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1558504483.006300"
+            },
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1558508521.006500"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1558510494.006700"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1558511416.006900"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1558518878.014100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1bc4ba74-62ef-4775-ba1d-42c009e2f9ab",
+        "type": "message",
+        "text": "明日は4限に中間テストがありますので16:10以降を希望しますが、午前中でも大丈夫です。",
+        "user": "UHC5VBV5E",
+        "ts": "1558490073.004600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558489730.004500",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "a4653148-d024-4f17-817d-86347d3fbf89",
+        "type": "message",
+        "text": "上記の時間内であれば私も可能です",
+        "user": "UGQV9DXRC",
+        "ts": "1558492534.004800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558489730.004500",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "CF8B9C33-FE63-45FD-9C1A-BCBD189AC29E",
+        "type": "message",
+        "text": "木曜日は1、2限授業があるのでその他のでしたら、いつでも大丈夫です。",
+        "user": "UHEH8KZ7W",
+        "ts": "1558495179.005900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558489730.004500",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "24f4eb22-9009-4883-ae12-ca300bc7951f",
+        "type": "message",
+        "text": "16：15頃で\nそんなに時間かからないです",
+        "user": "UHFLB6JPR",
+        "ts": "1558504174.006100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558489730.004500",
+        "parent_user_id": "UHFLB6JPR"
+    },
+    {
+        "client_msg_id": "15a643ae-01eb-4032-b9bb-5d7e06f628ef",
+        "type": "message",
+        "text": "すみません、\n12時半ごろにお願いできませんでしょうか\n夜甥のお迎えになってしまい、4時にはでなければ無さそうです:bow::bow:",
+        "user": "UGQV9DXRC",
+        "ts": "1558504483.006300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558489730.004500",
+        "parent_user_id": "UHFLB6JPR"
+    }
+]

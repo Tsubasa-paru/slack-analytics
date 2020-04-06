@@ -1,0 +1,169 @@
+[
+    {
+        "client_msg_id": "5D970A4F-909C-4C25-863F-0454F5E3A9CF",
+        "type": "message",
+        "text": "1124中理さん相談\n\n<https:\/\/www.evernote.com\/shard\/s223\/sh\/13f4c648-4137-4242-a807-9eec90d7ca8a\/a9cdfc668b05aac68c3a4740d202e7e0>",
+        "user": "UGQV9DXRC",
+        "ts": "1574742620.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "30Hz(青)と1Hz(オレンジ)のデータ\n分散は\nx：0.111959944、xm：0.098527813",
+        "files": [
+            {
+                "id": "FQZ6GDYHW",
+                "created": 1574745700,
+                "timestamp": 1574745700,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 153462,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQZ6GDYHW\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQZ6GDYHW\/download\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQZ6GDYHW-ac2eccc712\/image_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQZ6GDYHW-ac2eccc712\/image_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQZ6GDYHW-ac2eccc712\/image_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 206,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQZ6GDYHW-ac2eccc712\/image_480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 275,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQZ6GDYHW-ac2eccc712\/image_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQZ6GDYHW-ac2eccc712\/image_720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 720,
+                "thumb_720_h": 412,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQZ6GDYHW-ac2eccc712\/image_800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 458,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQZ6GDYHW-ac2eccc712\/image_960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 960,
+                "thumb_960_h": 549,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQZ6GDYHW-ac2eccc712\/image_1024.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 586,
+                "image_exif_rotation": 1,
+                "original_w": 1797,
+                "original_h": 1028,
+                "thumb_tiny": "AwAbADDTopM460FgBntQAtFRmeMfxUCeMn736UASUUhZR1IoBBGQcigBaKKKADA9BSbVB+6PypaKAEKqTkgE0tFFAH\/\/2Q==",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FQZ6GDYHW\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FQZ6GDYHW-7dce744dbe",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UVUL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "30Hz(青)と1Hz(オレンジ)のデータ\n分散は\nx：0.111959944、xm：0.098527813"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1574745702.001000",
+        "client_msg_id": "8a701e11-480c-438c-95f1-58fe3dc988d9"
+    },
+    {
+        "type": "message",
+        "text": "F値平均\n30Hz : 0.438491063\n1Hz : 0.4799935\n30Hz + 1Hz : 0.49277375\n(時間列を抜いて再計算)",
+        "files": [
+            {
+                "id": "FR158Q0Q7",
+                "created": 1574754402,
+                "timestamp": 1574754402,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 32652,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR158Q0Q7\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FR158Q0Q7\/download\/image.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR158Q0Q7-819337377d\/image_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR158Q0Q7-819337377d\/image_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR158Q0Q7-819337377d\/image_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 360,
+                "thumb_360_h": 247,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR158Q0Q7-819337377d\/image_480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 480,
+                "thumb_480_h": 329,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FR158Q0Q7-819337377d\/image_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "image_exif_rotation": 1,
+                "original_w": 673,
+                "original_h": 461,
+                "thumb_tiny": "AwAgADDTopKWgAopKWgAooooAKKKKACikooAWiiigD\/\/2Q==",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FR158Q0Q7\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FR158Q0Q7-ec1b257776",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hpBjZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "F値平均\n30Hz : 0.438491063\n1Hz : 0.4799935\n30Hz + 1Hz : 0.49277375\n(時間列を抜いて再計算)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1574754404.004700",
+        "client_msg_id": "26402f72-96ed-4efa-bb13-970bdca3004e"
+    }
+]

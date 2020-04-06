@@ -1,0 +1,25 @@
+[
+    {
+        "client_msg_id": "ae4fe79a-6cfe-41ca-b669-d421ced6e0a1",
+        "type": "message",
+        "text": "参加します。",
+        "user": "UGPH97FDW",
+        "ts": "1555311897.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555055715.000800",
+        "parent_user_id": "UHFLB6JPR"
+    }
+]

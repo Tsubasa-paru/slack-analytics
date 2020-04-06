@@ -1,0 +1,725 @@
+[
+    {
+        "client_msg_id": "6d6b7678-f86a-4006-ba72-e7836279f667",
+        "type": "message",
+        "text": "ありがたいです！22:30頃で良ければお願いします。",
+        "user": "UHG1M1NQ6",
+        "ts": "1585206812.006300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "63Atu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがたいです！22:30頃で良ければお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585195567.004200",
+        "parent_user_id": "UHG1M1NQ6",
+        "reactions": [
+            {
+                "name": "custom_ryokai",
+                "users": [
+                    "UUZ15MZT4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1C04BEE9-7E16-44BB-9DA0-D0EEC3D7ABC4",
+        "type": "message",
+        "text": "zoomで問題ないです",
+        "user": "UHFLB6JPR",
+        "ts": "1585207597.007000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585195567.004200",
+        "parent_user_id": "UHG1M1NQ6"
+    },
+    {
+        "client_msg_id": "50267ABA-40BE-4BED-AC4D-F81C4941A5F1",
+        "type": "message",
+        "text": "もう一度接続すればいいので",
+        "user": "UHFLB6JPR",
+        "ts": "1585207645.008000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585195567.004200",
+        "parent_user_id": "UHG1M1NQ6"
+    },
+    {
+        "client_msg_id": "629fe7fb-1d1f-482c-89a2-40ce5e4f07f2",
+        "type": "message",
+        "text": "承知しました。zoomで準備進めておきます。",
+        "user": "UHG1M1NQ6",
+        "ts": "1585224933.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "unh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。zoomで準備進めておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585195567.004200",
+        "parent_user_id": "UHG1M1NQ6"
+    },
+    {
+        "client_msg_id": "1427a88e-9ccc-416c-9dd6-0f221240df88",
+        "type": "message",
+        "text": "[連絡]zoomによるビデオ会議のやり方\n① pcまたはスマホでアカウント作成\npc版 : <https:\/\/us04web.zoom.us\/>\nAndroid版 : <https:\/\/play.google.com\/store\/apps\/details?id=us.zoom.videomeetings&amp;hl=ja>\niOS版 : <https:\/\/apps.apple.com\/jp\/app\/zoom-cloud-meetings\/id546505307>\npcでやる人はブラウザでURLに直接飛んでサインアップする。スマホでやる人はアプリをインストールしてからサインアップする。",
+        "user": "UHG1M1NQ6",
+        "ts": "1585232239.007100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "ZOOM Cloud Meetings - Google Play のアプリ",
+                "title_link": "https:\/\/play.google.com\/store\/apps\/details?id=us.zoom.videomeetings&hl=ja",
+                "text": "Stay connected wherever you go – start or join a 100-person meeting with crystal-clear, face-to-face video, high quality screen sharing, and instant messaging – for free! Award winning Zoom brings video conferencing, online meetings and group messaging into one easy-to-use application. Zoom is used by over 500,000 customer organizations and is #1 in customer satisfaction. It's super easy: install the free Zoom app, click on \"Host a Meeting\" and invite up to 100 people to join! ★ KEY FEATURES ★ :heavy_check_mark:Best Android video meeting quality :heavy_check_mark:Best Android screen sharing quality :heavy_check_mark:Screen share directly from your Android device :heavy_check_mark:Screen share photos, web and Google Drive, Dropbox or Box files :heavy_check_mark:Send group text, images and audio from mobile and desktop :heavy_check_mark:Contact availability status :heavy_check_mark:Easily invite phone, email or company contacts :heavy_check_mark:Join as interactive participant or view-only webinar attendee :heavy_check_mark:Works over WiFi, 4G\/LTE and 3G networks :heavy_check_mark:Safe driving mode while on the road :heavy_check_mark:Connect with anyone on Android, other mobile devices, Windows, Mac, iOS, ZoomPresence, H.323\/SIP room systems, and telephones Join any meeting and host unlimited 1:1 meetings for free. Free group meetings are limited to 40 minutes. Follow us: Twitter <https:\/\/twitter.com\/zoom_us> LinkedIn <https:\/\/www.linkedin.com\/company\/zoom-video-communications-inc-> Facebook <https:\/\/www.facebook.com\/zoomwithus> Have a question? Contact us at <mailto:support@zoom.us|support@zoom.us>",
+                "fallback": "ZOOM Cloud Meetings - Google Play のアプリ",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/3xA8F0tl3EzQl4-FpLVV3dhd8uqbqHNM76zs9FamH63X6h83n4ryX82qFm_mpSCjOa-y",
+                "from_url": "https:\/\/play.google.com\/store\/apps\/details?id=us.zoom.videomeetings&hl=ja",
+                "image_width": 512,
+                "image_height": 250,
+                "image_bytes": 259386,
+                "service_icon": "http:\/\/www.gstatic.com\/android\/market_images\/web\/favicon_v2.ico",
+                "service_name": "play.google.com",
+                "id": 1,
+                "original_url": "https:\/\/play.google.com\/store\/apps\/details?id=us.zoom.videomeetings&amp;hl=ja"
+            },
+            {
+                "service_name": "App Store",
+                "title": "‎ZOOM Cloud Meetings",
+                "title_link": "https:\/\/apps.apple.com\/jp\/app\/zoom-cloud-meetings\/id546505307",
+                "text": "‎Stay connected wherever you go – start or join a meeting with flawless video, crystal clear audio, instant screen sharing, and cross-platform instant messaging – for free! Zoom is #1 in customer satisfaction and the best meeting experience on mobile. It's super easy! Install the free Zoom app, cl…",
+                "fallback": "App Store: ‎ZOOM Cloud Meetings",
+                "image_url": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple113\/v4\/0d\/12\/08\/0d120820-86b7-51ac-e38a-77f4ca2ec4f9\/AppIcon-0-1x_U007emarketing-0-0-85-220-9.png\/1200x630wa.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/apps.apple.com\/jp\/app\/zoom-cloud-meetings\/id546505307",
+                "image_bytes": 104053,
+                "service_icon": "https:\/\/apps.apple.com\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/apps.apple.com\/jp\/app\/zoom-cloud-meetings\/id546505307"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+AHke",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[連絡]zoomによるビデオ会議のやり方\n① pcまたはスマホでアカウント作成\npc版 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us04web.zoom.us\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAndroid版 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/play.google.com\/store\/apps\/details?id=us.zoom.videomeetings&hl=ja"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\niOS版 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/apps.apple.com\/jp\/app\/zoom-cloud-meetings\/id546505307"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\npcでやる人はブラウザでURLに直接飛んでサインアップする。スマホでやる人はアプリをインストールしてからサインアップする。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "880bda76-eccd-4763-8a74-e6e1e54220e1",
+        "type": "message",
+        "text": "② ビデオ会議の開催と参加\n開催者はミーティングを開催するというところからすぐに開催が可能。その際に他の参加者にミーティングIDとパスワードを通知しておく。\n他の参加者はミーティングに参加するを押した後に、ミーティングIDとパスワードを入力して参加可能となる。",
+        "user": "UHG1M1NQ6",
+        "ts": "1585232275.007500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WFE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "② ビデオ会議の開催と参加\n開催者はミーティングを開催するというところからすぐに開催が可能。その際に他の参加者にミーティングIDとパスワードを通知しておく。\n他の参加者はミーティングに参加するを押した後に、ミーティングIDとパスワードを入力して参加可能となる。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a97bc876-8b50-4235-ba9d-243a5303881f",
+        "type": "message",
+        "text": "ゼミまでにアカウントだけは作成しておいてください。",
+        "user": "UHG1M1NQ6",
+        "ts": "1585232331.008000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8h7K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミまでにアカウントだけは作成しておいてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "完了",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "049edd30-11d7-4c91-ae6a-fd8e52839fbd",
+        "type": "message",
+        "text": "ルームIDは 241698002\nパスワードは623620\nです。",
+        "user": "UHG1M1NQ6",
+        "ts": "1585281571.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ECp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ルームIDは 241698002\nパスワードは623620\nです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f8522bb5-9307-40c1-ab76-70efaff4bbac",
+        "type": "message",
+        "text": "URLを張って",
+        "user": "UHFLB6JPR",
+        "ts": "1585281618.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gxnYr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "URLを張って"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9112b64b-6c10-4dc2-ab1e-c73b93e66466",
+        "type": "message",
+        "text": "<https:\/\/us04web.zoom.us>\nこちらにログインしてください",
+        "user": "UHC5VBV5E",
+        "ts": "1585281682.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VFNW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us04web.zoom.us"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちらにログインしてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "701f4d5c-059a-4ad0-846f-13f2e91caf25",
+        "type": "message",
+        "text": "いやそうじゃなくて、開催する会議に直接アクセスするURL",
+        "user": "UHFLB6JPR",
+        "ts": "1585281741.003500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OK0vp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いやそうじゃなくて、開催する会議に直接アクセスするURL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94c5f14d-71df-432a-8745-635875d947bc",
+        "type": "message",
+        "text": "<https:\/\/zoom.us\/j\/241698002>",
+        "user": "UHG1M1NQ6",
+        "ts": "1585281859.003800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N42",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zoom.us\/j\/241698002"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67449ea0-7760-4c2d-8f8a-c3e5592246fa",
+        "type": "message",
+        "text": "こちらでどうでしょうか。",
+        "user": "UHG1M1NQ6",
+        "ts": "1585281874.004300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jTpYH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちらでどうでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc26e968-6f4f-4f29-9f13-5b631ff98421",
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/open?id=1g_8T9jnfSE72vjedLTYxCQsd_MlMGZi1_sEjLFlj9jM>",
+        "user": "UUZ15MZT4",
+        "ts": "1585282692.004500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "7dfa25c9925c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1006784279335_7dfa25c9925c232a45ec_72.jpg",
+            "first_name": "中田翼",
+            "real_name": "中田翼",
+            "display_name": "Tsubasa NAKADA",
+            "team": "TGNPXK07J",
+            "name": "tubasa.12345.67890",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kpYFQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1g_8T9jnfSE72vjedLTYxCQsd_MlMGZi1_sEjLFlj9jM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "420D0B57-9D13-448B-83FE-F39D71DF0C9C",
+        "type": "message",
+        "text": "Web of science 、学外で使うことは可能なんですが、一度学内で登録をしないといけないそうです。\nので、しばらく僕は使えません。\n\n他人のアカウントで入ることも出来そうですけどモラル的にアウトですよね。。？\n\n\n\n<https:\/\/www.lib.uec.ac.jp\/search\/database\/|https:\/\/www.lib.uec.ac.jp\/search\/database\/>\n<https:\/\/clarivate.jp\/wp-content\/uploads\/2018\/02\/WoS-user-registration-alerts-ver2-20171207.pdf|https:\/\/clarivate.jp\/wp-content\/uploads\/2018\/02\/WoS-user-registration-alerts-ver2-20171207.pdf>\n\n",
+        "user": "UGPH97FDW",
+        "ts": "1585285767.008900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "データベースの利用 | 電気通信大学附属図書館",
+                "title_link": "https:\/\/www.lib.uec.ac.jp\/search\/database\/",
+                "text": "電気通信大学附属図書館が提供しているデータベースの利用について紹介します。",
+                "fallback": "データベースの利用 | 電気通信大学附属図書館",
+                "from_url": "https:\/\/www.lib.uec.ac.jp\/search\/database\/",
+                "service_icon": "https:\/\/www.lib.uec.ac.jp\/favicon.ico",
+                "service_name": "lib.uec.ac.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.lib.uec.ac.jp\/search\/database\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WFOHl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Web of science 、学外で使うことは可能なんですが、一度学内で登録をしないといけないそうです。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ので、しばらく僕は使えません。\n\n他人のアカウントで入ることも出来そうですけどモラル的にアウトですよね。。？\n\n\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.lib.uec.ac.jp\/search\/database\/",
+                                "text": "https:\/\/www.lib.uec.ac.jp\/search\/database\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/clarivate.jp\/wp-content\/uploads\/2018\/02\/WoS-user-registration-alerts-ver2-20171207.pdf",
+                                "text": "https:\/\/clarivate.jp\/wp-content\/uploads\/2018\/02\/WoS-user-registration-alerts-ver2-20171207.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Web of Scienceの学外利用方法を簡単にですがまとめてみたのでご確認ください。",
+        "files": [
+            {
+                "id": "F010LAHC3UH",
+                "created": 1585290013,
+                "timestamp": 1585290013,
+                "name": "Web of Science の学外利用方法.pdf",
+                "title": "Web of Science の学外利用方法.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 331276,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-F010LAHC3UH\/web_of_science______________________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-F010LAHC3UH\/download\/web_of_science______________________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-F010LAHC3UH-12de7d3b8b\/web_of_science_______________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/F010LAHC3UH\/web_of_science______________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-F010LAHC3UH-dfdb8c27b1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qgxdN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Web of Scienceの学外利用方法を簡単にですがまとめてみたのでご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHG1M1NQ6",
+        "display_as_bot": false,
+        "ts": "1585290016.010500",
+        "client_msg_id": "5efb71ad-d9af-43f9-acc2-28e8c067e8ca",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

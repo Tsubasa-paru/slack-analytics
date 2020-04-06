@@ -1,0 +1,145 @@
+[
+    {
+        "client_msg_id": "190FFF9E-30CF-4B24-9605-A5B1858D3886",
+        "type": "message",
+        "text": "明日の木曜はカーペットの張替えと机・椅子が届く予定なので、できる限り大学にいてください\n組み立ては自分達でやってください",
+        "user": "UHFLB6JPR",
+        "ts": "1557273859.003100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UHC5VBV5E",
+                    "UHEH8KZ7W"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df60558d-e97a-4d7b-9486-2ea8939927bf",
+        "type": "message",
+        "text": "明日仕事入ってしまってて大学行けません。すみません、よろしくお願いします。",
+        "user": "UHFLC6N4X",
+        "ts": "1557279213.003900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a8176e58b2ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-05\/601930993573_a8176e58b2edd223e8d7_72.jpg",
+            "first_name": "野澤大樹",
+            "real_name": "野澤大樹",
+            "display_name": "Taiki NZ",
+            "team": "TGNPXK07J",
+            "name": "momo9ro_taiko0611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "39CA3451-1647-413D-B0E0-14DB4F03B453",
+        "type": "message",
+        "text": "靴箱はまだ来ないそうなのでしばらくビニール袋等持参して各自保管してください。\n廊下に置いておくのは良くないと思うので",
+        "user": "UHC5VBV5E",
+        "ts": "1557281946.005500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_ryokai",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UGPH97FDW",
+                    "UHEH8KZ7W",
+                    "UHFLC6N4X",
+                    "UGQV9DXRC"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "早めに提案をして",
+        "user": "UHFLB6JPR",
+        "ts": "1557282397.005900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[May 7th, 2019 11:04 AM] ohkawara_kazunori: このプリンターを購入するから、キャスター付きの台を探してください",
+                "ts": "1557194655.002900",
+                "author_id": "UHFLB6JPR",
+                "author_subname": "大河原一憲",
+                "channel_id": "CGT0P68RL",
+                "channel_name": "announcements",
+                "is_msg_unfurl": true,
+                "text": "このプリンターを購入するから、キャスター付きの台を探してください",
+                "author_name": "大河原一憲",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UHFLB6JPR",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0003-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CGT0P68RL\/p1557194655002900",
+                "is_share": true,
+                "footer": "#announcements に投稿"
+            }
+        ],
+        "thread_ts": "1557282397.005900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1557359655.002500",
+        "reply_users": [
+            "UGQ2ENZD0"
+        ],
+        "replies": [
+            {
+                "user": "UGQ2ENZD0",
+                "ts": "1557359655.002500"
+            }
+        ],
+        "subscribed": false
+    }
+]

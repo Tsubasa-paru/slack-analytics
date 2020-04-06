@@ -1,0 +1,92 @@
+[
+    {
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n抄録及び本文を訂正しましたので提出いたします。\n文面が黒澤先生に比べ大分稚拙な感じがするのでこれでいいのやらという感じです,,,\n<https:\/\/drive.google.com\/open?id=168QGv6AemL-CmPlUfO9sdqmrRjO01qhV>",
+        "files": [
+            {
+                "id": "F0109TX28RY",
+                "created": 1585063492,
+                "timestamp": 1585063492,
+                "name": "日本運動疫学会.docx",
+                "title": "日本運動疫学会.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 407249,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=168QGv6AemL-CmPlUfO9sdqmrRjO01qhV",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-F0109TX28RY-f63f8bfef6\/______________________64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-F0109TX28RY-f63f8bfef6\/______________________80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-F0109TX28RY-f63f8bfef6\/______________________360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-F0109TX28RY-f63f8bfef6\/______________________480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-F0109TX28RY-f63f8bfef6\/______________________160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-F0109TX28RY-f63f8bfef6\/______________________720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-F0109TX28RY-f63f8bfef6\/______________________800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1131,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-F0109TX28RY-f63f8bfef6\/______________________960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-F0109TX28RY-f63f8bfef6\/______________________1024.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 1448,
+                "thumb_tiny": "AwAwACHSJA60uaa\/TrigfUflQA7NFFFABRRRQAjAkcY\/GhRilooAKKKKACiiigAooooAKKKKACiiigD\/2Q==",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/F0109TX28RY\/_____________________.docx",
+                "is_starred": false,
+                "external_id": "168QGv6AemL-CmPlUfO9sdqmrRjO01qhV",
+                "external_url": "https:\/\/drive.google.com\/open?id=168QGv6AemL-CmPlUfO9sdqmrRjO01qhV",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zZB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHFLB6JPR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n抄録及び本文を訂正しましたので提出いたします。\n文面が黒澤先生に比べ大分稚拙な感じがするのでこれでいいのやらという感じです,,,\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=168QGv6AemL-CmPlUfO9sdqmrRjO01qhV"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "F0109TX28RY"
+        ],
+        "ts": "1585063488.001700",
+        "client_msg_id": "1a433101-e838-4117-b78a-7456e0c7595a"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "client_msg_id": "2b2023b5-20ca-413e-9a78-b3b2365e288b",
+        "type": "message",
+        "text": "本日は私と都竹くんでかくしょうじの運動教室に行ってまいりました．参加者は11名でした",
+        "user": "UGQ2ENZD0",
+        "ts": "1559800994.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : ゼミで話す事がある人はいますか？",
+        "user": "USLACKBOT",
+        "ts": "1564012824.000100",
+        "team": "TGNPXK07J",
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "UHEH8KZ7W",
+                    "UHFLC6N4X",
+                    "UGQV9DXRC",
+                    "UHC5VBV5E",
+                    "UHG1M1NQ6"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DAB80029-F282-4CCF-A4E9-0DFC7C810198",
+        "type": "message",
+        "text": "福田と根本以外は進捗とやることを発表&amp;議論してください\nそれを毎回しないと進まないから",
+        "user": "UHFLB6JPR",
+        "ts": "1564030098.002800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3cb5ec8f-8e5d-4073-9a0d-fa3aa1f6ba10",
+        "type": "message",
+        "text": "上のリマインドに関しては、進捗報告以外に特別時間をとってほしいことがある人は記入する、というルールで運用しています。\n進捗報告に関しては引き続き毎回行うようにします。",
+        "user": "UGQV9DXRC",
+        "ts": "1564036949.006100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

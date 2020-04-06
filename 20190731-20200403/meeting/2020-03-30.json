@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "df14449f-8911-4275-942e-8ea08a425788",
+        "type": "message",
+        "text": "おはようございます。今日のミーティング用のドキュメントです。\n・今日の議事録\n<https:\/\/drive.google.com\/open?id=1dDXOZ3REptCedJD_x5ppOhIfafFXOlwX-oqVaxsehqo>\n\n・slack利用について僕から提案したいこと\n<https:\/\/drive.google.com\/open?id=1NuNw6dLtQ5YrVMjceVRAMx0QG_aTjPwTX6zSuHNVLrM>",
+        "user": "UUZ15MZT4",
+        "ts": "1585615393.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "7dfa25c9925c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1006784279335_7dfa25c9925c232a45ec_72.jpg",
+            "first_name": "中田翼",
+            "real_name": "中田翼",
+            "display_name": "Tsubasa NAKADA",
+            "team": "TGNPXK07J",
+            "name": "tubasa.12345.67890",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WKQL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おはようございます。今日のミーティング用のドキュメントです。\n・今日の議事録\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1dDXOZ3REptCedJD_x5ppOhIfafFXOlwX-oqVaxsehqo"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n・slack利用について僕から提案したいこと\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1NuNw6dLtQ5YrVMjceVRAMx0QG_aTjPwTX6zSuHNVLrM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04d4bb51-85ec-4311-ad2d-6e6450486522",
+        "type": "message",
+        "text": "今日のzoomはこちらでお願いします。\n<https:\/\/us04web.zoom.us\/j\/167685905?pwd=THF5OGxjUW41Q0trU2E2N25vUlhqdz09|https:\/\/us04web.zoom.us\/j\/167685905?pwd=THF5OGxjUW41Q0trU2E2N25vUlhqdz09>",
+        "user": "UHG1M1NQ6",
+        "ts": "1585627152.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sfOvq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日のzoomはこちらでお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us04web.zoom.us\/j\/167685905?pwd=THF5OGxjUW41Q0trU2E2N25vUlhqdz09",
+                                "text": "https:\/\/us04web.zoom.us\/j\/167685905?pwd=THF5OGxjUW41Q0trU2E2N25vUlhqdz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585633211.002100",
+        "user": "U01157Q4E2J",
+        "text": "<@U01157Q4E2J>さんがチャンネルに参加しました",
+        "inviter": "UUZ15MZT4"
+    }
+]

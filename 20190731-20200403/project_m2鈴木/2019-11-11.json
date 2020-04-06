@@ -1,0 +1,41 @@
+[
+    {
+        "client_msg_id": "fe0d4e53-2a50-4d13-9a9e-8f6e23d3d269",
+        "type": "message",
+        "text": "最近やたらjupyternotebookkが重いなと思っていたけど、これかも？\n<http:\/\/onoz000.hatenablog.com\/entry\/2018\/02\/11\/142347>",
+        "user": "UGQV9DXRC",
+        "ts": "1573536622.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "onoz000’s blog",
+                "title": "condaとpip：混ぜるな危険 - onoz000’s blog",
+                "title_link": "http:\/\/onoz000.hatenablog.com\/entry\/2018\/02\/11\/142347",
+                "text": "Anaconda下でpipを使うと予期せず環境が破壊され、最悪の場合Anaconda自体の再インストールが必要になる。pipは慎重に使いましょう。",
+                "fallback": "onoz000’s blog: condaとpip：混ぜるな危険 - onoz000’s blog",
+                "image_url": "https:\/\/ogimage.blog.st-hatena.com\/6653586347153642834\/17391345971615361892\/1569583941",
+                "ts": 1518326627,
+                "from_url": "http:\/\/onoz000.hatenablog.com\/entry\/2018\/02\/11\/142347",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 113513,
+                "service_icon": "https:\/\/cdn.blog.st-hatena.com\/images\/touch-icon-iphone-retina.png",
+                "id": 1,
+                "original_url": "http:\/\/onoz000.hatenablog.com\/entry\/2018\/02\/11\/142347"
+            }
+        ]
+    }
+]

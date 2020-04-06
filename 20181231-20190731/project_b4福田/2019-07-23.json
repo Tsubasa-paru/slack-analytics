@@ -1,0 +1,101 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FLCLA7ABD",
+                "created": 1563945725,
+                "timestamp": 1563945725,
+                "name": "Realeyes_Whitepaper.pdf",
+                "title": "Realeyes_Whitepaper.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 33402917,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLCLA7ABD\/realeyes_whitepaper.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLCLA7ABD\/download\/realeyes_whitepaper.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLCLA7ABD-9212dea7fb\/realeyes_whitepaper_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1039,
+                "thumb_pdf_h": 1386,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FLCLA7ABD\/realeyes_whitepaper.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FLCLA7ABD-f49fa02350",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1563945727.000300",
+        "client_msg_id": "c1ce8ccc-d611-4241-bb3c-2af6caa75c9d"
+    },
+    {
+        "client_msg_id": "832bc9f4-fea8-4e49-8023-80a9c75f7fa8",
+        "type": "message",
+        "text": "<http:\/\/www.tcd.jp\/branding\/06-focus\/datascience_2.html>",
+        "user": "UHFLB6JPR",
+        "ts": "1563945891.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ブランディングの今をお届けするWEBマガジン「Think Branding」",
+                "title": "データサイエンス × デザイン ～ 感性や感情のデータ化～",
+                "title_link": "http:\/\/www.tcd.jp\/branding\/06-focus\/datascience_2.html",
+                "text": "こちらの連載では、データサイエンスのデザイン制作分野への活用について、全三回にわたって考察してまいります。 第 […]",
+                "fallback": "ブランディングの今をお届けするWEBマガジン「Think Branding」: データサイエンス × デザイン ～ 感性や感情のデータ化～",
+                "image_url": "http:\/\/www.tcd.jp\/branding\/wp-content\/uploads\/sites\/3\/2017\/09\/datascience_2_main_b.jpg",
+                "from_url": "http:\/\/www.tcd.jp\/branding\/06-focus\/datascience_2.html",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 64786,
+                "service_icon": "http:\/\/www.tcd.jp\/favicons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "http:\/\/www.tcd.jp\/branding\/06-focus\/datascience_2.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12af2423-9ff1-41f6-a892-72c251a52418",
+        "type": "message",
+        "text": "↑参考になる記事",
+        "user": "UHFLB6JPR",
+        "ts": "1563946018.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

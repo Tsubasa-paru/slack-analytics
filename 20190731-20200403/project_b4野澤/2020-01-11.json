@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "text": "結果，考察，まとめ以外完成版",
+        "files": [
+            {
+                "id": "FS708ANEP",
+                "created": 1578742585,
+                "timestamp": 1578742585,
+                "name": "卒業論文.docx",
+                "title": "卒業論文.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UHFLC6N4X",
+                "editable": false,
+                "size": 1288337,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FS708ANEP\/____________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FS708ANEP\/download\/____________.docx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FS708ANEP-473eaca4f9\/_____________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FS708ANEP-473eaca4f9\/_____________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLC6N4X\/FS708ANEP\/____________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FS708ANEP-b9e73828b2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uYR6d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "結果，考察，まとめ以外完成版"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHFLC6N4X",
+        "display_as_bot": false,
+        "ts": "1578742588.000100",
+        "client_msg_id": "4dfbfe90-7d24-4022-ab39-b33733a742a9"
+    }
+]

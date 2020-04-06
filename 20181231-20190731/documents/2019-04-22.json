@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "7036400c-3163-4b15-8a31-ce46c2695ac3",
+        "type": "message",
+        "text": "0423学生ゼミ資料\nB4は発表プレゼン資料+論文をupしてください",
+        "user": "UGQV9DXRC",
+        "ts": "1555924565.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1555924565.000500",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1555988886.000500",
+        "reply_users": [
+            "UHC5VBV5E"
+        ],
+        "replies": [
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1555988863.000100"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1555988886.000500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "根本 論文",
+        "files": [
+            {
+                "id": "FHX773FAM",
+                "created": 1555988861,
+                "timestamp": 1555988861,
+                "name": "kadai0423_SCI_guideline_paper.pdf",
+                "title": "kadai0423_SCI_guideline_paper.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 1915138,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHX773FAM\/kadai0423_sci_guideline_paper.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FHX773FAM\/download\/kadai0423_sci_guideline_paper.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FHX773FAM-32ea3e744d\/kadai0423_sci_guideline_paper_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1208,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FHX773FAM\/kadai0423_sci_guideline_paper.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FHX773FAM-4044684f5a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1555988863.000100",
+        "client_msg_id": "45f5d8f6-5744-4841-83e4-d7da44d8f918",
+        "thread_ts": "1555924565.000500",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "type": "message",
+        "text": "根本 資料",
+        "files": [
+            {
+                "id": "FJ3ET16H3",
+                "created": 1555988885,
+                "timestamp": 1555988885,
+                "name": "kadai0423.pptx",
+                "title": "kadai0423.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 346496,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJ3ET16H3\/kadai0423.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJ3ET16H3\/download\/kadai0423.pptx?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ3ET16H3-0ff4208e27\/kadai0423_converted.pdf?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJ3ET16H3-0ff4208e27\/kadai0423_thumb_pdf.png?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FJ3ET16H3\/kadai0423.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJ3ET16H3-5e9b801938",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1555988886.000500",
+        "client_msg_id": "0ed6dbf0-1176-4d13-ad8a-8e3ecaaf13e7",
+        "thread_ts": "1555924565.000500",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

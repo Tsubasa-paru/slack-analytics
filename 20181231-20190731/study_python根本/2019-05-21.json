@@ -1,0 +1,120 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1558423476.000200",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1558423476.000300",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルの目的を設定しました : 根本鈴木がpythonの勉強するのに使う",
+        "purpose": "根本鈴木がpythonの勉強するのに使う"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1558423477.000500",
+        "user": "UHC5VBV5E",
+        "text": "<@UHC5VBV5E>さんがチャンネルに参加しました",
+        "inviter": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "1c8716c3-019d-4503-9c94-9cbec25c1307",
+        "type": "message",
+        "text": "<https:\/\/www.kaggle.com\/c\/titanic\/data>",
+        "user": "UGQV9DXRC",
+        "ts": "1558423483.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Titanic: Machine Learning from Disaster",
+                "title_link": "https:\/\/www.kaggle.com\/c\/titanic\/data",
+                "text": "Start here! Predict survival on the Titanic and get familiar with ML basics",
+                "fallback": "Titanic: Machine Learning from Disaster",
+                "thumb_url": "https:\/\/storage.googleapis.com\/kaggle-competitions\/kaggle\/3136\/logos\/thumb76_76.png",
+                "from_url": "https:\/\/www.kaggle.com\/c\/titanic\/data",
+                "thumb_width": 120,
+                "thumb_height": 120,
+                "service_icon": "https:\/\/www.kaggle.com\/favicon.ico",
+                "service_name": "kaggle.com",
+                "id": 1,
+                "original_url": "https:\/\/www.kaggle.com\/c\/titanic\/data"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a13d2834-19dd-43b5-96dc-9a6f1726bef2",
+        "type": "message",
+        "text": "ここからデータをとってきてちょ",
+        "user": "UGQV9DXRC",
+        "ts": "1558423490.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJHULJVC2",
+                "created": 1558424386,
+                "timestamp": 1558424386,
+                "name": "titanic.zip",
+                "title": "titanic.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 34757,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJHULJVC2\/titanic.zip?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJHULJVC2\/download\/titanic.zip?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FJHULJVC2\/titanic.zip",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJHULJVC2-9a0afd4ab2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1558424386.001100",
+        "client_msg_id": "18acd739-63e4-4aa4-a195-bb1cb2fd5deb"
+    }
+]

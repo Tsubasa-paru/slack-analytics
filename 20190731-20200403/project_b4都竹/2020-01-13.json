@@ -1,0 +1,225 @@
+[
+    {
+        "client_msg_id": "816ba8a3-024b-4959-9a1f-c96dcbb4c2c1",
+        "type": "message",
+        "text": "13日(月)にやったこと\n• 前日のエラー解消(理解するのに時間かかった)\n• ユーザーアカウント作成機能\n• ユーザー情報を基にしたデータ更新機能\n• 他のユーザーが登録した画像の表示機能\nとりあえずネットワーク接続してあれば、数名でそれぞれのタブレットから同時にコンテンツを確認することはできると思う。\n\n今回作成したプログラムのGitHubリポジトリ\n<https:\/\/github.com\/t1610442\/CloudExample>",
+        "user": "UHG1M1NQ6",
+        "ts": "1578932859.014200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "t1610442\/CloudExample",
+                "title_link": "https:\/\/github.com\/t1610442\/CloudExample",
+                "text": "Contribute to t1610442\/CloudExample development by creating an account on GitHub.",
+                "fallback": "GitHub: t1610442\/CloudExample",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/39939096?s=400&v=4",
+                "from_url": "https:\/\/github.com\/t1610442\/CloudExample",
+                "thumb_width": 420,
+                "thumb_height": 420,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/t1610442\/CloudExample"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9bkM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "13日(月)にやったこと\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "前日のエラー解消(理解するのに時間かかった)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ユーザーアカウント作成機能"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ユーザー情報を基にしたデータ更新機能"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "他のユーザーが登録した画像の表示機能"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "とりあえずネットワーク接続してあれば、数名でそれぞれのタブレットから同時にコンテンツを確認することはできると思う。\n\n今回作成したプログラムのGitHubリポジトリ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/t1610442\/CloudExample"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578932859.014200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1578933532.014900",
+        "reply_users": [
+            "UHG1M1NQ6"
+        ],
+        "replies": [
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1578933532.014900"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1578933532.014900"
+    },
+    {
+        "client_msg_id": "d304b101-eea1-456a-bf7b-64e84418757f",
+        "type": "message",
+        "text": "クラウドデータベース管理用\n<https:\/\/console.mbaas.nifcloud.com\/login>",
+        "user": "UHG1M1NQ6",
+        "ts": "1578933233.014800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tN39H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "クラウドデータベース管理用\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/console.mbaas.nifcloud.com\/login"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7a12271-e536-43c2-b701-8e9ec3c604e3",
+        "type": "message",
+        "text": "• 例外処理を施していないので予期せぬ操作をするとエラーがでると思う\n• 今のところ想定しているエラー：画像データを3枚以上アップロードしていない状態で表示させる場合シャットダウン",
+        "user": "UHG1M1NQ6",
+        "ts": "1578933532.014900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dm53h",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "例外処理を施していないので予期せぬ操作をするとエラーがでると思う"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "今のところ想定しているエラー：画像データを3枚以上アップロードしていない状態で表示させる場合シャットダウン"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578932859.014200",
+        "parent_user_id": "UHG1M1NQ6"
+    }
+]

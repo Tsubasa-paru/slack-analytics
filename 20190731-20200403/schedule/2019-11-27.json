@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "500F2D9A-0529-4C99-9EE9-9F2CB0BA1D29",
+        "type": "message",
+        "text": "明日28日は用事があるため早上がりさせて頂きます。",
+        "user": "UHEH8KZ7W",
+        "ts": "1574862425.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

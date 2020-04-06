@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message",
+        "text": "スっ。",
+        "files": [
+            {
+                "id": "FLQQMKHEW",
+                "created": 1565005740,
+                "timestamp": 1565005740,
+                "name": "t検定2.xlsx",
+                "title": "t検定2.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHFLC6N4X",
+                "editable": false,
+                "size": 17067,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLQQMKHEW\/t______2.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FLQQMKHEW\/download\/t______2.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLQQMKHEW-9bc4de6401\/t______2_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FLQQMKHEW-9bc4de6401\/t______2_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLC6N4X\/FLQQMKHEW\/t______2.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FLQQMKHEW-3e76d83480",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLC6N4X",
+        "display_as_bot": false,
+        "ts": "1565005742.000200",
+        "client_msg_id": "20f9b947-eafc-4c45-95e6-787b45af2337",
+        "thread_ts": "1564976973.000900",
+        "parent_user_id": "UGPH97FDW"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "type": "message",
+        "text": "<@UHEH8KZ7W>",
+        "files": [
+            {
+                "id": "FRC3FF8QL",
+                "created": 1575622229,
+                "timestamp": 1575622229,
+                "name": "倫理申請書（身体活動と主観的幸福度）.zip",
+                "title": "倫理申請書（身体活動と主観的幸福度）.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 1578624,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRC3FF8QL\/______________________________________________________.zip?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FRC3FF8QL\/download\/______________________________________________________.zip?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FRC3FF8QL\/______________________________________________________.zip",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FRC3FF8QL-e1a8a7d602",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N2Cw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1575622229.003900",
+        "client_msg_id": "a1b65175-696f-49a9-80d5-3518aac13ecc"
+    },
+    {
+        "client_msg_id": "ae4f0938-9485-46d3-ac99-c2dbef1fcc81",
+        "type": "message",
+        "text": "倫理申請書を作成したので一応確認してください。\n月曜日に提出する予定です。",
+        "user": "UHFLB6JPR",
+        "ts": "1575622264.004700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mdr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "倫理申請書を作成したので一応確認してください。\n月曜日に提出する予定です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CB444C12-C556-4C62-AB4B-88FDD6DD7F4D",
+        "type": "message",
+        "text": "承知しました。",
+        "user": "UHEH8KZ7W",
+        "ts": "1575622308.005000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3f525471-ad53-445d-8d6a-041bf09dc3d1",
+        "type": "message",
+        "text": "今日から管理人だよね？",
+        "user": "UHFLB6JPR",
+        "ts": "1575622336.005300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E\/a44",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日から管理人だよね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "17935ac4-a3c4-4bc2-87ea-037e1bd657ff",
+        "type": "message",
+        "text": "福田くんはそうみたいです",
+        "user": "UGQV9DXRC",
+        "ts": "1575624448.005700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "AFF3C825-9A8A-4680-88E0-7F8429998A1A",
+        "type": "message",
+        "text": "はい。そうです。",
+        "user": "UHEH8KZ7W",
+        "ts": "1575624685.006000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575624685.006000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1575633253.000400",
+        "reply_users": [
+            "UHFLB6JPR"
+        ],
+        "replies": [
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1575633253.000400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "B1E2865E-8A8C-4F46-865A-EB721865DFD4",
+        "type": "message",
+        "text": "よろしく！！",
+        "user": "UHFLB6JPR",
+        "ts": "1575633253.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575624685.006000",
+        "parent_user_id": "UHEH8KZ7W"
+    }
+]

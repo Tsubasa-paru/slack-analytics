@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "59030364-ee37-4902-96fd-4289658dff1a",
+        "type": "message",
+        "text": "メモ\n\n<https:\/\/newtechnologylifestyle.net\/%E3%83%9C%E3%82%B9%E3%83%88%E3%83%B3%E5%B8%82%E3%81%AE%E4%BD%8F%E5%AE%85%E4%BE%A1%E6%A0%BC%E3%82%92%E8%AA%BF%E3%81%B9%E3%81%A6%E3%81%BF%E3%82%8B\/>",
+        "user": "UGPH97FDW",
+        "ts": "1554717703.000500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "AI人工知能テクノロジー",
+                "title": "ボストン市の住宅価格を調べてみる - AI人工知能テクノロジー",
+                "title_link": "https:\/\/newtechnologylifestyle.net\/%E3%83%9C%E3%82%B9%E3%83%88%E3%83%B3%E5%B8%82%E3%81%AE%E4%BD%8F%E5%AE%85%E4%BE%A1%E6%A0%BC%E3%82%92%E8%AA%BF%E3%81%B9%E3%81%A6%E3%81%BF%E3%82%8B\/",
+                "text": "ボストン市の住宅価格を調べてみる scikit-learnのデータを用いてボストン市の住宅価格を調べてみます。今回は回帰の分類となります。犯罪発生数や住居の平均部屋数などの10数個のデータより、ボストン市の住宅価格を求めます。全学習データは506件ですが、そのうち学習用に8割、残り2割を評価用に用います。",
+                "fallback": "AI人工知能テクノロジー: ボストン市の住宅価格を調べてみる - AI人工知能テクノロジー",
+                "image_url": "https:\/\/newtechnologylifestyle.net\/wp-content\/uploads\/2018\/02\/ロンドン_1519212946.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1519212964,
+                "from_url": "https:\/\/newtechnologylifestyle.net\/%E3%83%9C%E3%82%B9%E3%83%88%E3%83%B3%E5%B8%82%E3%81%AE%E4%BD%8F%E5%AE%85%E4%BE%A1%E6%A0%BC%E3%82%92%E8%AA%BF%E3%81%B9%E3%81%A6%E3%81%BF%E3%82%8B\/",
+                "image_bytes": 409574,
+                "service_icon": "https:\/\/newtechnologylifestyle.net\/wp-content\/uploads\/2018\/03\/cropped-AI_1520863112-180x180.jpg",
+                "id": 1,
+                "original_url": "https:\/\/newtechnologylifestyle.net\/%E3%83%9C%E3%82%B9%E3%83%88%E3%83%B3%E5%B8%82%E3%81%AE%E4%BD%8F%E5%AE%85%E4%BE%A1%E6%A0%BC%E3%82%92%E8%AA%BF%E3%81%B9%E3%81%A6%E3%81%BF%E3%82%8B\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98e902e9-9396-45c4-9797-681c7ee07e83",
+        "type": "message",
+        "text": "<https:\/\/qiita.com\/Ryuoti_LagIn\/items\/c67aef976c21ba95d8d1>",
+        "user": "UGPH97FDW",
+        "ts": "1554719574.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "欠損値を含むデータセットの前処理について - Qiita",
+                "title_link": "https:\/\/qiita.com\/Ryuoti_LagIn\/items\/c67aef976c21ba95d8d1",
+                "text": "半年ほど機械学習に触れてなかったため、忘れたことを復習しました。 # 欠損値を扱う方法について 提供してもらったデータセットには、時折NaN(Not a Number)という欠損値データが含まれていることがある。 これを扱う方法に...",
+                "fallback": "Qiita: 欠損値を含むデータセットの前処理について - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/Ryuoti_LagIn\/items\/c67aef976c21ba95d8d1",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/Ryuoti_LagIn\/items\/c67aef976c21ba95d8d1"
+            }
+        ]
+    }
+]

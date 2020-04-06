@@ -1,0 +1,130 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "手法\n上の黄ライン訂正終了\n修論本文とドッキング済、UP済\n\n機械学習追記、未定",
+        "user": "UGQV9DXRC",
+        "ts": "1578208956.000400",
+        "thread_ts": "1576563619.001900",
+        "root": {
+            "type": "message",
+            "text": "修論リンクと進捗メモ\n<https:\/\/drive.google.com\/open?id=1ttj0nGKq8GCDAad6-ebSThVVxXrLWG4W>\n\n目次\n第1章　序論\n1.1　背景\n1.2　先行研究\n1.2.2　3軸加速度計と決定木を用いた生活活動分類\n1.2.3　3軸加速度計とランダムフォレストを用いた生活活動分類\n1.2.4　まとめ\n1.3　目的",
+            "files": [
+                {
+                    "id": "FRU8WE72B",
+                    "created": 1576563622,
+                    "timestamp": 1576563622,
+                    "name": "修論_鈴木1217.docx",
+                    "title": "修論_鈴木.docx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word Document",
+                    "user": "UGQV9DXRC",
+                    "editable": false,
+                    "size": 16073,
+                    "mode": "external",
+                    "is_external": true,
+                    "external_type": "gdrive",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/drive.google.com\/open?id=1ttj0nGKq8GCDAad6-ebSThVVxXrLWG4W",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_64.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_80.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_360.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_360_w": 255,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_480.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_480_w": 339,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_160.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_720.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_720_w": 509,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_800.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1131,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_960.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_960_w": 679,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FRU8WE72B-6312e36173\/_____________1217_1024.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                    "thumb_1024_w": 724,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 1,
+                    "original_w": 1024,
+                    "original_h": 1448,
+                    "thumb_tiny": "AwAwACHSJA6mlBB6dqbJ0FM3Ed6TaQEtFQ7z\/ep8ZznnNCkmA+iiimA2TpTO3QU+TpTPwoAPwpyd6bn2\/Snp3oAdRRRQAyTOBjFR\/P6ipiMijaPSgCLB9R+VPjBGcnP4U7aPSlAA6UAFFFFAH\/\/Z",
+                    "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FRU8WE72B\/_____________1217.docx",
+                    "is_starred": false,
+                    "external_id": "1ttj0nGKq8GCDAad6-ebSThVVxXrLWG4W",
+                    "external_url": "https:\/\/drive.google.com\/open?id=1ttj0nGKq8GCDAad6-ebSThVVxXrLWG4W",
+                    "has_rich_preview": true
+                }
+            ],
+            "upload": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gKL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "修論リンクと進捗メモ\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/drive.google.com\/open?id=1ttj0nGKq8GCDAad6-ebSThVVxXrLWG4W"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n目次\n第1章　序論\n1.1　背景\n1.2　先行研究\n1.2.2　3軸加速度計と決定木を用いた生活活動分類\n1.2.3　3軸加速度計とランダムフォレストを用いた生活活動分類\n1.2.4　まとめ\n1.3　目的"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "user": "UGQV9DXRC",
+            "display_as_bot": false,
+            "x_files": [
+                "FRU8WE72B"
+            ],
+            "ts": "1576563619.001900",
+            "edited": {
+                "user": "UGQV9DXRC",
+                "ts": "1576647021.000000"
+            },
+            "client_msg_id": "f436e776-7c30-4cc6-98b9-326215fd0e3b",
+            "thread_ts": "1576563619.001900",
+            "reply_count": 7,
+            "reply_users_count": 1,
+            "latest_reply": "1578208956.000400",
+            "reply_users": [
+                "UGQV9DXRC"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WiFY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "手法\n上の黄ライン訂正終了\n修論本文とドッキング済、UP済\n\n機械学習追記、未定"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4f0deb66-ffa9-49b4-bd24-cb81bd3c6f3e"
+    }
+]

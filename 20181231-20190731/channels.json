@@ -1,0 +1,713 @@
+[
+{
+    "id": "CGNPXKKNC",
+    "name": "random",
+    "created": 1551796091,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UHC5VBV5E",
+        "UHDCWB95X",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6",
+        "UUZ15LS10",
+        "UUZ15MZT4",
+        "UV0AL2ZNX",
+        "UVBQW1MAR"
+    ],
+    "topic": {
+        "value": "仕事に関係ない雑談と給湯室でのおしゃべり",
+        "creator": "UGQV9DXRC",
+        "last_set": 1551796091
+    },
+    "purpose": {
+        "value": "仕事に関係ないペチャクチャ、ワイワイ、ざわざわといったチャンネルは、仕事に関係したチャンネルとは別にしておいたほうがいいです。",
+        "creator": "UGQV9DXRC",
+        "last_set": 1551796091
+    }
+},
+{
+    "id": "CGNQF4DTJ",
+    "name": "project_m2鈴木",
+    "created": 1551797034,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UGQV9DXRC",
+        "UHC5VBV5E",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6",
+        "UUZ15MZT4"
+    ],
+    "pins": [
+        {
+            "id": "1576563619.001900",
+            "type": "C",
+            "created": 1580042005,
+            "user": "UGQV9DXRC",
+            "owner": "UGQV9DXRC"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "UGQV9DXRC",
+        "last_set": 1551881819
+    },
+    "purpose": {
+        "value": "鈴木の研究について",
+        "creator": "UGQV9DXRC",
+        "last_set": 1551946903
+    }
+},
+{
+    "id": "CGPF92V7E",
+    "name": "schedule",
+    "created": 1551796091,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": true,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UGQV9DXRC",
+        "UHC5VBV5E",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6",
+        "UHV3GN694",
+        "UUZ15LS10",
+        "UUZ15MZT4",
+        "UV0AL2ZNX",
+        "UVBQW1MAR"
+    ],
+    "topic": {
+        "value": "集合の予定日、時刻、場所",
+        "creator": "UGQV9DXRC",
+        "last_set": 1551796182
+    },
+    "purpose": {
+        "value": "ゼミや集合日の日程チェック用",
+        "creator": "UGQV9DXRC",
+        "last_set": 1551796182
+    }
+},
+{
+    "id": "CGPSV31U5",
+    "name": "meeting",
+    "created": 1551797438,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UHC5VBV5E",
+        "UHDCWB95X",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6",
+        "UHV3GN694",
+        "UUZ15LS10",
+        "UUZ15MZT4",
+        "UV0AL2ZNX",
+        "UVBQW1MAR",
+        "U01157Q4E2J"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "UGQV9DXRC",
+        "last_set": 1552365446
+    },
+    "purpose": {
+        "value": "メンバーへの相談",
+        "creator": "UGQV9DXRC",
+        "last_set": 1552365446
+    }
+},
+{
+    "id": "CGRTJDWA1",
+    "name": "project_m2岡田",
+    "created": 1551947035,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UHC5VBV5E",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "岡田くんの研究について",
+        "creator": "UGQV9DXRC",
+        "last_set": 1551947036
+    }
+},
+{
+    "id": "CGSKZQ63H",
+    "name": "project_m1清水",
+    "created": 1551947005,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UHC5VBV5E",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6"
+    ],
+    "pins": [
+        {
+            "id": "1554620615.009500",
+            "type": "C",
+            "created": 1554623154,
+            "user": "UGQ2ENZD0",
+            "owner": "UGQ2ENZD0"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "清水の研究に関するチャンネルです．通知はOnly Direct Messages &amp; Highlight Wordsで大丈夫です．",
+        "creator": "UGQ2ENZD0",
+        "last_set": 1552720599
+    }
+},
+{
+    "id": "CGT0P68RL",
+    "name": "announcements",
+    "created": 1551945066,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UHC5VBV5E",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6",
+        "UHV3GN694",
+        "UUZ15LS10",
+        "UUZ15MZT4",
+        "UV0AL2ZNX",
+        "UVBQW1MAR"
+    ],
+    "pins": [
+        {
+            "id": "1564802193.000200",
+            "type": "C",
+            "created": 1564802220,
+            "user": "UHFLB6JPR",
+            "owner": "UHFLB6JPR"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "先生からの所連絡",
+        "creator": "UGQV9DXRC",
+        "last_set": 1551945067
+    }
+},
+{
+    "id": "CH7LZJZ89",
+    "name": "project_b4根本",
+    "created": 1554010058,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UHC5VBV5E",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6",
+        "UUZ15LS10",
+        "UUZ15MZT4",
+        "UV0AL2ZNX",
+        "UVBQW1MAR"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "根本の研究関連",
+        "creator": "UGQV9DXRC",
+        "last_set": 1554010059
+    }
+},
+{
+    "id": "CH88VUU8N",
+    "name": "progress",
+    "created": 1553247092,
+    "creator": "UGQ2ENZD0",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UHC5VBV5E",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "各自の進捗を報告しあう場です．細かな進捗でもどんどん報告していきましょう！",
+        "creator": "UGQ2ENZD0",
+        "last_set": 1553247093
+    }
+},
+{
+    "id": "CHC6KEGM6",
+    "name": "entrance-exam",
+    "created": 1553843719,
+    "creator": "UGQ2ENZD0",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UHC5VBV5E",
+        "UHEH8KZ7W"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "院試対策用のチャンネルです！勉強，しよう！",
+        "creator": "UGQ2ENZD0",
+        "last_set": 1553843720
+    }
+},
+{
+    "id": "CHFLKGE31",
+    "name": "project_fukuda",
+    "created": 1553842365,
+    "creator": "UHEH8KZ7W",
+    "is_archived": false,
+    "is_general": false,
+    "members": [],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "CHGBUNZRS",
+    "name": "project_b4都竹",
+    "created": 1554010170,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UHC5VBV5E",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6",
+        "UUZ15LS10",
+        "UUZ15MZT4",
+        "UV0AL2ZNX",
+        "UVBQW1MAR"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "都竹の研究関連",
+        "creator": "UGQV9DXRC",
+        "last_set": 1554010171
+    }
+},
+{
+    "id": "CHGBW1WUC",
+    "name": "project_b4野澤",
+    "created": 1554010519,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UHC5VBV5E",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "CHGQV51TM",
+    "name": "project_m1高柳",
+    "created": 1555054529,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UGSL6PTU7",
+        "UHC5VBV5E",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6",
+        "UHV3GN694"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "高柳さんの研究に関する話合い、メモなどに用いるチャンネルです",
+        "creator": "UGQV9DXRC",
+        "last_set": 1555054742
+    }
+},
+{
+    "id": "CHHRNNY4E",
+    "name": "project_b4福田",
+    "created": 1554010593,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UHC5VBV5E",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6",
+        "UUZ15LS10",
+        "UUZ15MZT4",
+        "UV0AL2ZNX",
+        "UVBQW1MAR"
+    ],
+    "pins": [
+        {
+            "id": "1554256853.002500",
+            "type": "C",
+            "created": 1554256860,
+            "user": "UHEH8KZ7W",
+            "owner": "UHEH8KZ7W"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "CHJN0BV89",
+    "name": "documents",
+    "created": 1554861487,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UGSL6PTU7",
+        "UHC5VBV5E",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6",
+        "UHV3GN694",
+        "UUZ15LS10",
+        "UUZ15MZT4",
+        "UV0AL2ZNX",
+        "UVBQW1MAR",
+        "U010TCMJNHX"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "ゼミやMTGの資料、議事録をアップ",
+        "creator": "UGQV9DXRC",
+        "last_set": 1554861488
+    }
+},
+{
+    "id": "CHKNXRS4F",
+    "name": "python_study",
+    "created": 1554192700,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UUZ15LS10",
+        "UUZ15MZT4",
+        "UV0AL2ZNX",
+        "UVBQW1MAR"
+    ],
+    "pins": [
+        {
+            "id": "1554192729.000900",
+            "type": "C",
+            "created": 1554192741,
+            "user": "UGQV9DXRC",
+            "owner": "UGQV9DXRC"
+        },
+        {
+            "id": "1554193147.001500",
+            "type": "C",
+            "created": 1554193151,
+            "user": "UGQV9DXRC",
+            "owner": "UGQV9DXRC"
+        },
+        {
+            "id": "1554193287.002200",
+            "type": "C",
+            "created": 1554193290,
+            "user": "UGQV9DXRC",
+            "owner": "UGQV9DXRC"
+        },
+        {
+            "id": "1554193306.002500",
+            "type": "C",
+            "created": 1554193309,
+            "user": "UGQV9DXRC",
+            "owner": "UGQV9DXRC"
+        },
+        {
+            "id": "1554193424.004200",
+            "type": "C",
+            "created": 1554193455,
+            "user": "UGQV9DXRC",
+            "owner": "UGPH97FDW"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "python勉強会の準備用チャンネル",
+        "creator": "UGQV9DXRC",
+        "last_set": 1554192701
+    }
+},
+{
+    "id": "CJB682ZV1",
+    "name": "project_運動教室",
+    "created": 1557813647,
+    "creator": "UGPH97FDW",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UHC5VBV5E",
+        "UHDCWB95X",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6",
+        "UUZ15LS10",
+        "UUZ15MZT4",
+        "UV0AL2ZNX",
+        "UVBQW1MAR"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "CJHU8M93L",
+    "name": "study_python根本",
+    "created": 1558423475,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGQ2ENZD0",
+        "UHC5VBV5E"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "根本鈴木がpythonの勉強するのに使う",
+        "creator": "UGQV9DXRC",
+        "last_set": 1558423476
+    }
+},
+{
+    "id": "CJZ0QGKRB",
+    "name": "project_こども食堂",
+    "created": 1558677967,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UHC5VBV5E",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UUZ15LS10",
+        "UUZ15MZT4",
+        "UV0AL2ZNX",
+        "UVBQW1MAR"
+    ],
+    "pins": [
+        {
+            "id": "1568106683.009500",
+            "type": "C",
+            "created": 1568173297,
+            "user": "UGQV9DXRC",
+            "owner": "UGQV9DXRC"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "CK8V1S16V",
+    "name": "機械学習カテゴリー",
+    "created": 1560244849,
+    "creator": "UHC5VBV5E",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UGQ2ENZD0",
+        "UHC5VBV5E",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "「機械学習図鑑」と「機械学習と深層学習」の２冊をまとめ、機械学習の分類を行っていく。",
+        "creator": "UHC5VBV5E",
+        "last_set": 1560245391
+    }
+},
+{
+    "id": "CKWT4TANP",
+    "name": "study_statistics",
+    "created": 1562635360,
+    "creator": "UGQV9DXRC",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "UGPH97FDW",
+        "UHC5VBV5E",
+        "UHEH8KZ7W",
+        "UHFLB6JPR",
+        "UHFLC6N4X",
+        "UHG1M1NQ6"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "学生勉強会で実施中の統計の勉強に関するチャンネルです",
+        "creator": "UGQV9DXRC",
+        "last_set": 1562635364
+    }
+}
+]

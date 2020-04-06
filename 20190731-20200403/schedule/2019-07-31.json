@@ -1,0 +1,379 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : ゼミで話す事がある人はいますか？",
+        "user": "USLACKBOT",
+        "ts": "1564617612.000100",
+        "team": "TGNPXK07J",
+        "reactions": [
+            {
+                "name": "heavy_multiplication_x",
+                "users": [
+                    "UHFLC6N4X",
+                    "UHEH8KZ7W"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11d77bc2-f9df-40cf-95dc-053eb1b1ab81",
+        "type": "message",
+        "text": "<!channel>　旅行などで長期的に不在の予定がある人はここにリプライしてください。",
+        "user": "UGQV9DXRC",
+        "ts": "1564640927.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564640927.001000",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1564983543.001300",
+        "reply_users": [
+            "UGQV9DXRC",
+            "UHC5VBV5E",
+            "UHG1M1NQ6",
+            "UHFLC6N4X",
+            "UGPH97FDW"
+        ],
+        "replies": [
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1564641004.002000"
+            },
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1564641125.004100"
+            },
+            {
+                "user": "UGQV9DXRC",
+                "ts": "1564641133.004400"
+            },
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1564642039.007900"
+            },
+            {
+                "user": "UHFLC6N4X",
+                "ts": "1564980238.000100"
+            },
+            {
+                "user": "UGPH97FDW",
+                "ts": "1564983543.001300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1564991902.000730"
+    },
+    {
+        "client_msg_id": "6d3336f2-cc3c-4821-b4c3-a2faadb1bb3b",
+        "type": "message",
+        "text": "8月12-14、16-18　旅行",
+        "user": "UGQV9DXRC",
+        "ts": "1564641004.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1564641042.000000"
+        },
+        "thread_ts": "1564640927.001000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "4cd52fef-2d3b-4e8e-a6f2-f7f8fa093fd4",
+        "type": "message",
+        "text": "8月18日~8月25日",
+        "user": "UHC5VBV5E",
+        "ts": "1564641125.004100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564640927.001000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "7ea125b8-d092-4f26-85e8-bc8b7533844b",
+        "type": "message",
+        "text": "6日と9日は全員参加でゼミを行いましょう。\n11日の週と18日の週はゼミなしにします。\n26，27，28日でゼミを1回設定してください。また、その3日間に中間発表に向けて個別相談を1人1時間ずつ設けるので、岡田を含む全員アポイントを取ってください。",
+        "user": "UHFLB6JPR",
+        "ts": "1564641129.004300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UHC5VBV5E",
+                    "UGPH97FDW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2bdd249e-13be-4eec-8e64-49d68d8a86fc",
+        "type": "message",
+        "text": "野澤　18〜25",
+        "user": "UGQV9DXRC",
+        "ts": "1564641133.004400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564640927.001000",
+        "parent_user_id": "UGQV9DXRC"
+    },
+    {
+        "client_msg_id": "c5ace000-9b25-4851-9775-2685dfe909cc",
+        "type": "message",
+        "text": "<!channel>\nゼミの日程調整に回答してください\n参加できる日",
+        "user": "UGQV9DXRC",
+        "ts": "1564641295.005700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1564641414.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@UGQV9DXRC> has a poll for you!",
+        "ts": "1564641392.005900",
+        "username": "Polly",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2019-04-04\/600134185620_48.png"
+        },
+        "bot_id": "BHDCWB90R",
+        "attachments": [
+            {
+                "callback_id": "ESrtrPNasDvGnSr4Z",
+                "fallback": "ゼミ日程調整",
+                "text": "You may vote for multiple options",
+                "title": "ゼミ日程調整",
+                "id": 1,
+                "color": "35A8E0",
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "one",
+                        "text": "8\/26月 午前",
+                        "type": "button",
+                        "value": "0",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "two",
+                        "text": "8\/26月 午後",
+                        "type": "button",
+                        "value": "1",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "three",
+                        "text": "8\/27火 午前",
+                        "type": "button",
+                        "value": "2",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "callback_id": "ESrtrPNasDvGnSr4Z",
+                "fallback": "ゼミ日程調整",
+                "id": 2,
+                "color": "35A8E0",
+                "actions": [
+                    {
+                        "id": "4",
+                        "name": "four",
+                        "text": "8\/27火 午後",
+                        "type": "button",
+                        "value": "3",
+                        "style": ""
+                    },
+                    {
+                        "id": "5",
+                        "name": "five",
+                        "text": "8\/28水 午前",
+                        "type": "button",
+                        "value": "4",
+                        "style": ""
+                    },
+                    {
+                        "id": "6",
+                        "name": "six",
+                        "text": "8\/28水 午後",
+                        "type": "button",
+                        "value": "5",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "callback_id": "ESrtrPNasDvGnSr4Z",
+                "fallback": "ゼミ日程調整",
+                "id": 3,
+                "fields": [
+                    {
+                        "title": "8\/26月 午前",
+                        "value": "`▇▇▇▇▇▇▇▇` 15% (4)\n<@UGQV9DXRC>, <@UHEH8KZ7W>, <@UGPH97FDW>, +1 more",
+                        "short": true
+                    },
+                    {
+                        "title": "8\/26月 午後",
+                        "value": "`▇▇▇▇▇▇▇▇` 15% (4)\n<@UHEH8KZ7W>, <@UGPH97FDW>, <@UGQV9DXRC>, +1 more",
+                        "short": true
+                    },
+                    {
+                        "title": "8\/27火 午前",
+                        "value": "`▇▇▇▇▇▇▇▇▇▇` 19% (5)\n<@UGQV9DXRC>, <@UHFLC6N4X>, <@UHEH8KZ7W>, +2 more",
+                        "short": true
+                    },
+                    {
+                        "title": "8\/27火 午後",
+                        "value": "`▇▇▇▇▇▇▇▇` 15% (4)\n<@UHEH8KZ7W>, <@UGPH97FDW>, <@UGQV9DXRC>, +1 more",
+                        "short": true
+                    },
+                    {
+                        "title": "8\/28水 午前",
+                        "value": "`▇▇▇▇▇▇▇▇` 15% (4)\n<@UGQV9DXRC>, <@UHEH8KZ7W>, <@UGPH97FDW>, +1 more",
+                        "short": true
+                    },
+                    {
+                        "title": "8\/28水 午後",
+                        "value": "`▇▇▇▇▇▇▇▇▇▇` 19% (5)\n<@UGQV9DXRC>, <@UHEH8KZ7W>, <@UGPH97FDW>, +2 more",
+                        "short": true
+                    },
+                    {
+                        "title": "Total votes",
+                        "value": "26",
+                        "short": true
+                    },
+                    {
+                        "title": "Comments (1 total)",
+                        "value": ":speech_balloon: <@UGQV9DXRC>: 28は内定者懇親会が入る可能性あり",
+                        "short": false
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "7",
+                        "name": "add_comments",
+                        "text": "Add a Comment",
+                        "type": "button",
+                        "value": "QbwT75rrJseD5YaGh",
+                        "style": ""
+                    },
+                    {
+                        "id": "8",
+                        "name": "view_all_responses_in_channel",
+                        "text": "View All Responses",
+                        "type": "button",
+                        "value": "QbwT75rrJseD5YaGh",
+                        "style": ""
+                    }
+                ],
+                "mrkdwn_in": [
+                    "fields"
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9efc0ac-bef7-4141-acf0-c04c5cdad3ce",
+        "type": "message",
+        "text": "8月24日〜27日(札幌)",
+        "user": "UHG1M1NQ6",
+        "ts": "1564642039.007900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564640927.001000",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

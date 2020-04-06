@@ -1,0 +1,593 @@
+[
+    {
+        "type": "message",
+        "text": "修正したものです。ご確認よろしくお願いします。",
+        "files": [
+            {
+                "id": "FUPF0U1P0",
+                "created": 1582854867,
+                "timestamp": 1582854867,
+                "name": "健康支援学会2020ポスター_都竹.pptx",
+                "title": "健康支援学会2020ポスター_都竹.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 1968873,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUPF0U1P0\/__________________2020___________________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUPF0U1P0\/download\/__________________2020___________________.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUPF0U1P0-7ace2efc3d\/__________________2020____________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUPF0U1P0-7ace2efc3d\/__________________2020____________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 3642,
+                "thumb_pdf_h": 5149,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FUPF0U1P0\/__________________2020___________________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FUPF0U1P0-557c21636a",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FU9QHJF6F",
+                "created": 1582854867,
+                "timestamp": 1582854867,
+                "name": "健康支援学会2020ポスター_都竹.pdf",
+                "title": "健康支援学会2020ポスター_都竹.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 879210,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FU9QHJF6F\/__________________2020___________________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FU9QHJF6F\/download\/__________________2020___________________.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU9QHJF6F-a9a6730868\/__________________2020____________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 3642,
+                "thumb_pdf_h": 5149,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FU9QHJF6F\/__________________2020___________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FU9QHJF6F-d25082fe95",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Ac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "修正したものです。ご確認よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHG1M1NQ6",
+        "ts": "1582854879.000100",
+        "client_msg_id": "22f8ea6a-dc90-4db8-a124-c09dd309648f"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FU8HSL9GA",
+                "created": 1582860872,
+                "timestamp": 1582860872,
+                "name": "健康支援学会2020_ポスターver03.pptx",
+                "title": "健康支援学会2020_ポスターver03",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 3609754,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FU8HSL9GA\/__________________2020________________ver03.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FU8HSL9GA\/download\/__________________2020________________ver03.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU8HSL9GA-f99d34b40b\/__________________2020________________ver03_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FU8HSL9GA-f99d34b40b\/__________________2020________________ver03_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 3642,
+                "thumb_pdf_h": 5149,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FU8HSL9GA\/__________________2020________________ver03.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FU8HSL9GA-a563b9ce12",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S5Ya",
+                "elements": []
+            }
+        ],
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1582860887.000100",
+        "client_msg_id": "F62296A0-7A34-40A4-A5FF-95ABDB3AA342"
+    },
+    {
+        "client_msg_id": "46edf560-4358-4f71-9e69-e94157c0b767",
+        "type": "message",
+        "text": "<@UHG1M1NQ6> <@UHC5VBV5E> <@UGQV9DXRC> <@UHV3GN694>\n体育事務室の松浦さんから飛行機で貰うチケットと学会で貰う名札は「絶対に捨てない」ようにお願いしますとのことです",
+        "user": "UHEH8KZ7W",
+        "ts": "1582865749.001700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cYj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UHG1M1NQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHC5VBV5E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UGQV9DXRC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHV3GN694"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n体育事務室の松浦さんから飛行機で貰うチケットと学会で貰う名札は「絶対に捨てない」ようにお願いしますとのことです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok",
+                "users": [
+                    "UHV3GN694"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "最終版です。ドライブにもパワポのものとPDFをあげました。\nパワポ\n<https:\/\/drive.google.com\/file\/d\/1Tqb0T3JpXPNsdh3q4eNTya21h9a6_z0_\/view?usp=sharing>\nPDF\n<https:\/\/drive.google.com\/file\/d\/14fvetKAILJt4f0-a5lt4H0cumVMNFnxA\/view?usp=sharing>",
+        "files": [
+            {
+                "id": "FUME97HGV",
+                "created": 1582866681,
+                "timestamp": 1582866681,
+                "name": "健康支援学会ポスター2020_高柳.pdf",
+                "title": "健康支援学会ポスター2020_高柳.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHV3GN694",
+                "editable": false,
+                "size": 8663590,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUME97HGV\/______________________________2020_______.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUME97HGV\/download\/______________________________2020_______.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUME97HGV-4fdc2c827e\/______________________________2020________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 3641,
+                "thumb_pdf_h": 5149,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHV3GN694\/FUME97HGV\/______________________________2020_______.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FUME97HGV-a7f93842ae",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FUME97NSH",
+                "created": 1582866682,
+                "timestamp": 1582866682,
+                "name": "健康支援学会ポスター2020_高柳_ver.5.pptx",
+                "title": "健康支援学会ポスター2020_高柳_ver.5.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHV3GN694",
+                "editable": false,
+                "size": 8725878,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUME97NSH\/______________________________2020________ver.5.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FUME97NSH\/download\/______________________________2020________ver.5.pptx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUME97NSH-af06e8e978\/______________________________2020________ver.5_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FUME97NSH-af06e8e978\/______________________________2020________ver.5_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 3642,
+                "thumb_pdf_h": 5149,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHV3GN694\/FUME97NSH\/______________________________2020________ver.5.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FUME97NSH-4563e19674",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DBH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最終版です。ドライブにもパワポのものとPDFをあげました。\nパワポ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1Tqb0T3JpXPNsdh3q4eNTya21h9a6_z0_\/view?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPDF\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/14fvetKAILJt4f0-a5lt4H0cumVMNFnxA\/view?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHV3GN694",
+        "ts": "1582866698.001900",
+        "client_msg_id": "0445fd1e-d2ce-4f5b-816d-ea7ff573a23a"
+    },
+    {
+        "client_msg_id": "4a504722-e258-494c-8a11-8dd7e836c630",
+        "type": "message",
+        "text": "都竹は医師の判断で今飛行機に乗ると悪化のリスクが高いということで行かないことになりました。1人分のキャンセルの手続きをお願いします。\n\n●支払前の出張が中止になった場合\nキャンセル料が発生する場合\n添付書類：１）キャンセル料の明細\n             　２）キャンセル料の領収書原本、\n３）用務が中止になったことがわかる資料\n             　（ない場合は事情を記載した理由書）",
+        "user": "UHFLB6JPR",
+        "ts": "1582869243.005700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=\/6N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "都竹は医師の判断で今飛行機に乗ると悪化のリスクが高いということで行かないことになりました。1人分のキャンセルの手続きをお願いします。\n\n●支払前の出張が中止になった場合\nキャンセル料が発生する場合\n添付書類：１）キャンセル料の明細\n             　２）キャンセル料の領収書原本、\n３）用務が中止になったことがわかる資料\n             　（ない場合は事情を記載した理由書）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d0e302b-5365-4b69-87f2-554f2e703bce",
+        "type": "message",
+        "text": "下記サイトによると減室ならキャンセル対応してもらえそうなので、電話して確認しています。\n<https:\/\/help.jalan.net\/ajp\/s\/article\/000005089>",
+        "user": "UGQV9DXRC",
+        "ts": "1582869739.009100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ncW2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "下記サイトによると減室ならキャンセル対応してもらえそうなので、電話して確認しています。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/help.jalan.net\/ajp\/s\/article\/000005089"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "345c3d0f-7bbd-4b3f-be63-857690d5822e",
+        "type": "message",
+        "text": "旅行者に電話したところ、コロナの為キャンセル料かからないそうです\n都竹君の分は全額返金になります\n返金先の口座は指定できるそうなのですが、都竹君の分は先生がお支払いされていると思うので、先生の口座にされますか？",
+        "user": "UGQV9DXRC",
+        "ts": "1582870664.011000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NUa4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "旅行者に電話したところ、コロナの為キャンセル料かからないそうです\n都竹君の分は全額返金になります\n返金先の口座は指定できるそうなのですが、都竹君の分は先生がお支払いされていると思うので、先生の口座にされますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "71D07178-94EE-4AF6-96DC-D90EED893B49",
+        "type": "message",
+        "text": "お願いします\nSMBC信託銀行\n池袋支店　普通\n7608561\n大河原一憲",
+        "user": "UHFLB6JPR",
+        "ts": "1582871217.012800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E9F8291E-4C5F-499A-B905-4503F6B4DE95",
+        "type": "message",
+        "text": "日本健康支援学会\n学会員のみなさまへ\n\nお世話になっております。\n第21回日本健康支援学会年次学術大会事務局からのお知らせです。\n\n***************************************\n第21回日本健康支援学会年次学術大会の現地開催中止と誌上・Web開催についてのお知らせ\n\nかねてから新型コロナウイルス感染症の拡大状況を注視してまいりましたが、一昨日にあった政府からの２週間に渡るイベント等の自粛要請、ならびに昨日夕刻に首相による全国一律の初等・中等学校への長期一斉休校要請等の情勢の急変を踏まえ、第21回年次学術大会（那覇市ぶんかテンブス館、３月７〜８日）の通常開催は困難と判断し、同大会の現地開催を中止して誌上・Web上での開催に変更する決定をいたしました。３月７日に予定しておりました市民公開講座も中止します。\n\n皆様には多大なご迷惑をおかけしますが、何卒ご理解ご協力のほど、お願い申し上げます。\n\n本決定に伴い同大会への参加・発表については以下のように取り扱います。 \n１．同大会におけるすべての発表は、以下の条件を満たせば正式に成立したものとします。\n　　１）一般演題については登壇者の参加費が納入されていること。\n　　２）演題抄録が「健康支援第22巻第１号」に掲載されていること（各抄録は大会Webサイトでも公開予定）。\n　　［注］今後、発表用のポスター\/スライド（PDFファイル）を大会Webサイトで公開できるように準備します。\n　　３）例年通り年次学術大会優秀発表賞を選考し、口頭発表部門とポスター発表部門の受賞者を大会Webサイト上で発表する。\n２．納入済みの参加費は返金いたしません。参加費未払いの方は、事前参加登録と同額にて申し受けます。参加費納入者には後日参加証・領収書を郵送いたします。\n３．年次学術大会現地開催中止に伴う旅費、宿泊費のキャンセル料等の費用は負担いたしかねます。 \n\nお問合せ等はごく緊急のものに限り大会実行委員会宛にメール（<mailto:kenkoushien21@gmail.com|kenkoushien21@gmail.com>）にてお願いいたします。電話対応はいたしかねますので何卒ご了承ください。 \n\n第21回日本健康支援学会年次学術大会　大会長　遠藤 洋志\n\n日本健康支援学会　理事長　田中 喜代次\n***************************************\n\n\n日本健康支援学会事務局\n　　事務局長　中田由夫\n〒305-8577\n茨城県つくば市天王台1-1-1\n筑波大学総合研究棟D606中田研究室内\nTEL： <tel:029-853-7624|029-853-7624>\nE-mail： <mailto:kenkousien.info@gmail.com|kenkousien.info@gmail.com>\n\nこれってつまり中止ってことですよね…",
+        "user": "UHEH8KZ7W",
+        "ts": "1582875938.013700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oswd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "日本健康支援学会\n学会員のみなさまへ\n\nお世話になっております。\n第21回日本健康支援学会年次学術大会事務局からのお知らせです。\n\n***************************************\n第21回日本健康支援学会年次学術大会の現地開催中止と誌上・Web開催についてのお知らせ\n\nかねてから新型コロナウイルス感染症の拡大状況を注視してまいりましたが、一昨日にあった政府からの２週間に渡るイベント等の自粛要請、ならびに昨日夕刻に首相による全国一律の初等・中等学校への長期一斉休校要請等の情勢の急変を踏まえ、第21回年次学術大会（那覇市ぶんかテンブス館、３月７〜８日）の通常開催は困難と判断し、同大会の現地開催を中止して誌上・Web上での開催に変更する決定をいたしました。３月７日に予定しておりました市民公開講座も中止します。\n\n皆様には多大なご迷惑をおかけしますが、何卒ご理解ご協力のほど、お願い申し上げます。\n\n本決定に伴い同大会への参加・発表については以下のように取り扱います。 \n１．同大会におけるすべての発表は、以下の条件を満たせば正式に成立したものとします。\n　　１）一般演題については登壇者の参加費が納入されていること。\n　　２）演題抄録が「健康支援第22巻第１号」に掲載されていること（各抄録は大会Webサイトでも公開予定）。\n　　［注］今後、発表用のポスター\/スライド（PDFファイル）を大会Webサイトで公開できるように準備します。\n　　３）例年通り年次学術大会優秀発表賞を選考し、口頭発表部門とポスター発表部門の受賞者を大会Webサイト上で発表する。\n２．納入済みの参加費は返金いたしません。参加費未払いの方は、事前参加登録と同額にて申し受けます。参加費納入者には後日参加証・領収書を郵送いたします。\n３．年次学術大会現地開催中止に伴う旅費、宿泊費のキャンセル料等の費用は負担いたしかねます。 \n\nお問合せ等はごく緊急のものに限り大会実行委員会宛にメール（"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:kenkoushien21@gmail.com",
+                                "text": "kenkoushien21@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）にてお願いいたします。電話対応はいたしかねますので何卒ご了承ください。 \n\n第21回日本健康支援学会年次学術大会　大会長　遠藤 洋志\n\n日本健康支援学会　理事長　田中 喜代次\n***************************************\n\n\n日本健康支援学会事務局\n　　事務局長　中田由夫\n〒305-8577\n茨城県つくば市天王台1-1-1\n筑波大学総合研究棟D606中田研究室内\nTEL： 029-853-7624\nE-mail： "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:kenkousien.info@gmail.com",
+                                "text": "kenkousien.info@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれってつまり中止ってことですよね…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a1cdfe6-ed5b-4e85-9731-1cd462321e17",
+        "type": "message",
+        "text": "中止だね",
+        "user": "UGQV9DXRC",
+        "ts": "1582876632.013900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pS70",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "中止だね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a95e6c7f-98b7-4bac-be73-b5333a26c3b1",
+        "type": "message",
+        "text": "さっきキャンセルしたところなのに！笑\nそしたら都竹君の分キャンセルの承認が終わったら、全体のもお願いできる？",
+        "user": "UGQV9DXRC",
+        "ts": "1582876671.014700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SRP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "さっきキャンセルしたところなのに！笑\nそしたら都竹君の分キャンセルの承認が終わったら、全体のもお願いできる？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

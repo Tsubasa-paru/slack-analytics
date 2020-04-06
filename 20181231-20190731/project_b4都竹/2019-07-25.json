@@ -1,0 +1,113 @@
+[
+    {
+        "client_msg_id": "36981716-2962-4f5e-bc19-5318457c309f",
+        "type": "message",
+        "text": "<https:\/\/japan.cnet.com\/article\/35094677\/>",
+        "user": "UGQV9DXRC",
+        "ts": "1564114817.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CNET Japan",
+                "title": "高齢者や視力の弱い人に最適、大型ボタンで操作しやすい簡単電話アプリ6選",
+                "title_link": "https:\/\/japan.cnet.com\/article\/35094677\/",
+                "text": "今回はランチャーアプリのうち、電話のかけやすさを重視したアプリと、ホーム画面の置き換え機能はないものの電話機能に限定して大型ボタンを提供している専用アプリ、計6つを紹介する。",
+                "fallback": "CNET Japan: 高齢者や視力の弱い人に最適、大型ボタンで操作しやすい簡単電話アプリ6選",
+                "image_url": "https:\/\/japan.cnet.com\/storage\/2017\/01\/06\/0b2444180f7f6494ba6c8dca0152bf23\/t\/640\/480\/d\/raku_0106_s.jpg",
+                "ts": 1484445600,
+                "from_url": "https:\/\/japan.cnet.com\/article\/35094677\/",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 96318,
+                "service_icon": "https:\/\/japan.cnet.com\/static\/img\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/japan.cnet.com\/article\/35094677\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be9f7200-3ab8-4fed-817b-24f28f31b0ee",
+        "type": "message",
+        "text": "色覚異常の確認ツール\n<https:\/\/www.color.or.jp\/about_cud\/tool\/>",
+        "user": "UGQV9DXRC",
+        "ts": "1564115025.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "北海道カラーユニバーサルデザイン機構",
+                "title": "色覚シミュレーション・補助ツール | カラーユニバーサルデザイン（CUD）とは | 北海道カラーユニバーサルデザイン機構",
+                "title_link": "https:\/\/www.color.or.jp\/about_cud\/tool\/",
+                "text": "色覚シミュレーションおよび補助ツールの紹介スマートフォンアプリ【無料】様々な色覚を持つ人の色の見え方をサポートおよびシミュレーションする、スマートフォン用アプリが無料で提供されています。色のシミュレータスマートフォンの画面を通して、簡単にシミュレーションを確認できるアプリです。シミュレーション画像は保存することができます。対応：iOS, Android, Webブラウザ色のシミュレータWebサイト、App Store（iOS）、Google Pla",
+                "fallback": "北海道カラーユニバーサルデザイン機構: 色覚シミュレーション・補助ツール | カラーユニバーサルデザイン（CUD）とは | 北海道カラーユニバーサルデザイン機構",
+                "from_url": "https:\/\/www.color.or.jp\/about_cud\/tool\/",
+                "id": 1,
+                "original_url": "https:\/\/www.color.or.jp\/about_cud\/tool\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e6ba109-de93-47fe-9b56-c6d43500351b",
+        "type": "message",
+        "text": "<http:\/\/android-java.hatenablog.jp\/entry\/2018\/03\/27\/115126>",
+        "user": "UGQ2ENZD0",
+        "ts": "1564115312.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Android アプリ開発「MATRIX」",
+                "title": "音声を認識して結果をテキスト表示する方法（音声認識アプリ） - Android アプリ開発「MATRIX」",
+                "title_link": "http:\/\/android-java.hatenablog.jp\/entry\/2018\/03\/27\/115126",
+                "text": "\/\/ \/\/ 簡単な音声認識アプリを作る 今回は、グーグルが提供している音声認識システムを使用した簡単な音声認識アプリを作ってみたいと思います。 詳細についてはコード内にコメントで記載してありますので、そちらをご覧ください サンプルコード①（MainActivity.java） ポイントは、音声認識が完了した後の処理をする「onActivityResult」をオーバーライドするところです。これがないと音声認識の結果を受け取ることができませんので、必ず追加してください。 import android.content.Intent;import android.speech.RecognizerIn…",
+                "fallback": "Android アプリ開発「MATRIX」: 音声を認識して結果をテキスト表示する方法（音声認識アプリ） - Android アプリ開発「MATRIX」",
+                "image_url": "https:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/v\/vw-dsg\/20180327\/20180327114021.png",
+                "ts": 1522119086,
+                "from_url": "http:\/\/android-java.hatenablog.jp\/entry\/2018\/03\/27\/115126",
+                "image_width": 141,
+                "image_height": 250,
+                "image_bytes": 32550,
+                "service_icon": "https:\/\/cdn.image.st-hatena.com\/image\/apple_touch_icon\/51b1e407b4f504a6019b946969faf38b054f1779\/version=1\/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fcustom_blog_icon%2F117344217%2F1514184002578769",
+                "id": 1,
+                "original_url": "http:\/\/android-java.hatenablog.jp\/entry\/2018\/03\/27\/115126"
+            }
+        ]
+    }
+]

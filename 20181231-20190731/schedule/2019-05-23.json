@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "9b90ce26-c9d3-451d-99ac-7673646a8158",
+        "type": "message",
+        "text": "明日のゼミですが家庭の事情のため欠席します。申し訳ございません。来週のどこかで相談させてください。",
+        "user": "UHG1M1NQ6",
+        "ts": "1558621951.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

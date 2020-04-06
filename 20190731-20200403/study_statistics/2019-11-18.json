@@ -1,0 +1,177 @@
+[
+    {
+        "client_msg_id": "a7a76523-2bb5-4981-adfd-4311aea75f7c",
+        "type": "message",
+        "text": "統計課題\n<http:\/\/kogolab.chillout.jp\/elearn\/icecream\/chap2\/sec0.html>",
+        "user": "UHC5VBV5E",
+        "ts": "1574128998.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1574128998.000300",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1574135999.001200",
+        "reply_users": [
+            "UHC5VBV5E",
+            "UHEH8KZ7W",
+            "UHG1M1NQ6"
+        ],
+        "replies": [
+            {
+                "user": "UHC5VBV5E",
+                "ts": "1574129057.000400"
+            },
+            {
+                "user": "UHEH8KZ7W",
+                "ts": "1574129565.000800"
+            },
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1574135999.001200"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1574135999.001200"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FQRUBK1F0",
+                "created": 1574129055,
+                "timestamp": 1574129055,
+                "name": "アイスクリーム統計_2.xlsx",
+                "title": "アイスクリーム統計_2.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 46444,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQRUBK1F0\/____________________________2.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQRUBK1F0\/download\/____________________________2.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQRUBK1F0-c692aeaed3\/____________________________2_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQRUBK1F0-c692aeaed3\/____________________________2_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FQRUBK1F0\/____________________________2.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FQRUBK1F0-57eeef057b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1574129057.000400",
+        "client_msg_id": "80c465fa-0934-44f0-86f0-a4ec31787da7",
+        "thread_ts": "1574128998.000300",
+        "parent_user_id": "UHC5VBV5E"
+    },
+    {
+        "type": "message",
+        "text": "thx",
+        "files": [
+            {
+                "id": "FQRUJ0UP8",
+                "created": 1574129562,
+                "timestamp": 1574129562,
+                "name": "アイスクリーム統計.xlsx",
+                "title": "アイスクリーム統計.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHEH8KZ7W",
+                "editable": false,
+                "size": 38878,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQRUJ0UP8\/___________________________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQRUJ0UP8\/download\/___________________________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQRUJ0UP8-173fff9bba\/____________________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQRUJ0UP8-173fff9bba\/____________________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHEH8KZ7W\/FQRUJ0UP8\/___________________________.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FQRUJ0UP8-f64615ed09",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEH8KZ7W",
+        "display_as_bot": false,
+        "ts": "1574129565.000800",
+        "client_msg_id": "9d878623-a221-4e15-8404-658f7de8af4d",
+        "thread_ts": "1574128998.000300",
+        "parent_user_id": "UHC5VBV5E"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FQRL70EDD",
+                "created": 1574135998,
+                "timestamp": 1574135998,
+                "name": "ice2.xlsx",
+                "title": "ice2.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHG1M1NQ6",
+                "editable": false,
+                "size": 17726,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQRL70EDD\/ice2.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQRL70EDD\/download\/ice2.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQRL70EDD-9d35744f56\/ice2_converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FQRL70EDD-9d35744f56\/ice2_thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHG1M1NQ6\/FQRL70EDD\/ice2.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FQRL70EDD-e0373ac23e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHG1M1NQ6",
+        "display_as_bot": false,
+        "ts": "1574135999.001200",
+        "client_msg_id": "0cd7f42d-612f-4f45-8f2f-755ab38dc33c",
+        "thread_ts": "1574128998.000300",
+        "parent_user_id": "UHC5VBV5E"
+    }
+]

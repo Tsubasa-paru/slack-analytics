@@ -1,0 +1,105 @@
+[
+    {
+        "client_msg_id": "22213D5A-708B-4D9B-86CD-4223F1CA7BD5",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n佐藤先生のメール拝見しました。\n今週の金曜日ですが、ゼミは通常通りでよいでしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1570519723.006500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6662874C-0816-40CB-80AC-4C313D41A48A",
+        "type": "message",
+        "text": "13時からでお願いします",
+        "user": "UHFLB6JPR",
+        "ts": "1570520838.006900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "来週火曜日の10\/15は佐藤研のお手伝いがあります。13時に第一小の門集合です。",
+        "files": [
+            {
+                "id": "FP8FY04S3",
+                "created": 1570591888,
+                "timestamp": 1570591874,
+                "name": "Fwd: 第一小学校について",
+                "title": "Fwd: 第一小学校について",
+                "mimetype": "text\/html",
+                "filetype": "email",
+                "pretty_type": "Email",
+                "user": "UGQV9DXRC",
+                "editable": true,
+                "size": 41379,
+                "mode": "email",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FP8FY04S3\/fwd_____________________________?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FP8FY04S3\/download\/fwd_____________________________?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FP8FY04S3\/fwd_____________________________",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FP8FY04S3-f5b28b7780",
+                "subject": "Fwd: 第一小学校について",
+                "to": [
+                    {
+                        "address": "kmt.sd.ma@gmail.com",
+                        "name": "鈴木美穂",
+                        "original": "鈴木美穂  <kmt.sd.ma@gmail.com>"
+                    }
+                ],
+                "from": [
+                    {
+                        "address": "mimiho.bell@gmail.com",
+                        "name": "鈴木美穂",
+                        "original": "鈴木美穂 <mimiho.bell@gmail.com>"
+                    }
+                ],
+                "cc": [],
+                "attachments": [],
+                "plain_text": "---------- Forwarded message ---------\r\nFrom: Akashi Satoh <akashisatoh@gmail.com>\r\nDate: 2019年10月9日(水) 午後0:29\r\nSubject: Re: 第一小学校について\r\nTo: Kazunori Ohkawara <ohkawara_kazunori@e-one.uec.ac.jp>\r\nCc: Akashi Satoh <akashi.satoh@uec.ac.jp>, kunihiko_yanaka <\r\nyanaka@campuscreate.com>, sousuke k <sousuke.soccer@gmail.com>, 広瀬はるか <\r\nhmh531xp@gmail.com>, 中原有麻 <yuppy938@gmail.com>, 漆畑輝 <kogepanakira@gmail.com>,\r\n<yuji.f_1996@ezweb.ne.jp>, 鈴木美穂 <mimiho.bell@gmail.com>\r\n\r\n\r\n大河原先生\r\n\r\n15日(火)の午後1時20分からとなりましたので、\r\n1時に小学校の玄関まで、お願いできますでしょうか。\r\n\r\n佐藤証\r\n\r\niPhoneから送信\r\n\r\n2019\/10\/08 9:31、Kazunori Ohkawara <ohkawara_kazunori@e-one.uec.ac.jp>のメール:\r\n\r\n佐藤先生\r\n\r\n\r\n\r\n来週14日からの週では、金曜日以外では火曜が参加可能です。\r\n\r\nピンポイントで申し訳ございませんが、ご検討宜しくお願い致します。\r\n\r\n（水曜日が体育祭、木曜部が地域の運動教室が入っています）\r\n\r\n\r\n\r\n電気通信大学\r\n\r\n大河原一憲\r\n\r\n\r\n\r\nKazunori Ohkawara, PhD\r\nAssociate Professor\r\nGraduate School of Informatics and Engineering, University of\r\nElectro-Communications\r\nVisiting Scholar\r\nDepartment of Nutritional Science, National Institute of Health and\r\nNutrition\r\nAddress: 1-5-1 Chofugaoka, Chofu, Tokyo, 182-8585, Japan\r\nPhone: +81 424435584  FAX: +81 424435590\r\nE-mail: ohkawara_kazunori@e-one.uec.ac.jp\r\n\r\n\r\n\r\n*From:* Akashi Satoh [mailto:akashi.satoh@uec.ac.jp <akashi.satoh@uec.ac.jp>]\r\n\r\n*Sent:* Tuesday, October 8, 2019 1:14 AM\r\n*To:* Kazunori Ohkawara <ohkawara_kazunori@e-one.uec.ac.jp>\r\n*Cc:* kunihiko_yanaka <yanaka@campuscreate.com>\r\n*Subject:* Re: 第一小学校について\r\n\r\n\r\n\r\n大河原先生\r\n\r\n\r\n\r\n今週末に，昨年並みの台風が関東を直撃しそうで，その前に苗を植えると，\r\n\r\n吹き飛んだりちぎれて全滅する恐れがあるため，来週に延期したいと思います．\r\n私は来週の金曜日はダメなのですが，その他の日のご予定をお聞かせください．\r\n\r\n\r\n\r\n佐藤証\r\n国立大学法人電気通信大学 教授\r\n情報理工学研究科 情報・通信工学専攻\r\n〒182-8585 東京都調布市調布ヶ丘1-5-1西9号館613\r\nTel: 090-1212-6600\r\nEmail: akashi.satoh@uec.ac.jp\r\n\r\n\r\n\r\n\r\n\r\n<image003.jpg>\r\n<https:\/\/www.avast.com\/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\n\r\nウイルス フリー｡ www.avast.com\r\n<https:\/\/www.avast.com\/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>\r\n\r\n\r\n\r\n2019年10月7日(月) 12:55 Akashi Satoh <akashisatoh@gmail.com>:\r\n\r\n大河原先生の参加できる金曜日にしたいのですが、\r\n天気予報がずっと雨です。\r\n\r\n明日まで待って、天気予報が変わらないようであれば、木曜日に、雨でなければ金曜日にしたいと思います。\r\n\r\niPhoneから送信\r\n\r\n2019\/10\/07 12:09、Kazunori Ohkawara <ohkawara_kazunori@e-one.uec.ac.jp>のメール:\r\n\r\n> 谷中様、佐藤先生\r\n>\r\n> 大河原関係の方の名札は持参します。\r\n> 開催日時ですが、木曜と金曜のどちらに決まりましたでしょうか？\r\n>\r\n> 大河原一憲\r\n>\r\n> --- Akashi Satoh <akashi.satoh@uec.ac.jp> wrote:\r\n>>\r\n>>\r\n>>\r\n>> 谷中さんお疲れ様です。\r\n>>\r\n>>\r\n>> 私の研究室は、私を入れて最大４名です。\r\n>>\r\n>>\r\n>> 佐藤証\r\n>> 国立大学法人電気通信大学 教授\r\n>> 情報理工学研究科 情報・通信工学専攻\r\n>> 〒182-8585 東京都調布市調布ヶ丘1-5-1西9号館613\r\n>> Tel: 090-1212-6600\r\n>> Email: akashi.satoh@uec.ac.jp\r\n>>\r\n>>\r\n>>\r\n>> 2019年10月7日(月) 10:31 kunihiko_yanaka <yanaka@campuscreate.com>:\r\n>> 佐藤先生、大河原先生、お世話になっております、キャンパスクリエイト谷中です。\r\n>>\r\n>> 第一小学校に学生が入る際、顔がわかりにくい事もあり、\r\n>> 大学側でネームプレート等を装着していただけないかとのお話を頂きました。\r\n>> よろしくご対応していただけると幸いです。\r\n>>\r\n>> 何枚ぐらい必要でしょうか。ある程度こちらでご用意はできます。\r\n>>\r\n>>\r\n>> --\r\n>> ************************************\r\n>>\r\n>> 株式会社キャンパスクリエイト\r\n>> 技術開発部・ソリューション部\r\n>> グループリーダー 谷中邦彦\r\n>>\r\n>> 〒182-8585東京都調布市調布ヶ丘1-5-1\r\n>> 電気通信大学産学官連携センター\r\n>> TEL:042-490-5736 番号が変わりました。\r\n>> FAX:042-490-5727\r\n>> http:\/\/www.campuscreate.com\r\n>> mail: yanaka@campuscreate.com\r\n>> ************************************\r\n>>\r\n>> --\r\n>> このEメールはアバスト アンチウイルスによりウイルススキャンされています。\r\n>> https:\/\/www.avast.com\/antivirus\r\n>>\r\n>>\r\n>>\r\n>\r\n> Kazunori Ohkawara, PhD\r\n> Associate Professor\r\n> Faculty of Informatics and Engineering, University of\r\nElectro-Communications\r\n> Address: 1-5-1 Chofugaoka, Chofu, Tokyo, 182-8585, Japan\r\n> Phone: +81 424435584   FAX: +81 424435590\r\n> E-mail: ohkawara_kazunori@e-one.uec.ac.jp",
+                "preview": "<div><\/div><br><div><div>---------- Forwarded message ---------<br>From: Akashi Satoh <span>&lt;<a href=\"mailto:akashisatoh@gmail.com\">akashisatoh@gmail.com<\/a>&gt;<\/span><br>Date: 2019&#24180;10&#26376;9&#26085;(&#27700;) &#21320;&#24460;0:29<br>Subject: Re: &#31532;&#19968;&#23567;&#23398;&#26657;&#12395;&#12388;&#12356;&#12390;<br>To: Kazunori Ohkawara &lt;<a href=\"mailto:ohkawara_kazunori@e-one.uec.ac.jp\">ohkawara_kazunori@e-one.uec.ac.jp<\/a>&gt;<br>Cc: Akashi Satoh &lt;<a href=\"mailto:akashi.satoh@uec.ac.jp\">akashi.satoh@uec.ac.jp<\/a>&gt;, kunihiko_yanaka &lt;<a href=\"mailto:yanaka@campuscreate.com\">yanaka@campuscreate.com<\/a>&gt;, sousuke k &lt;<a href=\"mailto:sousuke.soccer@gmail.com\">sousuke.soccer@gmail.com<\/a>&gt;, &#24195;&#28716;&#12399;&#12427;&#12363; &lt;<a href=\"mailto:hmh531xp@gmail.com\">hmh531xp@gmail.com<\/a>&gt;, &#20013;&#21407;&#26377;&#40635; &lt;<a href=\"mailto:yuppy938@gmail.com\">yuppy938@gmail.com<\/a>&gt;, &#28422;&#30033;&#36637; &lt;<a href=\"mailto:kogepanakira@gmail.com\">kogepanakira@gmail.com<\/a>&gt;,  &lt;<a href=\"mailto:yuji.f_1996@ezweb.ne.jp\">yuji.f_1996@ezweb.ne.jp<\/a>&gt;, &#37428;&#26408;&#32654;&#31298; &lt;<a href=\"mailto:mimiho.bell@gmail.com\">mimiho.bell@gmail.com<\/a>&gt;<br><\/div><br><br><div>&#22823;&#27827;&#21407;&#20808;&#29983;<div>15&#26085;(&#28779;)&#12398;&#21320;&#24460;1&#26178;20&#20998;&#12363;&#12425;&#12392;&#12394;&#12426;&#12414;&#12375;&#12383;&#12398;&#12391;&#12289;<\/div><div>1&#26178;&#12395;&#23567;&#23398;&#26657;&#12398;&#29572;&#38306;&#12414;&#12391;&amp;<\/div><\/div><\/div>",
+                "preview_plain_text": "---------- Forwarded message ---------\r\nFrom: Akashi Satoh <akashisatoh@gmail.com>\r\nDate: 2019年10月9日(水) 午後0:29\r\nSubject: Re: 第一小学校について\r\nTo: Kazunori Ohkawara <ohkawara_kazunori@e-one.uec.ac.jp>\r\nCc: Akashi Satoh <akashi.satoh@uec.ac.jp>, kunihiko_yanaka <\r\nyanaka@campuscreate.com>, sousuke k <sousuke.soccer@gmail.com>, 広瀬はるか <\r\nhmh531xp@gmail.com>, 中原有麻 <yuppy938@gmail.com>, 漆畑輝 <kogepanakira@gmail.com>,\r\n<yuji.f_1996@ezweb.ne.jp>, 鈴木美穂 <mimiho.bell@gmail.com>\r\n\r\n\r\n大河原先生\r\n\r\n15日(火)の午後1時20分からとなりまし",
+                "headers": {
+                    "date": "Wed, 9 Oct 2019 12:31:14 +0900"
+                },
+                "has_more": true,
+                "sent_to_self": false,
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1570591989.007000"
+    }
+]

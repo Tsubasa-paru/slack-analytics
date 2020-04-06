@@ -1,0 +1,25 @@
+[
+    {
+        "client_msg_id": "fc3b2585-e6d4-4620-abf6-fdf205729503",
+        "type": "message",
+        "text": "募集金額15000→150000",
+        "user": "UGQV9DXRC",
+        "ts": "1565089963.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565065335.001800",
+        "parent_user_id": "UGQV9DXRC"
+    }
+]

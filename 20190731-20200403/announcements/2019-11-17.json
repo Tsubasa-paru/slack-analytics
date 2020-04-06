@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "083fc38e-d47c-4777-97f4-57c52cfdb964",
+        "type": "message",
+        "text": "@鈴木さん\nクラウドファンディングの立替払いの返金作業をよろしくお願いします。\n1万円はかくしょうじに寄付を考えています。",
+        "user": "UHFLB6JPR",
+        "ts": "1574044893.001500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7873405-7df0-455d-aefa-6160c2a6d69b",
+        "type": "message",
+        "text": "明日の学生ゼミで24日の準備について話し合いたいです",
+        "user": "UHFLB6JPR",
+        "ts": "1574044917.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "健康支援学会の演題登録、11\/30までのようです",
+        "files": [
+            {
+                "id": "FQE8476V7",
+                "created": 1574053285,
+                "timestamp": 1574053280,
+                "name": "Fwd: 【日本健康支援学会】第21回沖縄大会",
+                "title": "Fwd: 【日本健康支援学会】第21回沖縄大会",
+                "mimetype": "text\/html",
+                "filetype": "email",
+                "pretty_type": "Email",
+                "user": "UGQV9DXRC",
+                "editable": true,
+                "size": 8475,
+                "mode": "email",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQE8476V7\/fwd___________________________________21_______________?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FQE8476V7\/download\/fwd___________________________________21_______________?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FQE8476V7\/fwd___________________________________21_______________",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FQE8476V7-641708420c",
+                "subject": "Fwd: 【日本健康支援学会】第21回沖縄大会",
+                "to": [
+                    {
+                        "address": "kmt.sd.ma@gmail.com",
+                        "name": "鈴木美穂",
+                        "original": "鈴木美穂  <kmt.sd.ma@gmail.com>"
+                    }
+                ],
+                "from": [
+                    {
+                        "address": "mimiho.bell@gmail.com",
+                        "name": "鈴木美穂",
+                        "original": "鈴木美穂 <mimiho.bell@gmail.com>"
+                    }
+                ],
+                "cc": [],
+                "attachments": [],
+                "plain_text": "---------- 転送メッセージ ----------\r\nFrom: \"Yoshio NAKATA\" <nakata.yoshio.gn@u.tsukuba.ac.jp>\r\n日付: 2019\/11\/18 午後2:00\r\n件名: 【日本健康支援学会】第21回沖縄大会\r\nTo: \"健康支援学会事務局\" <kenkousien.info@gmail.com>\r\nCc:\r\n\r\n日本健康支援学会\r\n学会員のみなさまへ\r\n\r\nお世話になっております。\r\n第21回日本健康支援学会年次学術大会、沖縄大会の演題登録、事前参加登録は11月30日が締切です。\r\n各プログラムのテーマおよび演者も公開されました。\r\nhttp:\/\/jshp.umin.jp\/meeting21\/index.html\r\n来年3月7日（土）～8日（日）＠那覇市ぶんかテンブス館、ご参加のほど、よろしくお願いいたします。\r\n\r\n日本健康支援学会事務局\r\n事務局長 中田由夫\r\n〒305-8577\r\n茨城県つくば市天王台1-1-1\r\n筑波大学総合研究棟D606中田研究室内\r\nTEL： 029-853-7624\r\nE-mail： kenkousien.info@gmail.com",
+                "preview": "<div>---------- &#36578;&#36865;&#12513;&#12483;&#12475;&#12540;&#12472; ----------<br>From: \"Yoshio NAKATA\" &lt;<a href=\"mailto:nakata.yoshio.gn@u.tsukuba.ac.jp\">nakata.yoshio.gn@u.tsukuba.ac.jp<\/a>&gt;<br>&#26085;&#20184;: 2019\/11\/18 &#21320;&#24460;2:00<br>&#20214;&#21517;: &#12304;&#26085;&#26412;&#20581;&#24247;&#25903;&#25588;&#23398;&#20250;&#12305;&#31532;21&#22238;&#27798;&#32260;&#22823;&#20250;<br>To: \"&#20581;&#24247;&#25903;&#25588;&#23398;&#20250;&#20107;&#21209;&#23616;\" &lt;<a href=\"mailto:kenkousien.info@gmail.com\">kenkousien.info@gmail.com<\/a>&gt;<br>Cc: <br><br>&#26085;&#26412;&#20581;&#24247;&#25903;&#25588;&#23398;&#20250;<br>  &#23398;&#20250;&#21729;&#12398;&#12415;&#12394;&#12373;&#12414;&#12408;<br><br>  &#12362;&#19990;&#35441;&#12395;&#12394;&#12387;&#12390;&#12362;&#12426;&#12414;&#12377;&#12290;<br>  &#31532;21&#22238;&#26085;&#26412;&#20581;&#24247;&#25903;&#25588;&#23398;&#20250;&#24180;&#27425;&#23398;&#34899;&#22823;&#20250;&#12289;&#27798;&#32260;&#22823;&#20250;&#12398;&#28436;&#38988;&#30331;&#37682;&#12289;&#20107;&#21069;&#21442;&#21152;&#30331;&#37682;&#12399;11&#26376;30&#26085;&#12364;&#32224;<\/div>",
+                "preview_plain_text": "---------- 転送メッセージ ----------\r\nFrom: \"Yoshio NAKATA\" <nakata.yoshio.gn@u.tsukuba.ac.jp>\r\n日付: 2019\/11\/18 午後2:00\r\n件名: 【日本健康支援学会】第21回沖縄大会\r\nTo: \"健康支援学会事務局\" <kenkousien.info@gmail.com>\r\nCc:\r\n\r\n日本健康支援学会\r\n学会員のみなさまへ\r\n\r\nお世話になっております。\r\n第21回日本健康支援学会年次学術大会、沖縄大会の演題登録、事前参加登録は11月30日が締切です。\r\n各プログラムのテーマおよび演者も公開されました。\r\nhttp:\/\/jshp.umin.jp\/meeting21\/index.html\r\n来年3月7日（土）～8日（日）＠那覇市ぶんかテンブス館、ご参加のほど、よろしくお願いいたします。\r\n\r\n日本健康支援学会事務局\r\n事務局長 中田由夫\r\n〒305-8577\r\n茨城県つくば市天王台1-1-1\r\n筑波大学総合研究棟D606中田研究室内\r\nTEL： 029-853-7624\r\nE-mail： kenko",
+                "headers": {
+                    "date": "Mon, 18 Nov 2019 14:01:20 +0900"
+                },
+                "has_more": true,
+                "sent_to_self": false,
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "ts": "1574053321.002300"
+    }
+]

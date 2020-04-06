@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "7ddfc36e-ede9-487b-8a8d-092dd92a9278",
+        "type": "message",
+        "text": "リターン品について、アメフト部が追記をしてくれましたので共有させていただきます。\nイヤーブックのみ追加、ネックストラップはなしの方向のようです。\n<https:\/\/faavo.jp\/preview\/projectview?preview_key=9b8066399c8b47ad7043552bae54e1e341794033cfed972698114e0ab5ca0ca0>\n\nスポルアップ様のお写真が良ければ公開できる状態です。",
+        "user": "UGQV9DXRC",
+        "ts": "1564758008.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "地域 × クラウドファンディング FAAVO",
+                "title": "こどもたちに学びの楽しさと笑顔を！電気通信大学こども食堂を開催したい！ | FAAVO東京調布・府中",
+                "title_link": "https:\/\/faavo.jp\/preview\/projectview?preview_key=9b8066399c8b47ad7043552bae54e1e341794033cfed972698114e0ab5ca0ca0",
+                "text": "&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;「電気通信大学 こども食堂2019」はこどもたちと大学生を結ぶイベントです！できるだけ多くのこどもたちが参加できるように無料のイベントにしたいのですが、食事の提供やこど",
+                "fallback": "地域 × クラウドファンディング FAAVO: こどもたちに学びの楽しさと笑顔を！電気通信大学こども食堂を開催したい！ | FAAVO東京調布・府中",
+                "image_url": "https:\/\/faavo-images.s3-ap-northeast-1.amazonaws.com\/project\/3989.png?_=1564757696",
+                "from_url": "https:\/\/faavo.jp\/preview\/projectview?preview_key=9b8066399c8b47ad7043552bae54e1e341794033cfed972698114e0ab5ca0ca0",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 308182,
+                "service_icon": "https:\/\/faavo.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/faavo.jp\/preview\/projectview?preview_key=9b8066399c8b47ad7043552bae54e1e341794033cfed972698114e0ab5ca0ca0"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0eaeaf49-59b6-450e-a674-d793d1c8a054",
+        "type": "message",
+        "text": "<@UHFLB6JPR> \nこども食堂参加者募集のポスターですが、今年も業者に頼んで印刷となりますでしょうか？\n8\/15のかくしょうじで配布を予定している為、関係者への確認も含め作成期限を決めたいと思っています。",
+        "user": "UGQV9DXRC",
+        "ts": "1564799977.002800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "FDDE86CC-8233-4891-9D1C-92F03A12A2BC",
+        "type": "message",
+        "text": "業者に印刷を頼みます\n５日はみてください",
+        "user": "UHFLB6JPR",
+        "ts": "1564800544.003800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "743ab1cf-0478-401d-bf02-47a5e38c9c36",
+        "type": "message",
+        "text": "では来週金曜日に印刷に出す事を期限として、火曜日には訂正を送らせていただきます。",
+        "user": "UGQV9DXRC",
+        "ts": "1564800624.005400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

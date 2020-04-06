@@ -1,0 +1,325 @@
+[
+    {
+        "client_msg_id": "d9296a6a-c67f-47a7-a8c0-70ac52e1fad2",
+        "type": "message",
+        "text": "月曜日から進める予定だったのですが、同時に高熱を出してしまい寝たきり状態だったので全く手がつけられていません。なるべく早く出したいのですがいつ頃出せるか未定です。",
+        "user": "UHG1M1NQ6",
+        "ts": "1582194013.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QD4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "月曜日から進める予定だったのですが、同時に高熱を出してしまい寝たきり状態だったので全く手がつけられていません。なるべく早く出したいのですがいつ頃出せるか未定です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582194013.002000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1582271483.000100",
+        "reply_users": [
+            "UHFLB6JPR",
+            "UHG1M1NQ6"
+        ],
+        "replies": [
+            {
+                "user": "UHFLB6JPR",
+                "ts": "1582266929.000800"
+            },
+            {
+                "user": "UHG1M1NQ6",
+                "ts": "1582271483.000100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1582271483.000100"
+    },
+    {
+        "client_msg_id": "5f68f080-1882-453b-a362-11514e6f5849",
+        "type": "message",
+        "text": "ポスターを修正しました。\nご確認のほどよろしくお願い致します。\n<https:\/\/drive.google.com\/file\/d\/1Ixw5BAo3yv4wq7Me8r667LKp7mX2eaDT\/view?usp=sharing>",
+        "user": "UHV3GN694",
+        "ts": "1582259305.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g09c71d9cc54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b09c71d9cc541041ebfe419872e7fc9c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "高柳里紗",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "rxrxree609",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "61gX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ポスターを修正しました。\nご確認のほどよろしくお願い致します。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1Ixw5BAo3yv4wq7Me8r667LKp7mX2eaDT\/view?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "発表資料です。修論発表時と概ね変更ありません。\n<https:\/\/drive.google.com\/open?id=1q1jYw0hHNrmxNp8vfOlw_3cAz2SPtdSt>",
+        "files": [
+            {
+                "id": "FUA2ZFF52",
+                "created": 1582260180,
+                "timestamp": 1582260180,
+                "name": "健康支援学会2020_鈴木.pptx",
+                "title": "健康支援学会2020_鈴木.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 453165,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=1q1jYw0hHNrmxNp8vfOlw_3cAz2SPtdSt",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FUA2ZFF52\/__________________2020_______.pptx",
+                "is_starred": false,
+                "external_id": "1q1jYw0hHNrmxNp8vfOlw_3cAz2SPtdSt",
+                "external_url": "https:\/\/drive.google.com\/open?id=1q1jYw0hHNrmxNp8vfOlw_3cAz2SPtdSt",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q+73",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "発表資料です。修論発表時と概ね変更ありません。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1q1jYw0hHNrmxNp8vfOlw_3cAz2SPtdSt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FUA2ZFF52"
+        ],
+        "ts": "1582260178.000800",
+        "client_msg_id": "c94bcc02-36aa-48e8-9b97-24f48a16628b"
+    },
+    {
+        "type": "message",
+        "text": "発表資料\nモーションセンサーの装着箇所について1ページ追加\nスライドサイズ 4:3に変更\n<https:\/\/drive.google.com\/open?id=16puFNtfiMAwdFpKgmpvaS-U10g0Rl_Fp>",
+        "files": [
+            {
+                "id": "FTZ3BGCJX",
+                "created": 1582262071,
+                "timestamp": 1582262071,
+                "name": "健康支援学会2020_根本.pptx",
+                "title": "健康支援学会2020_根本.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 3262135,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/open?id=16puFNtfiMAwdFpKgmpvaS-U10g0Rl_Fp",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FTZ3BGCJX\/__________________2020_______.pptx",
+                "is_starred": false,
+                "external_id": "16puFNtfiMAwdFpKgmpvaS-U10g0Rl_Fp",
+                "external_url": "https:\/\/drive.google.com\/open?id=16puFNtfiMAwdFpKgmpvaS-U10g0Rl_Fp",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3VjG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "発表資料\nモーションセンサーの装着箇所について1ページ追加\nスライドサイズ 4:3に変更\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=16puFNtfiMAwdFpKgmpvaS-U10g0Rl_Fp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "x_files": [
+            "FTZ3BGCJX"
+        ],
+        "ts": "1582262066.002600",
+        "client_msg_id": "73760308-518b-4fd0-a576-aaed0c7269fb"
+    },
+    {
+        "client_msg_id": "518EDBDE-9B65-4169-B6F4-BD0EC4EA389C",
+        "type": "message",
+        "text": "病院で確認した？",
+        "user": "UHFLB6JPR",
+        "ts": "1582266929.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1582194013.002000",
+        "parent_user_id": "UHG1M1NQ6"
+    },
+    {
+        "client_msg_id": "8B36C7E7-B21F-4093-BEE7-5DA30B879CFC",
+        "type": "message",
+        "text": "先生に確認いただいた後各先生方に見ていただきたいと思います",
+        "user": "UHC5VBV5E",
+        "ts": "1582270172.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZvLYm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先生に確認いただいた後各先生方に見ていただきたいと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ccaee260-b869-46ba-90f8-fb742067eae1",
+        "type": "message",
+        "text": "水曜日に確認しました。インフルの検査は陰性で、咳が無いので恐らくコロナでもなさそうです。普通の風邪薬と抗生剤を貰いました。",
+        "user": "UHG1M1NQ6",
+        "ts": "1582271483.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pr10",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "水曜日に確認しました。インフルの検査は陰性で、咳が無いので恐らくコロナでもなさそうです。普通の風邪薬と抗生剤を貰いました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582194013.002000",
+        "parent_user_id": "UHG1M1NQ6"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "63145EBA-354D-4848-8913-FE1BD86E6640",
+        "type": "message",
+        "text": "これまで使用してきたものであれば大丈夫です\nただし、CFに掲載した実施報告中の写真は解像度の高い？ものだとモザイクがほとんどかかっていないようにみえました\nブラウザーなのか端末なのか理由はわからないけど\nそれは注意してほしい、再確認してほしいです",
+        "user": "UHFLB6JPR",
+        "ts": "1562576367.014100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5119a328-6c21-4d4b-87a1-ea7f8dea01f5",
+        "type": "message",
+        "text": "承知しました\n再確認というのは、報告書上の写真も再掲するということでしょうか？",
+        "user": "UGQV9DXRC",
+        "ts": "1562576410.014700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3AAA8BB4-783B-489E-AF98-336C41843726",
+        "type": "message",
+        "text": "いや、そのまんまでいいけど\n例えば、大河原の携帯で見るとモザイクしっかりかかってて、pc でみるとほとんど顔出てます",
+        "user": "UHFLB6JPR",
+        "ts": "1562576801.017300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f28132ee-cddc-4f7d-9a85-d52fcac488d0",
+        "type": "message",
+        "text": "承知しました",
+        "user": "UGQV9DXRC",
+        "ts": "1562576812.017500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

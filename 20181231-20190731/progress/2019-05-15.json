@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "9b37effe-da44-41f2-922b-3a90f316e57f",
+        "type": "message",
+        "text": "2019\/05\/15\n&gt;テック技販様とのMTG\n&gt;長机の組み立て、設置（完了）\n&gt;幸福度に関する研究会報告pdfの熟読（途中）\n&gt;リチャードレイヤードのビッグセブンが書かれている書籍の検索\n明日やること\n&gt;松浦さんに403の鍵を1本貰う\n&gt;キャノンプリンターのログインできない問題の解決（メール返信待ち）\n&gt;幸福度に関する研究会報告pdfの読了",
+        "user": "UHEH8KZ7W",
+        "ts": "1557919665.004700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a10efd16-f566-46b3-8a39-745dbc3581c2",
+        "type": "message",
+        "text": "今日\n&gt;結果をうまく表示が出来、予測と元のデータでカッパ係数を出すことが出来た。\n&gt;乱数の値を変えながら実行結果100個をfor文で出せた。\n\n明日\n&gt;その平均を出したいがうまく出来てないので明日がんばる。\n&gt;授業課題もしたい。",
+        "user": "UGPH97FDW",
+        "ts": "1557920131.007300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4354154f-d3e8-434a-9655-9c1cd16d091e",
+        "type": "message",
+        "text": "2019\/05\/15 現在\n&gt;実験で得られた各データの在りかと内容がおおよそわかってきたのでテキストファイルにデータ、フォルダの置き場所、その内容等を記している途中。\n今後\n&gt;カバーレター、全体の結果のまとめ(ポスター)の作成をする。",
+        "user": "UHC5VBV5E",
+        "ts": "1557922778.011100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "9cf2210430c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-29\/590201040928_9cf2210430c45e7d059d_72.png",
+            "first_name": "根本亘",
+            "real_name": "根本亘",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "w.4.univ",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

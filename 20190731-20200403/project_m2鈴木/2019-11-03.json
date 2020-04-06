@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "2b1045ea-bf37-4bba-a77f-9b9bbdb03587",
+        "type": "message",
+        "text": "データ数を丸める件、とりあえず1secごとで平均値を出す所からやることにした\n&gt;理由としては\n&gt;①実験時間が短く10秒にデータを丸めるとデータ数が極端に減る(特に階段：前後5秒をカットすると上りだけで5秒～多くて30秒)\n&gt;　(高橋さんの研究では10secごとが一番精度がよかったが、高橋さんのは位置活動30分くらいとってるからデータ数が違う)\n&gt;②秒単位でデータを切り貼りしてるので、1秒単位なら確実に割り切れるはずで、活動ごとの区切りも必要ない\n&gt;　(ここの区切りを自動化したかったができなかった、やるなら階段のデータだけ別に初めから分けておく方が良い)\n\nやりたい事\n・30個ずつの平均値を出し、30個分同じデータを記入\n　<https:\/\/teratail.com\/questions\/220712>\n\n使うコードは\n`for i in range(0,5100,30):`\n`    df = sum(ds[i:i+30]) \/ 3`\n`    ds['t'][i:i+30]=np.tile(df,3)`\nか\n`df['z'] = df.groupby(df.index\/\/3)['y'].transform('mean')`\nのどちらか。\n上のコードでは ｀df = sum(ds[i:i+30]) \/ 3｀の部分でデータセットの中身がstr型で認識されてる？からかsumの足し算が出来ないエラーが出てるので再現できていない。\n下のコードはとりあえず再現できてるのでこっちを使う。",
+        "user": "UGQV9DXRC",
+        "ts": "1572769140.011800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1572769155.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "teratail[テラテイル]",
+                "title": "python DataFrame中の指定した行で平均をとる繰り返し処理を行いたい｜teratail",
+                "title_link": "https:\/\/teratail.com\/questions\/220712",
+                "text": "以下のようなDataFrameに対し、z列にy列の3値ずつの平均値を順番に代入する繰り返し処理を書きたいのですが、for文の書き方がわからず困っています。ご指導いただけますと幸いです。 現在得られるDataframe xyz10.10.12-0.10.130.20.24-0.20.250.40.",
+                "fallback": "teratail[テラテイル]: python DataFrame中の指定した行で平均をとる繰り返し処理を行いたい｜teratail",
+                "thumb_url": "https:\/\/teratail.com\/img\/imgFacebookShare.png",
+                "from_url": "https:\/\/teratail.com\/questions\/220712",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/teratail.com\/img\/ios\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/teratail.com\/questions\/220712"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "koki_good",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

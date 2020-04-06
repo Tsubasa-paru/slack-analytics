@@ -1,0 +1,135 @@
+[
+    {
+        "type": "message",
+        "text": "リンクのポスター確認しました～3つ気になったので:hand:\n①現状、論文をポスター形式にまとめたような印象が強いので、ポスターを見た人はどこに注目したらいいかがわかりにくいかなと思います。図や表を使ったり、強調色や太字を使ってもう少し見る人の視点を考慮してみてください～\n文量多めが仕方ない場合だと岡田君みたいな感じに強調を入れるといいかな\n<https:\/\/drive.google.com\/file\/d\/1YRBROZsHodSRV39mmELYZTNrQpSR0Wh9\/view?usp=sharing>\n②結果の右側、選手の表示方法の工夫、可視化によるプレー理解の促進の欄は図からわかったことが先、図の解説が後になっているので、そこは逆がよいかなと。\n③ボロノイズの解説がどこかに入るとよいです。スペースを作れれば、、タイトルにもあるし聞かれた時に説明しやすいと思うので！",
+        "files": [
+            {
+                "id": "FTT27EKSM",
+                "created": 1581926678,
+                "timestamp": 1581926678,
+                "name": "健康支援学会2019_岡田.pdf",
+                "title": "健康支援学会2019_岡田.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGQV9DXRC",
+                "editable": false,
+                "size": 600872,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/drive.google.com\/file\/d\/1YRBROZsHodSRV39mmELYZTNrQpSR0Wh9\/view?usp=sharing",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQV9DXRC\/FTT27EKSM\/__________________2019_______.pdf",
+                "is_starred": false,
+                "external_id": "1YRBROZsHodSRV39mmELYZTNrQpSR0Wh9",
+                "external_url": "https:\/\/drive.google.com\/file\/d\/1YRBROZsHodSRV39mmELYZTNrQpSR0Wh9\/view?usp=sharing",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WC+e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リンクのポスター確認しました～3つ気になったので"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hand"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n①現状、論文をポスター形式にまとめたような印象が強いので、ポスターを見た人はどこに注目したらいいかがわかりにくいかなと思います。図や表を使ったり、強調色や太字を使ってもう少し見る人の視点を考慮してみてください～\n文量多めが仕方ない場合だと岡田君みたいな感じに強調を入れるといいかな\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1YRBROZsHodSRV39mmELYZTNrQpSR0Wh9\/view?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n②結果の右側、選手の表示方法の工夫、可視化によるプレー理解の促進の欄は図からわかったことが先、図の解説が後になっているので、そこは逆がよいかなと。\n③ボロノイズの解説がどこかに入るとよいです。スペースを作れれば、、タイトルにもあるし聞かれた時に説明しやすいと思うので！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGQV9DXRC",
+        "display_as_bot": false,
+        "x_files": [
+            "FTT27EKSM"
+        ],
+        "ts": "1581926675.007300",
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1581926869.000000"
+        },
+        "client_msg_id": "8661e344-6f49-4e2c-953f-ad1783943104"
+    },
+    {
+        "client_msg_id": "35A139B6-7B31-4176-B8BB-6D6D1512000C",
+        "type": "message",
+        "text": "ありがとうございます！\nとても参考になります…:woman-bowing::skin-tone-2:\n\nご指摘頂いたことを参考に、修正していきます！",
+        "user": "UHV3GN694",
+        "ts": "1581935201.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g09c71d9cc54",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b09c71d9cc541041ebfe419872e7fc9c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "高柳里紗",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "rxrxree609",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qW7O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！\nとても参考になります…"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nご指摘頂いたことを参考に、修正していきます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

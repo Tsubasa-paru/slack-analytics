@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FPUD73S9Y",
+                "created": 1573015052,
+                "timestamp": 1573015052,
+                "name": "統計1_客数データ.xlsx",
+                "title": "統計1_客数データ.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UHC5VBV5E",
+                "editable": false,
+                "size": 47030,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPUD73S9Y\/______1___________________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FPUD73S9Y\/download\/______1___________________.xlsx?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPUD73S9Y-d0b93c8a53\/______1____________________converted.pdf?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FPUD73S9Y-d0b93c8a53\/______1____________________thumb_pdf.png?t=xoxe-566813646256-1033738527330-1033738527506-fdbc90f512c5962200b2428b2867eaa5",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHC5VBV5E\/FPUD73S9Y\/______1___________________.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FPUD73S9Y-141565ec6c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHC5VBV5E",
+        "display_as_bot": false,
+        "ts": "1573015056.000100",
+        "client_msg_id": "6d4a5c0e-6baa-4140-ae0c-c12de7aaeef7",
+        "thread_ts": "1572926456.000900",
+        "parent_user_id": "UHEH8KZ7W"
+    }
+]

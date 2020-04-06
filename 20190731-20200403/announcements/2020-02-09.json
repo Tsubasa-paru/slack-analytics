@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "f6ce7975-0403-4244-9811-8cf712584118",
+        "type": "message",
+        "text": "明日は引っ越しで手が付けられないから、早めに抄録送ってください。現時点で <@UHG1M1NQ6> <@UHFLC6N4X> <@UHEH8KZ7W> <@UHC5VBV5E>\n根本は提出\n野澤は再修正\n福田、都竹は未提出",
+        "user": "UHFLB6JPR",
+        "ts": "1581305353.001900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dvgGm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日は引っ越しで手が付けられないから、早めに抄録送ってください。現時点で "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHG1M1NQ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHFLC6N4X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHEH8KZ7W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UHC5VBV5E"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n根本は提出\n野澤は再修正\n福田、都竹は未提出"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

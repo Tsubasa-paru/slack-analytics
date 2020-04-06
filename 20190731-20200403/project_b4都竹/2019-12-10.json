@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "e3a49e97-cc91-4f4b-8fd9-69d4139fe811",
+        "type": "message",
+        "text": "文章の共有方法が変わったのでチェックしてね！\n自分用に共有する時はファイルをアップするだけでいいんだけど、先生にも見てほしい時はドライブにアップしてください～\n<https:\/\/ohkawaralab.slack.com\/archives\/CHJN0BV89\/p1575953508013000>",
+        "user": "UGQV9DXRC",
+        "ts": "1576047882.001100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ohkawaralab.slack.com\/archives\/CHJN0BV89\/p1575953508013000",
+                "fallback": "[December 9th, 2019 8:51 PM] kmt.sd.ma: <!channel>\n*【要確認】資料管理のルール*\n提出する資料は全てドライブを経由してリンクをアップロードする\n→抄録，発表資料，研究テーマや進学に関わる資料等は共有フォルダ内にフォルダを作成し、新規作成した場合は#documentsで報告する\n　(後でまとめて確認する時にこのチャンネルを見れば済むようにしたい,個別のやり取りはここではなく個別チャンネルでリンクを貼って)\n\n*【参考】ドライブのフォルダ構造(提出物に纏わるもの)*\n*・卒論関連(抄録，発表資料，研究計画)*\n　マイドライブ&gt;大河原研究室共有フォルダ&gt;卒論\n　&lt;https:\/\/drive.google.com\/open?id=1puNhJxu25p4orm4pmboLQsKf55cR8RON&gt;\n*・学会関連(抄録，発表資料，交通費精算などのデータ)*\n　マイドライブ&gt;大河原研究室共有フォルダ&gt;学会\n　&lt;https:\/\/drive.google.com\/open?id=1hTrBW6yE9AcxnV20lncwA761M0-r4jTZ&gt;\n*・その他資料(論文，書籍，調布祭関連，slack利用法等，共有の資料として残したいもの)*\n　マイドライブ&gt;大河原研究室共有フォルダ&gt;資料\n　&lt;https:\/\/drive.google.com\/open?id=1x2H_O-ei5cgQC92ndjSoPZYifcKO6glI&gt;\n*・ゼミ関連(議事録，提出資料)*\n　マイドライブ&gt;ゼミ資料\n　&lt;https:\/\/drive.google.com\/open?id=0ByyB_HXyImqVN1gxVnZDY3lFc3M&gt;\n*・個人*\n　マイドライブ&gt;大河原研究室共有フォルダ&gt;メンバー",
+                "ts": "1575953508.013000",
+                "author_id": "UGQV9DXRC",
+                "author_subname": "鈴木美穂",
+                "channel_id": "CHJN0BV89",
+                "channel_name": "documents",
+                "is_msg_unfurl": true,
+                "text": "<!channel>\n*【要確認】資料管理のルール*\n提出する資料は全てドライブを経由してリンクをアップロードする\n→抄録，発表資料，研究テーマや進学に関わる資料等は共有フォルダ内にフォルダを作成し、新規作成した場合は#documentsで報告する\n　(後でまとめて確認する時にこのチャンネルを見れば済むようにしたい,個別のやり取りはここではなく個別チャンネルでリンクを貼って)\n\n*【参考】ドライブのフォルダ構造(提出物に纏わるもの)*\n*・卒論関連(抄録，発表資料，研究計画)*\n　マイドライブ&gt;大河原研究室共有フォルダ&gt;卒論\n　&lt;https:\/\/drive.google.com\/open?id=1puNhJxu25p4orm4pmboLQsKf55cR8RON&gt;\n*・学会関連(抄録，発表資料，交通費精算などのデータ)*\n　マイドライブ&gt;大河原研究室共有フォルダ&gt;学会\n　&lt;https:\/\/drive.google.com\/open?id=1hTrBW6yE9AcxnV20lncwA761M0-r4jTZ&gt;\n*・その他資料(論文，書籍，調布祭関連，slack利用法等，共有の資料として残したいもの)*\n　マイドライブ&gt;大河原研究室共有フォルダ&gt;資料\n　&lt;https:\/\/drive.google.com\/open?id=1x2H_O-ei5cgQC92ndjSoPZYifcKO6glI&gt;\n*・ゼミ関連(議事録，提出資料)*\n　マイドライブ&gt;ゼミ資料\n　&lt;https:\/\/drive.google.com\/open?id=0ByyB_HXyImqVN1gxVnZDY3lFc3M&gt;\n*・個人*\n　マイドライブ&gt;大河原研究室共有フォルダ&gt;メンバー",
+                "author_name": "鈴木美穂",
+                "author_link": "https:\/\/ohkawaralab.slack.com\/team\/UGQV9DXRC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/ohkawaralab.slack.com\/archives\/CHJN0BV89\/p1575953508013000",
+                "footer": "#documents に投稿"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MNPi8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "文章の共有方法が変わったのでチェックしてね！\n自分用に共有する時はファイルをアップするだけでいいんだけど、先生にも見てほしい時はドライブにアップしてください～\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ohkawaralab.slack.com\/archives\/CHJN0BV89\/p1575953508013000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2822ee5b-9ddc-45c6-a942-ad796180e189",
+        "type": "message",
+        "text": "承知しました。ver2をバイト後にアップします。",
+        "user": "UHG1M1NQ6",
+        "ts": "1576049836.002300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w0O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました。ver2をバイト後にアップします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

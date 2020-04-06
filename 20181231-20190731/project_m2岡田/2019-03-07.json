@@ -1,0 +1,47 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551947035.000200",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1551947036.000300",
+        "user": "UGQV9DXRC",
+        "text": "<@UGQV9DXRC>さんがチャンネルの目的を設定しました : 岡田くんの研究について",
+        "purpose": "岡田くんの研究について"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1552025434.000200",
+        "user": "UGPH97FDW",
+        "text": "<@UGPH97FDW>さんがチャンネルに参加しました",
+        "inviter": "UGQV9DXRC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1552025449.000400",
+        "user": "UGQ2ENZD0",
+        "text": "<@UGQ2ENZD0>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "reminder_add",
+        "text": "  今日 15:46 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “スラックも勉強する” ",
+        "user": "UGQ2ENZD0",
+        "ts": "1552026408.000900"
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "リマインダー : スラックも勉強する",
+        "user": "USLACKBOT",
+        "ts": "1552027637.001100",
+        "team": "TGNPXK07J"
+    }
+]

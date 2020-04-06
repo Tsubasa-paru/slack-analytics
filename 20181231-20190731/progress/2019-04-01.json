@@ -1,0 +1,133 @@
+[
+    {
+        "client_msg_id": "41d71028-bcd7-4d3c-bb4a-cd3e210c2895",
+        "type": "message",
+        "text": "今日は\n&gt; ・ECSS用の国際学生証を年度内最速で取得しました\n&gt; ・今年度の履修計画を立てました\n&gt; ・パソコンの見積もりと注文をしました(していただきました:man-bowing:)",
+        "user": "UGQ2ENZD0",
+        "ts": "1554110746.003000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "woman-lifting-weights",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "the_fatal_smile",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e7c9365-8046-435f-ad74-e7914f65bf05",
+        "type": "message",
+        "text": "今週もはじまりましたネ\n今日はレビュー論文続き\n&gt;特徴量のまとめ中\n&gt;論文によって表記が若干違ったり理解できていない特徴量が出てきて:hankey:統計のお勉強頑張ります。今日はRMSについて知見を深めた。\n&gt;追記：21:00 決定木の分はすべて抽出できた:clap:",
+        "user": "UGQV9DXRC",
+        "ts": "1554117165.006800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1554120274.000000"
+        },
+        "reactions": [
+            {
+                "name": "female-doctor",
+                "users": [
+                    "UGPH97FDW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b988a34e-14dc-47c2-8125-90eb497a0736",
+        "type": "message",
+        "text": "今日は\n&gt;・ニューラルネットワークが何かなんとなくわかった。\n&gt;・ニューラルネットワークを用いた分析の目標設定を立てた。\n&gt;・サンプルを回して中身を理解した(まだ途中、序盤)\n&gt;&gt;ここがつらい。一行に10分以上悩んだり。関数をひとつひとつ調べたり。。シグモイド関数とは。。活性化関数とは。。結局ニューラルネットワークが何かわかっていなかったことがわかった。:persevere:\n\n明日は\n&gt;・図書館があくので本を探します。",
+        "user": "UGPH97FDW",
+        "ts": "1554118786.014300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "glitch_crab",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "koki_good",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "the_fatal_smile",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "the_boss",
+                "users": [
+                    "UGQV9DXRC",
+                    "UGQ2ENZD0",
+                    "UHEH8KZ7W"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

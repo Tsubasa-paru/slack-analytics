@@ -1,0 +1,319 @@
+[
+    {
+        "client_msg_id": "bb6770aa-34af-4107-b990-30f8592f6169",
+        "type": "message",
+        "text": "ファイルのタイトルがまた文字化けです",
+        "user": "UHFLB6JPR",
+        "ts": "1558864940.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJU8EMSGZ",
+                "created": 1558913277,
+                "timestamp": 1558913277,
+                "name": "倫理審査申請書類.zip",
+                "title": "倫理審査申請書類.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 1745653,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJU8EMSGZ\/________________________.zip?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJU8EMSGZ\/download\/________________________.zip?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FJU8EMSGZ\/________________________.zip",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJU8EMSGZ-c43a28f1f3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1558913277.000100",
+        "client_msg_id": "68a37167-d51b-442b-a59b-19964d99fd7d"
+    },
+    {
+        "client_msg_id": "872ea35b-489e-401c-98fd-169d399bc6bc",
+        "type": "message",
+        "text": "shift-jisで変換しているはず なのでこれが文字化けしているなら原因不明です．",
+        "user": "UGQ2ENZD0",
+        "ts": "1558913361.001200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "両方の文字コードで圧縮しました。文字化けしない方のファイルを使ってください",
+        "files": [
+            {
+                "id": "FK2F54U3H",
+                "created": 1558922502,
+                "timestamp": 1558922502,
+                "name": "倫理審査申請書類_UTF8.zip",
+                "title": "倫理審査申請書類_UTF8.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 1743408,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK2F54U3H\/_________________________utf8.zip?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK2F54U3H\/download\/_________________________utf8.zip?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FK2F54U3H\/_________________________utf8.zip",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FK2F54U3H-8cd0e7ecb5",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FK2R6MF6J",
+                "created": 1558922502,
+                "timestamp": 1558922502,
+                "name": "倫理審査申請書類_Shift_JIS.zip",
+                "title": "倫理審査申請書類_Shift_JIS.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 1742968,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK2R6MF6J\/_________________________shift_jis.zip?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK2R6MF6J\/download\/_________________________shift_jis.zip?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FK2R6MF6J\/_________________________shift_jis.zip",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FK2R6MF6J-262c20e633",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "ts": "1558922502.000100",
+        "client_msg_id": "02336cc6-31f1-4665-a822-3219d73399d7"
+    },
+    {
+        "client_msg_id": "9887cf15-3b6a-446e-9fc1-a12597e5c71d",
+        "type": "message",
+        "text": "いくつか試して見たので報告します\nWIndows10標準の圧縮･解凍だと，Shift-JIS -&gt; UTF8, UTF8 -&gt; Shift-JIS の両方で文字化けします．\nLhaplusも同様です．\n7zipも同様の結果となりましたが，圧縮時に cu=on を指定するとWindowsの文字コードに依存せずに解凍ができることを確認しました．なのでこの方法で圧縮したものを送ります．",
+        "user": "UGQ2ENZD0",
+        "ts": "1558923195.004300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "このzipなら文字化けしないはずです．同様のファイルをメールで送ります",
+        "files": [
+            {
+                "id": "FK0LCAQ5N",
+                "created": 1558923316,
+                "timestamp": 1558923316,
+                "name": "倫理審査申請書類.zip",
+                "title": "倫理審査申請書類.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 1743408,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK0LCAQ5N\/________________________.zip?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FK0LCAQ5N\/download\/________________________.zip?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FK0LCAQ5N\/________________________.zip",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FK0LCAQ5N-a22d44ffdb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1558923316.004400",
+        "client_msg_id": "b95ec85d-3ef6-47c6-b191-f4b319f9a628"
+    },
+    {
+        "client_msg_id": "0a136ea9-59fb-4e16-ac55-9e763b793f43",
+        "type": "message",
+        "text": "・北越先生の役割を記載\n→「コンテンツ開発の助言」\n・北越先生の電話番号追加　\n→大学の研究室につながる外線でいいです\n・計画書や説明文内の研究体制などにも先生の名前を追加する",
+        "user": "UHFLB6JPR",
+        "ts": "1558926112.006700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3309aaaa-e30d-4362-bfc2-24d32c03b56e",
+        "type": "message",
+        "text": "外線番号については公開されていないので，北越先生にお送りする際に聞く形でよろしいでしょうか",
+        "user": "UGQ2ENZD0",
+        "ts": "1558926362.007600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0DFC84A2-2B1A-4A42-B672-C158B19B490A",
+        "type": "message",
+        "text": "先にそれだけ伺ってください",
+        "user": "UHFLB6JPR",
+        "ts": "1558929610.008100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "電話番号を除き，指定箇所を修正しました．",
+        "files": [
+            {
+                "id": "FJP969KQS",
+                "created": 1558930530,
+                "timestamp": 1558930530,
+                "name": "倫理審査申請書類.zip",
+                "title": "倫理審査申請書類.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "UGQ2ENZD0",
+                "editable": false,
+                "size": 1743392,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJP969KQS\/________________________.zip?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJP969KQS\/download\/________________________.zip?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UGQ2ENZD0\/FJP969KQS\/________________________.zip",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJP969KQS-e50f4e3b33",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGQ2ENZD0",
+        "display_as_bot": false,
+        "ts": "1558930530.008300",
+        "client_msg_id": "38742b77-1d92-481e-9537-fdf973d5edbc"
+    }
+]

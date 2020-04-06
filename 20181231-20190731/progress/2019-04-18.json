@@ -1,0 +1,32 @@
+[
+    {
+        "client_msg_id": "e517dbfd-81dc-4d40-9b79-ccb6bd5dee89",
+        "type": "message",
+        "text": "今日は\n掃除、片付け\n反復測定の二元配置分散分析を動かそうとした。実行したものところ、どうやらまだ対応出来ていないみたい。\nRを使える環境を用意した。",
+        "user": "UGPH97FDW",
+        "ts": "1555598458.002700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGQV9DXRC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

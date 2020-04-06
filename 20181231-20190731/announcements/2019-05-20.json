@@ -1,0 +1,163 @@
+[
+    {
+        "client_msg_id": "34CFE026-9C79-40B2-8E0E-0EBC00063A6E",
+        "type": "message",
+        "text": "地域運動教室のスケジュールとかどうなってるから報告お願いします",
+        "user": "UHFLB6JPR",
+        "ts": "1558392698.001600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dc9aeb72-791c-4cb2-a28d-f8d7a95a325d",
+        "type": "message",
+        "text": "報告遅くなり申し訳ありません\n本日の学生ゼミでスケジュール確認と担当決めの予定です",
+        "user": "UGQV9DXRC",
+        "ts": "1558393297.001000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e9a607b1-ce2c-42f0-8999-40a842aa2aa1",
+        "type": "message",
+        "text": "【学生部屋のルールについて】\n各人の机は固定としましたが、休み等でいない日は他の人が使えるように、帰宅時に机の上に私物を残さないようにしてください。\n棚を購入しますので、食器や生活品はそこに収納すること\n筆記用具やヘッドフォン等については、各自で岡田が持っているような収納ボックスにいれて、ガラス扉のスチール棚にしまうこと",
+        "user": "UHFLB6JPR",
+        "ts": "1558404572.005100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJV5W3A93",
+                "created": 1558404600,
+                "timestamp": 1558404600,
+                "name": "bungle_fb-e4.jpg",
+                "title": "bungle_fb-e4.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UHFLB6JPR",
+                "editable": false,
+                "size": 7200,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJV5W3A93\/bungle_fb-e4.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TGNPXK07J-FJV5W3A93\/download\/bungle_fb-e4.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJV5W3A93-57b07d1f2c\/bungle_fb-e4_64.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJV5W3A93-57b07d1f2c\/bungle_fb-e4_80.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJV5W3A93-57b07d1f2c\/bungle_fb-e4_360.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "thumb_360_w": 200,
+                "thumb_360_h": 200,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TGNPXK07J-FJV5W3A93-57b07d1f2c\/bungle_fb-e4_160.jpg?t=xoxe-566813646256-1045417943268-1045417943316-f484199df51024365fa523cc04c1d760",
+                "image_exif_rotation": 1,
+                "original_w": 200,
+                "original_h": 200,
+                "permalink": "https:\/\/ohkawaralab.slack.com\/files\/UHFLB6JPR\/FJV5W3A93\/bungle_fb-e4.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TGNPXK07J-FJV5W3A93-f5b3f9cd7b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHFLB6JPR",
+        "display_as_bot": false,
+        "ts": "1558404601.005200",
+        "client_msg_id": "f8a4d3fe-1202-4005-b911-73eaa23c5d17"
+    },
+    {
+        "client_msg_id": "1a62cad5-97e7-4239-96c6-8b87eef5638f",
+        "type": "message",
+        "text": "100円ショップで売ってるでしょ",
+        "user": "UHFLB6JPR",
+        "ts": "1558404641.005800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1c7c3c06-6541-434d-bae9-a040a314d5ea",
+        "type": "message",
+        "text": "【2019年子ども食堂】\n福田をメイン担当者に、鈴木さんがサポート役でお願いします。",
+        "user": "UHFLB6JPR",
+        "ts": "1558405475.006700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQV9DXRC",
+                    "UHEH8KZ7W"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

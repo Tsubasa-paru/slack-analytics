@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "ce85fde0-f576-4f60-be02-85ed12113714",
+        "type": "message",
+        "text": "田代くんから、当日の写真です\n<https:\/\/photos.app.goo.gl\/bD1XVccVx5GxResk6>",
+        "user": "UGQV9DXRC",
+        "ts": "1568559071.000400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Google Photos",
+                "title": "2019 子ども食堂",
+                "title_link": "https:\/\/photos.app.goo.gl\/bD1XVccVx5GxResk6",
+                "text": "215 new photos · Album by 田代剛大",
+                "fallback": "Google Photos: 2019 子ども食堂",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/2f1um3XQLUA_vv7m2oY6jihfXsUBiORuN7Z5osJgZ42rmCwKoxEv75U8M_1dTeOu4iOfv3FDHCIo1qAx_W_sbpzMjjIhBO0owm8BC_Mnv5kqLC6uA2ZgKxOdm8hgmgi08tFrujvQCg",
+                "image_width": 375,
+                "image_height": 250,
+                "from_url": "https:\/\/photos.app.goo.gl\/bD1XVccVx5GxResk6",
+                "image_bytes": 64285,
+                "service_icon": "http:\/\/ssl.gstatic.com\/images\/branding\/product\/1x\/photos_512dp.png",
+                "id": 1,
+                "original_url": "https:\/\/photos.app.goo.gl\/bD1XVccVx5GxResk6"
+            }
+        ]
+    }
+]

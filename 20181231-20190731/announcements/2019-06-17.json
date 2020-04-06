@@ -1,0 +1,393 @@
+[
+    {
+        "client_msg_id": "5562e089-5b29-4bef-9878-e4a9e28d2d88",
+        "type": "message",
+        "text": "どっちもok",
+        "user": "UGQV9DXRC",
+        "ts": "1560755416.011800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560747073.010900",
+        "parent_user_id": "UHC5VBV5E"
+    },
+    {
+        "client_msg_id": "0d97c15f-487e-489b-bd55-c63f8d37265e",
+        "type": "message",
+        "text": "<@UHFLB6JPR>\n私が使用していたPCが壊れました．\n状態は次のとおりです．\n```\n- 不定期に電源が落ち，再起動される\n    - この症状は連続して起きる\n    - 起きないときは起きないが，一度起きるとしばらく繰り返される\n    - 配電の問題と考え，コンセント元栓からの給電を試みるも，改善されず\n\n- Windowsが起動しなくなる\n    - 後述のSSDが原因だと思われる\n\n- m2.NVMe接続のSSDがBIOSレベルで認識されなくなる\n    - SATA3接続のHDDおよびCDドライブは認識されている\n```\nPCを開け，いくつか原因を探ってみましたが，以下のことが原因と考えられます．\n```\n- SSDが壊れている\n    - おそらく初期不良\n    - 他のPCにも接続したところ，OS，BIOSともに認識せず\n    - コントローラーが死んでいるかもしれない\n\n- マザーボードが壊れている\n    - 壊れている場合はこちらも初期不良\n\n- 電源ユニットが不安的な状態にある\n    - 可能性は低いです\n    - 電源ユニットの振る舞いで各パーツが被害を受けた可能性はあります\n```\n取り急ぎ，サイコムに修理を出したいと思っています．",
+        "user": "UGQ2ENZD0",
+        "ts": "1560761946.000700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c12ed6f6-b529-4cd3-9b9b-66806729b825",
+        "type": "message",
+        "text": "どっちも大丈夫です！！",
+        "user": "UGPH97FDW",
+        "ts": "1560761983.000800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "gd2249337c83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd2249337c83bd8acaef6896a797c766.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "岡田幸樹",
+            "display_name": "岡田幸樹",
+            "team": "TGNPXK07J",
+            "name": "koki.azqb11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560747073.010900",
+        "parent_user_id": "UHC5VBV5E"
+    },
+    {
+        "client_msg_id": "74d84044-b3a5-4abf-bac2-fd888052c0ee",
+        "type": "message",
+        "text": "マザーボードの排他制御の問題の検討ついては、まだ試していないため、明日試します",
+        "user": "UGQ2ENZD0",
+        "ts": "1560762504.002300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DF4D4CB8-DC67-4A6E-9EDE-02F07812CBC0",
+        "type": "message",
+        "text": "修理依頼してください",
+        "user": "UHFLB6JPR",
+        "ts": "1560762905.002700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5E7B2F70-8979-4FC3-9D74-E6C9588ACA1D",
+        "type": "message",
+        "text": "無料交換でしょ\nさすがに",
+        "user": "UHFLB6JPR",
+        "ts": "1560763070.003700",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a067525d-3a7d-4dd6-83c5-45514733f8cb",
+        "type": "message",
+        "text": "そうだと思いますが、輸送を含めて時間はかかりそうです",
+        "user": "UGQ2ENZD0",
+        "ts": "1560763119.004400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ba61580c-d466-4c1f-96a3-30bc0415b0ff",
+        "type": "message",
+        "text": "サイコムに電話で問い合わせたところ，配達から7営業日をめどに修理対応をしていただけるそうです．送料はあちらが負担していただけるとのことですが，PCの梱包にあたってはパソコン宅急便を使うことになるので，こちらの利用料金は我々が負担してくださいとのことでした\n<http:\/\/www.kuronekoyamato.co.jp\/ytc\/customer\/send\/services\/pasotaku\/>",
+        "user": "UGQ2ENZD0",
+        "ts": "1560821267.002000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "ヤマト運輸",
+                "title_link": "http:\/\/www.kuronekoyamato.co.jp\/ytc\/customer\/send\/services\/pasotaku\/",
+                "text": "ヤマト運輸のWebサイトです。",
+                "fallback": "ヤマト運輸",
+                "image_url": "http:\/\/www.kuronekoyamato.co.jp\/assets\/img\/img\/img_ogp_01.jpg",
+                "from_url": "http:\/\/www.kuronekoyamato.co.jp\/ytc\/customer\/send\/services\/pasotaku\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 12958,
+                "service_icon": "http:\/\/www.kuronekoyamato.co.jp\/assets\/img\/img\/img_webclip_01.png",
+                "service_name": "kuronekoyamato.co.jp",
+                "id": 1,
+                "original_url": "http:\/\/www.kuronekoyamato.co.jp\/ytc\/customer\/send\/services\/pasotaku\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86289b5d-8d9d-4ca9-b9b7-237f6c34a3dd",
+        "type": "message",
+        "text": "「こちらの利用料金」とは何を指す？",
+        "user": "UHFLB6JPR",
+        "ts": "1560821576.002400",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "107b5b3e-ad8a-455f-9ab1-393fdb10ae98",
+        "type": "message",
+        "text": "パソコン宅急便を利用する際の梱包費等です",
+        "user": "UGQ2ENZD0",
+        "ts": "1560823265.003500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "60573950-6597-47bf-8bd9-dde3f55bb73a",
+        "type": "message",
+        "text": "送料はサイコムが負担します",
+        "user": "UGQ2ENZD0",
+        "ts": "1560823277.003900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a1ed0f37-68ed-4dde-bee6-89ae13c970c6",
+        "type": "message",
+        "text": "「梱包費等」の「等」とは？\n専用BOX代金（1242円）以外にかかるの？",
+        "user": "UHFLB6JPR",
+        "ts": "1560823440.005100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "66b7ecf4-7bbe-4c1c-b2a1-94512a938093",
+        "type": "message",
+        "text": "調べます",
+        "user": "UGQ2ENZD0",
+        "ts": "1560823483.005500",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6c6fc9cd-0a19-4c2e-9908-51240c830712",
+        "type": "message",
+        "text": "送料を着払いで負担していただけるとのことなので，パソコン宅急便 BOX F 1,393円／1梱包は我々が負担し，大和の160サイズの送料2030円は着払いとする，という形になります",
+        "user": "UGQ2ENZD0",
+        "ts": "1560825146.007000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "18f2057d-7527-46d1-ace2-2d14a116e6e4",
+        "type": "message",
+        "text": "ヤマトの宅配を依頼しました．\n明日の14:00～16:00で402号室にて梱包・発送いたします．",
+        "user": "UGQ2ENZD0",
+        "ts": "1560827564.007900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "30f198e6-b1f9-4b65-92e3-bdcfb776c78e",
+        "type": "message",
+        "text": "<@UHFLB6JPR> こども食堂について相談したいのでこのあとお伺いしてもよろしいでしょうか？",
+        "user": "UHEH8KZ7W",
+        "ts": "1560833860.009100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "a2eabd0fd0e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1007159292134_a2eabd0fd0e83f1ab0d5_72.png",
+            "first_name": "Yuji",
+            "real_name": "Yuji Fukuda",
+            "display_name": "Fukuda",
+            "team": "TGNPXK07J",
+            "name": "hera-syndulla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHEH8KZ7W",
+            "ts": "1560833890.000000"
+        }
+    },
+    {
+        "client_msg_id": "9EC248C0-50DB-40EE-98E3-7A4B16763260",
+        "type": "message",
+        "text": "福田、今からいいよ",
+        "user": "UHFLB6JPR",
+        "ts": "1560837199.009600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "g73f794b1dc5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873f794b1dc5e80d3fd9893202850b31.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "大河原一憲",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "ohkawara_kazunori",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "12f1a3fa-a694-4985-9110-007a40e9e2a5",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/uectokyo\/status\/1241875838624247818?s=09|https:\/\/twitter.com\/uectokyo\/status\/1241875838624247818?s=09>",
+        "user": "UUZ15MZT4",
+        "ts": "1584924684.000100",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "7dfa25c9925c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-17\/1006784279335_7dfa25c9925c232a45ec_72.jpg",
+            "first_name": "中田翼",
+            "real_name": "中田翼",
+            "display_name": "Tsubasa NAKADA",
+            "team": "TGNPXK07J",
+            "name": "tubasa.12345.67890",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HE3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/uectokyo\/status\/1241875838624247818?s=09",
+                                "text": "https:\/\/twitter.com\/uectokyo\/status\/1241875838624247818?s=09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "custom_ryokai",
+                "users": [
+                    "UHC5VBV5E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "custom_shochi",
+                "users": [
+                    "UV0AL2ZNX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

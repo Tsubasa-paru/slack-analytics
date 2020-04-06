@@ -1,0 +1,85 @@
+[
+    {
+        "client_msg_id": "599d36f6-b430-4594-a414-6453e45505f2",
+        "type": "message",
+        "text": "今日のゼミですが体調不良のため休ませてください。申し訳ございません…。",
+        "user": "UHG1M1NQ6",
+        "ts": "1556241808.001300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "184663ffaca1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-13\/595865709394_184663ffaca130023cc4_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Tsutake",
+            "display_name": "",
+            "team": "TGNPXK07J",
+            "name": "nsxfc3s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "hospital",
+                "users": [
+                    "UGQ2ENZD0",
+                    "UGQV9DXRC",
+                    "UHFLC6N4X"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d716e17-c230-4f42-99a3-813fde35b066",
+        "type": "message",
+        "text": "就職の都合で本日のゼミを欠席いたします。申し訳ありません。:bow:",
+        "user": "UGQV9DXRC",
+        "ts": "1556243783.002200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "dancer",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c3335cab-b642-4bdd-a7df-35acae72f37e",
+        "type": "message",
+        "text": "本日のゼミは3階です",
+        "user": "UGQ2ENZD0",
+        "ts": "1556250904.002800",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "032b18608e1b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-07\/646604480611_032b18608e1b53b51daf_72.png",
+            "first_name": "清水",
+            "real_name": "清水 俊平",
+            "display_name": "Shumpei Shimizu",
+            "team": "TGNPXK07J",
+            "name": "something.my.revoluti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

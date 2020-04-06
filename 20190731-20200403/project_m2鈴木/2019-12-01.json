@@ -1,0 +1,278 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "signal.argrelmax(psd, order=100)\nの orderは前後何点の幅でピークをとるかを決められるので、order=100とすれば100個のデータ中の一番高い点を決められる\n→ピーク点を1点決めて代入できる",
+        "user": "UGQV9DXRC",
+        "ts": "1575258922.002000",
+        "thread_ts": "1574757602.007400",
+        "root": {
+            "client_msg_id": "34bc2b9e-c869-4aaa-b9f3-9583888e97a4",
+            "type": "message",
+            "text": "宿題：PSDのピーク値を入れるとして、どう入れるか\nFFTならHzを指定して30データごととかで1Hz,10Hz,50Hz,100Hzの値を行で入れていく事はできるが、ピーク値は指定してとれるわけではない",
+            "user": "UGQV9DXRC",
+            "ts": "1574757602.007400",
+            "team": "TGNPXK07J",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Dg6",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "宿題：PSDのピーク値を入れるとして、どう入れるか\nFFTならHzを指定して30データごととかで1Hz,10Hz,50Hz,100Hzの値を行で入れていく事はできるが、ピーク値は指定してとれるわけではない"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1574757602.007400",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1575269926.004400",
+            "reply_users": [
+                "UGQV9DXRC"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xdv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "signal.argrelmax(psd, order=100)\nの orderは前後何点の幅でピークをとるかを決められるので、order=100とすれば100個のデータ中の一番高い点を決められる\n→ピーク点を1点決めて代入できる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "25e523a0-d00e-4db5-857f-ccf68932db82"
+    },
+    {
+        "client_msg_id": "edbad803-7d68-4be3-b919-d363795c628d",
+        "type": "message",
+        "text": "次：\n1secずつならデータ30コなので30データずつpsdを計算してピークを導入する繰り返し構造を作る",
+        "user": "UGQV9DXRC",
+        "ts": "1575259464.003600",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGQV9DXRC",
+            "ts": "1575266506.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "US3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "次：\n1secずつならデータ30コなので30データずつpsdを計算してピークを導入する繰り返し構造を作る"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a2aae12-bc04-475d-b12c-b7b9fe7f2ae9",
+        "type": "message",
+        "text": "複数のファイルを一度に読み込む\n<https:\/\/ja.stackoverflow.com\/questions\/45204\/python%E3%81%A7%E8%A4%87%E6%95%B0%E3%81%AEtxt%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E4%B8%80%E5%BA%A6%E3%81%AB%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%81%BF%E3%81%9F%E3%81%84>",
+        "user": "UGQV9DXRC",
+        "ts": "1575265850.004000",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "スタック・オーバーフロー",
+                "title": "pythonで複数のtxtファイルを一度に読み込みたい",
+                "title_link": "https:\/\/ja.stackoverflow.com\/questions\/45204\/python%E3%81%A7%E8%A4%87%E6%95%B0%E3%81%AEtxt%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E4%B8%80%E5%BA%A6%E3%81%AB%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%81%BF%E3%81%9F%E3%81%84",
+                "text": "Jupyterで複数のtxtファイルを一度に読み込むにはどうすればいいのでしょうか. 例えば，fileというディレクトリに格納された、data1.txt〜data100.txt というファイルを読み込んで、それぞれを変数 data1〜data100としたい時、 f1=open('file\/data1.txt', 'r','utf-8') data1=f1.read() f1.close()",
+                "fallback": "スタック・オーバーフロー: pythonで複数のtxtファイルを一度に読み込みたい",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/ja\/img\/apple-touch-icon@2.png?v=1cfb10b305ca",
+                "from_url": "https:\/\/ja.stackoverflow.com\/questions\/45204\/python%E3%81%A7%E8%A4%87%E6%95%B0%E3%81%AEtxt%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E4%B8%80%E5%BA%A6%E3%81%AB%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%81%BF%E3%81%9F%E3%81%84",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/ja\/img\/favicon.ico?v=f5a5a2b7278d",
+                "id": 1,
+                "original_url": "https:\/\/ja.stackoverflow.com\/questions\/45204\/python%E3%81%A7%E8%A4%87%E6%95%B0%E3%81%AEtxt%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E4%B8%80%E5%BA%A6%E3%81%AB%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%81%BF%E3%81%9F%E3%81%84"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2K1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "複数のファイルを一度に読み込む\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ja.stackoverflow.com\/questions\/45204\/python%E3%81%A7%E8%A4%87%E6%95%B0%E3%81%AEtxt%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E4%B8%80%E5%BA%A6%E3%81%AB%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%81%BF%E3%81%9F%E3%81%84"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "ピーク値だけを入れるので分類可能か検証した\n<https:\/\/www.evernote.com\/shard\/s223\/sh\/a22fc2c8-41a3-4e04-a381-6fe09eefa2df\/4079295d392822bb6af673243186bf4c>",
+        "user": "UGQV9DXRC",
+        "ts": "1575269926.004400",
+        "thread_ts": "1574757602.007400",
+        "root": {
+            "client_msg_id": "34bc2b9e-c869-4aaa-b9f3-9583888e97a4",
+            "type": "message",
+            "text": "宿題：PSDのピーク値を入れるとして、どう入れるか\nFFTならHzを指定して30データごととかで1Hz,10Hz,50Hz,100Hzの値を行で入れていく事はできるが、ピーク値は指定してとれるわけではない",
+            "user": "UGQV9DXRC",
+            "ts": "1574757602.007400",
+            "team": "TGNPXK07J",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Dg6",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "宿題：PSDのピーク値を入れるとして、どう入れるか\nFFTならHzを指定して30データごととかで1Hz,10Hz,50Hz,100Hzの値を行で入れていく事はできるが、ピーク値は指定してとれるわけではない"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1574757602.007400",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1575269926.004400",
+            "reply_users": [
+                "UGQV9DXRC"
+            ],
+            "subscribed": false
+        },
+        "attachments": [
+            {
+                "service_name": "Evernote",
+                "title": "【検証】ピーク値1点だけを入れて分類可能か",
+                "title_link": "https:\/\/www.evernote.com\/shard\/s223\/sh\/a22fc2c8-41a3-4e04-a381-6fe09eefa2df\/4079295d392822bb6af673243186bf4c",
+                "text": "検証の背景： PSDを1sec区切りで計算し、そのピークを特徴量として採用したい PSDやFFTを特徴量として採用する時は、同じHzで横に並べて扱うとよい(高玉研質問1124) Hz当たりのデータを使う上では1Hz当たりのデータを入れていけばいいけど、ピークを数点取ろうとすると以下のように算出したデータによってピークの数が異なり、数を一定に揃えられない。 1点のピークと2点のピークが求められるもの...",
+                "fallback": "Evernote: 【検証】ピーク値1点だけを入れて分類可能か",
+                "thumb_url": "https:\/\/cdn1.evernote.com\/evernote.com\/img\/social-meta\/shared-note-thumbnail.png",
+                "from_url": "https:\/\/www.evernote.com\/shard\/s223\/sh\/a22fc2c8-41a3-4e04-a381-6fe09eefa2df\/4079295d392822bb6af673243186bf4c",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/dashboard.svc.www.evernote.com\/app\/nv\/icons-1ec2b385e995168bc5bb4934b116d4a6\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.evernote.com\/shard\/s223\/sh\/a22fc2c8-41a3-4e04-a381-6fe09eefa2df\/4079295d392822bb6af673243186bf4c"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mGhZk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ピーク値だけを入れるので分類可能か検証した\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.evernote.com\/shard\/s223\/sh\/a22fc2c8-41a3-4e04-a381-6fe09eefa2df\/4079295d392822bb6af673243186bf4c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e1d9023e-a288-41c2-af5a-fc274fbf765f"
+    },
+    {
+        "client_msg_id": "22edcccb-c30a-4ae8-bb63-9585fd48abef",
+        "type": "message",
+        "text": "<https:\/\/www.aaai.org\/Papers\/IAAI\/2005\/IAAI05-013.pdf>",
+        "user": "UGQV9DXRC",
+        "ts": "1575273380.004900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XKZtU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.aaai.org\/Papers\/IAAI\/2005\/IAAI05-013.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

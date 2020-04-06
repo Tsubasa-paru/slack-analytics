@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "dc5b4ef2-e1eb-4de1-8770-fd2b292a4288",
+        "type": "message",
+        "text": "<https:\/\/slackhq.com\/%E5%B0%8F%E8%A6%8F%E6%A8%A1%E3%81%AA%E7%B5%84%E7%B9%94%E3%81%A7-slack-%E3%82%92%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%99%E3%82%8B>",
+        "user": "UGQV9DXRC",
+        "ts": "1551946277.000200",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Several People Are Typing",
+                "title": "小規模な組織で Slack をセットアップする",
+                "title_link": "https:\/\/slackhq.com\/%E5%B0%8F%E8%A6%8F%E6%A8%A1%E3%81%AA%E7%B5%84%E7%B9%94%E3%81%A7-slack-%E3%82%92%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%99%E3%82%8B",
+                "text": "仕事がテキパキできるグループ作りための Matt Haughey のアドバイス",
+                "fallback": "Several People Are Typing: 小規模な組織で Slack をセットアップする",
+                "image_url": "https:\/\/slackhq.com\/wp-content\/uploads\/2018\/12\/2016-08_Haughey_SmallTeams_FINAL_social.png",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1544656920,
+                "from_url": "https:\/\/slackhq.com\/%E5%B0%8F%E8%A6%8F%E6%A8%A1%E3%81%AA%E7%B5%84%E7%B9%94%E3%81%A7-slack-%E3%82%92%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%99%E3%82%8B",
+                "image_bytes": 437608,
+                "service_icon": "https:\/\/slackhq.com\/wp-content\/themes\/babka\/img\/icons\/touch.png?v=1549578723",
+                "id": 1,
+                "original_url": "https:\/\/slackhq.com\/%E5%B0%8F%E8%A6%8F%E6%A8%A1%E3%81%AA%E7%B5%84%E7%B9%94%E3%81%A7-slack-%E3%82%92%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%99%E3%82%8B"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a2aadeb-963f-4d69-906e-c650e73e951b",
+        "type": "message",
+        "text": "せっかくだし有効に活用したいので参考を調べてます、暇があったら見てみて",
+        "user": "UGQV9DXRC",
+        "ts": "1551946309.000900",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UGQ2ENZD0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

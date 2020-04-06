@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "833880f5-8b8f-4798-ad02-83fb4e961078",
+        "type": "message",
+        "text": "R参考書\n<https:\/\/www.amazon.co.jp\/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AERStudio-%E3%82%A8%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AA%E3%82%93%E3%81%8B%E3%81%93%E3%82%8F%E3%81%8F%E3%81%AA%E3%81%84-%E6%B5%85%E9%87%8E-%E6%AD%A3%E5%BD%A6\/dp\/4274222934>",
+        "user": "UGQV9DXRC",
+        "ts": "1555909146.000300",
+        "team": "TGNPXK07J",
+        "user_team": "TGNPXK07J",
+        "source_team": "TGNPXK07J",
+        "user_profile": {
+            "avatar_hash": "0e6df9804eb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-07\/569606983682_0e6df9804eb897f801aa_72.png",
+            "first_name": "鈴木美穂",
+            "real_name": "鈴木美穂",
+            "display_name": "Miho Suzuki",
+            "team": "TGNPXK07J",
+            "name": "kmt.sd.ma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "はじめてのRStudio: エラーメッセージなんかこわくない",
+                "title_link": "https:\/\/www.amazon.co.jp\/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AERStudio-%E3%82%A8%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AA%E3%82%93%E3%81%8B%E3%81%93%E3%82%8F%E3%81%8F%E3%81%AA%E3%81%84-%E6%B5%85%E9%87%8E-%E6%AD%A3%E5%BD%A6\/dp\/4274222934",
+                "text": "はじめてのRStudio: エラーメッセージなんかこわくない",
+                "fallback": "はじめてのRStudio: エラーメッセージなんかこわくない",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/51BgWBhi3KL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFIVE%2cBottomLeft%2c360%2c-6_SR600%2c315_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AERStudio-%E3%82%A8%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AA%E3%82%93%E3%81%8B%E3%81%93%E3%82%8F%E3%81%8F%E3%81%AA%E3%81%84-%E6%B5%85%E9%87%8E-%E6%AD%A3%E5%BD%A6\/dp\/4274222934",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 19715,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.co.jp\/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AERStudio-%E3%82%A8%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AA%E3%82%93%E3%81%8B%E3%81%93%E3%82%8F%E3%81%8F%E3%81%AA%E3%81%84-%E6%B5%85%E9%87%8E-%E6%AD%A3%E5%BD%A6\/dp\/4274222934"
+            }
+        ]
+    }
+]
